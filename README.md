@@ -1,0 +1,30 @@
+# ♞ Chess Pulse
+
+Daily-updated chess news site, hosted on GitHub Pages.
+
+**Live site:** https://alex-matulay.github.io/chess-pulse/
+
+## How it works
+
+- A static site (plain HTML/CSS/JS) renders headlines from [`data/news.json`](data/news.json).
+- [`scripts/fetch-news.js`](scripts/fetch-news.js) (dependency-free Node) pulls RSS/Atom feeds from:
+  - Chess.com news
+  - Lichess blog
+  - ChessBase
+  - FIDE
+  - The Week in Chess
+  - r/chess (daily top posts)
+- A [GitHub Actions workflow](.github/workflows/update-news.yml) runs **every day at 06:00 UTC**, refreshes the news data, commits it, and redeploys the site to GitHub Pages. It can also be triggered manually from the Actions tab.
+- The "Top players" leaderboard is fetched live from the public Lichess API on every page visit.
+
+## Run locally
+
+```sh
+node scripts/fetch-news.js   # refresh data/news.json
+# then serve the folder with any static server, e.g.:
+npx serve .
+```
+
+## Adding a feed
+
+Add an entry to the `FEEDS` array in `scripts/fetch-news.js`. Both RSS (`<item>`) and Atom (`<entry>`) feeds are supported. Feeds that fail are skipped gracefully.

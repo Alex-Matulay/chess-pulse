@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chess Pulse — Daily Chess News &amp; Updates</title>
+  <meta name="description" content="Daily-updated chess news aggregated from Chess.com, Lichess, ChessBase, FIDE, The Week in Chess and more — plus live top-player ratings.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>♞</text></svg>">
+  <link rel="preconnect" href="https://lichess.org">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <span class="brand-knight" aria-hidden="true">♞</span>
+        <div>
+          <h1>Chess Pulse</h1>
+          <p class="tagline">Daily chess news &amp; updates, all in one place</p>
+        </div>
+      </div>
+      <div class="updated-stamp" id="updated-stamp" title="When the news data was last refreshed">
+        Loading…
+      </div>
+    </div>
+  </header>
+
+  <main class="container layout">
+    <section class="news-col" aria-label="Chess news">
+      <div class="toolbar">
+        <div class="filters" id="source-filters" role="group" aria-label="Filter by source">
+          <button class="chip active" data-source="">All sources</button>
+        </div>
+        <input type="search" id="search-box" class="search-box" placeholder="Search news…" aria-label="Search news">
+      </div>
+      <div id="news-list" class="news-list" aria-live="polite">
+        <p class="loading">Loading the latest chess news…</p>
+      </div>
+    </section>
+
+    <aside class="side-col">
+      <section class="panel" aria-label="Live top players">
+        <h2>♛ Top players <span class="live-dot" title="Live from Lichess">live</span></h2>
+        <div class="tabs" id="perf-tabs" role="tablist">
+          <button class="tab active" data-perf="classical" role="tab">Classical</button>
+          <button class="tab" data-perf="rapid" role="tab">Rapid</button>
+          <button class="tab" data-perf="blitz" role="tab">Blitz</button>
+          <button class="tab" data-perf="bullet" role="tab">Bullet</button>
+        </div>
+        <ol class="leaderboard" id="leaderboard">
+          <li class="loading">Loading ratings…</li>
+        </ol>
+        <p class="panel-foot">Ratings via the <a href="https://lichess.org/api" target="_blank" rel="noopener">Lichess API</a>, fetched live on every visit.</p>
+      </section>
+
+      <section class="panel" aria-label="About this site">
+        <h2>♟ About</h2>
+        <p>Chess Pulse aggregates headlines from Chess.com, Lichess, ChessBase, FIDE, The Week in Chess and r/chess. A scheduled job refreshes the news every day — no manual updates needed.</p>
+      </section>
+    </aside>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Built with a daily GitHub Actions refresh · Hosted on GitHub Pages ·
+        <a href="https://github.com/Alex-Matulay/chess-pulse" target="_blank" rel="noopener">Source on GitHub</a></p>
+      <p class="fine">Headlines link to their original publishers. All trademarks belong to their respective owners.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
