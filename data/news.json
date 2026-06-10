@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T22:09:08.147Z",
+  "updated": "2026-06-10T22:23:27.958Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,6 +9,20 @@
     "r/chess"
   ],
   "items": [
+    {
+      "title": "I beat this player all the time",
+      "link": "https://www.reddit.com/r/chess/comments/1u2fg06/i_beat_this_player_all_the_time/",
+      "source": "r/chess",
+      "date": "2026-06-10T21:25:35.000Z",
+      "summary": "I've played \"John\" 30-ish times and he's won twice. His games are not hard, even though I'm a 1200-average player. For context, he's 70 and I'm 64. He continues to offer to play. My personal policy is to accept all challenges, but I feel like a real **** wh…"
+    },
+    {
+      "title": "Nodirbek trolling Ian at UzChess! Hilarious",
+      "link": "https://www.reddit.com/r/chess/comments/1u2f9sr/nodirbek_trolling_ian_at_uzchess_hilarious/",
+      "source": "r/chess",
+      "date": "2026-06-10T21:19:09.000Z",
+      "summary": ""
+    },
     {
       "title": "The best pawn chain I've ever seen",
       "link": "https://www.reddit.com/r/chess/comments/1u2dpcx/the_best_pawn_chain_ive_ever_seen/",
@@ -197,20 +211,6 @@
       "source": "r/chess",
       "date": "2026-06-09T22:37:29.000Z",
       "summary": "I built a Python project that compares the top 20 chess players by number of games played each year. I made it because I kept seeing people say that Magnus Carlsen doesn’t play that many games, so I wanted to visualize the data and compare him against other…"
-    },
-    {
-      "title": "Stop mate on a7!",
-      "link": "https://www.reddit.com/r/chess/comments/1u1jjg6/stop_mate_on_a7/",
-      "source": "r/chess",
-      "date": "2026-06-09T22:09:48.000Z",
-      "summary": ""
-    },
-    {
-      "title": "White to play and win (Troitzky)",
-      "link": "https://www.reddit.com/r/chess/comments/1u1jj1i/white_to_play_and_win_troitzky/",
-      "source": "r/chess",
-      "date": "2026-06-09T22:09:21.000Z",
-      "summary": ""
     },
     {
       "title": "Docuseries 'Grandmasters' Premieres To Packed House At Tribeca",
