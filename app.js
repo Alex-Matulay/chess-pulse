@@ -122,6 +122,51 @@ document.getElementById("perf-tabs").addEventListener("click", (e) => {
   loadLeaderboard(tab.dataset.perf);
 });
 
+/* --- Major events calendar (data/events.json) --- */
+
+function eventStatus(ev, now) {
+  const start = new Date(ev.start + "T00:00:00");
+  const end = new Date(ev.end + "T23:59:59");
+  if (now > end) return "past";
+  if (now >= start) return "ongoing";
+  return "upcoming";
+}
+
+function fmtRange(ev) {
+  const opt = { month: "short", day: "numeric" };
+  const s = new Date(ev.start + "T00:00:00").toLocaleDateString(undefined, opt);
+  const e = new Date(ev.end + "T00:00:00").toLocaleDateString(undefined, opt);
+  return `${s} – ${e}${ev.approx ? " (TBC)" : ""}`;
+}
+
+async function loadEvents() {
+  const ul = document.getElementById("event-list");
+  try {
+    const res = await fetch("data/events.json", { cache: "no-cache" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const { events } = await res.json();
+    const now = new Date();
+    const order = { ongoing: 0, upcoming: 1, past: 2 };
+    const sorted = events
+      .map((ev) => ({ ...ev, status: eventStatus(ev, now) }))
+      .sort((a, b) => order[a.status] - order[b.status] || new Date(a.start) - new Date(b.start));
+    ul.innerHTML = sorted
+      .map(
+        (ev) => `
+        <li class="${ev.status}">
+          <div class="event-top">
+            <span class="event-name"><a href="${esc(ev.url)}" target="_blank" rel="noopener">${esc(ev.name)}</a></span>
+            <span class="event-status ${ev.status}">${ev.status}</span>
+          </div>
+          <div class="event-sub">${fmtRange(ev)} · ${esc(ev.location)}</div>
+        </li>`
+      )
+      .join("");
+  } catch (err) {
+    ul.innerHTML = `<li class="empty">Events unavailable (${esc(err.message)})</li>`;
+  }
+}
+
 document.getElementById("search-box").addEventListener("input", (e) => {
   state.query = e.target.value;
   renderNews();
@@ -129,3 +174,4 @@ document.getElementById("search-box").addEventListener("input", (e) => {
 
 loadNews();
 loadLeaderboard("classical");
+loadEvents();

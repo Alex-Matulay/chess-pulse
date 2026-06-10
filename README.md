@@ -16,6 +16,8 @@ Daily-updated chess news site, hosted on GitHub Pages.
   - r/chess (daily top posts)
 - A [GitHub Actions workflow](.github/workflows/update-news.yml) runs **every day at 06:00 UTC**, refreshes the news data, commits it, and redeploys the site to GitHub Pages. It can also be triggered manually from the Actions tab.
 - The "Top players" leaderboard is fetched live from the public Lichess API on every page visit.
+- The daily puzzle is embedded via Lichess's official puzzle frame, so it rolls over automatically each day.
+- The 2026 event calendar is rendered from [`data/events.json`](data/events.json) — edit that file to add or correct events; ongoing/upcoming/past status is computed client-side.
 
 ## Run locally
 

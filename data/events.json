@@ -1,0 +1,104 @@
+{
+  "note": "Major chess events. Edit this file to add or correct events; the site renders it automatically.",
+  "events": [
+    {
+      "name": "Tata Steel Masters",
+      "location": "Wijk aan Zee, Netherlands",
+      "start": "2026-01-16",
+      "end": "2026-02-01",
+      "url": "https://tatasteelchess.com/"
+    },
+    {
+      "name": "Prague Masters",
+      "location": "Prague, Czech Republic",
+      "start": "2026-02-24",
+      "end": "2026-03-06",
+      "url": "https://praguechessfestival.com/"
+    },
+    {
+      "name": "FIDE Candidates Tournament",
+      "location": "Paphos, Cyprus",
+      "start": "2026-03-28",
+      "end": "2026-04-16",
+      "url": "https://www.fide.com/"
+    },
+    {
+      "name": "FIDE Women's Candidates Tournament",
+      "location": "Paphos, Cyprus",
+      "start": "2026-03-28",
+      "end": "2026-04-16",
+      "url": "https://www.fide.com/"
+    },
+    {
+      "name": "TePe Sigeman & Co Tournament",
+      "location": "Malmö, Sweden",
+      "start": "2026-05-01",
+      "end": "2026-05-07",
+      "url": "https://tepesigemanchess.com/"
+    },
+    {
+      "name": "Superbet Chess Classic (Grand Chess Tour)",
+      "location": "Bucharest, Romania",
+      "start": "2026-05-12",
+      "end": "2026-05-24",
+      "url": "https://grandchesstour.org/"
+    },
+    {
+      "name": "Norway Chess",
+      "location": "Oslo, Norway",
+      "start": "2026-05-25",
+      "end": "2026-06-05",
+      "url": "https://norwaychess.no/en/"
+    },
+    {
+      "name": "Biel Chess Festival — Masters",
+      "location": "Biel/Bienne, Switzerland",
+      "start": "2026-07-11",
+      "end": "2026-07-24",
+      "url": "https://www.bielchessfestival.ch/"
+    },
+    {
+      "name": "Chennai Grand Masters",
+      "location": "Chennai, India",
+      "start": "2026-07-15",
+      "end": "2026-07-23",
+      "url": "https://chennaigrandmasters.com/"
+    },
+    {
+      "name": "Sinquefield Cup (Grand Chess Tour)",
+      "location": "Saint Louis, USA",
+      "start": "2026-08-08",
+      "end": "2026-08-21",
+      "url": "https://grandchesstour.org/"
+    },
+    {
+      "name": "Grand Chess Tour Finals",
+      "location": "TBD",
+      "start": "2026-08-21",
+      "end": "2026-08-28",
+      "url": "https://grandchesstour.org/"
+    },
+    {
+      "name": "46th Chess Olympiad",
+      "location": "Samarkand, Uzbekistan",
+      "start": "2026-09-15",
+      "end": "2026-09-28",
+      "url": "https://www.fide.com/"
+    },
+    {
+      "name": "World Chess Championship — Gukesh vs Sindarov",
+      "location": "TBD",
+      "start": "2026-11-23",
+      "end": "2026-12-17",
+      "url": "https://www.fide.com/"
+    },
+    {
+      "name": "FIDE World Rapid & Blitz Championships",
+      "location": "TBD",
+      "start": "2026-12-25",
+      "end": "2026-12-31",
+      "url": "https://www.fide.com/",
+      "approx": true
+    }
+  ]
+}

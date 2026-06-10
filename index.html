@@ -17,6 +17,7 @@
         <div>
           <h1>Chess Pulse</h1>
           <p class="tagline">Daily chess news &amp; updates, all in one place</p>
+          <p class="byline">made by <a href="https://lichess.org/@/YourMamaRecords" target="_blank" rel="noopener">YourMamaRecords</a></p>
         </div>
       </div>
       <div class="updated-stamp" id="updated-stamp" title="When the news data was last refreshed">
@@ -39,6 +40,15 @@
     </section>
 
     <aside class="side-col">
+      <section class="panel puzzle-panel" aria-label="Daily puzzle">
+        <h2>♘ Daily puzzle <span class="live-dot" title="Today's puzzle from Lichess">lichess</span></h2>
+        <div class="puzzle-frame-wrap">
+          <iframe src="https://lichess.org/training/frame?theme=brown&amp;bg=dark"
+                  title="Lichess daily puzzle" loading="lazy" allowtransparency="true" frameborder="0"></iframe>
+        </div>
+        <p class="panel-foot">A new puzzle every day — play it right here, or <a href="https://lichess.org/training/daily" target="_blank" rel="noopener">open it on Lichess</a>.</p>
+      </section>
+
       <section class="panel" aria-label="Live top players">
         <h2>♛ Top players <span class="live-dot" title="Live from Lichess">live</span></h2>
         <div class="tabs" id="perf-tabs" role="tablist">
@@ -51,6 +61,14 @@
           <li class="loading">Loading ratings…</li>
         </ol>
         <p class="panel-foot">Ratings via the <a href="https://lichess.org/api" target="_blank" rel="noopener">Lichess API</a>, fetched live on every visit.</p>
+      </section>
+
+      <section class="panel" aria-label="Major chess events calendar">
+        <h2>♜ 2026 event calendar</h2>
+        <ul class="event-list" id="event-list">
+          <li class="loading">Loading events…</li>
+        </ul>
+        <p class="panel-foot">Major over-the-board events. Dates may shift — check the official sites.</p>
       </section>
 
       <section class="panel" aria-label="About this site">
