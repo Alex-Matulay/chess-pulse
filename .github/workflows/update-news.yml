@@ -2,7 +2,7 @@ name: Update chess news & deploy
 
 on:
   schedule:
-    - cron: "0 6 * * *" # daily at 06:00 UTC
+    - cron: "0 * * * *" # hourly, on the hour (UTC)
   workflow_dispatch:
   push:
     branches: [main]
