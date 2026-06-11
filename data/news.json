@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T10:17:12.345Z",
+  "updated": "2026-06-11T14:33:54.360Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Sam Shankland defends title at 2026 American Continental Chess Championship",
+      "link": "https://www.fide.com/sam-shankland-defends-title-at-2026-american-continental-chess-championship/",
+      "source": "FIDE",
+      "date": "2026-06-11T13:54:42.000Z",
+      "summary": "GM Sam Shankland (USA) lived up to his status as the tournament favorite, convincingly defending his title at the 19th American Continental Chess Championship. The event was held from 1 to 11 June 2026 at the Hotel Dorados Conventions & Resorts in Oaxtepec,…"
+    },
     {
       "title": "UzChess Cup - Live!",
       "link": "https://en.chessbase.com/post/uz-chess-cup-2026-live",
@@ -21,6 +28,13 @@
       "source": "ChessBase",
       "date": "2026-06-11T11:15:00.000Z",
       "summary": "Vaishali Rameshbabu remains on the fast track: after gaining the right to challenge Ju Wenjun in a match for the World Championship title, the young Indian grandmaster won the rapid chess event of the WR Women's Chess Tour in Tokyo. The blitz tournament was…"
+    },
+    {
+      "title": "FIDE World Amateur Rapid & Blitz Championships in Nigeria: Registration continues",
+      "link": "https://www.fide.com/fide-world-amateur-rapid-blitz-championships-in-nigeria-registration-continues/",
+      "source": "FIDE",
+      "date": "2026-06-11T11:09:16.000Z",
+      "summary": "All FIDE Member Federations and eligible players are invited to participate in the inaugural FIDE World Amateur Rapid & Blitz Chess Championships 2026, open to players with a FIDE rating under 2300. The event will be held in Abuja, the Federal Capital Terri…"
     },
     {
       "title": "UzChess Cup: Vokhidov wins again, joins the lead",
@@ -189,20 +203,6 @@
       "source": "Chess.com",
       "date": "2026-06-05T18:29:57.000Z",
       "summary": "GM Denis Lazavik, who won Titled Tuesday this week with a dominant 10/11 score, repeated the performance in the first 3 0 Thursday tournament on June 4, scoring another 10 points to take clear first place. The second and third tournaments of the d..."
-    },
-    {
-      "title": "Preparing the next generation to think: Chess in Education conference in Mongolia",
-      "link": "https://www.fide.com/preparing-the-next-generation-to-think-chess-in-education-conference-in-mongolia/",
-      "source": "FIDE",
-      "date": "2026-06-05T07:47:49.000Z",
-      "summary": "By Milan Dinic On 4 June, Mongolia hosted its first Chess in Education conference, which took place alongside the 21st Asian Continental Chess Championship in Ulaanbaatar. The conference focused on ways chess can be implemented in the education system of Mo…"
-    },
-    {
-      "title": "Registration opens for American Continental Stage of FIDE ISCF World Schools Team Championship 2026",
-      "link": "https://www.fide.com/registration-opens-for-american-continental-stage-of-fide-iscf-world-schools-team-championship-2026/",
-      "source": "FIDE",
-      "date": "2026-06-05T07:19:43.000Z",
-      "summary": "FIDE and the International School Chess Federation (ISCF), with the support of its general partner Freedom Holding Corp., invite all FIDE member federations from the Americas to participate in the American Continental Stage of the FIDE ISCF World Schools Te…"
     },
     {
       "title": "Assaubayeva Clinches With Round To Spare; Praggnanandhaa Scores Hat Trick Vs. Gukesh",
