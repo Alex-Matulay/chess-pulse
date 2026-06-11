@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T06:42:44.369Z",
+  "updated": "2026-06-11T10:17:12.345Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "UzChess Cup - Live!",
+      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-live",
+      "source": "ChessBase",
+      "date": "2026-06-11T12:00:00.000Z",
+      "summary": "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Nodirbek Abdusattorov, Arjun Erigaisi and Shamsi…"
+    },
+    {
+      "title": "Vaishali and Lagno win WR Women’s Chess Tour opener in Tokyo",
+      "link": "https://en.chessbase.com/post/wr-chess-tour-tokyo-2026",
+      "source": "ChessBase",
+      "date": "2026-06-11T11:15:00.000Z",
+      "summary": "Vaishali Rameshbabu remains on the fast track: after gaining the right to challenge Ju Wenjun in a match for the World Championship title, the young Indian grandmaster won the rapid chess event of the WR Women's Chess Tour in Tokyo. The blitz tournament was…"
+    },
+    {
+      "title": "UzChess Cup: Vokhidov wins again, joins the lead",
+      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-4",
+      "source": "ChessBase",
+      "date": "2026-06-11T09:10:00.000Z",
+      "summary": "Two decisive games in round four of the UzChess Cup left Nodirbek Abdusattorov, Arjun Erigaisi and Shamsiddin Vokhidov tied for first place on 2½/4. Vokhidov joined the leaders after scoring his second win in a row, defeating Nikolas Theodorou. Nodirbek Yak…"
+    },
     {
       "title": "FIDE Council Resolution on the Review of the Implementation of the CAS Award",
       "link": "https://www.fide.com/fide-council-resolution-on-the-review-of-the-implementation-of-the-cas-award/",
@@ -28,13 +49,6 @@
       "source": "ChessBase",
       "date": "2026-06-10T16:00:00.000Z",
       "summary": "In this volume of Adrian Mikhalchishin’s Master Your Technique series, the focus is on developing tactical awareness and practical attacking instincts, especially through concepts like checks, double attacks, exposed pieces, and sensing hidden attacking opp…"
-    },
-    {
-      "title": "UzChess Cup - Live!",
-      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-live",
-      "source": "ChessBase",
-      "date": "2026-06-10T12:00:00.000Z",
-      "summary": "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Nodirbek Abdusattorov, Arjun Erigaisi and Hans N…"
     },
     {
       "title": "Docuseries 'Grandmasters' Premieres To Packed House At Tribeca",
