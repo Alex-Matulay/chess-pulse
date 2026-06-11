@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T14:33:54.360Z",
+  "updated": "2026-06-11T18:10:07.256Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Jon Speelman: Seeing the whole board",
+      "link": "https://en.chessbase.com/post/speelman-agony-240",
+      "source": "ChessBase",
+      "date": "2026-06-11T19:05:00.000Z",
+      "summary": "Jon Speelman returns to the importance of seeing the whole board when calculating, using a series of positions in which small changes far from the main action transform the evaluation. Examples include back-rank motifs, a double bishop sacrifice inspired by…"
+    },
     {
       "title": "Sam Shankland defends title at 2026 American Continental Chess Championship",
       "link": "https://www.fide.com/sam-shankland-defends-title-at-2026-american-continental-chess-championship/",
@@ -23,25 +30,11 @@
       "summary": "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Nodirbek Abdusattorov, Arjun Erigaisi and Shamsi…"
     },
     {
-      "title": "Vaishali and Lagno win WR Women’s Chess Tour opener in Tokyo",
-      "link": "https://en.chessbase.com/post/wr-chess-tour-tokyo-2026",
-      "source": "ChessBase",
-      "date": "2026-06-11T11:15:00.000Z",
-      "summary": "Vaishali Rameshbabu remains on the fast track: after gaining the right to challenge Ju Wenjun in a match for the World Championship title, the young Indian grandmaster won the rapid chess event of the WR Women's Chess Tour in Tokyo. The blitz tournament was…"
-    },
-    {
       "title": "FIDE World Amateur Rapid & Blitz Championships in Nigeria: Registration continues",
       "link": "https://www.fide.com/fide-world-amateur-rapid-blitz-championships-in-nigeria-registration-continues/",
       "source": "FIDE",
       "date": "2026-06-11T11:09:16.000Z",
       "summary": "All FIDE Member Federations and eligible players are invited to participate in the inaugural FIDE World Amateur Rapid & Blitz Chess Championships 2026, open to players with a FIDE rating under 2300. The event will be held in Abuja, the Federal Capital Terri…"
-    },
-    {
-      "title": "UzChess Cup: Vokhidov wins again, joins the lead",
-      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-4",
-      "source": "ChessBase",
-      "date": "2026-06-11T09:10:00.000Z",
-      "summary": "Two decisive games in round four of the UzChess Cup left Nodirbek Abdusattorov, Arjun Erigaisi and Shamsiddin Vokhidov tied for first place on 2½/4. Vokhidov joined the leaders after scoring his second win in a row, defeating Nikolas Theodorou. Nodirbek Yak…"
     },
     {
       "title": "FIDE Council Resolution on the Review of the Implementation of the CAS Award",
@@ -56,13 +49,6 @@
       "source": "ChessBase",
       "date": "2026-06-10T17:00:00.000Z",
       "summary": "In the comments on Part 5 of the series, readers pointed out that this was not a “master game” (as stated on the Guinness page), since Arsović had an initial rating of 2200 (which by today’s standards may correspond to a rating of 1400), while Nikolić’s rat…"
-    },
-    {
-      "title": "Adrian Mikhalchishin: Master your Technique Vol.3 - Practical Techniques you must know",
-      "link": "https://en.chessbase.com/post/adrian-mikhalchishin-master-your-technique-vol-3-practical-techniques-you-must-know",
-      "source": "ChessBase",
-      "date": "2026-06-10T16:00:00.000Z",
-      "summary": "In this volume of Adrian Mikhalchishin’s Master Your Technique series, the focus is on developing tactical awareness and practical attacking instincts, especially through concepts like checks, double attacks, exposed pieces, and sensing hidden attacking opp…"
     },
     {
       "title": "Docuseries 'Grandmasters' Premieres To Packed House At Tribeca",
@@ -147,13 +133,6 @@
       "source": "Chess.com",
       "date": "2026-06-07T22:44:00.000Z",
       "summary": "IM Roman Shogdzhiev has become the youngest player in chess history to score a grandmaster norm, breaking a record that had stood since 2008. The 11-year-old Russian remained undefeated against the six grandmasters he faced and scored an impressi..."
-    },
-    {
-      "title": "The Evergreen John Nunn",
-      "link": "https://en.chessbase.com/post/the-evergreen-john-nunn-2",
-      "source": "ChessBase",
-      "date": "2026-06-07T13:00:00.000Z",
-      "summary": "Is winning chess championships only for the young? John Nunn has won national and international problem solving championships numerous times. Now, at the age of 70, and after a three-year pause, John wanted to see if he still had it in him. He took part in…"
     },
     {
       "title": "Nakamura Breaks 200 Again, Wins Bullet Brawl By 58-Point Margin",
