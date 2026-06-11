@@ -1,33 +1,48 @@
 {
-  "updated": "2026-06-11T00:12:45.591Z",
+  "updated": "2026-06-11T05:25:48.914Z",
   "sources": [
     "Chess.com",
     "Lichess",
     "ChessBase",
     "FIDE",
+    "The Week in Chess",
     "r/chess"
   ],
   "items": [
     {
-      "title": "Have you ever seen quadrupled pawns before?",
-      "link": "https://www.reddit.com/r/chess/comments/1u2i1hd/have_you_ever_seen_quadrupled_pawns_before/",
+      "title": "I have to ban myself from playing on the weekdays",
+      "link": "https://www.reddit.com/r/chess/comments/1u2or14/i_have_to_ban_myself_from_playing_on_the_weekdays/",
       "source": "r/chess",
-      "date": "2026-06-10T23:10:23.000Z",
-      "summary": "Just had this position in a game"
+      "date": "2026-06-11T04:19:44.000Z",
+      "summary": "It's too addicting. I started playing about 6 months ago and I've become so unproductive. The \"Play again\" button beckons for me. Maybe over 7,000 games in that timespan. I don't have much to show for it, but I've started playing mindlessly and my learning…"
     },
     {
-      "title": "Find the flaws in this opening",
-      "link": "https://www.reddit.com/r/chess/comments/1u2g9pr/find_the_flaws_in_this_opening/",
+      "title": "Bibisara Assaubayeva tags the Kazakh President on Instagram and raises issue of financial constraint hampering her chess career.",
+      "link": "https://www.reddit.com/r/chess/comments/1u2o7vk/bibisara_assaubayeva_tags_the_kazakh_president_on/",
       "source": "r/chess",
-      "date": "2026-06-10T21:57:43.000Z",
-      "summary": "This opening by white looks kinda good to me. Educate me about its flaws."
+      "date": "2026-06-11T03:53:55.000Z",
+      "summary": "English translation provided by Instagram - Dear Kassym-Jomart Kemelevich! I am the International Chess Grandmaster Asaubaev Bibisar as of today number 5 in the list of chess players in the world rankings! I went around the world, only China ahead of me! I…"
     },
     {
-      "title": "Spidy senses went off in 3+0",
-      "link": "https://www.reddit.com/r/chess/comments/1u2fwix/spidy_senses_went_off_in_30/",
+      "title": "Hikaru on Pragg's form",
+      "link": "https://www.reddit.com/r/chess/comments/1u2mj6w/hikaru_on_praggs_form/",
       "source": "r/chess",
-      "date": "2026-06-10T21:43:24.000Z",
-      "summary": ""
+      "date": "2026-06-11T02:33:28.000Z",
+      "summary": "Source:"
+    },
+    {
+      "title": "Only I could blunder this position being up +319.81 according the computer",
+      "link": "https://www.reddit.com/r/chess/comments/1u2lkn5/only_i_could_blunder_this_position_being_up_31981/",
+      "source": "r/chess",
+      "date": "2026-06-11T01:49:19.000Z",
+      "summary": "The computer thinks my position is so good that now it’s assuming Im going to take material from my opponents children and grandchildren, therefore adding the totals to this game. The computer thinks my position is so good that it’s assuming I have slain hi…"
+    },
+    {
+      "title": "Good Forcing Openings for White?",
+      "link": "https://www.reddit.com/r/chess/comments/1u2jtod/good_forcing_openings_for_white/",
+      "source": "r/chess",
+      "date": "2026-06-11T00:27:48.000Z",
+      "summary": "I prefer playing Black over White, using openings like the Dutch and Scandinavian. I like them because they tend to be \"No, you're playing My game\" kind of openings, limiting the rational responses that the opponent can make. Are there any good openings for…"
     },
     {
       "title": "I beat this player all the time",
@@ -70,13 +85,6 @@
       "source": "r/chess",
       "date": "2026-06-10T19:16:13.000Z",
       "summary": ""
-    },
-    {
-      "title": "Are there resources for great games?",
-      "link": "https://www.reddit.com/r/chess/comments/1u2bvna/are_there_resources_for_great_games/",
-      "source": "r/chess",
-      "date": "2026-06-10T19:14:26.000Z",
-      "summary": "Anyone know a site that aggregates amazing games (for example kasparov vs. topalov cams to mind as a great game)? I know that chessgames has something like this, was wondering if there is something dedicated to it."
     },
     {
       "title": "Nurgul Salimova threatens to leave the Bulgarian federation",
@@ -205,13 +213,6 @@
       "summary": "Just proud to have spotted this at 700 elo, felt straight out of a puzzle!"
     },
     {
-      "title": "How do you actually build an opening repertoire?",
-      "link": "https://www.reddit.com/r/chess/comments/1u1o9yw/how_do_you_actually_build_an_opening_repertoire/",
-      "source": "r/chess",
-      "date": "2026-06-10T01:35:14.000Z",
-      "summary": "Hi, I'm a self-taught player in the 1300–1400 range on Chess.com. Most of what I've learned comes from YouTube, especially the Building Chess Habits series by Chessbrah (Aman), which helped me get to where I am now. I've started thinking about building an o…"
-    },
-    {
       "title": "Docuseries 'Grandmasters' Premieres To Packed House At Tribeca",
       "link": "https://www.chess.com/news/view/grandmasters-docuseries-tribeca-premiere",
       "source": "Chess.com",
@@ -336,6 +337,13 @@
       "source": "Chess.com",
       "date": "2026-06-06T00:34:15.000Z",
       "summary": "On June 5, GM Oleksandr Bortnyk became the first player to win nine Freestyle Fridays and to win three in the 2026 Freestyle Friday Championship. A fast 9/9 start was enough to hang on to outright victory through an 0.5/2 finish as Bortnyk returns..."
+    },
+    {
+      "title": "26th European Women's Championship 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/26th-european-womens-championship-2026",
+      "source": "The Week in Chess",
+      "date": "2026-06-05T20:17:00.000Z",
+      "summary": "The 26th European Women's Championship took place Mon 25th May to Friday 5th Jun 2026. Anastasiia Hnatyshyn took clear first place with 9/11 half a point clear of Sabrina Vega Gutierrez, Olga Badelka and Nurgyul Salimova."
     },
     {
       "title": "Lazavik Completes Dominant Week With 3 0 Thursday Victory",
@@ -478,6 +486,20 @@
       "summary": "It took him three tries, but Patriots receiver Mack Hollins was thrilled to take his first BlitzChamps title on May 26. Hollins won every match, including a tough finals against Chargers quarterback Justin Herbert, to win the event ahead of seven ..."
     },
     {
+      "title": "14th Norway Chess 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/14th-norway-chess-2026",
+      "source": "The Week in Chess",
+      "date": "2026-05-25T21:14:00.000Z",
+      "summary": "The 14th Norway Chess tournament took place Mon 25th May to Fri 5th Jun 2026. There was the regular tournament and a women's event, this year with the same prize-money. Each event had 6 players and 10 rounds and there was an Armageddon game if there's a dra…"
+    },
+    {
+      "title": "GCT Super Chess Classic Romania 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/gct-super-chess-classic-romania-2026",
+      "source": "The Week in Chess",
+      "date": "2026-05-23T17:45:00.000Z",
+      "summary": "The Grand Chess Tour Super Chess Classic Romania took place Thu 14th May to Sat 23rd May 2026. Players: Caruana, Sindarov, Giri, Firouzja, Keymer, Wesley So, Jorden Van Foreest, Praggnanandhaa, MVL and Deac. Vincent Keymer emerged as the clear winner with 6…"
+    },
+    {
       "title": "Super Chess Classic Romania - Live!",
       "link": "https://en.chessbase.com/post/super-classic-romania-2026-live",
       "source": "ChessBase",
@@ -492,11 +514,39 @@
       "summary": "Legendary Indian Grandmaster and five-time World Chess Champion Viswanathan Anand sat down for an interview with Lichess’ Director of Operations, Theo Wait, at the recently concluded FIDE Candidates Tournament."
     },
     {
+      "title": "Faustino Oro earns his final GM norm in Sardinia - 9",
+      "link": "https://theweekinchess.com/twic-news-feed/faustino-oro-earns-his-final-gm-norm-in-sardinia",
+      "source": "The Week in Chess",
+      "date": "2026-05-11T09:51:00.000Z",
+      "summary": "Argentinian chess player Faustino Oro finally has become a Grandmaster after a six points from nine games performance at the Sardinia World Chess Festival. Oro had previous norms at the Legends and Prodigies tournament in September 2025 and the Magistral Sz…"
+    },
+    {
+      "title": "Sardinia World Chess Festival 2026 -",
+      "link": "https://theweekinchess.com/chessnews/events/sardinia-world-chess-festival-2026",
+      "source": "The Week in Chess",
+      "date": "2026-05-11T09:10:00.000Z",
+      "summary": "The Sardinia World Chess Festival took place Sun 3rd May 2026 to Sun 10th May 2026 in Orosei, Italy. Frederik Svane took clear first place with 7.5/9 half a point clear of Haik M. Martirosyan, Ian Nepomniachtchi and Mamikon Gharibyan. Tied for 25th place on…"
+    },
+    {
+      "title": "GCT Super Rapid & Blitz Poland 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-poland-2026",
+      "source": "The Week in Chess",
+      "date": "2026-05-09T16:46:00.000Z",
+      "summary": "The GCT Super Rapid & Blitz Poland took place Tue 5th May to Thu 7th May 2026. 9 rounds of rapid and 18 rounds of blitz. Players: Wesley So, Radoslaw Wojtaszek, D Gukesh, Hans Moke Niemann, Maxime Vachier-Lagrave, Alireza Firouzja, Vladimir Fedoseev, Fabian…"
+    },
+    {
       "title": "Super Rapid & Blitz Poland - Live!",
       "link": "https://en.chessbase.com/post/super-poland-2026-live",
       "source": "ChessBase",
       "date": "2026-05-09T11:50:00.000Z",
       "summary": "Kicking off the 2026 Grand Chess Tour is the Super Rapid & Blitz Poland, the first of three speed chess events, which is taking place on 5-9 May in Warsaw. Ahead of the final day of action, Hans Niemann is the sole leader, with Wesley So standing close behi…"
+    },
+    {
+      "title": "Magnus Carlsen wins the 31st Sigeman & Co tournament after tie-break win over Erigaisi - 7",
+      "link": "https://theweekinchess.com/twic-news-feed/magnus-carlsen-wins-the-31st-sigeman-co-tournament-after-tie-break-win-over-erigaisi",
+      "source": "The Week in Chess",
+      "date": "2026-05-07T22:32:00.000Z",
+      "summary": "The final day of the 31st Sigeman & Co tournament saw a number of twists and turns before Magnus Carlsen emerged as the winner. The leader Arjun Erigaisi went full blooded for a win against Andy Woodward and it really was too much when he pushed his g and h…"
     },
     {
       "title": "TePe Sigeman - Live!",
@@ -506,11 +556,18 @@
       "summary": "The TePe Sigeman Chess Tournament is taking place on 1–7 May in Malmö, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Ya…"
     },
     {
-      "title": "Lichess Game of the Month: March '26",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-march-26/40I88joS",
-      "source": "Lichess",
-      "date": "2026-05-02T13:08:45.640Z",
-      "summary": "A rapid counterattack and sacrifice"
+      "title": "Erigaisi leads the Sigeman tournament alone with one round to go - 6",
+      "link": "https://theweekinchess.com/twic-news-feed/erigaisi-leads-the-sigeman-tournament-alone-with-one-round-to-go",
+      "source": "The Week in Chess",
+      "date": "2026-05-06T23:01:00.000Z",
+      "summary": "The final round of the Sigeman & Co Chess Tournament in Malmo promises to be very tense after an interesting round 6. Arjun Erigaisi beat Zhu Jiner in an endgame where the Chinese player had a tricky defence in a holdable position. Magnus Carlsen chose the…"
+    },
+    {
+      "title": "Gukesh beats Sindarov in the GCT Poland Super Rapid - 5",
+      "link": "https://theweekinchess.com/twic-news-feed/gukesh-beats-sindarov-in-the-gct-poland-super-rapid",
+      "source": "The Week in Chess",
+      "date": "2026-05-06T18:20:00.000Z",
+      "summary": "The first event in the Grand Chess Tour 2026 is the Super Rapid & Blitz Poland in Warsaw . This is a category 20 field. The players meet once in a rapid game and twice in the blitz. Of major interest was the first meeting of Javokhir Sindarov and World Cham…"
     }
   ]
 }
