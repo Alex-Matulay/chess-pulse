@@ -13,7 +13,6 @@ Hourly-updated chess news site, hosted on GitHub Pages.
   - ChessBase
   - FIDE
   - The Week in Chess
-  - r/chess (daily top posts)
 - A [GitHub Actions workflow](.github/workflows/update-news.yml) runs **every hour, on the hour (UTC)**, refreshes the news data, commits it (only when something changed), and redeploys the site to GitHub Pages. It can also be triggered manually from the Actions tab.
 - The "Top players" leaderboard is fetched live from the public Lichess API on every page visit.
 - The daily puzzle is embedded via Lichess's official puzzle frame, so it rolls over automatically each day.

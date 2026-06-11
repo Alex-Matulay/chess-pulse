@@ -14,7 +14,6 @@ const FEEDS = [
   { source: "ChessBase", url: "https://en.chessbase.com/feed" },
   { source: "FIDE", url: "https://fide.com/feed" },
   { source: "The Week in Chess", url: "https://theweekinchess.com/twic-rss-feed" },
-  { source: "r/chess", url: "https://www.reddit.com/r/chess/top/.rss?t=day" },
 ];
 
 const MAX_ITEMS = 80;
