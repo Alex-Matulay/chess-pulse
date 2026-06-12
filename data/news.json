@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T23:19:00.483Z",
+  "updated": "2026-06-12T03:32:11.647Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,10 +9,17 @@
   ],
   "items": [
     {
+      "title": "UzChess Cup: Vokhidov upsets Nepomniachtchi, grabs the sole lead",
+      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-5",
+      "source": "ChessBase",
+      "date": "2026-06-12T02:50:00.000Z",
+      "summary": "Shamsiddin Vokhidov took the sole lead at the UzChess Cup after scoring his third consecutive win in Tashkent, defeating Ian Nepomniachtchi with the white pieces. The 24-year-old Uzbek grandmaster now stands on 3½/5, half a point ahead of Nodirbek Abdusatto…"
+    },
+    {
       "title": "Vokhidov Takes Sole Lead With 3-Win Streak",
       "link": "https://www.chess.com/news/view/2026-uzchess-cup-rounds-1-5",
       "source": "Chess.com",
-      "date": "2026-06-11T21:44:11.000Z",
+      "date": "2026-06-11T21:44:00.000Z",
       "summary": "GM Shamsiddin Vokhidov leads the 2026 UzChess Cup after five hard-fought rounds, where we have seen more decisive games than draws. After losing in round two against GM Hans Niemann, the Uzbek grandmaster has won three games in a row against GMs M..."
     },
     {
@@ -28,13 +35,6 @@
       "source": "FIDE",
       "date": "2026-06-11T13:54:42.000Z",
       "summary": "GM Sam Shankland (USA) lived up to his status as the tournament favorite, convincingly defending his title at the 19th American Continental Chess Championship. The event was held from 1 to 11 June 2026 at the Hotel Dorados Conventions & Resorts in Oaxtepec,…"
-    },
-    {
-      "title": "UzChess Cup - Live!",
-      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-live",
-      "source": "ChessBase",
-      "date": "2026-06-11T12:00:00.000Z",
-      "summary": "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Nodirbek Abdusattorov, Arjun Erigaisi and Shamsi…"
     },
     {
       "title": "FIDE World Amateur Rapid & Blitz Championships in Nigeria: Registration continues",
