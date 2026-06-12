@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T08:21:25.946Z",
+  "updated": "2026-06-12T12:15:48.108Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "UzChess Cup - Live!",
+      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-live",
+      "source": "ChessBase",
+      "date": "2026-06-12T12:00:00.000Z",
+      "summary": "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Nodirbek Abdusattorov, Arjun Erigaisi and Shamsi…"
+    },
+    {
+      "title": "FIDE World Team Rapid and Blitz in Hong Kong preview: Chess elite comes to Asia’s new stage",
+      "link": "https://www.fide.com/fide-world-team-rapid-and-blitz-in-hong-kong-preview-chess-elite-comes-to-asias-new-stage/",
+      "source": "FIDE",
+      "date": "2026-06-12T10:39:09.000Z",
+      "summary": "By Milan Dinic From 16 to 22 June, the crème de la crème of the chess world will gather in Hong Kong for the fourth edition of the FIDE World Team Rapid and Blitz Chess Championships, alongside the inaugural World Team Amateur Rapid Chess Cup, with both eve…"
+    },
     {
       "title": "Caïssa Trophy Final in Lyon",
       "link": "https://en.chessbase.com/post/cassa-trophy-final-in-lyon",
@@ -163,13 +177,6 @@
       "summary": "Norway Chess 2026 brought together the world’s elite chess players for a super-tournament held from May 25 to June 5 in Oslo, Norway. The event proudly featured two elite tournaments running in parallel: the renowned Norway Chess and Norway Chess Women. Bot…"
     },
     {
-      "title": "Anastasiia Hnatyshyn clinches European Women’s Chess Championship 2026",
-      "link": "https://www.fide.com/anastasiia-hnatyshyn-clinches-european-womens-chess-championship-2026/",
-      "source": "FIDE",
-      "date": "2026-06-06T06:15:35.000Z",
-      "summary": "15-year-old Ukrainian rising star WFM Anastasiia Hnatyshyn, seeded only 76th, emerged as the outright winner of the European Women’s Chess Championship 2026. The 2026 edition of the championship, an 11-round Swiss tournament with classical time control, too…"
-    },
-    {
       "title": "Praggnanandhaa Wins Norway Chess With Stunning 4-Game Winning Streak",
       "link": "https://www.chess.com/news/view/praggnanandhaa-wins-2026-norway-chess",
       "source": "Chess.com",
@@ -194,7 +201,7 @@
       "title": "Lazavik Completes Dominant Week With 3 0 Thursday Victory",
       "link": "https://www.chess.com/news/view/lazavik-yoo-terry-3-0-thursday-06-04-2026",
       "source": "Chess.com",
-      "date": "2026-06-05T18:29:57.000Z",
+      "date": "2026-06-05T18:29:00.000Z",
       "summary": "GM Denis Lazavik, who won Titled Tuesday this week with a dominant 10/11 score, repeated the performance in the first 3 0 Thursday tournament on June 4, scoring another 10 points to take clear first place. The second and third tournaments of the d..."
     },
     {
@@ -292,7 +299,7 @@
       "title": "3 0 Thursday Stars Martinez, Duda, Terry All Claim Victories",
       "link": "https://www.chess.com/news/view/martinez-duda-terry-3-0-thursday-05-28-2026",
       "source": "Chess.com",
-      "date": "2026-05-29T18:34:38.000Z",
+      "date": "2026-05-29T18:34:00.000Z",
       "summary": "GM Jose Martinez and IM Renato Terry have been competing for the most 3 0 Thursday victories since the event debuted last November. On May 28, both players won a tournament, bringing their totals to 14 and 13 victories, respectively. GM Jan-Krzysz..."
     },
     {
