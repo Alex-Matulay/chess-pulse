@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T12:15:48.108Z",
+  "updated": "2026-06-12T16:14:29.875Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,25 @@
   ],
   "items": [
     {
+      "title": "Sam Shankland successfully defends title at American Continental Championship in Mexico",
+      "link": "https://en.chessbase.com/post/american-continental-ch-2026-final-report",
+      "source": "ChessBase",
+      "date": "2026-06-12T18:00:00.000Z",
+      "summary": "Sam Shankland retained his American Continental Championship title in Oaxtepec, finishing clear first on 9½/11 after conceding only three draws. The US grandmaster secured one of four qualification spots for the 2027 FIDE World Cup, together with Juan Carlo…"
+    },
+    {
+      "title": "Russia's Chess Federation Suspended After Refusing To Halt Events In Occupied Ukraine",
+      "link": "https://www.chess.com/news/view/russia-chess-federation-suspended-occupied-ukraine",
+      "source": "Chess.com",
+      "date": "2026-06-12T13:55:00.000Z",
+      "summary": "The Chess Federation of Russia (CFR) has been suspended from the International Chess Federation (FIDE) after failing to comply with a Court of Arbitration for Sport (CAS) ruling that required the CFR to cease organizing chess activities in Russian..."
+    },
+    {
       "title": "UzChess Cup - Live!",
       "link": "https://en.chessbase.com/post/uz-chess-cup-2026-live",
       "source": "ChessBase",
       "date": "2026-06-12T12:00:00.000Z",
-      "summary": "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Nodirbek Abdusattorov, Arjun Erigaisi and Shamsi…"
+      "summary": "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Shamsiddin Vokhidov and Mukhiddin Madaminov are…"
     },
     {
       "title": "FIDE World Team Rapid and Blitz in Hong Kong preview: Chess elite comes to Asia’s new stage",
@@ -30,25 +44,11 @@
       "summary": "This event takes place from Friday 12 to Sunday 14 June 2026. Coming to Lyon – and in particular to the Lyon Olympique Échecs club – are a World Vice-Champion and European Champion, one French champion and one World Chess Champion! The hosts are delighted t…"
     },
     {
-      "title": "UzChess Cup: Vokhidov upsets Nepomniachtchi, grabs the sole lead",
-      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-5",
-      "source": "ChessBase",
-      "date": "2026-06-12T02:50:00.000Z",
-      "summary": "Shamsiddin Vokhidov took the sole lead at the UzChess Cup after scoring his third consecutive win in Tashkent, defeating Ian Nepomniachtchi with the white pieces. The 24-year-old Uzbek grandmaster now stands on 3½/5, half a point ahead of Nodirbek Abdusatto…"
-    },
-    {
       "title": "Vokhidov Takes Sole Lead With 3-Win Streak",
       "link": "https://www.chess.com/news/view/2026-uzchess-cup-rounds-1-5",
       "source": "Chess.com",
       "date": "2026-06-11T21:44:00.000Z",
       "summary": "GM Shamsiddin Vokhidov leads the 2026 UzChess Cup after five hard-fought rounds, where we have seen more decisive games than draws. After losing in round two against GM Hans Niemann, the Uzbek grandmaster has won three games in a row against GMs M..."
-    },
-    {
-      "title": "Jon Speelman: Seeing the whole board",
-      "link": "https://en.chessbase.com/post/speelman-agony-240",
-      "source": "ChessBase",
-      "date": "2026-06-11T19:05:00.000Z",
-      "summary": "Jon Speelman returns to the importance of seeing the whole board when calculating, using a series of positions in which small changes far from the main action transform the evaluation. Examples include back-rank motifs, a double bishop sacrifice inspired by…"
     },
     {
       "title": "Sam Shankland defends title at 2026 American Continental Chess Championship",
@@ -308,13 +308,6 @@
       "source": "Chess.com",
       "date": "2026-05-28T20:28:00.000Z",
       "summary": "World number-one GM Magnus Carlsen beat World Champion Gukesh Dommaraju in the only classical win of round four of Norway Chess 2026, exorcising the ghost of their infamous table-slam game from the 2025 event. GM Alireza Firouzja continues to lead..."
-    },
-    {
-      "title": "Praggnanandhaa Beats Carlsen In Rollercoaster Norway Chess Clash",
-      "link": "https://www.chess.com/news/view/2026-norway-chess-round-3",
-      "source": "Chess.com",
-      "date": "2026-05-27T20:09:00.000Z",
-      "summary": "GM Praggnanandhaa Rameshbabu moved up to second place in Norway Chess 2026 after a rollercoaster win over GM Magnus Carlsen, who had fought his way back from the dead to a winning position only to collapse in time trouble. GM Alireza Firouzja lead..."
     },
     {
       "title": "14th Norway Chess 2026 - Games and Results",
