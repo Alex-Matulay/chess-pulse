@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T16:14:29.875Z",
+  "updated": "2026-06-12T19:02:00.288Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,25 @@
   ],
   "items": [
     {
+      "title": "Pranav Comeback Retakes Freestyle Friday Championship Lead",
+      "link": "https://www.chess.com/news/view/pranav-wins-freestyle-friday-june-12-2026",
+      "source": "Chess.com",
+      "date": "2026-06-12T18:50:30.000Z",
+      "summary": "GM Pranav Venkatesh overcame losses in the second and fourth rounds in Freestyle Friday on June 12 to win all his other games, take first place outright, and pass&nbsp;GM Oleksandr Bortnyk in the 2026 Freestyle Friday Championship (FFC) standings...."
+    },
+    {
       "title": "Sam Shankland successfully defends title at American Continental Championship in Mexico",
       "link": "https://en.chessbase.com/post/american-continental-ch-2026-final-report",
       "source": "ChessBase",
       "date": "2026-06-12T18:00:00.000Z",
       "summary": "Sam Shankland retained his American Continental Championship title in Oaxtepec, finishing clear first on 9½/11 after conceding only three draws. The US grandmaster secured one of four qualification spots for the 2027 FIDE World Cup, together with Juan Carlo…"
+    },
+    {
+      "title": "FIDE Excellence Awards: Submission deadline approaching",
+      "link": "https://www.fide.com/fide-excellence-awards-submission-deadline-approaching/",
+      "source": "FIDE",
+      "date": "2026-06-12T17:36:39.000Z",
+      "summary": "On June 1, 2026, FIDE launched the FIDE Excellence Awards, a new biennial awards programme established to recognise outstanding achievements, individuals, events, federations, teams, creators, and initiatives across the global chess community. The awards re…"
     },
     {
       "title": "Russia's Chess Federation Suspended After Refusing To Halt Events In Occupied Ukraine",
@@ -42,6 +56,13 @@
       "source": "ChessBase",
       "date": "2026-06-12T10:00:00.000Z",
       "summary": "This event takes place from Friday 12 to Sunday 14 June 2026. Coming to Lyon – and in particular to the Lyon Olympique Échecs club – are a World Vice-Champion and European Champion, one French champion and one World Chess Champion! The hosts are delighted t…"
+    },
+    {
+      "title": "Andrew Hong wins Aktobe Open 2026 – Vladimir Dvorkovich Memorial",
+      "link": "https://www.fide.com/andrew-hong-wins-aktobe-open-2026-vladimir-dvorkovich-memorial/",
+      "source": "FIDE",
+      "date": "2026-06-12T06:56:00.000Z",
+      "summary": "American Grandmaster Andrew Hong emerged as the outright winner of the Aktobe Open 2026 – Vladimir Dvorkovich Memorial (Masters) finishing with an excellent score of 7/9. The event brought together 210 participants from 21 countries: Armenia, Azerbaijan, Bu…"
     },
     {
       "title": "Vokhidov Takes Sole Lead With 3-Win Streak",
@@ -142,13 +163,6 @@
       "summary": "Schackcykeln (The Chess Bike), a free mobile chess initiative, is launching on June 15, 2026, in Trelleborg, Sweden. A cargo bike equipped with chess sets, tables, and chairs will visit parks, squares, beaches, and residential areas throughout summer 2026.…"
     },
     {
-      "title": "Kong Xiangrui and Savitha Shri B crowned Asian Individual Champions",
-      "link": "https://www.fide.com/kong-xiangrui-and-savitha-shri-b-crowned-asian-individual-champions/",
-      "source": "FIDE",
-      "date": "2026-06-08T08:43:00.000Z",
-      "summary": "The Asian Individual Chess Championship concluded in Ulaanbaatar, Mongolia, after nine rounds of play on June 6, 2026. This marked the first time Mongolia has hosted a top-tier Asian chess tournament, an event that received strong support from the Mongolian…"
-    },
-    {
       "title": "Under the Hammer",
       "link": "https://en.chessbase.com/post/under-the-hammer",
       "source": "ChessBase",
@@ -168,13 +182,6 @@
       "source": "Chess.com",
       "date": "2026-06-07T01:14:00.000Z",
       "summary": "GM Hikaru Nakamura continued his 2026 Bullet Brawl victory streak with a barnstorming performance in Saturday's event, racing to a 201-point victory with no rivals in sight. The American superstar finished a commanding 58 points ahead of Ukrainian..."
-    },
-    {
-      "title": "Norway Chess 2026: Praggnanandhaa R and Bibisara Assaubayeva win titles",
-      "link": "https://www.fide.com/norway-chess-2026-praggnanandhaa-r-and-bibisara-assaubayeva-win-titles/",
-      "source": "FIDE",
-      "date": "2026-06-06T08:13:43.000Z",
-      "summary": "Norway Chess 2026 brought together the world’s elite chess players for a super-tournament held from May 25 to June 5 in Oslo, Norway. The event proudly featured two elite tournaments running in parallel: the renowned Norway Chess and Norway Chess Women. Bot…"
     },
     {
       "title": "Praggnanandhaa Wins Norway Chess With Stunning 4-Game Winning Streak",
@@ -301,13 +308,6 @@
       "source": "Chess.com",
       "date": "2026-05-29T18:34:00.000Z",
       "summary": "GM Jose Martinez and IM Renato Terry have been competing for the most 3 0 Thursday victories since the event debuted last November. On May 28, both players won a tournament, bringing their totals to 14 and 13 victories, respectively. GM Jan-Krzysz..."
-    },
-    {
-      "title": "Carlsen Back In Business After Beating Gukesh; Assaubayeva Defeats Ju Wenjun",
-      "link": "https://www.chess.com/news/view/2026-norway-chess-round-4",
-      "source": "Chess.com",
-      "date": "2026-05-28T20:28:00.000Z",
-      "summary": "World number-one GM Magnus Carlsen beat World Champion Gukesh Dommaraju in the only classical win of round four of Norway Chess 2026, exorcising the ghost of their infamous table-slam game from the 2025 event. GM Alireza Firouzja continues to lead..."
     },
     {
       "title": "14th Norway Chess 2026 - Games and Results",
