@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T03:32:11.647Z",
+  "updated": "2026-06-12T08:21:25.946Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Caïssa Trophy Final in Lyon",
+      "link": "https://en.chessbase.com/post/cassa-trophy-final-in-lyon",
+      "source": "ChessBase",
+      "date": "2026-06-12T10:00:00.000Z",
+      "summary": "This event takes place from Friday 12 to Sunday 14 June 2026. Coming to Lyon – and in particular to the Lyon Olympique Échecs club – are a World Vice-Champion and European Champion, one French champion and one World Chess Champion! The hosts are delighted t…"
+    },
     {
       "title": "UzChess Cup: Vokhidov upsets Nepomniachtchi, grabs the sole lead",
       "link": "https://en.chessbase.com/post/uz-chess-cup-2026-5",
