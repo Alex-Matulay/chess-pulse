@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T02:56:49.795Z",
+  "updated": "2026-06-13T06:59:09.698Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Review: ChessBase Magazine 231",
+      "link": "https://en.chessbase.com/post/review-chessbase-magazine-231",
+      "source": "ChessBase",
+      "date": "2026-06-13T07:00:00.000Z",
+      "summary": "ChessBase Magazine looks back on an almost unparalleled success story: since its first issue in 1988, it has been published every two months without interruption. Featuring in-depth opening surveys, profound grandmaster analyses, and demanding tactics and e…"
+    },
+    {
+      "title": "UzChess Cup: Exciting sixth round leaves Madaminov and Vokhidov tied for first",
+      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-6",
+      "source": "ChessBase",
+      "date": "2026-06-13T05:50:00.000Z",
+      "summary": "Mukhiddin Madaminov (pictured, left) caught Shamsiddin Vokhidov in the lead after scoring his fourth win of the UzChess Cup, defeating Vidit Gujrathi in Friday's sixth round. Vokhidov split the point with Nodirbek Yakubboev, while Nodirbek Abdusattorov sign…"
+    },
     {
       "title": "Navara vs Blohberger Match 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/navara-vs-blohberger-match-2026",
@@ -56,13 +70,6 @@
       "source": "Chess.com",
       "date": "2026-06-12T13:55:00.000Z",
       "summary": "The Chess Federation of Russia (CFR) has been suspended from the International Chess Federation (FIDE) after failing to comply with a Court of Arbitration for Sport (CAS) ruling that required the CFR to cease organizing chess activities in Russian..."
-    },
-    {
-      "title": "UzChess Cup - Live!",
-      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-live",
-      "source": "ChessBase",
-      "date": "2026-06-12T12:00:00.000Z",
-      "summary": "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Shamsiddin Vokhidov and Mukhiddin Madaminov are…"
     },
     {
       "title": "FIDE World Team Rapid and Blitz in Hong Kong preview: Chess elite comes to Asia’s new stage",
