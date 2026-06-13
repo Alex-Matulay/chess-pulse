@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T06:59:09.698Z",
+  "updated": "2026-06-13T10:06:07.623Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "UzChess Cup - Live!",
+      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-live",
+      "source": "ChessBase",
+      "date": "2026-06-13T12:00:00.000Z",
+      "summary": "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Shamsiddin Vokhidov and Mukhiddin Madaminov are…"
+    },
+    {
+      "title": "FIDE extends bidding deadline for 2030 Chess Olympiad",
+      "link": "https://www.fide.com/fide-extends-bidding-deadline-for-2030-chess-olympiad/",
+      "source": "FIDE",
+      "date": "2026-06-13T09:54:38.000Z",
+      "summary": "In response to requests by several national federations that are in the process of securing necessary funding, FIDE has officially extended the deadline for bids for the FIDE Chess Olympiad 2030 until September 1, 2026. This global event, the largest team c…"
+    },
+    {
+      "title": "KCF Friendship Festival 2026",
+      "link": "https://en.chessbase.com/post/kcf-friendship-festival-2",
+      "source": "ChessBase",
+      "date": "2026-06-13T09:00:00.000Z",
+      "summary": "With only a few weeks remaining before the start of the Kasparov Chess Foundations's Friendship Festival 2026 in Radenci, Slovenia, interest from the international chess community continues to grow. Players, trainers, and chess enthusiasts from around the w…"
+    },
     {
       "title": "Review: ChessBase Magazine 231",
       "link": "https://en.chessbase.com/post/review-chessbase-magazine-231",
@@ -182,13 +203,6 @@
       "source": "FIDE",
       "date": "2026-06-08T11:04:42.000Z",
       "summary": "Nodirbek Abdusattorov retains a narrow lead over Javokhir Sindarov in the FIDE Circuit 2026–2027 race after the May tournaments. Abdusattorov earned 7.25 points at TePe Sigeman, while Sindarov collected 8.53 points at the Super Chess Classic Romania, furthe…"
-    },
-    {
-      "title": "Schackcykeln: “The Chess Bike” project launches in Trelleborg, Sweden",
-      "link": "https://www.fide.com/schackcykeln-the-chess-bike-project-launches-in-trelleborg-sweden/",
-      "source": "FIDE",
-      "date": "2026-06-08T08:53:23.000Z",
-      "summary": "Schackcykeln (The Chess Bike), a free mobile chess initiative, is launching on June 15, 2026, in Trelleborg, Sweden. A cargo bike equipped with chess sets, tables, and chairs will visit parks, squares, beaches, and residential areas throughout summer 2026.…"
     },
     {
       "title": "Under the Hammer",
