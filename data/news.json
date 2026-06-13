@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T12:22:07.411Z",
+  "updated": "2026-06-13T14:57:25.976Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Yağmur Gündüz vs. Hypermodern (The Cat, Level = Hobby Player)",
+      "link": "https://en.chessbase.com/post/yamur-guenduez-vs-hypermodern-the-cat-level-hobby-player",
+      "source": "ChessBase",
+      "date": "2026-06-13T15:00:00.000Z",
+      "summary": "Yağmur Gündüz takes on Fritz 21 and shows that even club-level players around 1200 Elo can have exciting and entertaining games against the engine. Although Yağmur quickly gets into a difficult position and loses several pawns, she keeps fighting actively,…"
+    },
     {
       "title": "UzChess Cup - Live!",
       "link": "https://en.chessbase.com/post/uz-chess-cup-2026-live",
