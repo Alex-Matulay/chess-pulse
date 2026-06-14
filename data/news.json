@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T23:14:52.805Z",
+  "updated": "2026-06-14T03:34:56.675Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Nakamura Wins 10th Bullet Brawl Of 2026, Maintains Perfect Record",
+      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-13-2026",
+      "source": "Chess.com",
+      "date": "2026-06-14T01:38:00.000Z",
+      "summary": "GM Hikaru Nakamura, the undisputed king of Bullet Brawl, pulled off another comprehensive victory on Saturday, gaining his 10th title in as many appearances in 2026. Nakamura finished with 182 points, 42 points clear of GM Oleksandr Bortnyk, and a..."
+    },
     {
       "title": "Hong Kong to showcase new generation of players on world stage",
       "link": "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-new-generation",
@@ -350,13 +357,6 @@
       "source": "Chess.com",
       "date": "2026-05-30T20:17:00.000Z",
       "summary": "All three classical games could have been decisive in round five of Norway Chess 2026, but we got two Black wins and only one draw. GM Vincent Keymer missed a chance in his classical encounter against tournament leader GM Alireza Firouzja, who won..."
-    },
-    {
-      "title": "Murzin Dominates For 1st Freestyle Friday",
-      "link": "https://www.chess.com/news/view/murzin-wins-freestyle-friday-may-29-2026",
-      "source": "Chess.com",
-      "date": "2026-05-30T01:24:41.000Z",
-      "summary": "GM Volodar Murzin won Freestyle Friday on May 29 with a wire-to-wire win in which he lost no games, taking the tournament outright on a 10/11 score for his first victory ever in the event. All of the top four spots were won without tiebreaks, in f..."
     },
     {
       "title": "14th Norway Chess 2026 - Games and Results",
