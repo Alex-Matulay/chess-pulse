@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T15:47:10.612Z",
+  "updated": "2026-06-14T17:16:33.373Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Can you deliver mate – reliably?",
+      "link": "https://en.chessbase.com/post/can-you-handle-pawns-4",
+      "source": "ChessBase",
+      "date": "2026-06-14T17:55:14.000Z",
+      "summary": "Take a look at this position. The black king is completely trapped and will soon be mated, but can White do it in just three moves? Try and work it out in your mind. Spoiler: it begins with an absurd-looking move. Test your skills on this and on three more…"
+    },
     {
       "title": "Blohberger beats Navara 3.5-2.5 in a match - 3-4",
       "link": "https://theweekinchess.com/twic-news-feed/blohberger-beats-navara-3.5-2.5-in-a-match",
