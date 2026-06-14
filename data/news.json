@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T17:16:33.373Z",
+  "updated": "2026-06-14T19:20:11.122Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Magnus Carlsen wins ASEAN E-Sports Chess Cup in Bangkok",
+      "link": "https://en.chessbase.com/post/asean-esports-chess-cup-bangkok-2026",
+      "source": "ChessBase",
+      "date": "2026-06-14T20:30:00.000Z",
+      "summary": "Magnus Carlsen won the inaugural ASEAN E-Sports Chess Cup in Bangkok after beating Andrey Esipenko in an Armageddon decider. The 22-player rapid event featured leading Southeast Asian representatives and five international invitees. Fabiano Caruana was elim…"
+    },
     {
       "title": "Can you deliver mate – reliably?",
       "link": "https://en.chessbase.com/post/can-you-handle-pawns-4",
