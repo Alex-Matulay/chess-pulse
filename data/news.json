@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T03:34:56.675Z",
+  "updated": "2026-06-14T08:12:09.507Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "ChessBase´26 – Tips for beginners, Part 19: Find model games for training",
+      "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-19-find-model-games-for-training",
+      "source": "ChessBase",
+      "date": "2026-06-14T07:00:00.000Z",
+      "summary": "You can find the perfect games for your training in no time: using the shortcut CTRL+F, you can search your databases specifically for players, game phases, or strategic and tactical themes. These search results let you focus your training exactly where you…"
+    },
     {
       "title": "Nakamura Wins 10th Bullet Brawl Of 2026, Maintains Perfect Record",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-13-2026",
