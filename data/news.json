@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T09:59:09.277Z",
+  "updated": "2026-06-15T15:51:16.939Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,41 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "3rd UzChess Cup 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/3rd-uzchess-cup-2026",
+      "source": "The Week in Chess",
+      "date": "2026-06-15T21:52:00.000Z",
+      "summary": "The 3rd UzChess Cup took place in Tashkent Sun 7th Jun to Mon 15th Jun 2026. The Masters: Nodirbek Abdusattorov, Arjun Erigaisi, Hans Moke Niemann, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Santosh Gujrathi Vidit, Nodirbek Yakubboev, Shamsiddin Vokhidov, N…"
+    },
+    {
+      "title": "Madaminov beats Vokhidov in tiebreaks, wins UzChess Cup after entering event as lowest seed",
+      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-9",
+      "source": "ChessBase",
+      "date": "2026-06-15T17:10:00.000Z",
+      "summary": "Mukhiddin Madaminov won the UzChess Cup in Tashkent after defeating Shamsiddin Vokhidov in blitz tiebreaks. The 19-year-old Uzbek player, the lowest-rated participant in the Masters section, had entered the field only after Javokhir Sindarov's withdrawal. M…"
+    },
+    {
+      "title": "Chess.com Documentary Revisits Guinness World Record Chess Marathon",
+      "link": "https://www.chess.com/news/view/guinness-world-record-marathon-documentary-released",
+      "source": "Chess.com",
+      "date": "2026-06-15T15:27:11.000Z",
+      "summary": "CM Odin Blikra Vea and Askild Bryn played 383 five-minute blitz games over more than 61 hours to set a new Guinness World Record for the longest chess marathon. In a new Chess.com documentary, the Norwegian duo revisits the highs, hallucinations, ..."
+    },
+    {
+      "title": "Relive All Your Brilliant Moves With Our New Advanced Stats Feature",
+      "link": "https://www.chess.com/news/view/announcing-advanced-stats",
+      "source": "Chess.com",
+      "date": "2026-06-15T15:00:00.000Z",
+      "summary": "You're smarter than you think, and we can prove it. You've probably played more brilliant moves than you remember&mdash;and you can now review them all with our new advanced stats feature! Diamond members can now relive their greatest moments and ..."
+    },
+    {
+      "title": "In Vienna: Felix Blohberger beats David Navara in six-game match",
+      "link": "https://en.chessbase.com/post/blohberger-navara-match-2026",
+      "source": "ChessBase",
+      "date": "2026-06-15T14:00:00.000Z",
+      "summary": "Felix Blohberger defeated David Navara 3½-2½ in a six-game match held at the offices of the Austrian Chess Federation in Vienna. Five games were drawn, with Blohberger's win in game three proving decisive. The Austrian grandmaster organised the match as par…"
+    },
     {
       "title": "Chess emerging as a tool for brain-computer innovation",
       "link": "https://www.fide.com/chess-emerging-as-a-tool-for-brain-computer-innovation/",
@@ -21,20 +56,6 @@
       "source": "ChessBase",
       "date": "2026-06-15T08:00:00.000Z",
       "summary": "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Shamsiddin Vokhidov and Mukhiddin Madaminov are…"
-    },
-    {
-      "title": "UzChess Cup: Mamedyarov and Nepo score, enter final round a half point behind leaders",
-      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-8",
-      "source": "ChessBase",
-      "date": "2026-06-15T05:45:00.000Z",
-      "summary": "Shamsiddin Vokhidov and Mukhiddin Madaminov remain tied for first place at the UzChess Cup with one round to go, after both drew their games on Sunday. Ian Nepomniachtchi and Shakhriyar Mamedyarov (pictured, right) scored wins to move within half a point of…"
-    },
-    {
-      "title": "Magnus Carlsen wins ASEAN E-Sports Chess Cup in Bangkok",
-      "link": "https://en.chessbase.com/post/asean-esports-chess-cup-bangkok-2026",
-      "source": "ChessBase",
-      "date": "2026-06-14T20:30:00.000Z",
-      "summary": "Magnus Carlsen won the inaugural ASEAN E-Sports Chess Cup in Bangkok after beating Andrey Esipenko in an Armageddon decider. The 22-player rapid event featured leading Southeast Asian representatives and five international invitees. Fabiano Caruana was elim…"
     },
     {
       "title": "Can you deliver mate – reliably?",
@@ -70,13 +91,6 @@
       "source": "FIDE",
       "date": "2026-06-13T09:54:38.000Z",
       "summary": "In response to requests by several national federations that are in the process of securing necessary funding, FIDE has officially extended the deadline for bids for the FIDE Chess Olympiad 2030 until September 1, 2026. This global event, the largest team c…"
-    },
-    {
-      "title": "3rd UzChess Cup 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/3rd-uzchess-cup-2026",
-      "source": "The Week in Chess",
-      "date": "2026-06-12T21:52:00.000Z",
-      "summary": "The 3rd UzChess Cup takes place in Tashkent Sun 7th Jun to Mon 15th Jun 2026. The Masters: Nodirbek Abdusattorov, Arjun Erigaisi, Hans Moke Niemann, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Santosh Gujrathi Vidit, Nodirbek Yakubboev, Shamsiddin Vokhidov,…"
     },
     {
       "title": "Nakamura, Andreikin, Aravindh Top 3 0 Thursdays On Tiebreaks",
@@ -324,20 +338,6 @@
       "summary": "GM Wesley So leads Norway Chess 2026 after a bloody round six that ended in three decisive results. So inflicted a second consecutive loss on GM Praggnanandhaa Rameshbabu and took the lead, while GM Magnus Carlsen exacted revenge on GM Alireza Fir..."
     },
     {
-      "title": "Bortnyk Outlasts Fierce Competition, Claims 17th Bullet Brawl Title",
-      "link": "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-may-30-2026",
-      "source": "Chess.com",
-      "date": "2026-05-31T02:59:31.000Z",
-      "summary": "GM Oleksandr Bortnyk claimed his 17th career Bullet Brawl title on Saturday, outlasting a 171-player titled field to win the latest edition with a score of 154 points. The Ukrainian speed-chess specialist finished nine points clear of IM Renato Te..."
-    },
-    {
-      "title": "Wesley So Beats Carlsen, Gukesh Scores 1st Classical Win, Divya Overtakes Assaubayeva",
-      "link": "https://www.chess.com/news/view/2026-norway-chess-round-5",
-      "source": "Chess.com",
-      "date": "2026-05-30T20:17:00.000Z",
-      "summary": "All three classical games could have been decisive in round five of Norway Chess 2026, but we got two Black wins and only one draw. GM Vincent Keymer missed a chance in his classical encounter against tournament leader GM Alireza Firouzja, who won..."
-    },
-    {
       "title": "14th Norway Chess 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/14th-norway-chess-2026",
       "source": "The Week in Chess",
@@ -462,13 +462,6 @@
       "source": "The Week in Chess",
       "date": "2026-05-01T20:56:00.000Z",
       "summary": "There were two decisive games in the first round of the Sigeman & Co Chess tournament, Andy Woodward beat Nils Grandelius after 26...Rd8? blundered an important pawn and the game. Zhu Jiner was starting to be worse against Nodirbek Abdusattorov when she mad…"
-    },
-    {
-      "title": "31st Tepe Sigeman & Co Chess Tournament 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/31st-tepe-sigeman-co-chess-tournament-2026",
-      "source": "The Week in Chess",
-      "date": "2026-05-01T11:20:00.000Z",
-      "summary": "The 31st Tepe Sigeman & Co Chess Tournament took place Fri 1st May to Thu 7th May 2026. Players: Magnus, Carlsen, Nodirbek Abdusattorov, Arjun Erigaisi, van Foreest Jorden, Yagiz Kaan Erdogmus, Nils Grandelius, Andy Woodward and Jiner Zhu. Magnus Carlsen be…"
     }
   ]
 }
