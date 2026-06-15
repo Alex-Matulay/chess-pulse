@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T19:44:25.110Z",
+  "updated": "2026-06-15T22:18:46.096Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -14,6 +14,13 @@
       "source": "The Week in Chess",
       "date": "2026-06-15T21:52:00.000Z",
       "summary": "The 3rd UzChess Cup took place in Tashkent Sun 7th Jun to Mon 15th Jun 2026. The Masters: Nodirbek Abdusattorov, Arjun Erigaisi, Hans Moke Niemann, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Santosh Gujrathi Vidit, Nodirbek Yakubboev, Shamsiddin Vokhidov, N…"
+    },
+    {
+      "title": "Madaminov Takes UzChess Cup In Tiebreaks",
+      "link": "https://www.chess.com/news/view/madaminov-wins-2026-uzchess-cup",
+      "source": "Chess.com",
+      "date": "2026-06-15T20:12:02.000Z",
+      "summary": "GM Mukhiddin Madaminov&nbsp;won the 2026 UzChess Cup Masters and $20,000 after defeating GM Shamsiddin Vokhidov 2-0 in blitz tiebreaks. Both players finished the round-robin with 5.5/9, with three grandmasters a half-point behind: Ian Nepomniachtc..."
     },
     {
       "title": "Madaminov beats Vokhidov in tiebreaks, wins UzChess Cup after entering event as lowest seed",
@@ -331,13 +338,6 @@
       "summary": "GM Wesley So leads Norway Chess 2026 after round seven, with GM Alireza Firouzja 2.5 points behind. World Champion Gukesh Dommaraju achieved a winning position against So but couldn't see it through in the classical game; despite winning the armag..."
     },
     {
-      "title": "Wesley So Wrests Lead From Firouzja, Assaubayeva Regains Women's Lead",
-      "link": "https://www.chess.com/news/view/2026-norway-chess-round-6",
-      "source": "Chess.com",
-      "date": "2026-05-31T20:15:00.000Z",
-      "summary": "GM Wesley So leads Norway Chess 2026 after a bloody round six that ended in three decisive results. So inflicted a second consecutive loss on GM Praggnanandhaa Rameshbabu and took the lead, while GM Magnus Carlsen exacted revenge on GM Alireza Fir..."
-    },
-    {
       "title": "14th Norway Chess 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/14th-norway-chess-2026",
       "source": "The Week in Chess",
@@ -455,13 +455,6 @@
       "source": "Lichess",
       "date": "2026-05-02T13:08:45.640Z",
       "summary": "A rapid counterattack and sacrifice"
-    },
-    {
-      "title": "Abdusattorov and Woodward take an early lead in the Sigeman & Co Chess tournament - 1",
-      "link": "https://theweekinchess.com/twic-news-feed/abdusattorov-and-woodward-take-an-early-lead-in-the-sigeman-co-chess-tournament",
-      "source": "The Week in Chess",
-      "date": "2026-05-01T20:56:00.000Z",
-      "summary": "There were two decisive games in the first round of the Sigeman & Co Chess tournament, Andy Woodward beat Nils Grandelius after 26...Rd8? blundered an important pawn and the game. Zhu Jiner was starting to be worse against Nodirbek Abdusattorov when she mad…"
     }
   ]
 }
