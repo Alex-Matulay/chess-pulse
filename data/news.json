@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T21:40:14.041Z",
+  "updated": "2026-06-16T23:20:52.467Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE World Team Rapid & Blitz Chess Championships 2026 Preview",
+      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-rapid-blitz-chess-championships-2026-preview/9xeS0vyr",
+      "source": "Lichess",
+      "date": "2026-06-16T22:34:27.831Z",
+      "summary": "Five days of extremely exciting, world class speed chess!"
+    },
     {
       "title": "FIDE World Team Rapid and Blitz",
       "link": "https://en.chessbase.com/post/fide-world-team-rapid-and-blitz",
@@ -434,13 +441,6 @@
       "source": "The Week in Chess",
       "date": "2026-05-03T21:31:00.000Z",
       "summary": "The top two seeds met in Round 3 when Magnus Carlsen drew against Nodirbek Abdusattorov. Carlsen tried a quiet Exchange Slav with white but Abdusattorov was precise and they drew in 44 moves. The other draw was between Andy Woodward and Jorden Van Foreest i…"
-    },
-    {
-      "title": "Carlsen impresses in beating Grandelius in Sigeman Round 2 - 2",
-      "link": "https://theweekinchess.com/twic-news-feed/31st-tepe-sigeman-co-chess-tournament-2026",
-      "source": "The Week in Chess",
-      "date": "2026-05-02T21:50:00.000Z",
-      "summary": "Magnus Carlsen joined the leaders Nodirbek Abdusattorov and Andy Woodward on 1.5 points after two rounds of the 31st Sigeman & Co tournament in Malmo. Carlsen was the only winner but all four games could easily have finished decisively. Carlsen was the only…"
     }
   ]
 }
