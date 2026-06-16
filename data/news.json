@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T00:27:57.260Z",
+  "updated": "2026-06-16T06:31:33.572Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "World Cadets Cup U8-U12, under new format, to start in Batumi",
+      "link": "https://en.chessbase.com/post/world-cadets-cup-2026-announcement",
+      "source": "ChessBase",
+      "date": "2026-06-16T08:00:00.000Z",
+      "summary": "FIDE launched a revised championship cycle for the under-8, under-10 and under-12 age groups in 2026, with the first World Cadets Cup U8-U12 scheduled for 15-28 June in Batumi, Georgia. The event serves as a qualifying stage ahead of the World Cadets Champi…"
+    },
+    {
+      "title": "World Youth Chess Championships kick off in Montesilvano",
+      "link": "https://en.chessbase.com/post/world-youth-chess-championship-2026-announcement",
+      "source": "ChessBase",
+      "date": "2026-06-16T04:15:00.000Z",
+      "summary": "The World Youth Chess Championships 2026 are taking place in Montesilvano, Italy, from 14 to 27 June. Organised by FIDE, the Italian Chess Federation and UniChess, the event features under-14, under-16 and under-18 sections, with open and girls' tournaments…"
+    },
     {
       "title": "3rd UzChess Cup 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/3rd-uzchess-cup-2026",
@@ -20,7 +34,7 @@
       "link": "https://www.chess.com/news/view/madaminov-wins-2026-uzchess-cup",
       "source": "Chess.com",
       "date": "2026-06-15T20:12:02.000Z",
-      "summary": "GM Mukhiddin Madaminov&nbsp;won the 2026 UzChess Cup Masters and $20,000 after defeating GM Shamsiddin Vokhidov 2-0 in blitz tiebreaks. Both players finished the round-robin with 5.5/9, with three grandmasters a half-point behind: Ian Nepomniachtc..."
+      "summary": "GM Mukhiddin Madaminov&nbsp;won the 2026 UzChess Cup Masters and $20,000 on June 15 after defeating GM Shamsiddin Vokhidov 2-0 in blitz tiebreaks. Both players finished the round-robin with 5.5/9, with three grandmasters a half-point behind: Ian N..."
     },
     {
       "title": "Madaminov beats Vokhidov in tiebreaks, wins UzChess Cup after entering event as lowest seed",
