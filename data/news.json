@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T18:01:46.777Z",
+  "updated": "2026-06-16T21:40:14.041Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE World Team Rapid and Blitz",
+      "link": "https://en.chessbase.com/post/fide-world-team-rapid-and-blitz",
+      "source": "ChessBase",
+      "date": "2026-06-16T21:00:00.000Z",
+      "summary": "The opening press conference for the FIDE World Team Rapid and Blitz Championships 2026 took place on June 16 at The Pavilion, The Fullerton Ocean Park Hotel Hong Kong, marking the official start of one of FIDE's most dynamic and spectator-friendly competit…"
+    },
+    {
+      "title": "Nearly Perfect Sarana Tops Returning Carlsen",
+      "link": "https://www.chess.com/news/view/sarana-wins-titled-tuesday-june-16-2026",
+      "source": "Chess.com",
+      "date": "2026-06-16T18:34:39.000Z",
+      "summary": "GM Alexey Sarana won Titled Tuesday on June 16 with a nearly perfect performance, scoring 10.5/11, with his only non-victory a draw against GM Magnus Carlsen in round eight. Carlsen, playing the full tournament for the first time in weeks, wasn't ..."
+    },
     {
       "title": "Carlsen Wins 2026 ASEAN E-Sports Chess Cup",
       "link": "https://www.chess.com/news/view/carlsen-wins-2026-asean-e-sports-chess-cup",
@@ -44,25 +58,11 @@
       "summary": "The inaugural Esports Nations Cup will take place in Riyadh, Saudi Arabia, from November 2 to 29. Unlike the Esports World Cup, which focuses on esports teams, the ENC will feature players representing their countries and territories across 16 esp..."
     },
     {
-      "title": "Viktor Korchnoi remembered: Never mention Curaçao",
-      "link": "https://en.chessbase.com/post/viktor-korchnoi-remembered-2026",
-      "source": "ChessBase",
-      "date": "2026-06-16T11:00:00.000Z",
-      "summary": "A little over ten years ago, Viktor Korchnoi, one of the true greats of chess history, passed away. Korchnoi had many facets and remained one of the world's best players well into old age. But trying to talk to him about Curaçao 1962 was not a good idea. A…"
-    },
-    {
       "title": "FIDE World Team Rapid and Blitz Championships 2026 officially open in Hong Kong",
       "link": "https://www.fide.com/fide-world-team-rapid-and-blitz-championships-2026-officially-open-in-hong-kong/",
       "source": "FIDE",
       "date": "2026-06-16T08:33:02.000Z",
       "summary": "The opening press conference for the FIDE World Team Rapid and Blitz Championships 2026 took place on June 16 at The Pavilion, The Fullerton Ocean Park Hotel Hong Kong, marking the official start of one of FIDE’s most dynamic and spectator-friendly competit…"
-    },
-    {
-      "title": "World Cadets Cup U8-U12, under new format, to start in Batumi",
-      "link": "https://en.chessbase.com/post/world-cadets-cup-2026-announcement",
-      "source": "ChessBase",
-      "date": "2026-06-16T08:00:00.000Z",
-      "summary": "FIDE launched a revised championship cycle for the under-8, under-10 and under-12 age groups in 2026, with the first World Cadets Cup U8-U12 scheduled for 15-28 June in Batumi, Georgia. The event serves as a qualifying stage ahead of the World Cadets Champi…"
     },
     {
       "title": "FIDE World Youth Chess Championships 2026 begin in Montesilvano",
@@ -79,13 +79,6 @@
       "summary": "Mukhiddin Madaminov of Uzbekistan claimed the UzChess Cup Masters title after defeating his fellow countryman Shamsiddin Vokhidov in an exciting tiebreaker. The third edition of UzChess Cup was held in Tashkent from June 7 to 15, 2026 and featured a stellar…"
     },
     {
-      "title": "World Youth Chess Championships kick off in Montesilvano",
-      "link": "https://en.chessbase.com/post/world-youth-chess-championship-2026-announcement",
-      "source": "ChessBase",
-      "date": "2026-06-16T04:15:00.000Z",
-      "summary": "The World Youth Chess Championships 2026 are taking place in Montesilvano, Italy, from 14 to 27 June. Organised by FIDE, the Italian Chess Federation and UniChess, the event features under-14, under-16 and under-18 sections, with open and girls' tournaments…"
-    },
-    {
       "title": "3rd UzChess Cup 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/3rd-uzchess-cup-2026",
       "source": "The Week in Chess",
@@ -98,13 +91,6 @@
       "source": "Chess.com",
       "date": "2026-06-15T20:12:02.000Z",
       "summary": "GM Mukhiddin Madaminov&nbsp;won the 2026 UzChess Cup Masters and $20,000 on June 15 after defeating GM Shamsiddin Vokhidov 2-0 in blitz tiebreaks. Both players finished the round-robin with 5.5/9, with three grandmasters a half-point behind: Ian N..."
-    },
-    {
-      "title": "Madaminov beats Vokhidov in tiebreaks, wins UzChess Cup after entering event as lowest seed",
-      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-9",
-      "source": "ChessBase",
-      "date": "2026-06-15T17:10:00.000Z",
-      "summary": "Mukhiddin Madaminov won the UzChess Cup in Tashkent after defeating Shamsiddin Vokhidov in blitz tiebreaks. The 19-year-old Uzbek player, the lowest-rated participant in the Masters section, had entered the field only after Javokhir Sindarov's withdrawal. M…"
     },
     {
       "title": "Chess.com Documentary Revisits Guinness World Record Chess Marathon",
@@ -121,32 +107,11 @@
       "summary": "You're smarter than you think, and we can prove it. You've probably played more brilliant moves than you remember&mdash;and you can now review them all with our new advanced stats feature! Diamond members can now relive their greatest moments and ..."
     },
     {
-      "title": "In Vienna: Felix Blohberger beats David Navara in six-game match",
-      "link": "https://en.chessbase.com/post/blohberger-navara-match-2026",
-      "source": "ChessBase",
-      "date": "2026-06-15T14:00:00.000Z",
-      "summary": "Felix Blohberger defeated David Navara 3½-2½ in a six-game match held at the offices of the Austrian Chess Federation in Vienna. Five games were drawn, with Blohberger's win in game three proving decisive. The Austrian grandmaster organised the match as par…"
-    },
-    {
       "title": "Chess emerging as a tool for brain-computer innovation",
       "link": "https://www.fide.com/chess-emerging-as-a-tool-for-brain-computer-innovation/",
       "source": "FIDE",
       "date": "2026-06-15T08:45:24.000Z",
       "summary": "FIDE Treasurer and Women’s World Champion Zhu Chen, together with WIM Liang Zhihua, attended the “Brain-Computer Interface (BCI) Clinical Application Symposium” on June 11, as special guests at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen).…"
-    },
-    {
-      "title": "UzChess Cup - Live!",
-      "link": "https://en.chessbase.com/post/uz-chess-cup-2026-live",
-      "source": "ChessBase",
-      "date": "2026-06-15T08:00:00.000Z",
-      "summary": "The third edition of the UzChess Cup is taking place on 7-15 June in Tashkent, Uzbekistan. Four Uzbek representatives face six international grandmasters in a single round-robin with a classical time control. Shamsiddin Vokhidov and Mukhiddin Madaminov are…"
-    },
-    {
-      "title": "Can you deliver mate – reliably?",
-      "link": "https://en.chessbase.com/post/can-you-handle-pawns-4",
-      "source": "ChessBase",
-      "date": "2026-06-14T17:55:14.000Z",
-      "summary": "Take a look at this position. The black king is completely trapped and will soon be mated, but can White do it in just three moves? Try and work it out in your mind. Spoiler: it begins with an absurd-looking move. Test your skills on this and on three more…"
     },
     {
       "title": "Blohberger beats Navara 3.5-2.5 in a match - 3-4",
@@ -364,13 +329,6 @@
       "source": "Chess.com",
       "date": "2026-06-02T18:40:00.000Z",
       "summary": "The quantitative trading firm Jane Street won the North American Corporate Chess League's 13th season on May 28, winning three rounds of playoff matches, including an exciting final against JPMorgan Chase. The NACCL is the largest corporate chess ..."
-    },
-    {
-      "title": "Bullet Chess Championship Returns June 22, Firouzja Leads Field To Defend His Crown",
-      "link": "https://www.chess.com/news/view/announcing-bullet-chess-championship-2026",
-      "source": "Chess.com",
-      "date": "2026-06-02T15:00:00.000Z",
-      "summary": "Calling all speed addicts! The world's fastest players will meet again to battle in the next edition of the Bullet Chess Championship starting June 22. With a $50,000 prize fund and the most dangerous bullet players in the world, drama is all but ..."
     },
     {
       "title": "14th Norway Chess 2026 - Games and Results",
