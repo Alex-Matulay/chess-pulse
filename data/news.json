@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T12:10:10.655Z",
+  "updated": "2026-06-16T18:01:46.777Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,41 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Carlsen Wins 2026 ASEAN E-Sports Chess Cup",
+      "link": "https://www.chess.com/news/view/carlsen-wins-2026-asean-e-sports-chess-cup",
+      "source": "Chess.com",
+      "date": "2026-06-16T17:00:00.000Z",
+      "summary": "GM Magnus Carlsen won the inaugural 2026 ASEAN E-Sports Chess Cup on June 13 and the $8,500 first prize. After finishing at the top of Group A, he went on to defeat GM Andrey Esipenko 2-1 in the Championship Final. The event took place at the Fou..."
+    },
+    {
+      "title": "FIDE opens Shenzhen Office, ushering in a new era of international chess collaboration",
+      "link": "https://www.fide.com/fide-opens-shenzhen-office-ushering-in-a-new-era-of-international-chess-collaboration/",
+      "source": "FIDE",
+      "date": "2026-06-16T16:28:14.000Z",
+      "summary": "On June 16, the FIDE Shenzhen Office was officially inaugurated in Qianhai, Shenzhen. As the federation’s first office in Asia since its founding in 1924, the new hub marks a major milestone for FIDE’s global expansion and makes it the first international s…"
+    },
+    {
+      "title": "Surprise victory for Mukhiddin Madaminov in the 3rd UzChess Cup - 9",
+      "link": "https://theweekinchess.com/twic-news-feed/surprise-victory-for-mukhiddin-madaminov-in-the-3rd-uzchess-cup",
+      "source": "The Week in Chess",
+      "date": "2026-06-16T15:17:00.000Z",
+      "summary": "Mukhiddin Madaminov won the 3rd Uzchess Cup in Tashkent , a real surprise as he was the bottom seed and there as a replacement for Javokhir Sindarov. Madaminov won a final blitz tie-break 2-0 against fellow Uzbekistani Shamsiddin Vokhidov who also wasn't on…"
+    },
+    {
+      "title": "Hong Kong takes centre stage",
+      "link": "https://en.chessbase.com/post/hong-kong-takes-centre-stage",
+      "source": "ChessBase",
+      "date": "2026-06-16T14:37:40.000Z",
+      "summary": "Magnus Carlsen makes his Hong Kong debut, alongside American star Fabiano Caruana and other chess super-stars, as the city takes centre stage of the chess world. Carlsen today made his first official appearance in the city, taking part in a press conference…"
+    },
+    {
+      "title": "Vachier-Lagrave, Le, Bluebaum Among Stars To Play In Esports Nations Cup Finals",
+      "link": "https://www.chess.com/news/view/2026-esports-nations-cup-regional-qualifiers",
+      "source": "Chess.com",
+      "date": "2026-06-16T13:55:00.000Z",
+      "summary": "The inaugural Esports Nations Cup will take place in Riyadh, Saudi Arabia, from November 2 to 29. Unlike the Esports World Cup, which focuses on esports teams, the ENC will feature players representing their countries and territories across 16 esp..."
+    },
     {
       "title": "Viktor Korchnoi remembered: Never mention Curaçao",
       "link": "https://en.chessbase.com/post/viktor-korchnoi-remembered-2026",
@@ -198,13 +233,6 @@
       "summary": "GM Sam Shankland (USA) lived up to his status as the tournament favorite, convincingly defending his title at the 19th American Continental Chess Championship. The event was held from 1 to 11 June 2026 at the Hotel Dorados Conventions & Resorts in Oaxtepec,…"
     },
     {
-      "title": "FIDE World Amateur Rapid & Blitz Championships in Nigeria: Registration continues",
-      "link": "https://www.fide.com/fide-world-amateur-rapid-blitz-championships-in-nigeria-registration-continues/",
-      "source": "FIDE",
-      "date": "2026-06-11T11:09:16.000Z",
-      "summary": "All FIDE Member Federations and eligible players are invited to participate in the inaugural FIDE World Amateur Rapid & Blitz Chess Championships 2026, open to players with a FIDE rating under 2300. The event will be held in Abuja, the Federal Capital Terri…"
-    },
-    {
       "title": "A Game That Outlasted the Day (7)",
       "link": "https://en.chessbase.com/post/a-game-that-outlasted-the-day-7",
       "source": "ChessBase",
@@ -345,20 +373,6 @@
       "summary": "Calling all speed addicts! The world's fastest players will meet again to battle in the next edition of the Bullet Chess Championship starting June 22. With a $50,000 prize fund and the most dangerous bullet players in the world, drama is all but ..."
     },
     {
-      "title": "Arjun Returns To Top 10 In June Rating List",
-      "link": "https://www.chess.com/news/view/arjun-returns-to-top-10-in-june-rating-list",
-      "source": "Chess.com",
-      "date": "2026-06-01T21:52:00.000Z",
-      "summary": "GM Arjun Erigaisi lost a tight tiebreak match to GM Magnus Carlsen in the TePe Sigeman Chess Tournament in May. While he couldn't quite take first place, Arjun's strong 5/8 performance earned him 10 rating points, raising his rating to 2761. That ..."
-    },
-    {
-      "title": "Wesley So Survives Against Gukesh In Classical, Assaubayeva Extends Lead",
-      "link": "https://www.chess.com/news/view/2026-norway-chess-round-7",
-      "source": "Chess.com",
-      "date": "2026-06-01T20:27:00.000Z",
-      "summary": "GM Wesley So leads Norway Chess 2026 after round seven, with GM Alireza Firouzja 2.5 points behind. World Champion Gukesh Dommaraju achieved a winning position against So but couldn't see it through in the classical game; despite winning the armag..."
-    },
-    {
       "title": "14th Norway Chess 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/14th-norway-chess-2026",
       "source": "The Week in Chess",
@@ -469,13 +483,6 @@
       "source": "The Week in Chess",
       "date": "2026-05-02T21:50:00.000Z",
       "summary": "Magnus Carlsen joined the leaders Nodirbek Abdusattorov and Andy Woodward on 1.5 points after two rounds of the 31st Sigeman & Co tournament in Malmo. Carlsen was the only winner but all four games could easily have finished decisively. Carlsen was the only…"
-    },
-    {
-      "title": "Lichess Game of the Month: March '26",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-march-26/40I88joS",
-      "source": "Lichess",
-      "date": "2026-05-02T13:08:45.640Z",
-      "summary": "A rapid counterattack and sacrifice"
     }
   ]
 }
