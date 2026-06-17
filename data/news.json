@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T23:20:52.467Z",
+  "updated": "2026-06-17T03:38:52.114Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chess emerging as tool for innovation on brain-computer interface systems",
+      "link": "https://en.chessbase.com/post/chess-innovation-brain-computer-interface",
+      "source": "ChessBase",
+      "date": "2026-06-17T02:00:00.000Z",
+      "summary": "Chess and brain-computer interface research came together at a clinical symposium held at the Chinese University of Hong Kong, Shenzhen, with FIDE Treasurer Zhu Chen among the invited guests. The event followed recent demonstrations of BCI technology throug…"
+    },
     {
       "title": "FIDE World Team Rapid & Blitz Chess Championships 2026 Preview",
       "link": "https://lichess.org/@/Lichess/blog/fide-world-team-rapid-blitz-chess-championships-2026-preview/9xeS0vyr",
