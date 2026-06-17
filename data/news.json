@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T12:55:39.478Z",
+  "updated": "2026-06-17T16:37:05.658Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2026",
+      "source": "The Week in Chess",
+      "date": "2026-06-24T14:52:00.000Z",
+      "summary": "The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Lev…"
+    },
+    {
+      "title": "KazChess and Dragon Chilling lead after day one of World Rapid Team Championship in Hong Kong",
+      "link": "https://www.fide.com/kazchess-and-dragon-chilling-lead-after-day-one-of-world-rapid-team-championship-in-hong-kong/",
+      "source": "FIDE",
+      "date": "2026-06-17T14:05:53.000Z",
+      "summary": "KazChess and Dragon Chilling emerged as the early leaders after the first day of the FIDE World Team Rapid Championship in Hong Kong, with both teams winning all four of their opening matches. They are followed by nine teams on three match wins, including d…"
+    },
     {
       "title": "Andrew Hong outright winner at Aktobe Masters in Kazakhstan",
       "link": "https://en.chessbase.com/post/aktobe-open-2026-final-report",
@@ -210,13 +224,6 @@
       "source": "FIDE",
       "date": "2026-06-12T10:39:09.000Z",
       "summary": "By Milan Dinic From 16 to 22 June, the crème de la crème of the chess world will gather in Hong Kong for the fourth edition of the FIDE World Team Rapid and Blitz Chess Championships, alongside the inaugural World Team Amateur Rapid Chess Cup, with both eve…"
-    },
-    {
-      "title": "Andrew Hong wins Aktobe Open 2026 – Vladimir Dvorkovich Memorial",
-      "link": "https://www.fide.com/andrew-hong-wins-aktobe-open-2026-vladimir-dvorkovich-memorial/",
-      "source": "FIDE",
-      "date": "2026-06-12T06:56:00.000Z",
-      "summary": "American Grandmaster Andrew Hong emerged as the outright winner of the Aktobe Open 2026 – Vladimir Dvorkovich Memorial (Masters) finishing with an excellent score of 7/9. The event brought together 210 participants from 21 countries: Armenia, Azerbaijan, Bu…"
     },
     {
       "title": "Vokhidov Takes Sole Lead With 3-Win Streak",
