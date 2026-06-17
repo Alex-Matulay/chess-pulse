@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T19:23:03.382Z",
+  "updated": "2026-06-17T21:57:28.820Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -14,6 +14,13 @@
       "source": "The Week in Chess",
       "date": "2026-06-24T14:52:00.000Z",
       "summary": "The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Lev…"
+    },
+    {
+      "title": "Chess Federation of Russia suspended after CAS ruling - partially",
+      "link": "https://en.chessbase.com/post/chess-federation-of-russia-partial-suspension",
+      "source": "ChessBase",
+      "date": "2026-06-17T21:45:00.000Z",
+      "summary": "Following a complaint by the Ukrainian Chess Federation, the Court of Arbitration for Sport (CAS) has ordered FIDE to suspend the Chess Federation of Russia over the staging of tournaments in occupied territories. The FIDE Council complied with the ruling -…"
     },
     {
       "title": "Ding, Rapport's Teams Lead As World Rapid Championship Starts In Hong Kong",
@@ -462,13 +469,6 @@
       "source": "The Week in Chess",
       "date": "2026-05-04T21:01:00.000Z",
       "summary": "Yagiz Kaan Erdogmus defeated Nils Grandelius to take the lead alone in the 31st TePe Sigeman & Co Chess Tournament 2026. Grandelius achieved equality but 25...cxd6? (Rxd6) cost him the game. Nodirbek Abdusattorov obtained a winning advantage against Arjun E…"
-    },
-    {
-      "title": "Five way tie for the lead in the Sigeman & Co tournament after three rounds - 3",
-      "link": "https://theweekinchess.com/twic-news-feed/five-way-tie-for-the-lead-in-the-sigeman-co-tournament-after-three-rounds",
-      "source": "The Week in Chess",
-      "date": "2026-05-03T21:31:00.000Z",
-      "summary": "The top two seeds met in Round 3 when Magnus Carlsen drew against Nodirbek Abdusattorov. Carlsen tried a quiet Exchange Slav with white but Abdusattorov was precise and they drew in 44 moves. The other draw was between Andy Woodward and Jorden Van Foreest i…"
     }
   ]
 }
