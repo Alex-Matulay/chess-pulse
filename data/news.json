@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T03:38:52.114Z",
+  "updated": "2026-06-17T08:59:25.008Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Hong Kong joins global chess map as World Team Rapid and Blitz Chess Championships get underway",
+      "link": "https://www.fide.com/hong-kong-joins-global-chess-map-as-world-team-rapid-and-blitz-chess-championships-get-underway/",
+      "source": "FIDE",
+      "date": "2026-06-17T08:49:55.000Z",
+      "summary": "The fourth edition of the fast-paced World Team Rapid and Blitz Championships has started in Hong Kong with 48 squads competing. For the first time since the launch of the competition in 2023, FIDE is also staging a World Team Amateur Cup, which will run al…"
+    },
+    {
+      "title": "World Team Rapid Championship - Live!",
+      "link": "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-live",
+      "source": "ChessBase",
+      "date": "2026-06-17T08:00:00.000Z",
+      "summary": "The World Team Rapid Chess Championship is taking place on 17-19 June in Hong Kong. The tournament is played as a 12-round Swiss open (4 rounds per day), with six-player team matches. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongsid…"
+    },
     {
       "title": "Chess emerging as tool for innovation on brain-computer interface systems",
       "link": "https://en.chessbase.com/post/chess-innovation-brain-computer-interface",
@@ -203,13 +217,6 @@
       "source": "Chess.com",
       "date": "2026-06-11T21:44:00.000Z",
       "summary": "GM Shamsiddin Vokhidov leads the 2026 UzChess Cup after five hard-fought rounds, where we have seen more decisive games than draws. After losing in round two against GM Hans Niemann, the Uzbek grandmaster has won three games in a row against GMs M..."
-    },
-    {
-      "title": "Sam Shankland defends title at 2026 American Continental Chess Championship",
-      "link": "https://www.fide.com/sam-shankland-defends-title-at-2026-american-continental-chess-championship/",
-      "source": "FIDE",
-      "date": "2026-06-11T13:54:42.000Z",
-      "summary": "GM Sam Shankland (USA) lived up to his status as the tournament favorite, convincingly defending his title at the 19th American Continental Chess Championship. The event was held from 1 to 11 June 2026 at the Hotel Dorados Conventions & Resorts in Oaxtepec,…"
     },
     {
       "title": "A Game That Outlasted the Day (7)",
