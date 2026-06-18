@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T19:24:24.129Z",
+  "updated": "2026-06-18T22:03:19.538Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -14,6 +14,13 @@
       "source": "The Week in Chess",
       "date": "2026-06-24T14:52:00.000Z",
       "summary": "The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Lev…"
+    },
+    {
+      "title": "Hong Kong: Dragon Chilling lead, Team MGD1 and Barys in the hunt",
+      "link": "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-2",
+      "source": "ChessBase",
+      "date": "2026-06-18T21:45:00.000Z",
+      "summary": "Dragon Chilling emerged as the sole leaders after day two of the World Team Rapid Championship in Hong Kong, reaching 14/16 match points after eight rounds. The all-Chinese team remain unbeaten, while Team MGD1 climbed to second place with a strong run that…"
     },
     {
       "title": "WTRBCC 2026: Dragon Chilling take control in Hong Kong",
@@ -42,13 +49,6 @@
       "source": "FIDE",
       "date": "2026-06-18T13:09:04.000Z",
       "summary": "On June 13–14, 2026, Japan hosted chess events featuring Grandmasters Darmen Sadvakasov – First Vice-President of the Kazakhstan Chess Federation and Vice-President of the Asian Chess Federation (ACF) – and Viсtor Bologan, FIDE Executive Director. The visit…"
-    },
-    {
-      "title": "World Team Rapid Championship - Live!",
-      "link": "https://en.chessbase.com/post/world-rapid-blitz-teams-2026-live",
-      "source": "ChessBase",
-      "date": "2026-06-18T08:00:00.000Z",
-      "summary": "The World Team Rapid Chess Championship is taking place on 17-19 June in Hong Kong. The tournament is played as a 12-round Swiss open (4 rounds per day), with six-player team matches. Elite GMs Magnus Carlsen, Fabiano Caruana and Viswanathan Anand, alongsid…"
     },
     {
       "title": "Ding, Rapport's Teams Lead As World Rapid Championship Starts In Hong Kong",
@@ -434,13 +434,6 @@
       "source": "The Week in Chess",
       "date": "2026-05-06T14:10:00.000Z",
       "summary": "Arjun Erigaisi beat Jorden van Foreest in the fifth round of the 31st Sigeman & Co tournament in Malmo. van Foreest will probably be disappointed with his play and especially 25...e5 which directly led to his loss. Magnus Carlsen said that his play was shak…"
-    },
-    {
-      "title": "Erdogmus leads the Sigeman tournament with 3/4, Van Foreest beats Carlsen - 4",
-      "link": "https://theweekinchess.com/twic-news-feed/erdogmus-leads-the-sigeman-tournament-with-34-van-foreest-beats-carlsen",
-      "source": "The Week in Chess",
-      "date": "2026-05-04T21:01:00.000Z",
-      "summary": "Yagiz Kaan Erdogmus defeated Nils Grandelius to take the lead alone in the 31st TePe Sigeman & Co Chess Tournament 2026. Grandelius achieved equality but 25...cxd6? (Rxd6) cost him the game. Nodirbek Abdusattorov obtained a winning advantage against Arjun E…"
     }
   ]
 }
