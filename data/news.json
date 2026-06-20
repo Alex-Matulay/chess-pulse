@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T13:52:23.085Z",
+  "updated": "2026-06-20T15:43:45.247Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -21,6 +21,13 @@
       "source": "ChessBase",
       "date": "2026-06-20T15:00:00.000Z",
       "summary": "At the end of the 1980s, Soenke Maus, who was born on 11 June 1967 in Bad Schwartau and celebrated his 59th birthday last week, was regarded as one of Germany's greatest talents. But in 1995 he ended his chess career and became a successful marine researche…"
+    },
+    {
+      "title": "Favourites prevail on first day of FIDE World Team Blitz Championship",
+      "link": "https://www.fide.com/favourites-prevail-on-first-day-of-fide-world-team-blitz-championship/",
+      "source": "FIDE",
+      "date": "2026-06-20T14:17:55.000Z",
+      "summary": "The FIDE World Team Blitz Chess Championship kicked off today in Hong Kong, with an intense opening day featuring both the pool stage and the first elimination round. Of 48 teams at the start of play, only eight remain in contention for the title, with most…"
     },
     {
       "title": "World Team Blitz Championship - Live!",
@@ -182,13 +189,6 @@
       "source": "Chess.com",
       "date": "2026-06-16T13:55:00.000Z",
       "summary": "GMs Maxime Vachier-Lagrave, Le Quang Liem, Matthias Bluebaum, Volodar Murzin and Christopher Yoo are among the players who secured their spots in the inaugural Esports Nations Cup Finals, with at least 82 countries and territories set to be repres..."
-    },
-    {
-      "title": "FIDE World Team Rapid and Blitz Championships 2026 officially open in Hong Kong",
-      "link": "https://www.fide.com/fide-world-team-rapid-and-blitz-championships-2026-officially-open-in-hong-kong/",
-      "source": "FIDE",
-      "date": "2026-06-16T08:33:02.000Z",
-      "summary": "The opening press conference for the FIDE World Team Rapid and Blitz Championships 2026 took place on June 16 at The Pavilion, The Fullerton Ocean Park Hotel Hong Kong, marking the official start of one of FIDE’s most dynamic and spectator-friendly competit…"
     },
     {
       "title": "3rd UzChess Cup 2026 - Games and Results",
@@ -448,13 +448,6 @@
       "source": "The Week in Chess",
       "date": "2026-05-06T18:20:00.000Z",
       "summary": "The first event in the Grand Chess Tour 2026 is the Super Rapid & Blitz Poland in Warsaw . This is a category 20 field. The players meet once in a rapid game and twice in the blitz. Of major interest was the first meeting of Javokhir Sindarov and World Cham…"
-    },
-    {
-      "title": "Erigaisi and Erdogmus lead the Sigeman & Co tournament after five rounds - 5",
-      "link": "https://theweekinchess.com/twic-news-feed/erigaisi-and-erdogmus-lead-the-sigeman-co-tournament-after-five-rounds",
-      "source": "The Week in Chess",
-      "date": "2026-05-06T14:10:00.000Z",
-      "summary": "Arjun Erigaisi beat Jorden van Foreest in the fifth round of the 31st Sigeman & Co tournament in Malmo. van Foreest will probably be disappointed with his play and especially 25...e5 which directly led to his loss. Magnus Carlsen said that his play was shak…"
     }
   ]
 }
