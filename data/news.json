@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T11:42:37.336Z",
+  "updated": "2026-06-21T14:00:21.554Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -14,6 +14,13 @@
       "source": "The Week in Chess",
       "date": "2026-06-24T14:52:00.000Z",
       "summary": "The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Lev…"
+    },
+    {
+      "title": "FIDE World Team Blitz 2026: Dragon Chilling Clinches Double Title",
+      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-blitz-2026-dragon-chilling-clinches-double-title/NNCqdkrl",
+      "source": "Lichess",
+      "date": "2026-06-21T12:35:42.692Z",
+      "summary": "Dragon Chilling won the FIDE World Team Blitz Chess Championship 2026, defeating Endgame.AI in a dominant final and achieving a double gold. Uzbekistan took third after winning against Hexamind Chess Team."
     },
     {
       "title": "World Youth Chess Championship 2026: Final sprint begins after rest day",
@@ -427,13 +434,6 @@
       "source": "The Week in Chess",
       "date": "2026-05-07T22:32:00.000Z",
       "summary": "The final day of the 31st Sigeman & Co tournament saw a number of twists and turns before Magnus Carlsen emerged as the winner. The leader Arjun Erigaisi went full blooded for a win against Andy Woodward and it really was too much when he pushed his g and h…"
-    },
-    {
-      "title": "TePe Sigeman - Live!",
-      "link": "https://en.chessbase.com/post/tepe-sigeman-2026-live",
-      "source": "ChessBase",
-      "date": "2026-05-07T11:50:00.000Z",
-      "summary": "The TePe Sigeman Chess Tournament is taking place on 1–7 May in Malmö, Sweden. World number one Magnus Carlsen heads the field, as he faces ambitious opposition that includes Tata Steel Masters winner Nodirbek Abdusattorov, Arjun Erigaisi and rising star Ya…"
     }
   ]
 }
