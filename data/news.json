@@ -1,8 +1,7 @@
 {
-  "updated": "2026-06-23T00:01:45.890Z",
+  "updated": "2026-06-23T04:56:43.435Z",
   "sources": [
     "Chess.com",
-    "Lichess",
     "ChessBase",
     "FIDE",
     "The Week in Chess"
@@ -14,6 +13,13 @@
       "source": "The Week in Chess",
       "date": "2026-06-24T14:52:00.000Z",
       "summary": "The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Lev…"
+    },
+    {
+      "title": "Can you solve these positions from the Chola Chess camp?",
+      "link": "https://en.chessbase.com/post/chola-chess-camp-problems-1",
+      "source": "ChessBase",
+      "date": "2026-06-23T02:10:00.000Z",
+      "summary": "Chola Chess is building a dedicated space for India's strong chess players to train and improve. It is led by R. B. Ramesh and Aarthie Ramaswamy, and supported by a committed team. With consistent camps and serious training, it has already impacted over 130…"
     },
     {
       "title": "Surrealists and chess",
@@ -79,13 +85,6 @@
       "summary": "China’s Dragon Chilling crowned a remarkable week in Hong Kong by winning the FIDE World Team Blitz Chess Championship, defeating Endgame.AI in the final and adding the blitz title to their rapid gold. The victory earned the Chinese squad the €75,000 first…"
     },
     {
-      "title": "FIDE World Team Blitz 2026: Dragon Chilling Clinches Double Title",
-      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-blitz-2026-dragon-chilling-clinches-double-title/NNCqdkrl",
-      "source": "Lichess",
-      "date": "2026-06-21T12:35:42.692Z",
-      "summary": "Dragon Chilling won the FIDE World Team Blitz Chess Championship 2026, defeating Endgame.AI in a dominant final and achieving a double gold. Uzbekistan took third after winning against Hexamind Chess Team."
-    },
-    {
       "title": "World Youth Chess Championship 2026: Final sprint begins after rest day",
       "link": "https://www.fide.com/world-youth-chess-championship-2026-final-sprint-begins-after-rest-day/",
       "source": "FIDE",
@@ -149,13 +148,6 @@
       "summary": "GM Ian Nepomniachtchi is your Freestyle Friday winner for June 19, winning six games in a row at one point to claim the tournament outright on nine points, his second of the year and third overall. Tiebreaks separated second-place IM Reza Mahdavi ..."
     },
     {
-      "title": "FIDE World Team Rapid 2026: Dragon Chilling Rapid Champions, Rise Like a Phoenix",
-      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-rapid-2026-dragon-chilling-rapid-champions-rise-like-a-phoenix/AdnRMOKE",
-      "source": "Lichess",
-      "date": "2026-06-19T14:45:15.237Z",
-      "summary": "After a topsy-turvy third day, Dragon Chilling won the FIDE World Team Rapid Chess Championship 2026 on tiebreaks, edging out Team MGD1 and Hexamind Chess Team, who shared first with Dragon Chilling on matchpoints."
-    },
-    {
       "title": "China’s Dragon Chilling win FIDE World Team Rapid after dramatic finish",
       "link": "https://www.fide.com/chinas-dragon-chilling-win-fide-world-team-rapid-after-dramatic-finish/",
       "source": "FIDE",
@@ -189,13 +181,6 @@
       "source": "Chess.com",
       "date": "2026-06-17T17:33:00.000Z",
       "summary": "GM Richard Rapport's Kazchess and GM Ding Liren's Dragon Chilling are the only teams on a perfect 8/8 after day one of the&nbsp;2026 World Rapid & Blitz Team Championships in Hong Kong. All the other favorites suffered defeat, with top-seed WR..."
-    },
-    {
-      "title": "FIDE World Team Rapid & Blitz Chess Championships 2026 Preview",
-      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-rapid-blitz-chess-championships-2026-preview/9xeS0vyr",
-      "source": "Lichess",
-      "date": "2026-06-16T22:34:27.831Z",
-      "summary": "Five days of extremely exciting, world class speed chess!"
     },
     {
       "title": "Nearly Perfect Sarana Tops Returning Carlsen",
@@ -345,13 +330,6 @@
       "summary": "The 26th European Women's Championship took place Mon 25th May to Friday 5th Jun 2026. Anastasiia Hnatyshyn took clear first place with 9/11 half a point clear of Sabrina Vega Gutierrez, Olga Badelka and Nurgyul Salimova."
     },
     {
-      "title": "Lichess Game of the Month: April '26",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-april-26/quyYWuyT",
-      "source": "Lichess",
-      "date": "2026-06-04T07:07:15.965Z",
-      "summary": "A very aggressive f5 in the Ruy Lopez"
-    },
-    {
       "title": "Upcoming tournaments and events",
       "link": "https://en.chessbase.com/post/upcoming-tournaments-and-events-2",
       "source": "ChessBase",
@@ -378,13 +356,6 @@
       "source": "ChessBase",
       "date": "2026-05-23T12:50:00.000Z",
       "summary": "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Vincent Keymer and Fabiano Caruana enter the final round tied for first place, while Javokhir Sindarov, Wesley So and Jorden v…"
-    },
-    {
-      "title": "Viswanathan Anand Interview with Lichess",
-      "link": "https://lichess.org/@/Lichess/blog/viswanathan-anand-interview-with-lichess/nQaVbj4C",
-      "source": "Lichess",
-      "date": "2026-05-23T05:13:22.844Z",
-      "summary": "Legendary Indian Grandmaster and five-time World Chess Champion Viswanathan Anand sat down for an interview with Lichess’ Director of Operations, Theo Wait, at the recently concluded FIDE Candidates Tournament."
     },
     {
       "title": "Faustino Oro earns his final GM norm in Sardinia - 9",
