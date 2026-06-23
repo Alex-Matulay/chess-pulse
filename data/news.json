@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T14:50:44.393Z",
+  "updated": "2026-06-23T17:13:53.690Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -14,6 +14,13 @@
       "source": "The Week in Chess",
       "date": "2026-06-24T14:52:00.000Z",
       "summary": "The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Lev…"
+    },
+    {
+      "title": "175 years ago: Anderssen's Immortal Game is played in London",
+      "link": "https://en.chessbase.com/post/175-years-anderssen-immortal",
+      "source": "ChessBase",
+      "date": "2026-06-23T17:15:00.000Z",
+      "summary": "On 21 June 1851, on the sidelines of the first major international chess tournament in London, Adolf Anderssen and Lionel Kieseritzky played what was later known as the \"Immortal Game\". Anderssen sacrificed both his rooks and delivered checkmate. The game h…"
     },
     {
       "title": "FIDE and World Chess Agree to Test a First Over-the-Board Official Rating, Earned Online",
@@ -37,13 +44,6 @@
       "summary": "GM Viktor Gažík and IM Zuzana Hagarová are the newly crowned Slovak chess champions. The 2026 edition of the Slovak national championship, held in the Open and Women sections, took place in Bratislava from 13 to 21 June. Both competitions were 10-player rou…"
     },
     {
-      "title": "Can you solve these positions from the Chola Chess camp?",
-      "link": "https://en.chessbase.com/post/chola-chess-camp-problems-1",
-      "source": "ChessBase",
-      "date": "2026-06-23T02:10:00.000Z",
-      "summary": "Chola Chess is building a dedicated space for India's strong chess players to train and improve. It is led by R. B. Ramesh and Aarthie Ramaswamy, and supported by a committed team. With consistent camps and serious training, it has already impacted over 130…"
-    },
-    {
       "title": "Surrealists and chess",
       "link": "https://en.chessbase.com/post/surrealists-and-chess",
       "source": "ChessBase",
@@ -63,13 +63,6 @@
       "source": "Chess.com",
       "date": "2026-06-22T14:55:24.000Z",
       "summary": "GM Andy Woodward fought back valiantly to defeat GM Andrew Tang in the Grand Final Reset and deny him the title for the third year in a row in the Chess.com Hyperbullet Championship 2026, which concluded on Friday, June 19. After losing to Tang in..."
-    },
-    {
-      "title": "World Schools Team Chess Championship to be held in Africa for the first time",
-      "link": "https://en.chessbase.com/post/world-school-chess-championship-2026-africa",
-      "source": "ChessBase",
-      "date": "2026-06-22T13:10:00.000Z",
-      "summary": "Cape Town will host the African continental stage of the World School Team Chess Championship from 6 to 11 July 2026, marking the next step in the new FIDE and ISCF cycle. The event, part of the Chess in Education Year initiative, will bring together nation…"
     },
     {
       "title": "How Two Magnus Carlsen Games Helped Inspire Norway's New Chess Thriller",
@@ -413,13 +406,6 @@
       "source": "The Week in Chess",
       "date": "2026-05-11T09:10:00.000Z",
       "summary": "The Sardinia World Chess Festival took place Sun 3rd May 2026 to Sun 10th May 2026 in Orosei, Italy. Frederik Svane took clear first place with 7.5/9 half a point clear of Haik M. Martirosyan, Ian Nepomniachtchi and Mamikon Gharibyan. Tied for 25th place on…"
-    },
-    {
-      "title": "GCT Super Rapid & Blitz Poland 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-poland-2026",
-      "source": "The Week in Chess",
-      "date": "2026-05-09T16:46:00.000Z",
-      "summary": "The GCT Super Rapid & Blitz Poland took place Tue 5th May to Thu 7th May 2026. 9 rounds of rapid and 18 rounds of blitz. Players: Wesley So, Radoslaw Wojtaszek, D Gukesh, Hans Moke Niemann, Maxime Vachier-Lagrave, Alireza Firouzja, Vladimir Fedoseev, Fabian…"
     }
   ]
 }
