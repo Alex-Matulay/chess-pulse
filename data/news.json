@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T20:45:23.955Z",
+  "updated": "2026-06-24T22:13:11.470Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,18 @@
   ],
   "items": [
     {
+      "title": "Dresden 2026: Uhlmann exhibition with AI simulation",
+      "link": "https://en.chessbase.com/post/dresden-2026-uhlmann-exhibition-ai-simulation",
+      "source": "ChessBase",
+      "date": "2026-06-24T22:50:00.000Z",
+      "summary": "The great 2026 chess summit in Dresden is just weeks away from beginning. Wolfgang Uhlmann is now being honoured in an impressive exhibition at the City Museum. In an AI simulation, visitors can even play chess against the late world-class player. | Photos:…"
+    },
+    {
       "title": "Firouzja, Nihal, Tang, Arjun To Play In Winners Semifinals",
       "link": "https://www.chess.com/news/view/2026-bullet-chess-championship-day-1",
       "source": "Chess.com",
-      "date": "2026-06-24T19:59:41.000Z",
-      "summary": "GMs Alireza Firouzja, Nihal Sarin, Andrew Tang, and Arjun Erigaisi won both matches on day one of the 2025 Bullet Chess Championship to advance in the Winners Bracket. The Losers Bracket is full with 12 players, with the first round of elimination..."
+      "date": "2026-06-24T19:59:00.000Z",
+      "summary": "GMs Alireza Firouzja, Nihal Sarin, Andrew Tang, and Arjun Erigaisi won both matches on day one of the 2026 Bullet Chess Championship to advance in the Winners Bracket. The Losers Bracket is full with 12 players, with the first round of elimination..."
     },
     {
       "title": "This week: World Record Chess Marathon in Lima",
@@ -82,7 +89,7 @@
       "title": "Woodward Wins Revenge Grand Final",
       "link": "https://www.chess.com/news/view/woodward-wins-2026-hyperbullet-chess-championship",
       "source": "Chess.com",
-      "date": "2026-06-22T14:55:24.000Z",
+      "date": "2026-06-22T14:55:00.000Z",
       "summary": "GM Andy Woodward fought back valiantly to defeat GM Andrew Tang in the Grand Final Reset and deny him the title for the third year in a row in the Chess.com Hyperbullet Championship 2026, which concluded on Friday, June 19. After losing to Tang in..."
     },
     {
