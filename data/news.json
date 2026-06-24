@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T13:17:43.731Z",
+  "updated": "2026-06-24T16:14:57.912Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Sindarov: \"I Didn't Work With Chess That Much\"",
+      "link": "https://www.chess.com/news/view/sindarov-i-didnt-work-with-chess-that-much-interview",
+      "source": "Chess.com",
+      "date": "2026-06-24T15:01:00.000Z",
+      "summary": "Two months after his incredible Candidates victory, GM Javokhir Sindarov says his life has changed surprisingly little. But the 20-year-old Uzbek star revealed that his approach to chess changed dramatically over the last year. In an interview wi..."
+    },
     {
       "title": "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2026",
@@ -322,13 +329,6 @@
       "source": "Chess.com",
       "date": "2026-06-09T20:14:00.000Z",
       "summary": "Chess stepped further into the mainstream spotlight on Saturday as Grandmasters, the new docuseries featuring GMs Magnus Carlsen, Wesley So, Hans Niemann, and other leading figures of the game, premiered at the Tribeca Film Festival in New York. ..."
-    },
-    {
-      "title": "Duda Domination Defeats Titled Tuesday Field",
-      "link": "https://www.chess.com/news/view/duda-wins-titled-tuesday-june-9-2026",
-      "source": "Chess.com",
-      "date": "2026-06-09T18:10:00.000Z",
-      "summary": "GM Jan-Krzysztof Duda impressively won&nbsp;Titled Tuesday on June 9 with a score of 10/11. He becomes the second player to win the new first-place prize of $2,500, and also the second player, after GM Javokhir Sindarov, to win three Titled Tuesda..."
     },
     {
       "title": "Under the Hammer",
