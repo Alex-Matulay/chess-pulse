@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T18:49:08.162Z",
+  "updated": "2026-06-24T20:45:23.955Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Firouzja, Nihal, Tang, Arjun To Play In Winners Semifinals",
+      "link": "https://www.chess.com/news/view/2026-bullet-chess-championship-day-1",
+      "source": "Chess.com",
+      "date": "2026-06-24T19:59:41.000Z",
+      "summary": "GMs Alireza Firouzja, Nihal Sarin, Andrew Tang, and Arjun Erigaisi won both matches on day one of the 2025 Bullet Chess Championship to advance in the Winners Bracket. The Losers Bracket is full with 12 players, with the first round of elimination..."
+    },
     {
       "title": "This week: World Record Chess Marathon in Lima",
       "link": "https://en.chessbase.com/post/world-record-chess-marathon-lima-2026",
@@ -329,13 +336,6 @@
       "source": "ChessBase",
       "date": "2026-06-10T17:00:00.000Z",
       "summary": "In the comments on Part 5 of the series, readers pointed out that this was not a “master game” (as stated on the Guinness page), since Arsović had an initial rating of 2200 (which by today’s standards may correspond to a rating of 1400), while Nikolić’s rat…"
-    },
-    {
-      "title": "Docuseries 'Grandmasters' Premieres To Packed House At Tribeca",
-      "link": "https://www.chess.com/news/view/grandmasters-docuseries-tribeca-premiere",
-      "source": "Chess.com",
-      "date": "2026-06-09T20:14:00.000Z",
-      "summary": "Chess stepped further into the mainstream spotlight on Saturday as Grandmasters, the new docuseries featuring GMs Magnus Carlsen, Wesley So, Hans Niemann, and other leading figures of the game, premiered at the Tribeca Film Festival in New York. ..."
     },
     {
       "title": "Under the Hammer",
