@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T11:37:34.188Z",
+  "updated": "2026-06-25T14:22:34.276Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Memories of Peter Dankert",
+      "link": "https://en.chessbase.com/post/memories-of-peter-dankert",
+      "source": "ChessBase",
+      "date": "2026-06-25T14:00:00.000Z",
+      "summary": "Peter Dankert was one of Hamburg's best players in the 1970s. He was Hamburg junior champion, German Cup winner, competed in German championships, played in the Bundesliga and was invited to international tournaments. His life came to a tragically premature…"
+    },
     {
       "title": "Andy Woodward: The Bulletproof 1.b3 Repertoire",
       "link": "https://en.chessbase.com/post/andy-woodward-the-bulletproof-1-b3-repertoire",
