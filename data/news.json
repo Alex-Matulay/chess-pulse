@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T19:53:20.627Z",
+  "updated": "2026-06-25T21:28:00.190Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Firouzja, Arjun Advance To Winners Final",
+      "link": "https://www.chess.com/news/view/2026-bullet-chess-championship-day-2",
+      "source": "Chess.com",
+      "date": "2026-06-25T21:15:30.000Z",
+      "summary": "GMs Alireza Firouzja and Arjun Erigaisi advanced to the Winners Final of the 2026 Bullet Chess Championship on Thursday. Firouzja won a close match against GM Nihal Sarin 12.5-9.5, while Arjun blew away GM Andrew Tang 16-6. Just six players are le..."
+    },
+    {
+      "title": "CVC Capital Partners Invests In Chess.com",
+      "link": "https://www.chess.com/news/view/cvc-capital-partners-invests-in-chess-com",
+      "source": "Chess.com",
+      "date": "2026-06-25T20:19:00.000Z",
+      "summary": "Chess.com has announced that private markets investment firm CVC Capital Partners has invested in the company, joining existing investor General Atlantic. As Chess.com now enters its third decade, the company says it looks to continue growing the ..."
+    },
     {
       "title": "Over 60 hours of non-stop chess: World Record Chess Marathon begins in Lima",
       "link": "https://en.chessbase.com/post/world-record-chess-marathon-lima-sagar",
@@ -336,20 +350,6 @@
       "source": "Chess.com",
       "date": "2026-06-12T18:50:30.000Z",
       "summary": "GM Pranav Venkatesh overcame losses in the second and fourth rounds in Freestyle Friday on June 12 to win all his other games, take first place outright, and pass&nbsp;GM Oleksandr Bortnyk in the 2026 Freestyle Friday Championship (FFC) standings...."
-    },
-    {
-      "title": "Russia's Chess Federation Suspended After Refusing To Halt Events In Occupied Ukraine",
-      "link": "https://www.chess.com/news/view/russia-chess-federation-suspended-occupied-ukraine",
-      "source": "Chess.com",
-      "date": "2026-06-12T13:55:00.000Z",
-      "summary": "The Chess Federation of Russia (CFR) has been suspended from the International Chess Federation (FIDE) after failing to comply with a Court of Arbitration for Sport (CAS) ruling that required the CFR to cease organizing chess activities in Russian..."
-    },
-    {
-      "title": "Vokhidov Takes Sole Lead With 3-Win Streak",
-      "link": "https://www.chess.com/news/view/2026-uzchess-cup-rounds-1-5",
-      "source": "Chess.com",
-      "date": "2026-06-11T21:44:00.000Z",
-      "summary": "GM Shamsiddin Vokhidov leads the 2026 UzChess Cup after five hard-fought rounds, where we have seen more decisive games than draws. After losing in round two against GM Hans Niemann, the Uzbek grandmaster has won three games in a row against GMs M..."
     },
     {
       "title": "A Game That Outlasted the Day (7)",
