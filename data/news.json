@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T05:01:19.167Z",
+  "updated": "2026-06-25T08:54:46.569Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Two rounds to go at World Youth Chess Championships: Photos from Montesilvano",
+      "link": "https://en.chessbase.com/post/world-youth-chess-championship-2026-r9",
+      "source": "ChessBase",
+      "date": "2026-06-25T08:00:00.000Z",
+      "summary": "The World Youth Chess Championships 2026 are taking place in Montesilvano, Italy, from 14 to 27 June. Organised by FIDE, the Italian Chess Federation and UniChess, the event features under-14, under-16 and under-18 sections, with open and girls' tournaments…"
+    },
     {
       "title": "Dresden 2026: Uhlmann exhibition with AI simulation",
       "link": "https://en.chessbase.com/post/dresden-2026-uhlmann-exhibition-ai-simulation",
