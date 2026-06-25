@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T08:54:46.569Z",
+  "updated": "2026-06-25T11:37:34.188Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Andy Woodward: The Bulletproof 1.b3 Repertoire",
+      "link": "https://en.chessbase.com/post/andy-woodward-the-bulletproof-1-b3-repertoire",
+      "source": "ChessBase",
+      "date": "2026-06-25T11:00:00.000Z",
+      "summary": "In the ChessBase training course \"The Bulletproof 1.b3 Repertoire\", GM Andy Woodward explains how White can meet King’s Indian setups after 1.b3. He presents two practical systems: a sharper setup with e3, Be2 and d4, where White challenges Black’s central…"
+    },
     {
       "title": "Two rounds to go at World Youth Chess Championships: Photos from Montesilvano",
       "link": "https://en.chessbase.com/post/world-youth-chess-championship-2026-r9",
@@ -392,20 +399,6 @@
       "source": "Lichess",
       "date": "2026-05-23T05:13:22.844Z",
       "summary": "Legendary Indian Grandmaster and five-time World Chess Champion Viswanathan Anand sat down for an interview with Lichess’ Director of Operations, Theo Wait, at the recently concluded FIDE Candidates Tournament."
-    },
-    {
-      "title": "Faustino Oro earns his final GM norm in Sardinia - 9",
-      "link": "https://theweekinchess.com/twic-news-feed/faustino-oro-earns-his-final-gm-norm-in-sardinia",
-      "source": "The Week in Chess",
-      "date": "2026-05-11T09:51:00.000Z",
-      "summary": "Argentinian chess player Faustino Oro finally has become a Grandmaster after a six points from nine games performance at the Sardinia World Chess Festival. Oro had previous norms at the Legends and Prodigies tournament in September 2025 and the Magistral Sz…"
-    },
-    {
-      "title": "Sardinia World Chess Festival 2026 -",
-      "link": "https://theweekinchess.com/chessnews/events/sardinia-world-chess-festival-2026",
-      "source": "The Week in Chess",
-      "date": "2026-05-11T09:10:00.000Z",
-      "summary": "The Sardinia World Chess Festival took place Sun 3rd May 2026 to Sun 10th May 2026 in Orosei, Italy. Frederik Svane took clear first place with 7.5/9 half a point clear of Haik M. Martirosyan, Ian Nepomniachtchi and Mamikon Gharibyan. Tied for 25th place on…"
     }
   ]
 }
