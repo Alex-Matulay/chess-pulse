@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T02:54:30.273Z",
+  "updated": "2026-06-26T06:52:35.276Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,10 +9,17 @@
   ],
   "items": [
     {
+      "title": "Shenzhen welcomes FIDE: Strengthening global chess cooperation",
+      "link": "https://en.chessbase.com/post/shenzhen-welcomes-fide-cooperation",
+      "source": "ChessBase",
+      "date": "2026-06-26T06:45:00.000Z",
+      "summary": "FIDE has opened its new Shenzhen Office in Qianhai, following an inauguration ceremony attended by FIDE President Arkady Dvorkovich and Chinese sports official He Fengxiang. The two sides discussed further cooperation in event organisation, youth training,…"
+    },
+    {
       "title": "Firouzja, Arjun Advance To Winners Final",
       "link": "https://www.chess.com/news/view/2026-bullet-chess-championship-day-2",
       "source": "Chess.com",
-      "date": "2026-06-25T21:15:30.000Z",
+      "date": "2026-06-25T21:15:00.000Z",
       "summary": "GMs Alireza Firouzja and Arjun Erigaisi advanced to the Winners Final of the 2026 Bullet Chess Championship on Thursday. Firouzja won a close match against GM Nihal Sarin 12.5-9.5, while Arjun blew away GM Andrew Tang 16-6. Just six players are le..."
     },
     {
@@ -21,41 +28,6 @@
       "source": "Chess.com",
       "date": "2026-06-25T20:19:00.000Z",
       "summary": "Chess.com has announced that private markets investment firm CVC Capital Partners has invested in the company, joining existing investor General Atlantic. As Chess.com now enters its third decade, the company says it looks to continue growing the ..."
-    },
-    {
-      "title": "Over 60 hours of non-stop chess: World Record Chess Marathon begins in Lima",
-      "link": "https://en.chessbase.com/post/world-record-chess-marathon-lima-sagar",
-      "source": "ChessBase",
-      "date": "2026-06-25T19:10:00.000Z",
-      "summary": "From 25 to 28 June 2026, the Sheraton in Lima, Peru becomes the stage for one of the most unusual chess festivals of the year. Eight tournaments, elite simultaneous exhibitions, a top showdown, US$100,000 prize fund and a clock that essentially never stops…"
-    },
-    {
-      "title": "Memories of Peter Dankert",
-      "link": "https://en.chessbase.com/post/memories-of-peter-dankert",
-      "source": "ChessBase",
-      "date": "2026-06-25T14:00:00.000Z",
-      "summary": "Peter Dankert was one of Hamburg's best players in the 1970s. He was Hamburg junior champion, German Cup winner, competed in German championships, played in the Bundesliga and was invited to international tournaments. His life came to a tragically premature…"
-    },
-    {
-      "title": "Andy Woodward: The Bulletproof 1.b3 Repertoire",
-      "link": "https://en.chessbase.com/post/andy-woodward-the-bulletproof-1-b3-repertoire",
-      "source": "ChessBase",
-      "date": "2026-06-25T11:00:00.000Z",
-      "summary": "In the ChessBase training course \"The Bulletproof 1.b3 Repertoire\", GM Andy Woodward explains how White can meet King’s Indian setups after 1.b3. He presents two practical systems: a sharper setup with e3, Be2 and d4, where White challenges Black’s central…"
-    },
-    {
-      "title": "Two rounds to go at World Youth Chess Championships: Photos from Montesilvano",
-      "link": "https://en.chessbase.com/post/world-youth-chess-championship-2026-r9",
-      "source": "ChessBase",
-      "date": "2026-06-25T08:00:00.000Z",
-      "summary": "The World Youth Chess Championships 2026 are taking place in Montesilvano, Italy, from 14 to 27 June. Organised by FIDE, the Italian Chess Federation and UniChess, the event features under-14, under-16 and under-18 sections, with open and girls' tournaments…"
-    },
-    {
-      "title": "Dresden 2026: Uhlmann exhibition with AI simulation",
-      "link": "https://en.chessbase.com/post/dresden-2026-uhlmann-exhibition-ai-simulation",
-      "source": "ChessBase",
-      "date": "2026-06-24T22:50:00.000Z",
-      "summary": "The great 2026 chess summit in Dresden is just weeks away from beginning. Wolfgang Uhlmann is now being honoured in an impressive exhibition at the City Museum. In an AI simulation, visitors can even play chess against the late world-class player. | Photos:…"
     },
     {
       "title": "Firouzja, Nihal, Tang, Arjun To Play In Winners Semifinals",
