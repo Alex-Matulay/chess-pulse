@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T10:21:03.588Z",
+  "updated": "2026-06-26T13:07:54.620Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Last call for FIDE Excellence Awards nominations",
+      "link": "https://www.fide.com/last-call-for-fide-excellence-awards-nominations/",
+      "source": "FIDE",
+      "date": "2026-06-26T12:59:03.000Z",
+      "summary": "On June 1, 2026, FIDE launched the FIDE Excellence Awards, a new biennial awards program established to recognize outstanding achievements, individuals, events, federations, teams, creators, and initiatives across the global chess community. The awards reco…"
+    },
+    {
+      "title": "Jan Henric Buettner to run for FIDE President, with Malcolm Pein on ticket",
+      "link": "https://en.chessbase.com/post/jan-henric-buettner-to-run-for-fide-president",
+      "source": "ChessBase",
+      "date": "2026-06-26T12:30:00.000Z",
+      "summary": "Jan Henric Buettner has announced that he will run for President of FIDE, with Malcolm Pein standing on his ticket as candidate for Deputy President. Buettner, a German entrepreneur and co-founder of Freestyle Chess, has become active in elite event organis…"
+    },
     {
       "title": "KCF Friendship Festival opens",
       "link": "https://en.chessbase.com/post/kcf-friendship-festival-2026-opens",
@@ -203,13 +217,6 @@
       "source": "FIDE",
       "date": "2026-06-20T01:55:00.000Z",
       "summary": "World Refugee Day, initiated by the United Nations in 2001 to recognize the resilience and struggle of refugees in finding sanctuary and a better life, occurs in 2026 at a time when conflicts across the globe continue to intensify, bringing more threats and…"
-    },
-    {
-      "title": "2026 African Individual Chess Championships kick off in Botswana",
-      "link": "https://www.fide.com/2026-african-individual-chess-championships-kick-off-in-botswana/",
-      "source": "FIDE",
-      "date": "2026-06-20T01:46:00.000Z",
-      "summary": "More than 100 players are taking part in the Open and Women’s sections in a nine-round Swiss tournament. The event was opened by FIDE President Arkady Dvorkovich together with leaders of several African chess federations. The most important African champion…"
     },
     {
       "title": "Nepomniachtchi Wins Six Straight For Third Freestyle Friday Win",
