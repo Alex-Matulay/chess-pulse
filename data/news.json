@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T13:07:54.620Z",
+  "updated": "2026-06-26T16:12:35.336Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "African Individual Championship 2026: Bilel Bellahcene and Shahenda Wafa clinch titles",
+      "link": "https://www.fide.com/african-individual-championship-2026-bilel-bellahcene-and-shahenda-wafa-clinch-titles/",
+      "source": "FIDE",
+      "date": "2026-06-26T13:00:00.000Z",
+      "summary": "GM Bilel Bellahcene (Algeria) and WGM Shahenda Wafa (Egypt) are newly crowned African Chess Champions. Bellahcene successfully defended his title becoming the third multiple winner of the event, while Wafa claimed her fourth continental crown, adding to her…"
+    },
     {
       "title": "Last call for FIDE Excellence Awards nominations",
       "link": "https://www.fide.com/last-call-for-fide-excellence-awards-nominations/",
@@ -23,18 +30,18 @@
       "summary": "Jan Henric Buettner has announced that he will run for President of FIDE, with Malcolm Pein standing on his ticket as candidate for Deputy President. Buettner, a German entrepreneur and co-founder of Freestyle Chess, has become active in elite event organis…"
     },
     {
+      "title": "Wadim Rosenstein to run for FIDE President",
+      "link": "https://en.chessbase.com/post/wadim-rosenstein-to-run-for-fide-president",
+      "source": "ChessBase",
+      "date": "2026-06-26T11:50:00.000Z",
+      "summary": "Wadim Rosenstein has announced that he will run for President of FIDE. The German entrepreneur, founder of WR Chess, has become involved in elite events, team competitions and club chess in recent years. His candidacy follows a period in which he has built…"
+    },
+    {
       "title": "KCF Friendship Festival opens",
       "link": "https://en.chessbase.com/post/kcf-friendship-festival-2026-opens",
       "source": "ChessBase",
       "date": "2026-06-26T11:46:32.000Z",
       "summary": "The Kasparov Chess Foundation Friendship Festival 2026 officially got underway on Thursday in Radenci, Slovenia, where more than 180 players from over 30 countries gathered for one of the strongest international chess festivals ever organized in the country…"
-    },
-    {
-      "title": "Wadim Rosenstein to run for FIDE President",
-      "link": "https://en.chessbase.com/post/wadim-rosenstein-to-run-for-fide-president",
-      "source": "ChessBase",
-      "date": "2026-06-26T11:30:00.000Z",
-      "summary": "Wadim Rosenstein has announced that he will run for President of FIDE. The German entrepreneur, founder of WR Chess, has become involved in elite events, team competitions and club chess in recent years. His candidacy follows a period in which he has built…"
     },
     {
       "title": "US Olympiad teams: Niemann and Liang to make debuts in open squad",
@@ -210,13 +217,6 @@
       "source": "Chess.com",
       "date": "2026-06-20T01:56:00.000Z",
       "summary": "IM Renato Terry, GM Matthias Bluebaum, and IM Reza Mahdavi were the deserving winners of the hard-fought 3 0 Thursday tournaments on June 18. The all-time leaderboard pacesetter Terry had to overcome the five-time world champion GM Magnus Carlsen ..."
-    },
-    {
-      "title": "World Refugee Day: How chess is changing lives",
-      "link": "https://www.fide.com/world-refugee-day-how-chess-is-changing-lives/",
-      "source": "FIDE",
-      "date": "2026-06-20T01:55:00.000Z",
-      "summary": "World Refugee Day, initiated by the United Nations in 2001 to recognize the resilience and struggle of refugees in finding sanctuary and a better life, occurs in 2026 at a time when conflicts across the globe continue to intensify, bringing more threats and…"
     },
     {
       "title": "Nepomniachtchi Wins Six Straight For Third Freestyle Friday Win",
