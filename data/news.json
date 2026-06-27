@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T07:45:59.614Z",
+  "updated": "2026-06-27T10:02:30.782Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Svitlana's Smart Moves - The Ukrainian Variation",
+      "link": "https://en.chessbase.com/post/svitlana-s-smart-moves-the-ukrainian-variation",
+      "source": "ChessBase",
+      "date": "2026-06-27T12:00:00.000Z",
+      "summary": "Svitlana Demchenko introduces the Ukrainian Variation from the Old Indian Defence and explains why it can lead to surprisingly comfortable positions for Black, especially if White accepts an early queen trade. The featured Soviet-era game between Lev Poluga…"
+    },
     {
       "title": "Bilel Bellahcene and Shahenda Wafa are the 2026 African chess champions",
       "link": "https://en.chessbase.com/post/african-championships-2026-report",
