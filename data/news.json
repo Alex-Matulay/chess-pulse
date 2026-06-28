@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T08:18:09.031Z",
+  "updated": "2026-06-28T11:03:17.512Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Winners crowned at FIDE World Cup Under 8–12",
+      "link": "https://www.fide.com/winners-crowned-at-fide-world-cup-under-8-12/",
+      "source": "FIDE",
+      "date": "2026-06-28T10:10:28.000Z",
+      "summary": "The curtain fell on the FIDE World Cup Under 8–12 in Batumi, bringing an end to a thrilling competition. Over the past eleven days, players from across the globe demonstrated outstanding skills and determination, with each round bringing new challenges, unf…"
+    },
     {
       "title": "World Youth Chess Championships conclude in grand style",
       "link": "https://en.chessbase.com/post/world-youth-chess-championship-2026-r11",
@@ -238,13 +245,6 @@
       "source": "Lichess",
       "date": "2026-06-21T12:35:42.692Z",
       "summary": "Dragon Chilling won the FIDE World Team Blitz Chess Championship 2026, defeating Endgame.AI in a dominant final and achieving a double gold. Uzbekistan took third after winning against Hexamind Chess Team."
-    },
-    {
-      "title": "World Youth Chess Championship 2026: Final sprint begins after rest day",
-      "link": "https://www.fide.com/world-youth-chess-championship-2026-final-sprint-begins-after-rest-day/",
-      "source": "FIDE",
-      "date": "2026-06-21T11:06:03.000Z",
-      "summary": "The FIDE World Youth Chess Championship held at the Pala Dean Martin Congress Center in Montesilvano has now crossed the halfway stage. With six rounds completed, the battle for the titles in the Open and Girls Under-14, Under-16, and Under-18 categories re…"
     },
     {
       "title": "Gurel Clinches 10th Bullet Brawl Title By 1 Point After Flawless Start",
