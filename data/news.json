@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T04:10:15.601Z",
+  "updated": "2026-06-28T08:18:09.031Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "World Youth Chess Championships conclude in grand style",
+      "link": "https://en.chessbase.com/post/world-youth-chess-championship-2026-r11",
+      "source": "ChessBase",
+      "date": "2026-06-28T09:00:00.000Z",
+      "summary": "The FIDE World Youth Chess Championships 2026 concluded in Montesilvano, Italy, with six new champions crowned across the under-14, under-16 and under-18 categories. The event brought together 758 players from 84 countries and produced several close finishe…"
+    },
+    {
+      "title": "Georgia honours Nona Gaprindashvili with highest national sports award",
+      "link": "https://www.fide.com/georgia-honours-nona-gaprindashvili-with-highest-national-sports-award/",
+      "source": "FIDE",
+      "date": "2026-06-28T07:29:40.000Z",
+      "summary": "In a ceremony attended by the Georgian Prime Minister, Minister of Sport and FIDE President Arkady Dvorkovich, Georgia paid tribute to one of the greatest women chess players of all time, Nona Gaprindashvili. The celebration – held at the Rustaveli National…"
+    },
+    {
+      "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
+      "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-21-maximum-training-effect-with-the-power-tool-replay-training-part-1",
+      "source": "ChessBase",
+      "date": "2026-06-28T07:00:00.000Z",
+      "summary": "Do you know the powerful training tool in ChessBase´26? It's called \"Replay Training\"! This great feature lets you actively go through games move by move—sharpening your strategic and tactical understanding in a targeted way. Whether under time pressure or…"
+    },
     {
       "title": "Nakamura Celebrates 60th Bullet Brawl Title With Powerful Victory",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-27-2026",
@@ -28,13 +49,6 @@
       "source": "ChessBase",
       "date": "2026-06-27T15:00:00.000Z",
       "summary": "Larry Christiansen is one of the finest players in the history of American chess. He was US Champion three times, represented the United States at nine Chess Olympiads, where he won a number of medals. In the Bundesliga, he played for SG Porz for many years…"
-    },
-    {
-      "title": "Svitlana's Smart Moves - The Ukrainian Variation",
-      "link": "https://en.chessbase.com/post/svitlana-s-smart-moves-the-ukrainian-variation",
-      "source": "ChessBase",
-      "date": "2026-06-27T12:00:00.000Z",
-      "summary": "Svitlana Demchenko introduces the Ukrainian Variation from the Old Indian Defence and explains why it can lead to surprisingly comfortable positions for Black, especially if White accepts an early queen trade. The featured Soviet-era game between Lev Poluga…"
     },
     {
       "title": "World Youth Chess Championship 2026 concludes in grand style",
@@ -231,13 +245,6 @@
       "source": "FIDE",
       "date": "2026-06-21T11:06:03.000Z",
       "summary": "The FIDE World Youth Chess Championship held at the Pala Dean Martin Congress Center in Montesilvano has now crossed the halfway stage. With six rounds completed, the battle for the titles in the Open and Girls Under-14, Under-16, and Under-18 categories re…"
-    },
-    {
-      "title": "FIDE Youth World Cup U8-U12 reaches midpoint",
-      "link": "https://www.fide.com/fide-youth-world-cup-u8-12-reaches-midpoint/",
-      "source": "FIDE",
-      "date": "2026-06-21T09:50:23.000Z",
-      "summary": "After five rounds played at the FIDE Youth World Cup 2026 in Batumi, the tournament is starting to heat up. Hundreds of young players from around the world are competing with dedication and sportsmanship, embodying the spirit of chess that unites nations be…"
     },
     {
       "title": "Gurel Clinches 10th Bullet Brawl Title By 1 Point After Flawless Start",
