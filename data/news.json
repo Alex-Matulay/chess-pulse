@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T23:58:04.263Z",
+  "updated": "2026-06-28T04:10:15.601Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Nakamura Celebrates 60th Bullet Brawl Title With Powerful Victory",
+      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-27-2026",
+      "source": "Chess.com",
+      "date": "2026-06-28T00:11:00.000Z",
+      "summary": "GM Hikaru Nakamura bounced back from last week's rare defeat in emphatic fashion on Saturday, storming to victory in the latest edition of Bullet Brawl with 178 points. Nakamura finished 15 points clear of GM Oleksandr Bortnyk and with this win ca..."
+    },
     {
       "title": "Nihal Dethrones Firouzja With 15-Game Winning Streak",
       "link": "https://www.chess.com/news/view/nihal-wins-2026-bullet-chess-championship",
@@ -98,41 +105,6 @@
       "source": "FIDE",
       "date": "2026-06-26T12:59:03.000Z",
       "summary": "On June 1, 2026, FIDE launched the FIDE Excellence Awards, a new biennial awards program established to recognize outstanding achievements, individuals, events, federations, teams, creators, and initiatives across the global chess community. The awards reco…"
-    },
-    {
-      "title": "Jan Henric Buettner to run for FIDE President, with Malcolm Pein on ticket",
-      "link": "https://en.chessbase.com/post/jan-henric-buettner-to-run-for-fide-president",
-      "source": "ChessBase",
-      "date": "2026-06-26T12:30:00.000Z",
-      "summary": "Jan Henric Buettner has announced that he will run for President of FIDE, with Malcolm Pein standing on his ticket as candidate for Deputy President. Buettner, a German entrepreneur and co-founder of Freestyle Chess, has become active in elite event organis…"
-    },
-    {
-      "title": "Wadim Rosenstein to run for FIDE President",
-      "link": "https://en.chessbase.com/post/wadim-rosenstein-to-run-for-fide-president",
-      "source": "ChessBase",
-      "date": "2026-06-26T11:50:00.000Z",
-      "summary": "Wadim Rosenstein has announced that he will run for President of FIDE. The German entrepreneur, founder of WR Chess, has become involved in elite events, team competitions and club chess in recent years. His candidacy follows a period in which he has built…"
-    },
-    {
-      "title": "KCF Friendship Festival opens",
-      "link": "https://en.chessbase.com/post/kcf-friendship-festival-2026-opens",
-      "source": "ChessBase",
-      "date": "2026-06-26T11:46:32.000Z",
-      "summary": "The Kasparov Chess Foundation Friendship Festival 2026 officially got underway on Thursday in Radenci, Slovenia, where more than 180 players from over 30 countries gathered for one of the strongest international chess festivals ever organized in the country…"
-    },
-    {
-      "title": "US Olympiad teams: Niemann and Liang to make debuts in open squad",
-      "link": "https://en.chessbase.com/post/us-olympiad-teams-announced",
-      "source": "ChessBase",
-      "date": "2026-06-26T10:30:00.000Z",
-      "summary": "The United States has named its open and women's teams for the 2026 Chess Olympiad in Samarkand. Fabiano Caruana, Wesley So and Levon Aronian return in the open section, joined by debutants Hans Niemann and Awonder Liang. The women's squad includes Carissa…"
-    },
-    {
-      "title": "Shenzhen welcomes FIDE: Strengthening global chess cooperation",
-      "link": "https://en.chessbase.com/post/shenzhen-welcomes-fide-cooperation",
-      "source": "ChessBase",
-      "date": "2026-06-26T06:45:00.000Z",
-      "summary": "FIDE has opened its new Shenzhen Office in Qianhai, following an inauguration ceremony attended by FIDE President Arkady Dvorkovich and Chinese sports official He Fengxiang. The two sides discussed further cooperation in event organisation, youth training,…"
     },
     {
       "title": "Firouzja, Arjun Advance To Winners Final",
@@ -364,13 +336,6 @@
       "source": "The Week in Chess",
       "date": "2026-06-15T21:52:00.000Z",
       "summary": "The 3rd UzChess Cup took place in Tashkent Sun 7th Jun to Mon 15th Jun 2026. The Masters: Nodirbek Abdusattorov, Arjun Erigaisi, Hans Moke Niemann, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Santosh Gujrathi Vidit, Nodirbek Yakubboev, Shamsiddin Vokhidov, N…"
-    },
-    {
-      "title": "Madaminov Takes UzChess Cup In Tiebreaks",
-      "link": "https://www.chess.com/news/view/madaminov-wins-2026-uzchess-cup",
-      "source": "Chess.com",
-      "date": "2026-06-15T20:12:02.000Z",
-      "summary": "GM Mukhiddin Madaminov&nbsp;won the 2026 UzChess Cup Masters and $20,000 on June 15 after defeating GM Shamsiddin Vokhidov 2-0 in blitz tiebreaks. Both players finished the round-robin with 5.5/9, with three grandmasters a half-point behind: Ian N..."
     },
     {
       "title": "Blohberger beats Navara 3.5-2.5 in a match - 3-4",
