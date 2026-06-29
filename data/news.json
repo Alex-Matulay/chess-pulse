@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T17:32:19.526Z",
+  "updated": "2026-06-29T19:51:05.280Z",
   "sources": [
     "Chess.com",
     "ChessBase",
@@ -7,6 +7,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Kostya Kavutskiy: Mastering Calculation - Think Clearly, Calculate Precisely, Improve Consistently",
+      "link": "https://en.chessbase.com/post/kostya-kavutskiy-mastering-calculation-think-clearly-calculate-precisely-improve-consistently",
+      "source": "ChessBase",
+      "date": "2026-06-29T20:00:00.000Z",
+      "summary": "In his new ChessBase course, IM Kostya Kavutskiy focuses on one of the most important and challenging skills in chess: calculation. Drawing on more than 15 years of coaching experience and his work with ChessDojo, he presents key concepts, patterns and prac…"
+    },
     {
       "title": "Kasparov Day in Radenci",
       "link": "https://en.chessbase.com/post/kasparov-day-in-radenci",
@@ -111,13 +118,6 @@
       "source": "Chess.com",
       "date": "2026-06-26T19:18:00.000Z",
       "summary": "The race for the presidency of the International Chess Federation (FIDE) officially kicked off on Friday as Wadim Rosenstein announced his long-expected candidacy, hours before fellow German entrepreneur Jan Henric Buettner entered the competition..."
-    },
-    {
-      "title": "Anastasia Corotcova vs. Mikhail Tal (Level = Strong Club Player)",
-      "link": "https://en.chessbase.com/post/anastasia-corotcova-vs-mikhail-tal-level-strong-club-player",
-      "source": "ChessBase",
-      "date": "2026-06-26T19:00:00.000Z",
-      "summary": "Anastasia Corotcova challenged the virtual version of Mikhail Tal in Fritz 21, hoping to experience the legendary attacking style that made the former World Champion famous. After gaining a promising position, she and Arne Kaehler struggled to find a series…"
     },
     {
       "title": "African Individual Championship 2026: Bilel Bellahcene and Shahenda Wafa clinch titles",
