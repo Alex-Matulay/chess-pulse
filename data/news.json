@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T21:21:57.632Z",
+  "updated": "2026-06-29T22:52:45.340Z",
   "sources": [
     "Chess.com",
     "ChessBase",
@@ -7,6 +7,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Winners crowned at FIDE World Cup Under 8–12",
+      "link": "https://en.chessbase.com/post/world-cadets-cup-2026-results",
+      "source": "ChessBase",
+      "date": "2026-06-29T23:30:00.000Z",
+      "summary": "The FIDE World Cup Under 8–12 concluded in Batumi after eleven days of play, with China finishing first in the medal standings after winning three gold medals, one silver and one bronze. Kazakhstan, France and India also collected gold medals, while India a…"
+    },
     {
       "title": "Kostya Kavutskiy: Mastering Calculation - Think Clearly, Calculate Precisely, Improve Consistently",
       "link": "https://en.chessbase.com/post/kostya-kavutskiy-mastering-calculation-think-clearly-calculate-precisely-improve-consistently",
@@ -48,13 +55,6 @@
       "source": "FIDE",
       "date": "2026-06-29T07:04:00.000Z",
       "summary": "The Bahrain Classical Chess Championship 2026 concluded on Saturday, 20 June 2026, at Khalifa Sports City, following several days of intense competition. The event showcased the continued growth and development of chess in the Kingdom of Bahrain and brought…"
-    },
-    {
-      "title": "Winners crowned at FIDE World Cup Under 8–12",
-      "link": "https://www.fide.com/winners-crowned-at-fide-world-cup-under-8-12/",
-      "source": "FIDE",
-      "date": "2026-06-28T10:10:28.000Z",
-      "summary": "The curtain fell on the FIDE World Cup Under 8–12 in Batumi, bringing an end to a thrilling competition. Over the past eleven days, players from across the globe demonstrated outstanding skills and determination, with each round bringing new challenges, unf…"
     },
     {
       "title": "Georgia honours Nona Gaprindashvili with highest national sports award",
