@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T11:42:28.339Z",
+  "updated": "2026-06-30T14:09:35.108Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Georgia honours Nona Gaprindashvili with highest national sports award",
+      "link": "https://en.chessbase.com/post/nona-graprindashvili-national-sports-award-georgia",
+      "source": "ChessBase",
+      "date": "2026-06-30T15:30:41.000Z",
+      "summary": "Georgia honoured Nona Gaprindashvili at a ceremony in Tbilisi marking her 85th birthday, with Prime Minister Irakli Kobakhidze, government officials and FIDE President Arkady Dvorkovich among the guests. Held at the Rustaveli National Theatre, the event com…"
+    },
+    {
+      "title": "Magnus Carlsen Reaches 15 Years Unbroken As World No. 1",
+      "link": "https://www.chess.com/news/view/magnus-carlsen-15-years-unbroken-world-number-one",
+      "source": "Chess.com",
+      "date": "2026-06-30T13:13:26.000Z",
+      "summary": "GM Magnus Carlsen has now been the world chess number-one on every FIDE rating list for the past 15 years, since July 2011. Although Carlsen has suffered scares&mdash;for instance, any loss to GM Fabiano Caruana in the 2018 World Championship matc..."
+    },
     {
       "title": "Arkady Dvorkovich to seek third term as FIDE President",
       "link": "https://en.chessbase.com/post/arkady-dvorkovich-to-seek-third-term-as-fide-president",
@@ -77,13 +91,6 @@
       "source": "FIDE",
       "date": "2026-06-29T07:04:00.000Z",
       "summary": "The Bahrain Classical Chess Championship 2026 concluded on Saturday, 20 June 2026, at Khalifa Sports City, following several days of intense competition. The event showcased the continued growth and development of chess in the Kingdom of Bahrain and brought…"
-    },
-    {
-      "title": "Georgia honours Nona Gaprindashvili with highest national sports award",
-      "link": "https://www.fide.com/georgia-honours-nona-gaprindashvili-with-highest-national-sports-award/",
-      "source": "FIDE",
-      "date": "2026-06-28T07:29:40.000Z",
-      "summary": "In a ceremony attended by the Georgian Prime Minister, Minister of Sport and FIDE President Arkady Dvorkovich, Georgia paid tribute to one of the greatest women chess players of all time, Nona Gaprindashvili. The celebration – held at the Rustaveli National…"
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
@@ -322,13 +329,6 @@
       "source": "Chess.com",
       "date": "2026-06-16T18:34:39.000Z",
       "summary": "GM Alexey Sarana won Titled Tuesday on June 16 with a nearly perfect performance, scoring 10.5/11, with his only non-victory a draw against GM Magnus Carlsen in round eight. Carlsen, playing the full tournament for the first time in weeks, wasn't ..."
-    },
-    {
-      "title": "Carlsen Wins 2026 ASEAN E-Sports Chess Cup",
-      "link": "https://www.chess.com/news/view/carlsen-wins-2026-asean-e-sports-chess-cup",
-      "source": "Chess.com",
-      "date": "2026-06-16T17:00:00.000Z",
-      "summary": "GM Magnus Carlsen won the inaugural 2026 ASEAN E-Sports Chess Cup on June 13 and the $8,500 first prize. After finishing at the top of Group A, he went on to defeat GM Andrey Esipenko 2-1 in the Championship Final. The event took place at the Fou..."
     },
     {
       "title": "Surprise victory for Mukhiddin Madaminov in the 3rd UzChess Cup - 9",
