@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T14:09:35.108Z",
+  "updated": "2026-06-30T17:02:54.454Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,25 @@
   ],
   "items": [
     {
+      "title": "Ganguly’s stunning a5 Attack - The Monthly Dragon",
+      "link": "https://en.chessbase.com/post/ganguly-s-stunning-a5-attack-the-monthly-dragon",
+      "source": "ChessBase",
+      "date": "2026-06-30T18:00:00.000Z",
+      "summary": "Chris Ward looks at a sharp Dragon main line from the French League, featuring GM Surya Ganguly with Black. The focus is on the fashionable Bishop c4 system and Black’s fresh-looking plan with ...a5, which helps activate the queenside pieces and create pres…"
+    },
+    {
       "title": "Georgia honours Nona Gaprindashvili with highest national sports award",
       "link": "https://en.chessbase.com/post/nona-graprindashvili-national-sports-award-georgia",
       "source": "ChessBase",
       "date": "2026-06-30T15:30:41.000Z",
       "summary": "Georgia honoured Nona Gaprindashvili at a ceremony in Tbilisi marking her 85th birthday, with Prime Minister Irakli Kobakhidze, government officials and FIDE President Arkady Dvorkovich among the guests. Held at the Rustaveli National Theatre, the event com…"
+    },
+    {
+      "title": "Magic Meets Mayhem In The Chess.com Spell Chess Championship, Starting July 15",
+      "link": "https://www.chess.com/news/view/announcing-chesscom-spell-chess-championship-2026",
+      "source": "Chess.com",
+      "date": "2026-06-30T15:00:00.000Z",
+      "summary": "Calling out all wizards and witches! The Chess.com Spell Chess Championship is the next event of the Chess.com Community Championships. The event takes place from July 15 to July 17 and features $2,500 in prizes. Spell Chess is what happens when ..."
     },
     {
       "title": "Magnus Carlsen Reaches 15 Years Unbroken As World No. 1",
@@ -37,46 +51,11 @@
       "summary": "As Erling Braut Haaland leads Norway's quest for World Cup glory, it's easy to forget that just three months ago the Manchester City superstar made headlines in a very different arena. Haaland's investment in Norway Chess sent shockwaves through ..."
     },
     {
-      "title": "Historic British Chess Championships",
-      "link": "https://en.chessbase.com/post/historic-british-chess-championships",
-      "source": "ChessBase",
-      "date": "2026-06-30T09:14:26.000Z",
-      "summary": "First held in 1904, the British Chess Championships are among the world's longest-running and most prestigious national chess events. Each year they bring together leading players, rising talents and chess enthusiasts from across the United Kingdom and beyo…"
-    },
-    {
-      "title": "Winners crowned at FIDE World Cup Under 8–12",
-      "link": "https://en.chessbase.com/post/world-cadets-cup-2026-results",
-      "source": "ChessBase",
-      "date": "2026-06-29T23:30:00.000Z",
-      "summary": "The FIDE World Cup Under 8–12 concluded in Batumi after eleven days of play, with China finishing first in the medal standings after winning three gold medals, one silver and one bronze. Kazakhstan, France and India also collected gold medals, while India a…"
-    },
-    {
-      "title": "Kostya Kavutskiy: Mastering Calculation - Think Clearly, Calculate Precisely, Improve Consistently",
-      "link": "https://en.chessbase.com/post/kostya-kavutskiy-mastering-calculation-think-clearly-calculate-precisely-improve-consistently",
-      "source": "ChessBase",
-      "date": "2026-06-29T20:00:00.000Z",
-      "summary": "In his new ChessBase course, IM Kostya Kavutskiy focuses on one of the most important and challenging skills in chess: calculation. Drawing on more than 15 years of coaching experience and his work with ChessDojo, he presents key concepts, patterns and prac…"
-    },
-    {
-      "title": "Kasparov Day in Radenci",
-      "link": "https://en.chessbase.com/post/kasparov-day-in-radenci",
-      "source": "ChessBase",
-      "date": "2026-06-29T17:04:35.000Z",
-      "summary": "It was undoubtedly one of the highlights of the Kasparov Chess Foundation Friendship Festival in Radenci. Combining world-class chess education with exciting competition, the day featured the 2nd European KCF Trainers Conference, the 2nd Albin Planinc Memor…"
-    },
-    {
       "title": "5th International Youth Chess Festival of the Tigran Petrosyan Chess House School of Sport concludes in Yerevan",
       "link": "https://www.fide.com/5th-international-youth-chess-festival-of-the-tigran-petrosyan-chess-house-school-of-sport-concludes-in-yerevan/",
       "source": "FIDE",
       "date": "2026-06-29T14:59:26.000Z",
       "summary": "Held from June 17 to June 27, the fifth edition of the International Youth Chess Festival of the Tigran Petrosyan Chess House School of Sport brought together more than 650 young chess players from different countries, creating a vibrant atmosphere of compe…"
-    },
-    {
-      "title": "Founder Freedom Holding Corp's Timur Turlov has announced his candidacy for the post of FIDE Vice-President",
-      "link": "https://en.chessbase.com/post/founder-freedom-holding-corp-timur-turlov-has-announced-his-candidacy-for-the-post-of-the-fide-vice-president",
-      "source": "ChessBase",
-      "date": "2026-06-29T12:38:57.000Z",
-      "summary": "The President of the Kazakhstan Chess Federation and the founder and the majority shareholder of Freedom Holding Corp., Timur Turlov, has nominated himself for the post of the Deputy President of the International Chess Federation (FIDE). The next elections…"
     },
     {
       "title": "From classroom to world stage: St Joseph’s Anglo-Chinese Primary School in Hong Kong",
@@ -91,6 +70,13 @@
       "source": "FIDE",
       "date": "2026-06-29T07:04:00.000Z",
       "summary": "The Bahrain Classical Chess Championship 2026 concluded on Saturday, 20 June 2026, at Khalifa Sports City, following several days of intense competition. The event showcased the continued growth and development of chess in the Kingdom of Bahrain and brought…"
+    },
+    {
+      "title": "Winners crowned at FIDE World Cup Under 8–12",
+      "link": "https://www.fide.com/winners-crowned-at-fide-world-cup-under-8-12/",
+      "source": "FIDE",
+      "date": "2026-06-28T10:10:28.000Z",
+      "summary": "The curtain fell on the FIDE World Cup Under 8–12 in Batumi, bringing an end to a thrilling competition. Over the past eleven days, players from across the globe demonstrated outstanding skills and determination, with each round bringing new challenges, unf…"
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
@@ -322,13 +308,6 @@
       "source": "Lichess",
       "date": "2026-06-16T22:34:27.831Z",
       "summary": "Five days of extremely exciting, world class speed chess!"
-    },
-    {
-      "title": "Nearly Perfect Sarana Tops Returning Carlsen",
-      "link": "https://www.chess.com/news/view/sarana-wins-titled-tuesday-june-16-2026",
-      "source": "Chess.com",
-      "date": "2026-06-16T18:34:39.000Z",
-      "summary": "GM Alexey Sarana won Titled Tuesday on June 16 with a nearly perfect performance, scoring 10.5/11, with his only non-victory a draw against GM Magnus Carlsen in round eight. Carlsen, playing the full tournament for the first time in weeks, wasn't ..."
     },
     {
       "title": "Surprise victory for Mukhiddin Madaminov in the 3rd UzChess Cup - 9",
