@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T08:26:56.872Z",
+  "updated": "2026-06-30T11:42:28.339Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Arkady Dvorkovich to seek third term as FIDE President",
+      "link": "https://en.chessbase.com/post/arkady-dvorkovich-to-seek-third-term-as-fide-president",
+      "source": "ChessBase",
+      "date": "2026-06-30T13:00:00.000Z",
+      "summary": "Incumbent FIDE President Arkady Dvorkovich has announced he will seek a third term as President of the International Chess Federation (FIDE). Dvorkovich has said he will focus on providing more practical support for national federations, digital modernisati…"
+    },
+    {
+      "title": "How Erling Haaland Helped Norway Chess Raise $10 Million For Total Chess",
+      "link": "https://www.chess.com/news/view/how-haaland-helped-norway-chess-raise-10-million",
+      "source": "Chess.com",
+      "date": "2026-06-30T10:31:00.000Z",
+      "summary": "As Erling Braut Haaland leads Norway's quest for World Cup glory, it's easy to forget that just three months ago the Manchester City superstar made headlines in a very different arena. Haaland's investment in Norway Chess sent shockwaves through ..."
+    },
     {
       "title": "Historic British Chess Championships",
       "link": "https://en.chessbase.com/post/historic-british-chess-championships",
@@ -322,13 +336,6 @@
       "source": "The Week in Chess",
       "date": "2026-06-16T15:17:00.000Z",
       "summary": "Mukhiddin Madaminov won the 3rd Uzchess Cup in Tashkent , a real surprise as he was the bottom seed and there as a replacement for Javokhir Sindarov. Madaminov won a final blitz tie-break 2-0 against fellow Uzbekistani Shamsiddin Vokhidov who also wasn't on…"
-    },
-    {
-      "title": "Vachier-Lagrave, Le, Bluebaum, Yoo Among Stars To Play In Esports Nations Cup Finals",
-      "link": "https://www.chess.com/news/view/2026-esports-nations-cup-regional-qualifiers",
-      "source": "Chess.com",
-      "date": "2026-06-16T13:55:00.000Z",
-      "summary": "GMs Maxime Vachier-Lagrave, Le Quang Liem, Matthias Bluebaum, Volodar Murzin and Christopher Yoo are among the players who secured their spots in the inaugural Esports Nations Cup Finals, with at least 82 countries and territories set to be repres..."
     },
     {
       "title": "3rd UzChess Cup 2026 - Games and Results",
