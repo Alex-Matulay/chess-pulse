@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T21:23:47.966Z",
+  "updated": "2026-07-01T23:09:52.068Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Firouzja Grabs Sole Lead As Super Rapid & Blitz Croatia Begins",
+      "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-1",
+      "source": "Chess.com",
+      "date": "2026-07-01T22:39:34.000Z",
+      "summary": "GM Alireza Firouzja shrugged off his bullet-chess loss to GM Nihal Sarin to take the sole lead on day one of the 2026 Super Rapid & Blitz Croatia with wins over GMs Ivan Saric and Bogdan-Daniel Deac. His 5/6 put him a point ahead of GMs Praggn..."
+    },
     {
       "title": "Bodhana Sivanandan vs. Jose Capablanca (Level = Master Candidate)",
       "link": "https://en.chessbase.com/post/bodhana-sivanandan-vs-jose-capablanca-level-master-candidate",
@@ -329,13 +336,6 @@
       "source": "Chess.com",
       "date": "2026-06-20T01:56:00.000Z",
       "summary": "IM Renato Terry, GM Matthias Bluebaum, and IM Reza Mahdavi were the deserving winners of the hard-fought 3 0 Thursday tournaments on June 18. The all-time leaderboard pacesetter Terry had to overcome the five-time world champion GM Magnus Carlsen ..."
-    },
-    {
-      "title": "Nepomniachtchi Wins Six Straight For Third Freestyle Friday Win",
-      "link": "https://www.chess.com/news/view/nepomniachtchi-wins-freestyle-friday-june-19-2026",
-      "source": "Chess.com",
-      "date": "2026-06-19T20:56:45.000Z",
-      "summary": "GM Ian Nepomniachtchi is your Freestyle Friday winner for June 19, winning six games in a row at one point to claim the tournament outright on nine points, his second of the year and third overall. Tiebreaks separated second-place IM Reza Mahdavi ..."
     },
     {
       "title": "FIDE World Team Rapid 2026: Dragon Chilling Rapid Champions, Rise Like a Phoenix",
