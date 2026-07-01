@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T17:10:53.537Z",
+  "updated": "2026-07-01T19:47:35.396Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Bodhana Sivanandan vs. Jose Capablanca (Level = Master Candidate)",
+      "link": "https://en.chessbase.com/post/bodhana-sivanandan-vs-jose-capablanca-level-master-candidate",
+      "source": "ChessBase",
+      "date": "2026-07-01T20:00:00.000Z",
+      "summary": "Bodhana Sivanandan took on the virtual version of José Raúl Capablanca in Fritz 21 at Master Candidate strength and impressed with her calm, confident decision-making throughout the game. Despite facing one of history's greatest positional players, she cons…"
+    },
+    {
+      "title": "Carlsen Drops 18 Points, Remains Only 2800+ Player In World",
+      "link": "https://www.chess.com/news/view/july-2026-fide-ratings",
+      "source": "Chess.com",
+      "date": "2026-07-01T19:43:27.000Z",
+      "summary": "Norway Chess 2026 and the UzChess Cup 2026 were two tournaments that shifted classical ratings for many of the world's top-15 on the July list. The most notable change was, unusually so, an 18-point drop in GM Magnus Carlsen's rating, just as he c..."
+    },
     {
       "title": "Dvorkovich Confirms 3rd-Term Bid For FIDE President, Adds Turlov To Ticket",
       "link": "https://www.chess.com/news/view/dvorkovich-confirms-bid-for-third-term-as-fide-president-adds-turlov-to-ticket",
@@ -329,13 +343,6 @@
       "source": "Lichess",
       "date": "2026-06-19T14:45:15.237Z",
       "summary": "After a topsy-turvy third day, Dragon Chilling won the FIDE World Team Rapid Chess Championship 2026 on tiebreaks, edging out Team MGD1 and Hexamind Chess Team, who shared first with Dragon Chilling on matchpoints."
-    },
-    {
-      "title": "Dragon Chilling Takes Rapid Gold In Nail-Biting Finish; Carlsen Loses 4 In A Row",
-      "link": "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-3",
-      "source": "Chess.com",
-      "date": "2026-06-19T12:55:00.000Z",
-      "summary": "GM Ding Liren won in the final round as Dragon Chilling clinched the 2026 World Rapid Team Championship on tiebreaks ahead of silver medalists Team MGD1 (led by GM Arjun Erigaisi) and bronze medalists Hexamind Chess Team (GM Alireza Firouzja). Whe..."
     },
     {
       "title": "FIDE World Team Rapid & Blitz Chess Championships 2026 Preview",
