@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T11:57:29.363Z",
+  "updated": "2026-07-01T14:40:02.956Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Super Rapid & Blitz Croatia - Live!",
+      "link": "https://en.chessbase.com/post/super-croatia-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-01T14:45:00.000Z",
+      "summary": "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among…"
+    },
+    {
+      "title": "FIDE ratings - July 2026",
+      "link": "https://en.chessbase.com/post/fide-ratings-july-2026",
+      "source": "ChessBase",
+      "date": "2026-07-01T14:36:36.000Z",
+      "summary": "Magnus Carlsen may have lost a significant number of rating points at Norway Chess, but he remains the undisputed world number one. World Champion Gukesh continues to lead the junior rankings, though only by a narrow margin. In the girls' rankings, Anastasi…"
+    },
+    {
+      "title": "FIDE July 2026 rating list published",
+      "link": "https://www.fide.com/fide-july-2026-rating-list-published/",
+      "source": "FIDE",
+      "date": "2026-07-01T13:54:09.000Z",
+      "summary": "The FIDE July 2026 rating list was primarily shaped by Norway Chess, the Asian Individual Chess Championship, the European Women’s Chess Championship, the UzChess Cup, and the French Team Finals. The Open top 10 saw just one notable shift, as Wesley So move…"
+    },
     {
       "title": "FIDE World Amateur Rapid & Blitz Chess Championships in Nigeria: Registration deadline extended",
       "link": "https://www.fide.com/fide-world-amateur-rapid-blitz-chess-championships-in-nigeria-registration-deadline-extended/",
@@ -182,13 +203,6 @@
       "source": "Chess.com",
       "date": "2026-06-26T19:18:00.000Z",
       "summary": "The race for the presidency of the International Chess Federation (FIDE) officially kicked off on Friday as Wadim Rosenstein announced his long-expected candidacy, hours before fellow German entrepreneur Jan Henric Buettner entered the competition..."
-    },
-    {
-      "title": "African Individual Championship 2026: Bilel Bellahcene and Shahenda Wafa clinch titles",
-      "link": "https://www.fide.com/african-individual-championship-2026-bilel-bellahcene-and-shahenda-wafa-clinch-titles/",
-      "source": "FIDE",
-      "date": "2026-06-26T13:00:00.000Z",
-      "summary": "GM Bilel Bellahcene (Algeria) and WGM Shahenda Wafa (Egypt) are newly crowned African Chess Champions. Bellahcene successfully defended his title becoming the third multiple winner of the event, while Wafa claimed her fourth continental crown, adding to her…"
     },
     {
       "title": "Firouzja, Arjun Advance To Winners Final",
