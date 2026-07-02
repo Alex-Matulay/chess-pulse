@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T15:11:43.912Z",
+  "updated": "2026-07-02T17:42:21.814Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "KCF Friendship Festival Concludes",
+      "link": "https://en.chessbase.com/post/kcf-friendship-festival-concludes",
+      "source": "ChessBase",
+      "date": "2026-07-02T19:26:45.000Z",
+      "summary": "After nine hard-fought rounds, the Kasparov Chess Foundation Friendship Festival 2026 Open came to a thrilling conclusion. Chinese grandmaster Xu Xiangyu captured the title with an outstanding performance, prevailing in one of the strongest international op…"
+    },
     {
       "title": "Unlock Exclusive Boards, Piece Sets, And Flairs With The New Monthly Bot Challenges",
       "link": "https://www.chess.com/news/view/announcing-monthly-bot-challenges",
