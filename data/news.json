@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T12:11:14.494Z",
+  "updated": "2026-07-02T15:11:43.912Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Unlock Exclusive Boards, Piece Sets, And Flairs With The New Monthly Bot Challenges",
+      "link": "https://www.chess.com/news/view/announcing-monthly-bot-challenges",
+      "source": "Chess.com",
+      "date": "2026-07-02T15:00:00.000Z",
+      "summary": "Playing against bots just got more fun! You now earn points every time you play against the monthly bots. Earn enough points to unlock exclusive chessboards, piece sets, and flairs that will last forever in your account! But hurry, because once th..."
+    },
+    {
+      "title": "Tris Ann Richards appointed Chair of the FIDE Commission for Women’s Chess",
+      "link": "https://www.fide.com/tris-ann-richards-appointed-chair-of-the-fide-commission-for-womens-chess/",
+      "source": "FIDE",
+      "date": "2026-07-02T14:56:11.000Z",
+      "summary": "FIDE is pleased to announce the appointment of Tris Ann Richards as the new Chair of the FIDE Commission for Women’s Chess. She succeeds Anastasia Sorokina, who has stepped down from the position after several years of dedicated service. Tris Ann Richards i…"
+    },
+    {
+      "title": "Super Rapid & Blitz Croatia - Live!",
+      "link": "https://en.chessbase.com/post/super-croatia-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-02T14:45:00.000Z",
+      "summary": "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among…"
+    },
+    {
+      "title": "Lichess Game of the Month: May '26",
+      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-may-26/H3C1d56C",
+      "source": "Lichess",
+      "date": "2026-07-02T12:29:51.381Z",
+      "summary": "A stunning three queens game"
+    },
     {
       "title": "Zagreb: Entertaining first day of rapid leaves Firouzja as sole leader",
       "link": "https://en.chessbase.com/post/super-croatia-2026-1",
@@ -21,13 +49,6 @@
       "source": "Chess.com",
       "date": "2026-07-01T22:39:34.000Z",
       "summary": "GM Alireza Firouzja shrugged off his bullet-chess loss to GM Nihal Sarin to take the sole lead on day one of the 2026 Super Rapid & Blitz Croatia with wins over GMs Ivan Saric and Bogdan-Daniel Deac. His 5/6 put him a point ahead of GMs Praggn..."
-    },
-    {
-      "title": "Bodhana Sivanandan vs. Jose Capablanca (Level = Master Candidate)",
-      "link": "https://en.chessbase.com/post/bodhana-sivanandan-vs-jose-capablanca-level-master-candidate",
-      "source": "ChessBase",
-      "date": "2026-07-01T20:00:00.000Z",
-      "summary": "Bodhana Sivanandan took on the virtual version of José Raúl Capablanca in Fritz 21 at Master Candidate strength and impressed with her calm, confident decision-making throughout the game. Despite facing one of history's greatest positional players, she cons…"
     },
     {
       "title": "Carlsen Drops 18 Points, Remains Only 2800+ Player In World",
@@ -77,20 +98,6 @@
       "source": "FIDE",
       "date": "2026-07-01T09:27:09.000Z",
       "summary": "On July 20, the global chess community will come together to celebrate International Chess Day 2026, a day dedicated to the game that connects people across countries, cultures and generations. This year, FIDE invites players, federations, clubs, schools, o…"
-    },
-    {
-      "title": "León Masters: Le, Oro, Santos and Alekseenko face off in rapid knockout",
-      "link": "https://en.chessbase.com/post/magistral-leon-2026-preview",
-      "source": "ChessBase",
-      "date": "2026-07-01T09:00:00.000Z",
-      "summary": "The 39th edition of the \"Ciudad de León\" Masters will take place from 3 to 5 July, with Le Quang Liem, Kirill Alekseenko, Faustino Oro and Jaime Santos in the four-player knockout. Le returns as defending champion, while Oro arrives with grandmaster-elect s…"
-    },
-    {
-      "title": "KazChess Masters in Almaty: Shankland, Kovalenko start with wins",
-      "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r1",
-      "source": "ChessBase",
-      "date": "2026-07-01T01:00:00.000Z",
-      "summary": "The KazChess Masters Almaty has begun in Kazakhstan's largest city, with five established international grandmasters facing five rising local players in a ten-player single round-robin. The opening round produced two decisive results, as Igor Kovalenko defe…"
     },
     {
       "title": "Martinez Magic Makes For Another Titled Tuesday Victory",
@@ -175,13 +182,6 @@
       "source": "Chess.com",
       "date": "2026-06-27T21:11:00.000Z",
       "summary": "GM Nihal Sarin won the 2026 Bullet Chess Championship after pulling off what once seemed impossible. After taking down GMs Andrew Tang and Arjun Erigaisi in the Losers Bracket, he went on to win back-to-back matches against three-time and defendin..."
-    },
-    {
-      "title": "World Youth Chess Championship 2026 concludes in grand style",
-      "link": "https://www.fide.com/world-youth-chess-championship-2026-concludes-in-grand-style/",
-      "source": "FIDE",
-      "date": "2026-06-27T09:51:26.000Z",
-      "summary": "Montesilvano, Italy – After twelve memorable days of intense competition, the FIDE World Youth Chess Championships 2026 came to a spectacular conclusion, crowning six new World Youth Champions. A total of 758 players from 84 countries participated in the ev…"
     },
     {
       "title": "Firouzja Beats Arjun In Tiebreaks, Advances To Grand Final",
@@ -308,13 +308,6 @@
       "source": "Chess.com",
       "date": "2026-06-20T20:28:00.000Z",
       "summary": "GM Magnus Carlsen bounced back from four losses in a row to win his first eight blitz games and wasn't even the highest scorer as WR Chess cruised to victory in Pool A and then eased through to the Quarterfinals of the FIDE World Blitz Team Champi..."
-    },
-    {
-      "title": "Terry Topples Carlsen; Bluebaum, Mahdavi Capture 3 0 Thursday Titles",
-      "link": "https://www.chess.com/news/view/terry-bluebaum-mahdavi-3-0-thursday-06-18-2026",
-      "source": "Chess.com",
-      "date": "2026-06-20T01:56:00.000Z",
-      "summary": "IM Renato Terry, GM Matthias Bluebaum, and IM Reza Mahdavi were the deserving winners of the hard-fought 3 0 Thursday tournaments on June 18. The all-time leaderboard pacesetter Terry had to overcome the five-time world champion GM Magnus Carlsen ..."
     },
     {
       "title": "FIDE World Team Rapid 2026: Dragon Chilling Rapid Champions, Rise Like a Phoenix",
