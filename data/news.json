@@ -1,13 +1,19 @@
 {
-  "updated": "2026-07-02T21:00:49.715Z",
+  "updated": "2026-07-02T21:28:14.124Z",
   "sources": [
     "Chess.com",
-    "Lichess",
     "ChessBase",
     "FIDE",
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Firouzja Extends Lead As Gukesh Hits Back",
+      "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-2",
+      "source": "Chess.com",
+      "date": "2026-07-02T21:11:26.000Z",
+      "summary": "GM Alireza Firouzja has opened up a three-point lead after beating key rivals GMs Vincent Keymer and Praggnanandhaa Rameshbabu with the black pieces on day two of the 2026 Super Rapid & Blitz Croatia. GM Bogdan-Daniel Deac began in style with ..."
+    },
     {
       "title": "KCF Friendship Festival Concludes",
       "link": "https://en.chessbase.com/post/kcf-friendship-festival-concludes",
@@ -35,13 +41,6 @@
       "source": "ChessBase",
       "date": "2026-07-02T14:45:00.000Z",
       "summary": "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among…"
-    },
-    {
-      "title": "Lichess Game of the Month: May '26",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-may-26/H3C1d56C",
-      "source": "Lichess",
-      "date": "2026-07-02T12:29:51.381Z",
-      "summary": "A stunning three queens game"
     },
     {
       "title": "Zagreb: Entertaining first day of rapid leaves Firouzja as sole leader",
@@ -296,39 +295,11 @@
       "summary": "\"It's like a dream!\" said Dragon Chilling captain GM Ni Hua as the Chinese team added&nbsp;2026 FIDE World Blitz Team Championship gold medals to their earlier victory in rapid chess. The team, led by GM Ding Liren, beat GM Hans Niemann's Endgame...."
     },
     {
-      "title": "FIDE World Team Blitz 2026: Dragon Chilling Clinches Double Title",
-      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-blitz-2026-dragon-chilling-clinches-double-title/NNCqdkrl",
-      "source": "Lichess",
-      "date": "2026-06-21T12:35:42.692Z",
-      "summary": "Dragon Chilling won the FIDE World Team Blitz Chess Championship 2026, defeating Endgame.AI in a dominant final and achieving a double gold. Uzbekistan took third after winning against Hexamind Chess Team."
-    },
-    {
       "title": "Gurel Clinches 10th Bullet Brawl Title By 1 Point After Flawless Start",
       "link": "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-june-20-2026",
       "source": "Chess.com",
       "date": "2026-06-21T02:13:00.000Z",
       "summary": "GM Hikaru Nakamura's perfect record in Bullet Brawl in 2026 has finally come to an end courtesy of an exceptional performance by the 17-year-old GM Ediz Gurel. Gurel recorded one of the all-time greatest starts with 17 consecutive wins and clinche..."
-    },
-    {
-      "title": "Carlsen, WR Chess Back In Business As World Team Blitz Championship Begins",
-      "link": "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-4",
-      "source": "Chess.com",
-      "date": "2026-06-20T20:28:00.000Z",
-      "summary": "GM Magnus Carlsen bounced back from four losses in a row to win his first eight blitz games and wasn't even the highest scorer as WR Chess cruised to victory in Pool A and then eased through to the Quarterfinals of the FIDE World Blitz Team Champi..."
-    },
-    {
-      "title": "FIDE World Team Rapid 2026: Dragon Chilling Rapid Champions, Rise Like a Phoenix",
-      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-rapid-2026-dragon-chilling-rapid-champions-rise-like-a-phoenix/AdnRMOKE",
-      "source": "Lichess",
-      "date": "2026-06-19T14:45:15.237Z",
-      "summary": "After a topsy-turvy third day, Dragon Chilling won the FIDE World Team Rapid Chess Championship 2026 on tiebreaks, edging out Team MGD1 and Hexamind Chess Team, who shared first with Dragon Chilling on matchpoints."
-    },
-    {
-      "title": "FIDE World Team Rapid & Blitz Chess Championships 2026 Preview",
-      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-rapid-blitz-chess-championships-2026-preview/9xeS0vyr",
-      "source": "Lichess",
-      "date": "2026-06-16T22:34:27.831Z",
-      "summary": "Five days of extremely exciting, world class speed chess!"
     },
     {
       "title": "Surprise victory for Mukhiddin Madaminov in the 3rd UzChess Cup - 9",
@@ -380,13 +351,6 @@
       "summary": "The 26th European Women's Championship took place Mon 25th May to Friday 5th Jun 2026. Anastasiia Hnatyshyn took clear first place with 9/11 half a point clear of Sabrina Vega Gutierrez, Olga Badelka and Nurgyul Salimova."
     },
     {
-      "title": "Lichess Game of the Month: April '26",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-april-26/quyYWuyT",
-      "source": "Lichess",
-      "date": "2026-06-04T07:07:15.965Z",
-      "summary": "A very aggressive f5 in the Ruy Lopez"
-    },
-    {
       "title": "Upcoming tournaments and events",
       "link": "https://en.chessbase.com/post/upcoming-tournaments-and-events-2",
       "source": "ChessBase",
@@ -413,13 +377,6 @@
       "source": "ChessBase",
       "date": "2026-05-23T12:50:00.000Z",
       "summary": "The second event of the 2026 Grand Chess Tour is the Super Chess Classic Romania, which is taking place on 14-23 May in Bucharest. Vincent Keymer and Fabiano Caruana enter the final round tied for first place, while Javokhir Sindarov, Wesley So and Jorden v…"
-    },
-    {
-      "title": "Viswanathan Anand Interview with Lichess",
-      "link": "https://lichess.org/@/Lichess/blog/viswanathan-anand-interview-with-lichess/nQaVbj4C",
-      "source": "Lichess",
-      "date": "2026-05-23T05:13:22.844Z",
-      "summary": "Legendary Indian Grandmaster and five-time World Chess Champion Viswanathan Anand sat down for an interview with Lichess’ Director of Operations, Theo Wait, at the recently concluded FIDE Candidates Tournament."
     }
   ]
 }
