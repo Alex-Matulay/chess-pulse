@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T09:53:44.406Z",
+  "updated": "2026-07-03T12:06:15.612Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Simpson's in the Strand: The home of chess",
+      "link": "https://en.chessbase.com/post/simpon-s-in-the-strand-the-home-of-chess",
+      "source": "ChessBase",
+      "date": "2026-07-03T13:15:00.000Z",
+      "summary": "At the end of last year, the famous chess café Simpson's-in-the-Strand reopened, and its new operator, Jeremy King, together with his friend Jason King, intends to preserve its chess tradition. To this end, a \"chess menu\" was recently put together. Luke McS…"
+    },
     {
       "title": "Yip, Garifullina Qualify For WR Women's Chess Tour Grand Final",
       "link": "https://www.chess.com/news/view/yip-garifullina-win-2026-wr-womens-chess-tour-americas",
