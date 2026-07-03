@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T21:00:01.303Z",
+  "updated": "2026-07-03T22:11:50.428Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Perfect Praggnanandhaa Catches Firouzja",
+      "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-3",
+      "source": "Chess.com",
+      "date": "2026-07-03T21:54:52.000Z",
+      "summary": "GM Praggnanandhaa Rameshbabu goes into the blitz section of the 2026 Super Rapid & Blitz Croatia as co-leader after winning all three games on day three&mdash;against GMs Ivan Saric, Bogdan-Daniel Deac, and Anish Giri&mdash;to catch GM Alireza..."
+    },
     {
       "title": "Carlsen Features In Esports World Cup Documentary & Promo With Ronaldo",
       "link": "https://www.chess.com/news/view/carlsen-prime-documentary-ronaldo-ewc-promo",
@@ -65,13 +72,6 @@
       "summary": "IMs Carissa Yip and Leya Garifullina won the rapid and blitz segments (respectively) of the WR Women's Chess Tour - Americas 2026 on Wednesday and Thursday. Along with the $7,000 first prize, they both qualify for the Grand Final in Stuttgart, Ger..."
     },
     {
-      "title": "Zagreb: In-form Firouzja now three points clear of the field",
-      "link": "https://en.chessbase.com/post/super-croatia-2026-2",
-      "source": "ChessBase",
-      "date": "2026-07-03T00:40:00.000Z",
-      "summary": "Alireza Firouzja increased his lead at the Super Rapid & Blitz Croatia in Zagreb after scoring two wins and a draw for the second day in a row. He now has 10/12 points, 3 more than Vincent Keymer, Maxime Vachier-Lagrave, Gukesh Dommaraju and Bogdan-Daniel D…"
-    },
-    {
       "title": "Firouzja Extends Lead As Gukesh Hits Back",
       "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-2",
       "source": "Chess.com",
@@ -100,13 +100,6 @@
       "summary": "A stunning three queens game"
     },
     {
-      "title": "Zagreb: Entertaining first day of rapid leaves Firouzja as sole leader",
-      "link": "https://en.chessbase.com/post/super-croatia-2026-1",
-      "source": "ChessBase",
-      "date": "2026-07-02T07:30:00.000Z",
-      "summary": "Alireza Firouzja took the sole lead after the first day of the Super Rapid & Blitz Croatia in Zagreb, scoring two wins and a draw in the opening three rapid rounds. His victories over Ivan Saric and Bogdan-Daniel Deac were not straightforward, while a third…"
-    },
-    {
       "title": "Firouzja Grabs Sole Lead As Super Rapid & Blitz Croatia Begins",
       "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-1",
       "source": "Chess.com",
@@ -126,13 +119,6 @@
       "source": "Chess.com",
       "date": "2026-07-01T14:57:35.000Z",
       "summary": "Arkady Dvorkovich has confirmed he will seek a third term as President of the International Chess Federation (FIDE), eight years after first campaigning on a promise that FIDE presidents should be limited to two terms. The incumbent announced his..."
-    },
-    {
-      "title": "FIDE ratings - July 2026",
-      "link": "https://en.chessbase.com/post/fide-ratings-july-2026",
-      "source": "ChessBase",
-      "date": "2026-07-01T14:36:36.000Z",
-      "summary": "Magnus Carlsen may have lost a significant number of rating points at Norway Chess, but he remains the undisputed world number one. World Champion Gukesh continues to lead the junior rankings, though only by a narrow margin. In the girls' rankings, Anastasi…"
     },
     {
       "title": "FIDE July 2026 rating list published",
@@ -315,13 +301,6 @@
       "source": "Chess.com",
       "date": "2026-06-22T15:00:00.000Z",
       "summary": "Chess will once again be a part of the world's biggest esports festival, with GM Magnus Carlsen returning to defend his title. The Esports World Cup Chess Finals will take place from August 11 to 15 with a new home in Paris, France, and feature a ..."
-    },
-    {
-      "title": "Woodward Wins Revenge Grand Final",
-      "link": "https://www.chess.com/news/view/woodward-wins-2026-hyperbullet-chess-championship",
-      "source": "Chess.com",
-      "date": "2026-06-22T14:55:00.000Z",
-      "summary": "GM Andy Woodward fought back valiantly to defeat GM Andrew Tang in the Grand Final Reset and deny him the title for the third year in a row in the Chess.com Hyperbullet Championship 2026, which concluded on Friday, June 19. After losing to Tang in..."
     },
     {
       "title": "FIDE World Team Blitz 2026: Dragon Chilling Clinches Double Title",
