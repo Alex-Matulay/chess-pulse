@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T02:33:04.659Z",
+  "updated": "2026-07-03T06:27:21.069Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Yip, Garifullina Qualify For WR Women's Chess Tour Grand Final",
+      "link": "https://www.chess.com/news/view/yip-garifullina-win-2026-wr-womens-chess-tour-americas",
+      "source": "Chess.com",
+      "date": "2026-07-03T02:40:09.000Z",
+      "summary": "IMs Carissa Yip and Leya Garifullina won the rapid and blitz segments (respectively) of the WR Women's Chess Tour - Americas 2026 on Wednesday and Thursday. Along with the $7,000 first prize, they both qualify for the Grand Final in Stuttgart, Ger..."
+    },
     {
       "title": "Zagreb: In-form Firouzja now three points clear of the field",
       "link": "https://en.chessbase.com/post/super-croatia-2026-2",
@@ -308,13 +315,6 @@
       "source": "Lichess",
       "date": "2026-06-21T12:35:42.692Z",
       "summary": "Dragon Chilling won the FIDE World Team Blitz Chess Championship 2026, defeating Endgame.AI in a dominant final and achieving a double gold. Uzbekistan took third after winning against Hexamind Chess Team."
-    },
-    {
-      "title": "Gurel Clinches 10th Bullet Brawl Title By 1 Point After Flawless Start",
-      "link": "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-june-20-2026",
-      "source": "Chess.com",
-      "date": "2026-06-21T02:13:00.000Z",
-      "summary": "GM Hikaru Nakamura's perfect record in Bullet Brawl in 2026 has finally come to an end courtesy of an exceptional performance by the 17-year-old GM Ediz Gurel. Gurel recorded one of the all-time greatest starts with 17 consecutive wins and clinche..."
     },
     {
       "title": "FIDE World Team Rapid 2026: Dragon Chilling Rapid Champions, Rise Like a Phoenix",
