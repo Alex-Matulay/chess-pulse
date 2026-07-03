@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T12:06:15.612Z",
+  "updated": "2026-07-03T15:06:54.759Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,46 @@
   ],
   "items": [
     {
+      "title": "Naroditsky Memorial - Live!",
+      "link": "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-03T16:50:00.000Z",
+      "summary": "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. Friday is devoted to a seven-round rapid competition, divided into Masters and…"
+    },
+    {
+      "title": "Super Rapid & Blitz Croatia - Live!",
+      "link": "https://en.chessbase.com/post/super-croatia-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-03T14:45:00.000Z",
+      "summary": "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among…"
+    },
+    {
+      "title": "Lazavik, Murzin, Taher Outright Winners Of 3 0 Thursday Tournaments",
+      "link": "https://www.chess.com/news/view/lazavik-murzin-taher-3-0-thursday-07-03-2026",
+      "source": "Chess.com",
+      "date": "2026-07-03T14:06:31.000Z",
+      "summary": "There was no need for tiebreaks in any of the three 3 0 Thursday tournaments on July 2 as the three champions, GMs Denis Lazavik, Volodar Murzin, and IM Yoseph Taher, won outright. In the curtain-raiser, Lazavik beat GMs Magnus Carlsen and Jan-Kr..."
+    },
+    {
       "title": "Simpson's in the Strand: The home of chess",
       "link": "https://en.chessbase.com/post/simpon-s-in-the-strand-the-home-of-chess",
       "source": "ChessBase",
       "date": "2026-07-03T13:15:00.000Z",
       "summary": "At the end of last year, the famous chess café Simpson's-in-the-Strand reopened, and its new operator, Jeremy King, together with his friend Jason King, intends to preserve its chess tradition. To this end, a \"chess menu\" was recently put together. Luke McS…"
+    },
+    {
+      "title": "FIDE Ethics & Disciplinary Commission issues a decision in case involving GM Vladimir Kramnik",
+      "link": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
+      "source": "FIDE",
+      "date": "2026-07-03T10:38:10.000Z",
+      "summary": "The FIDE Ethics & Disciplinary Commission (EDC) has issued its decision in disciplinary proceedings involving former World Champion Vladimir Kramnik. The EDC is an independent judicial body within FIDE responsible for considering alleged violations of the F…"
+    },
+    {
+      "title": "Jan Emmanuel Garcia and Mhage Gerriahlou Sebastian triumph at 2026 Philippine Championship",
+      "link": "https://www.fide.com/jan-emmanuel-garcia-and-mhage-gerriahlou-sebastian-triumph-at-2026-philippine-championship/",
+      "source": "FIDE",
+      "date": "2026-07-03T09:21:00.000Z",
+      "summary": "IM Jan Emmanuel Garcia and untitled Mhage Gerriahlou Sebastian are the newly crowned Philippine chess champions. The 2026 edition of the national championship, held in the Open (the Battle of Grandmasters) and Women’s (Women Selection) sections, took place…"
     },
     {
       "title": "Yip, Garifullina Qualify For WR Women's Chess Tour Grand Final",
@@ -33,7 +68,7 @@
       "title": "Firouzja Extends Lead As Gukesh Hits Back",
       "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-2",
       "source": "Chess.com",
-      "date": "2026-07-02T21:11:26.000Z",
+      "date": "2026-07-02T21:11:00.000Z",
       "summary": "GM Alireza Firouzja has opened up a three-point lead after beating key rivals GMs Vincent Keymer and Praggnanandhaa Rameshbabu with the black pieces on day two of the 2026 Super Rapid & Blitz Croatia. GM Bogdan-Daniel Deac began in style with ..."
     },
     {
@@ -177,20 +212,6 @@
       "summary": "The Bahrain Classical Chess Championship 2026 concluded on Saturday, 20 June 2026, at Khalifa Sports City, following several days of intense competition. The event showcased the continued growth and development of chess in the Kingdom of Bahrain and brought…"
     },
     {
-      "title": "Winners crowned at FIDE World Cup Under 8–12",
-      "link": "https://www.fide.com/winners-crowned-at-fide-world-cup-under-8-12/",
-      "source": "FIDE",
-      "date": "2026-06-28T10:10:28.000Z",
-      "summary": "The curtain fell on the FIDE World Cup Under 8–12 in Batumi, bringing an end to a thrilling competition. Over the past eleven days, players from across the globe demonstrated outstanding skills and determination, with each round bringing new challenges, unf…"
-    },
-    {
-      "title": "Georgia honours Nona Gaprindashvili with highest national sports award",
-      "link": "https://www.fide.com/georgia-honours-nona-gaprindashvili-with-highest-national-sports-award/",
-      "source": "FIDE",
-      "date": "2026-06-28T07:29:40.000Z",
-      "summary": "In a ceremony attended by the Georgian Prime Minister, Minister of Sport and FIDE President Arkady Dvorkovich, Georgia paid tribute to one of the greatest women chess players of all time, Nona Gaprindashvili. The celebration – held at the Rustaveli National…"
-    },
-    {
       "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
       "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-21-maximum-training-effect-with-the-power-tool-replay-training-part-1",
       "source": "ChessBase",
@@ -308,13 +329,6 @@
       "source": "Chess.com",
       "date": "2026-06-22T12:11:00.000Z",
       "summary": "A Magnus Carlsen game from 2010 and his famous queen sacrifice from the 2016 World Championship match helped shape the central chess battle in The Nation's Gambit, a new Norwegian political thriller, in which every captured piece costs a human lif..."
-    },
-    {
-      "title": "Ding Liren Leads Dragon Chilling To 'Dream' Double Gold",
-      "link": "https://www.chess.com/news/view/2026-fide-world-rapid-blitz-team-championships-day-5",
-      "source": "Chess.com",
-      "date": "2026-06-21T21:18:00.000Z",
-      "summary": "\"It's like a dream!\" said Dragon Chilling captain GM Ni Hua as the Chinese team added&nbsp;2026 FIDE World Blitz Team Championship gold medals to their earlier victory in rapid chess. The team, led by GM Ding Liren, beat GM Hans Niemann's Endgame...."
     },
     {
       "title": "FIDE World Team Blitz 2026: Dragon Chilling Clinches Double Title",
