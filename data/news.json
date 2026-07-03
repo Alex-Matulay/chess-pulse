@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T17:20:29.320Z",
+  "updated": "2026-07-03T19:13:05.991Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Carlsen Features In Esports World Cup Documentary & Promo With Ronaldo",
+      "link": "https://www.chess.com/news/view/carlsen-prime-documentary-ronaldo-ewc-promo",
+      "source": "Chess.com",
+      "date": "2026-07-03T19:06:07.000Z",
+      "summary": "A new documentary has been released on Prime Video that sheds light on the competitive race to secure the signing of GM Magnus Carlsen ahead of the Esports World Cup debut of chess, while the world number-one also shares the spotlight with Cristia..."
+    },
     {
       "title": "Naroditsky Memorial - Live!",
       "link": "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
@@ -322,13 +329,6 @@
       "source": "Chess.com",
       "date": "2026-06-22T14:55:00.000Z",
       "summary": "GM Andy Woodward fought back valiantly to defeat GM Andrew Tang in the Grand Final Reset and deny him the title for the third year in a row in the Chess.com Hyperbullet Championship 2026, which concluded on Friday, June 19. After losing to Tang in..."
-    },
-    {
-      "title": "How Two Magnus Carlsen Games Helped Inspire Norway's New Chess Thriller",
-      "link": "https://www.chess.com/news/view/magnus-carlsen-games-inspired-the-nations-gambit-chess-thriller",
-      "source": "Chess.com",
-      "date": "2026-06-22T12:11:00.000Z",
-      "summary": "A Magnus Carlsen game from 2010 and his famous queen sacrifice from the 2016 World Championship match helped shape the central chess battle in The Nation's Gambit, a new Norwegian political thriller, in which every captured piece costs a human lif..."
     },
     {
       "title": "FIDE World Team Blitz 2026: Dragon Chilling Clinches Double Title",
