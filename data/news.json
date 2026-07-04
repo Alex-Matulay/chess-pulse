@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T07:42:11.665Z",
+  "updated": "2026-07-04T10:04:33.683Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE Ethics & Disciplinary Commission issues a decision in case involving GM Vladimir Kramnik",
+      "link": "https://en.chessbase.com/post/decision-case-inolving-kramnik-july-2026",
+      "source": "ChessBase",
+      "date": "2026-07-04T11:00:00.000Z",
+      "summary": "The FIDE Ethics & Disciplinary Commission has issued its decision in proceedings involving former world champion Vladimir Kramnik, finding him responsible for multiple violations linked to public statements about David Navara, the late Daniel Naroditsky and…"
+    },
     {
       "title": "Zagreb: Pragg wins three games in a row, catches Firouzja",
       "link": "https://en.chessbase.com/post/super-croatia-2026-3",
@@ -49,13 +56,6 @@
       "source": "ChessBase",
       "date": "2026-07-03T13:15:00.000Z",
       "summary": "At the end of last year, the famous chess café Simpson's-in-the-Strand reopened, and its new operator, Jeremy King, together with his friend Jason King, intends to preserve its chess tradition. To this end, a \"chess menu\" was recently put together. Luke McS…"
-    },
-    {
-      "title": "FIDE Ethics & Disciplinary Commission issues a decision in case involving GM Vladimir Kramnik",
-      "link": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
-      "source": "FIDE",
-      "date": "2026-07-03T10:38:10.000Z",
-      "summary": "The FIDE Ethics & Disciplinary Commission (EDC) has issued its decision in disciplinary proceedings involving former World Champion Vladimir Kramnik. The EDC is an independent judicial body within FIDE responsible for considering alleged violations of the F…"
     },
     {
       "title": "Jan Emmanuel Garcia and Mhage Gerriahlou Sebastian triumph at 2026 Philippine Championship",
