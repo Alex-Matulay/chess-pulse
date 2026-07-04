@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T20:51:22.454Z",
+  "updated": "2026-07-04T21:54:40.363Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE Bans Former World Champion Vladimir Kramnik For 2 Years",
+      "link": "https://www.chess.com/news/view/fide-bans-kramnik-for-two-years",
+      "source": "Chess.com",
+      "date": "2026-07-04T20:50:18.000Z",
+      "summary": "GM Vladimir Kramnik has been banned from FIDE events and official chess-related roles for two years after the FIDE Ethics & Disciplinary Commission (EDC) found him guilty of bullying, harassment, and unfounded cheating accusations. Kramnik cal..."
+    },
     {
       "title": "Naroditsky Memorial - Live!",
       "link": "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
@@ -308,13 +315,6 @@
       "source": "ChessBase",
       "date": "2026-06-22T18:00:00.000Z",
       "summary": "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess – for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been s…"
-    },
-    {
-      "title": "Chess Returns to Esports World Cup in Paris With $1.5M Prize Fund",
-      "link": "https://www.chess.com/news/view/announcing-esports-world-cup-chess-finals-2026",
-      "source": "Chess.com",
-      "date": "2026-06-22T15:00:00.000Z",
-      "summary": "Chess will once again be a part of the world's biggest esports festival, with GM Magnus Carlsen returning to defend his title. The Esports World Cup Chess Finals will take place from August 11 to 15 with a new home in Paris, France, and feature a ..."
     },
     {
       "title": "FIDE World Team Blitz 2026: Dragon Chilling Clinches Double Title",
