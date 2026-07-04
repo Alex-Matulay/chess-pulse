@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T12:03:53.472Z",
+  "updated": "2026-07-04T14:25:41.496Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Super Rapid & Blitz Croatia - Live!",
+      "link": "https://en.chessbase.com/post/super-croatia-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-04T14:45:00.000Z",
+      "summary": "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among…"
+    },
+    {
+      "title": "GCT Super Rapid & Blitz Croatia 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
+      "source": "The Week in Chess",
+      "date": "2026-07-04T14:32:00.000Z",
+      "summary": "The GCT Super Rapid & Blitz Croatia takes place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel De…"
+    },
     {
       "title": "FIDE Ethics & Disciplinary Commission issues a decision in case involving GM Vladimir Kramnik",
       "link": "https://en.chessbase.com/post/decision-case-inolving-kramnik-july-2026",
@@ -35,13 +49,6 @@
       "source": "Chess.com",
       "date": "2026-07-03T19:06:07.000Z",
       "summary": "A new documentary has been released on Prime Video that sheds light on the competitive race to secure the signing of GM Magnus Carlsen ahead of the Esports World Cup debut of chess, while the world number-one also shares the spotlight with Cristia..."
-    },
-    {
-      "title": "Naroditsky Memorial - Live!",
-      "link": "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-03T16:50:00.000Z",
-      "summary": "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. Friday is devoted to a seven-round rapid competition, divided into Masters and…"
     },
     {
       "title": "Lazavik, Murzin, Taher Outright Winners Of 3 0 Thursday Tournaments",
