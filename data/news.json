@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T04:31:11.698Z",
+  "updated": "2026-07-04T07:42:11.665Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Zagreb: Pragg wins three games in a row, catches Firouzja",
+      "link": "https://en.chessbase.com/post/super-croatia-2026-3",
+      "source": "ChessBase",
+      "date": "2026-07-04T07:10:00.000Z",
+      "summary": "On the third day of the rapid chess section at the Super Rapid & Blitz in Zagreb, Praggnanandhaa Rameshbabu managed to draw level with Alireza Firouzja. Pragg won all three of his games on Friday, defeating Ivan Saric, Bogdan-Daniel Deac and Anish Giri. Fir…"
+    },
     {
       "title": "Perfect Praggnanandhaa Catches Firouzja",
       "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-3",
@@ -28,13 +35,6 @@
       "source": "ChessBase",
       "date": "2026-07-03T16:50:00.000Z",
       "summary": "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. Friday is devoted to a seven-round rapid competition, divided into Masters and…"
-    },
-    {
-      "title": "Super Rapid & Blitz Croatia - Live!",
-      "link": "https://en.chessbase.com/post/super-croatia-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-03T14:45:00.000Z",
-      "summary": "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among…"
     },
     {
       "title": "Lazavik, Murzin, Taher Outright Winners Of 3 0 Thursday Tournaments",
