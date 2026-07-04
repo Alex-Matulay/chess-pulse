@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T21:54:40.363Z",
+  "updated": "2026-07-04T22:54:33.577Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,10 +9,17 @@
   ],
   "items": [
     {
+      "title": "Firouzja Scores 8/9 To Storm Into 3-Point Lead In Croatia",
+      "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-4",
+      "source": "Chess.com",
+      "date": "2026-07-04T22:40:12.000Z",
+      "summary": "French GM Alireza Firouzja heads into the final day of the 2026 Super Rapid & Blitz Croatia with a three-point lead over GMs Nodirbek Abdusattorov and Maxime Vachier-Lagrave after scoring a stunning 8/9 on the first day of blitz. GM Praggnanan..."
+    },
+    {
       "title": "FIDE Bans Former World Champion Vladimir Kramnik For 2 Years",
       "link": "https://www.chess.com/news/view/fide-bans-kramnik-for-two-years",
       "source": "Chess.com",
-      "date": "2026-07-04T20:50:18.000Z",
+      "date": "2026-07-04T20:50:00.000Z",
       "summary": "GM Vladimir Kramnik has been banned from FIDE events and official chess-related roles for two years after the FIDE Ethics & Disciplinary Commission (EDC) found him guilty of bullying, harassment, and unfounded cheating accusations. Kramnik cal..."
     },
     {
@@ -301,13 +308,6 @@
       "source": "The Week in Chess",
       "date": "2026-06-24T14:52:00.000Z",
       "summary": "The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Lev…"
-    },
-    {
-      "title": "'Mouss-See TT' Moussard Wins Titled Tuesday",
-      "link": "https://www.chess.com/news/view/moussard-wins-titled-tuesday-june-23-2026",
-      "source": "Chess.com",
-      "date": "2026-06-23T21:32:54.000Z",
-      "summary": "GM Jules Moussard became the latest first-time Titled Tuesday winner on June 23, taking home the tournament by a full point on a 10/11 score. Moussard is the third player to join the ranks of first-time Titled Tuesday victors in 2026, joining GMs ..."
     },
     {
       "title": "Surrealists and chess",
