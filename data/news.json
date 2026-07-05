@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T10:07:53.793Z",
+  "updated": "2026-07-05T12:12:22.360Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Super Rapid & Blitz Croatia - Live!",
+      "link": "https://en.chessbase.com/post/super-croatia-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-05T13:45:00.000Z",
+      "summary": "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among…"
+    },
+    {
+      "title": "Zagreb: Firouzja regains three-point lead after 8/9 blitz performance",
+      "link": "https://en.chessbase.com/post/super-croatia-2026-4",
+      "source": "ChessBase",
+      "date": "2026-07-05T13:40:00.000Z",
+      "summary": "Alireza Firouzja is once again the sole leader thanks to an 8/9 performance on the first day of blitz. Praggnanandhaa Rameshbabu, who entered the fourth day of action in shared first place, suffered four losses in a row at some point and only scored 3½/9. F…"
+    },
     {
       "title": "FIDE names Best Creator Award in honour of Daniel Naroditsky",
       "link": "https://www.fide.com/fide-names-best-creator-award-in-honour-of-daniel-naroditsky/",
@@ -49,13 +63,6 @@
       "source": "ChessBase",
       "date": "2026-07-04T16:50:00.000Z",
       "summary": "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. On Saturday, participants contest an 11-round blitz event, with the top ten in…"
-    },
-    {
-      "title": "Super Rapid & Blitz Croatia - Live!",
-      "link": "https://en.chessbase.com/post/super-croatia-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-04T14:45:00.000Z",
-      "summary": "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among…"
     },
     {
       "title": "GCT Super Rapid & Blitz Croatia 2026 - Games and Results",
