@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T20:54:22.603Z",
+  "updated": "2026-07-05T21:57:31.447Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "GCT Super Rapid & Blitz Croatia 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
+      "source": "The Week in Chess",
+      "date": "2026-07-05T22:55:00.000Z",
+      "summary": "The GCT Super Rapid & Blitz Croatia took place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel Dea…"
+    },
     {
       "title": "Firouzja Survives 'Worst Blitz Day Of Life' To Win Croatia Title In Armageddon",
       "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-5",
@@ -70,13 +77,6 @@
       "source": "Chess.com",
       "date": "2026-07-04T20:50:00.000Z",
       "summary": "GM Vladimir Kramnik has been banned from FIDE events and official chess-related roles for two years after the FIDE Ethics & Disciplinary Commission (EDC) found him guilty of bullying, harassment, and unfounded cheating accusations. Kramnik cal..."
-    },
-    {
-      "title": "GCT Super Rapid & Blitz Croatia 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
-      "source": "The Week in Chess",
-      "date": "2026-07-04T14:32:00.000Z",
-      "summary": "The GCT Super Rapid & Blitz Croatia takes place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel De…"
     },
     {
       "title": "FIDE Ethics & Disciplinary Commission issues a decision in case involving GM Vladimir Kramnik",
