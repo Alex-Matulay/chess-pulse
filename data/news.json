@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T14:28:49.183Z",
+  "updated": "2026-07-05T16:03:28.353Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Naroditsky Memorial - Live!",
+      "link": "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-05T16:50:00.000Z",
+      "summary": "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. Sunday's schedule includes a Creator Invitational featuring prominent online pe…"
+    },
     {
       "title": "Super Rapid & Blitz Croatia - Live!",
       "link": "https://en.chessbase.com/post/super-croatia-2026-live",
