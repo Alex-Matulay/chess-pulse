@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T17:58:38.625Z",
+  "updated": "2026-07-05T19:25:07.059Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Firouzja Survives 'Worst Blitz Day Of Life' To Win Croatia Title In Armageddon",
+      "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-5",
+      "source": "Chess.com",
+      "date": "2026-07-05T18:55:24.000Z",
+      "summary": "GM Alireza Firouzja has won the 2026 Super Rapid & Blitz Croatia after beating GM Nodirbek Abdusattorov in a nerve-wracking armageddon game. Such a finale looked unlikely when Firouzja started the day with a three-point lead, but after scoring..."
+    },
     {
       "title": "Naroditsky Memorial - Live!",
       "link": "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
@@ -301,13 +308,6 @@
       "source": "Chess.com",
       "date": "2026-06-25T20:19:00.000Z",
       "summary": "Chess.com has announced that private markets investment firm CVC Capital Partners has invested in the company, joining existing investor General Atlantic. As Chess.com now enters its third decade, the company says it looks to continue growing the ..."
-    },
-    {
-      "title": "Firouzja, Nihal, Tang, Arjun To Play In Winners Semifinals",
-      "link": "https://www.chess.com/news/view/2026-bullet-chess-championship-day-1",
-      "source": "Chess.com",
-      "date": "2026-06-24T19:59:00.000Z",
-      "summary": "GMs Alireza Firouzja, Nihal Sarin, Andrew Tang, and Arjun Erigaisi won both matches on day one of the 2026 Bullet Chess Championship to advance in the Winners Bracket. The Losers Bracket is full with 12 players, with the first round of elimination..."
     },
     {
       "title": "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results",
