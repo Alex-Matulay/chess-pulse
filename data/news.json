@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T03:51:03.648Z",
+  "updated": "2026-07-05T07:21:31.327Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE names Best Creator Award in honour of Daniel Naroditsky",
+      "link": "https://www.fide.com/fide-names-best-creator-award-in-honour-of-daniel-naroditsky/",
+      "source": "FIDE",
+      "date": "2026-07-05T07:08:05.000Z",
+      "summary": "FIDE is honoured to announce that the Best Creator category at the inaugural FIDE Excellence Awards will be named The Daniel Naroditsky Best Creator Award. The dedication comes as the chess world continues to honour the memory of Daniel Naroditsky, known to…"
+    },
     {
       "title": "Arjun Hawks Down Martinez In Late Surge",
       "link": "https://www.chess.com/news/view/arjun-erigaisi-wins-bullet-brawl-july-4-2026",
@@ -224,13 +231,6 @@
       "source": "FIDE",
       "date": "2026-06-29T08:05:20.000Z",
       "summary": "As FIDE celebrates 2026 as the Year of Chess in Education, inspiring initiatives around the world continue to demonstrate the impact of chess beyond competition. During the FIDE World Rapid & Blitz Team Championships in Hong Kong, the FIDE media team had th…"
-    },
-    {
-      "title": "Bahrain Championship 2026: Hussein Ayad and Najla Ahmed claim titles",
-      "link": "https://www.fide.com/bahrain-championship-2026-hussein-ayad-and-najla-ahmed-claim-titles/",
-      "source": "FIDE",
-      "date": "2026-06-29T07:04:00.000Z",
-      "summary": "The Bahrain Classical Chess Championship 2026 concluded on Saturday, 20 June 2026, at Khalifa Sports City, following several days of intense competition. The event showcased the continued growth and development of chess in the Kingdom of Bahrain and brought…"
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
