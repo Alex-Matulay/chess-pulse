@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T07:08:04.041Z",
+  "updated": "2026-07-06T12:00:09.401Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Alireza Firouzja triumphs in historic Armageddon finish to win Super Rapid & Blitz Croatia 2026",
+      "link": "https://www.fide.com/alireza-firouzja-triumphs-in-historic-armageddon-finish-to-win-super-rapid-blitz-croatia-2026/",
+      "source": "FIDE",
+      "date": "2026-07-06T10:57:49.000Z",
+      "summary": "In one of the most dramatic finishes in Grand Chess Tour (GCT) history and the first ever to be decided by an Armageddon tiebreak, GM Alireza Firouzja of France captured the Super Rapid & Blitz Croatia 2026 title, the third stop of the 2026 GCT, after survi…"
+    },
     {
       "title": "Alireza Firouzja beats Nodirbek Abdusattorov in Armageddon to win Super Rapid & Blitz Croatia",
       "link": "https://en.chessbase.com/post/super-croatia-2026-5",
@@ -21,6 +28,13 @@
       "source": "ChessBase",
       "date": "2026-07-06T07:57:43.000Z",
       "summary": "Svitlana shows her final-round game from the Canadian Women’s Championship, which she describes as one of the best games of her life. Facing WIM Yunan Li in a sharp Sicilian Taimanov, Svitlana surprises her opponent with the rare and aggressive 7.g4, launch…"
+    },
+    {
+      "title": "Titled Arenas Announcement — July to September 2026",
+      "link": "https://lichess.org/@/Lichess/blog/titled-arenas-announcement-july-to-september-2026/5oiZT9uR",
+      "source": "Lichess",
+      "date": "2026-07-06T07:21:34.301Z",
+      "summary": "Announcing our schedule for upcoming Titled Arenas!"
     },
     {
       "title": "Jaime Santos beats Le Quang Liem to claim second León Masters title",
@@ -224,13 +238,6 @@
       "source": "FIDE",
       "date": "2026-06-29T14:59:26.000Z",
       "summary": "Held from June 17 to June 27, the fifth edition of the International Youth Chess Festival of the Tigran Petrosyan Chess House School of Sport brought together more than 650 young chess players from different countries, creating a vibrant atmosphere of compe…"
-    },
-    {
-      "title": "From classroom to world stage: St Joseph’s Anglo-Chinese Primary School in Hong Kong",
-      "link": "https://www.fide.com/from-classroom-to-world-stage-st-josephs-anglo-chinese-primary-school-in-hong-kong/",
-      "source": "FIDE",
-      "date": "2026-06-29T08:05:20.000Z",
-      "summary": "As FIDE celebrates 2026 as the Year of Chess in Education, inspiring initiatives around the world continue to demonstrate the impact of chess beyond competition. During the FIDE World Rapid & Blitz Team Championships in Hong Kong, the FIDE media team had th…"
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
