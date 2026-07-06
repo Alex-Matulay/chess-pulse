@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T23:02:26.737Z",
+  "updated": "2026-07-06T02:45:13.756Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Jaime Santos beats Le Quang Liem to claim second León Masters title",
+      "link": "https://en.chessbase.com/post/magistral-leon-2026-final-report",
+      "source": "ChessBase",
+      "date": "2026-07-05T23:55:00.000Z",
+      "summary": "Jaime Santos won the 39th edition of the León Masters after obtaining a convincing 3½-½ victory over defending champion Le Quang Liem in the final match. The 30-year-old GM from León, who had already won the event in 2023, reached the title match by beating…"
+    },
     {
       "title": "GCT Super Rapid & Blitz Croatia 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
@@ -20,28 +27,7 @@
       "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-5",
       "source": "Chess.com",
       "date": "2026-07-05T18:55:00.000Z",
-      "summary": "GM Alireza Firouzja has won the 2026 Super Rapid & Blitz Croatia after beating GM Nodirbek Abdusattorov in a nerve-wracking armageddon game. Such a finale looked unlikely when Firouzja started the day with a three-point lead, but after scoring..."
-    },
-    {
-      "title": "Naroditsky Memorial - Live!",
-      "link": "https://en.chessbase.com/post/naroditsky-memorial-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-05T16:50:00.000Z",
-      "summary": "The inaugural Naroditsky Memorial Rapid & Blitz is taking place in Charlotte from 3 to 5 July, combining open tournaments with elite showcase events across a three-day festival. Sunday's schedule includes a Creator Invitational featuring prominent online pe…"
-    },
-    {
-      "title": "Super Rapid & Blitz Croatia - Live!",
-      "link": "https://en.chessbase.com/post/super-croatia-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-05T13:45:00.000Z",
-      "summary": "The Super Rapid & Blitz Croatia is being held at the Westin Hotel in Zagreb from 1 to 5 July. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A young, stellar lineup features, among…"
-    },
-    {
-      "title": "Zagreb: Firouzja regains three-point lead after 8/9 blitz performance",
-      "link": "https://en.chessbase.com/post/super-croatia-2026-4",
-      "source": "ChessBase",
-      "date": "2026-07-05T13:40:00.000Z",
-      "summary": "Alireza Firouzja is once again the sole leader thanks to an 8/9 performance on the first day of blitz. Praggnanandhaa Rameshbabu, who entered the fourth day of action in shared first place, suffered four losses in a row at some point and only scored 3½/9. F…"
+      "summary": "GM Alireza Firouzja has won the 2026 Super Rapid & Blitz Croatia after beating GM Nodirbek Abdusattorov in a nerve-wracking armageddon game. Such a finale looked unlikely when Firouzja started the day with a three-point lead after scoring 8/9 ..."
     },
     {
       "title": "FIDE names Best Creator Award in honour of Daniel Naroditsky",
@@ -58,13 +44,6 @@
       "summary": "GM Arjun Erigaisi was crowned the winner of Saturday's Bullet Brawl&nbsp;after hawking down GM Jose Martinez in the final 10 minutes of the arena. Chasing his first title since 2024, Martinez scored 161 points, almost getting the job done, but it ..."
     },
     {
-      "title": "Loek Van Wely prevails in Echternach",
-      "link": "https://en.chessbase.com/post/loek-van-wely-wins-echternach-open-2026",
-      "source": "ChessBase",
-      "date": "2026-07-04T23:50:00.000Z",
-      "summary": "On the penultimate weekend in June, the \"De Sprenger Echternach\" chess club hosted the traditional Echternach Open. Nearly 350 chess enthusiasts gathered in the historic Abbey of Echternach to compete for tournament victory, special prizes and strong placin…"
-    },
-    {
       "title": "Firouzja Scores 8/9 To Storm Into 3-Point Lead In Croatia",
       "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-4",
       "source": "Chess.com",
@@ -77,20 +56,6 @@
       "source": "Chess.com",
       "date": "2026-07-04T20:50:00.000Z",
       "summary": "GM Vladimir Kramnik has been banned from FIDE events and official chess-related roles for two years after the FIDE Ethics & Disciplinary Commission (EDC) found him guilty of bullying, harassment, and unfounded cheating accusations. Kramnik cal..."
-    },
-    {
-      "title": "FIDE Ethics & Disciplinary Commission issues a decision in case involving GM Vladimir Kramnik",
-      "link": "https://en.chessbase.com/post/decision-case-inolving-kramnik-july-2026",
-      "source": "ChessBase",
-      "date": "2026-07-04T11:00:00.000Z",
-      "summary": "The FIDE Ethics & Disciplinary Commission has issued its decision in proceedings involving former world champion Vladimir Kramnik, finding him responsible for multiple violations linked to public statements about David Navara, the late Daniel Naroditsky and…"
-    },
-    {
-      "title": "Zagreb: Pragg wins three games in a row, catches Firouzja",
-      "link": "https://en.chessbase.com/post/super-croatia-2026-3",
-      "source": "ChessBase",
-      "date": "2026-07-04T07:10:00.000Z",
-      "summary": "On the third day of the rapid chess section at the Super Rapid & Blitz in Zagreb, Praggnanandhaa Rameshbabu managed to draw level with Alireza Firouzja. Pragg won all three of his games on Friday, defeating Ivan Saric, Bogdan-Daniel Deac and Anish Giri. Fir…"
     },
     {
       "title": "Perfect Praggnanandhaa Catches Firouzja",
@@ -112,6 +77,13 @@
       "source": "Chess.com",
       "date": "2026-07-03T14:06:31.000Z",
       "summary": "There was no need for tiebreaks in any of the three 3 0 Thursday tournaments on July 2 as the three champions, GMs Denis Lazavik, Volodar Murzin, and IM Yoseph Taher, won outright. In the curtain-raiser, Lazavik beat GMs Magnus Carlsen and Jan-Kr..."
+    },
+    {
+      "title": "FIDE Ethics & Disciplinary Commission issues a decision in case involving GM Vladimir Kramnik",
+      "link": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
+      "source": "FIDE",
+      "date": "2026-07-03T10:38:10.000Z",
+      "summary": "The FIDE Ethics & Disciplinary Commission (EDC) has issued its decision in disciplinary proceedings involving former World Champion Vladimir Kramnik. The EDC is an independent judicial body within FIDE responsible for considering alleged violations of the F…"
     },
     {
       "title": "Jan Emmanuel Garcia and Mhage Gerriahlou Sebastian triumph at 2026 Philippine Championship",
