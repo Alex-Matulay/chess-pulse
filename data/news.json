@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T12:00:09.401Z",
+  "updated": "2026-07-06T15:51:56.844Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "ChessBase Summer Special!",
+      "link": "https://en.chessbase.com/post/chessbase-summer-special",
+      "source": "ChessBase",
+      "date": "2026-07-06T17:00:00.000Z",
+      "summary": "Dear chess friends, from July 6–12 , you can get the entire Master Class Series for just €224.90 in our ChessBase Summer Special. Don't miss this opportunity to own all 20 volumes at an exceptional price. Already own part of the series? No problem! Missing…"
+    },
+    {
+      "title": "Deise Pereira retains title of Cabo Verde Women’s National Chess Champion",
+      "link": "https://www.fide.com/deise-pereira-retains-title-of-cabo-verde-womens-national-chess-champion/",
+      "source": "FIDE",
+      "date": "2026-07-06T15:13:14.000Z",
+      "summary": "Deise Pereira has retained her title as Cape Verde’s Women’s National Chess Champion, winning the 2026 edition of the National Championship held in the city of Mindelo from July 2 to 5. The champion mathematically secured the victory in the penultimate roun…"
+    },
+    {
+      "title": "First Naroditsky Memorial Rapid and Blitz: Javokhir Sindarov claims double crown",
+      "link": "https://www.fide.com/first-naroditsky-memorial-rapid-and-blitz-javokhir-sindarov-claims-double-crown/",
+      "source": "FIDE",
+      "date": "2026-07-06T15:03:04.000Z",
+      "summary": "Javokhir Sindarov achieved a remarkable double victory at the inaugural Naroditsky Memorial Rapid and Blitz, winning both the Rapid and Blitz Final events. The First Naroditsky Memorial Rapid and Blitz took place at the Marriott City Center in Charlotte, No…"
+    },
     {
       "title": "Alireza Firouzja triumphs in historic Armageddon finish to win Super Rapid & Blitz Croatia 2026",
       "link": "https://www.fide.com/alireza-firouzja-triumphs-in-historic-armageddon-finish-to-win-super-rapid-blitz-croatia-2026/",
@@ -198,13 +219,6 @@
       "summary": "The African Continental Stage of the World Schools Team Championship 2026 (WSTC 2026) runs in Stellenbosch from July 6 to 11, with nearly 30 school teams from across the continent arriving to compete. As part of the global WSTC cycle, teams will play across…"
     },
     {
-      "title": "International Chess Day 2026: Celebrate, create and make a difference",
-      "link": "https://www.fide.com/international-chess-day-2026-celebrate-create-and-make-a-difference/",
-      "source": "FIDE",
-      "date": "2026-07-01T09:27:09.000Z",
-      "summary": "On July 20, the global chess community will come together to celebrate International Chess Day 2026, a day dedicated to the game that connects people across countries, cultures and generations. This year, FIDE invites players, federations, clubs, schools, o…"
-    },
-    {
       "title": "Martinez Magic Makes For Another Titled Tuesday Victory",
       "link": "https://www.chess.com/news/view/martinez-wins-titled-tuesday-june-30-2026",
       "source": "Chess.com",
@@ -231,13 +245,6 @@
       "source": "Chess.com",
       "date": "2026-06-30T10:31:00.000Z",
       "summary": "As Erling Braut Haaland leads Norway's quest for World Cup glory, it's easy to forget that just three months ago the Manchester City superstar made headlines in a very different arena. Haaland's investment in Norway Chess sent shockwaves through ..."
-    },
-    {
-      "title": "5th International Youth Chess Festival of the Tigran Petrosyan Chess House School of Sport concludes in Yerevan",
-      "link": "https://www.fide.com/5th-international-youth-chess-festival-of-the-tigran-petrosyan-chess-house-school-of-sport-concludes-in-yerevan/",
-      "source": "FIDE",
-      "date": "2026-06-29T14:59:26.000Z",
-      "summary": "Held from June 17 to June 27, the fifth edition of the International Youth Chess Festival of the Tigran Petrosyan Chess House School of Sport brought together more than 650 young chess players from different countries, creating a vibrant atmosphere of compe…"
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
