@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T20:49:53.775Z",
+  "updated": "2026-07-06T22:10:15.999Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Sindarov Sweeps Tournaments As Chess World Honors Daniel Naroditsky",
+      "link": "https://www.chess.com/news/view/sindarov-wins-2026-naroditsky-memorial-rapid-blitz",
+      "source": "Chess.com",
+      "date": "2026-07-06T22:08:57.000Z",
+      "summary": "Top grandmasters, content creators, and fans from around the world came to Charlotte from July 3-5 to honor the legacy of the late GM Daniel Naroditsky. The next world championship challenger, GM Javokhir Sindarov, won both the rapid and blitz tou..."
+    },
     {
       "title": "Ju Wenjun, Anna Muzychuk Advance To Quarterfinals",
       "link": "https://www.chess.com/news/view/2026-wscc-ro16-ju-le-vaishali-muzychuk",
@@ -301,13 +308,6 @@
       "source": "Chess.com",
       "date": "2026-06-26T19:18:00.000Z",
       "summary": "The race for the presidency of the International Chess Federation (FIDE) officially kicked off on Friday as Wadim Rosenstein announced his long-expected candidacy, hours before fellow German entrepreneur Jan Henric Buettner entered the competition..."
-    },
-    {
-      "title": "Firouzja, Arjun Advance To Winners Final",
-      "link": "https://www.chess.com/news/view/2026-bullet-chess-championship-day-2",
-      "source": "Chess.com",
-      "date": "2026-06-25T21:15:00.000Z",
-      "summary": "GMs Alireza Firouzja and Arjun Erigaisi advanced to the Winners Final of the 2026 Bullet Chess Championship on Thursday. Firouzja won a close match against GM Nihal Sarin 12.5-9.5, while Arjun blew away GM Andrew Tang 16-6. Just six players are le..."
     },
     {
       "title": "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results",
