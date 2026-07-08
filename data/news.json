@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T05:47:03.990Z",
+  "updated": "2026-07-08T08:21:01.758Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Naroditsky Best Creator Award",
+      "link": "https://en.chessbase.com/post/naroditsky-best-creator-award",
+      "source": "ChessBase",
+      "date": "2026-07-08T07:30:00.000Z",
+      "summary": "FIDE has decided that the Best Creator category at the inaugural FIDE Excellence Awards will be named The Daniel Naroditsky Best Creator Award. The dedication comes as the chess world continues to honour the memory of Daniel Naroditsky, known to friends and…"
+    },
     {
       "title": "Santos Beats Oro, Le To Win 2nd Leon Masters",
       "link": "https://www.chess.com/news/view/santos-wins-2026-leon-masters-le-oro",
