@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T15:59:46.865Z",
+  "updated": "2026-07-08T17:47:04.908Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Baby Shark, big upsets, and three-way lead in Stellenbosch",
+      "link": "https://www.fide.com/baby-shark-big-upsets-and-three-way-lead-in-stellenbosch/",
+      "source": "FIDE",
+      "date": "2026-07-08T16:30:40.000Z",
+      "summary": "On day two of the African Continental Stage of the FIDE ISCF World Schools Team Championship 2026 Rounds 3 and 4 were played at the Coetzenburg Center in Stellenbosch, reshaping the top of the standings. The two remaining teams with perfect scores, Uganda a…"
+    },
     {
       "title": "First moves in Stellenbosch: African Continental Stage of the World Schools Team Championship 2026 begins",
       "link": "https://en.chessbase.com/post/world-school-chess-championship-2026-start",
@@ -231,13 +238,6 @@
       "source": "Chess.com",
       "date": "2026-07-01T14:57:35.000Z",
       "summary": "Arkady Dvorkovich has confirmed he will seek a third term as President of the International Chess Federation (FIDE), eight years after first campaigning on a promise that FIDE presidents should be limited to two terms. The incumbent announced his..."
-    },
-    {
-      "title": "FIDE July 2026 rating list published",
-      "link": "https://www.fide.com/fide-july-2026-rating-list-published/",
-      "source": "FIDE",
-      "date": "2026-07-01T13:54:09.000Z",
-      "summary": "The FIDE July 2026 rating list was primarily shaped by Norway Chess, the Asian Individual Chess Championship, the European Women’s Chess Championship, the UzChess Cup, and the French Team Finals. The Open top 10 saw just one notable shift, as Wesley So move…"
     },
     {
       "title": "Martinez Magic Makes For Another Titled Tuesday Victory",
