@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T21:02:38.151Z",
+  "updated": "2026-07-08T23:01:04.726Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Lee Edges Kosteniuk In Overtime, Lagno Eliminates Ambartsumova",
+      "link": "https://www.chess.com/news/view/2026-wscc-ro16-lagno-ambartsumova-kosteniuk-lee",
+      "source": "Chess.com",
+      "date": "2026-07-08T22:31:49.000Z",
+      "summary": "GM Kateryna Lagno and IM Alice Lee advance to the Quarterfinals of the&nbsp;2026 Women's Speed Chess Championship after winning their Round of 16 matches on Wednesday. Lagno's victory was never in doubt as she scored 10.5-3.5 on the way to elimina..."
+    },
     {
       "title": "KazChess Masters 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/kazchess-masters-2026",
@@ -287,13 +294,6 @@
       "source": "Chess.com",
       "date": "2026-06-27T21:11:00.000Z",
       "summary": "GM Nihal Sarin won the 2026 Bullet Chess Championship after pulling off what once seemed impossible. After taking down GMs Andrew Tang and Arjun Erigaisi in the Losers Bracket, he went on to win back-to-back matches against three-time and defendin..."
-    },
-    {
-      "title": "Firouzja Beats Arjun In Tiebreaks, Advances To Grand Final",
-      "link": "https://www.chess.com/news/view/2026-bullet-chess-championship-day-3",
-      "source": "Chess.com",
-      "date": "2026-06-26T22:31:00.000Z",
-      "summary": "GM Alireza Firouzja is through to the Grand Final of the 2026 Bullet Chess Championship after winning an exhilarating Winners Final against GM Arjun Erigaisi 13-11, including tiebreaks, this Friday. In the Losers Bracket, three players remain. GM ..."
     },
     {
       "title": "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results",
