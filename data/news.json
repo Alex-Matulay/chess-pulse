@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T17:47:04.908Z",
+  "updated": "2026-07-08T19:18:16.917Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,6 +9,20 @@
   ],
   "items": [
     {
+      "title": "KazChess Masters 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/kazchess-masters-2026",
+      "source": "The Week in Chess",
+      "date": "2026-07-08T19:38:00.000Z",
+      "summary": "The KazChess Masters took place Tue 30th Jun to Wed 8th Jul 2026 in Almaty, Kazakhstan. Alexey Sarana edged out Alexander Donchenko on tie-break after both scored 6/9. Igor Kovalenko finished half a point behind."
+    },
+    {
+      "title": "The football-chess connection in Norway",
+      "link": "https://en.chessbase.com/post/norway-football-chess",
+      "source": "ChessBase",
+      "date": "2026-07-08T18:45:00.000Z",
+      "summary": "Norwegian football is currently enjoying something of a high. Last Sunday, the Norwegian team knocked Brazil out of the World Cup, and they did it in style. In Norway, football and chess go well together - and not only because of Magnus Carlsen. Edith and M…"
+    },
+    {
       "title": "Baby Shark, big upsets, and three-way lead in Stellenbosch",
       "link": "https://www.fide.com/baby-shark-big-upsets-and-three-way-lead-in-stellenbosch/",
       "source": "FIDE",
@@ -16,32 +30,11 @@
       "summary": "On day two of the African Continental Stage of the FIDE ISCF World Schools Team Championship 2026 Rounds 3 and 4 were played at the Coetzenburg Center in Stellenbosch, reshaping the top of the standings. The two remaining teams with perfect scores, Uganda a…"
     },
     {
-      "title": "First moves in Stellenbosch: African Continental Stage of the World Schools Team Championship 2026 begins",
-      "link": "https://en.chessbase.com/post/world-school-chess-championship-2026-start",
-      "source": "ChessBase",
-      "date": "2026-07-08T13:30:00.000Z",
-      "summary": "The African Continental Stage of the FIDE ISCF World Schools Team Championship began in Stellenbosch, South Africa, with 26 school teams from 22 countries competing for places in the Grand Final. The opening day featured two rounds, an unconventional ceremo…"
-    },
-    {
-      "title": "Naroditsky Best Creator Award",
-      "link": "https://en.chessbase.com/post/naroditsky-best-creator-award",
-      "source": "ChessBase",
-      "date": "2026-07-08T07:30:00.000Z",
-      "summary": "FIDE has decided that the Best Creator category at the inaugural FIDE Excellence Awards will be named The Daniel Naroditsky Best Creator Award. The dedication comes as the chess world continues to honour the memory of Daniel Naroditsky, known to friends and…"
-    },
-    {
       "title": "Santos Beats Oro, Le To Win 2nd Leon Masters",
       "link": "https://www.chess.com/news/view/santos-wins-2026-leon-masters-le-oro",
       "source": "Chess.com",
       "date": "2026-07-07T20:50:49.000Z",
       "summary": "Local hero GM Jaime Santos has won the&nbsp;2026 Leon Masters after celebrating his 30th birthday by beating 12-year-old Argentinian GM-elect Faustino Oro 3-1 in the Semifinals, before overcoming Vietnamese defending champion GM Liem Le 3.5-0.5 in..."
-    },
-    {
-      "title": "Jorge Cori and Faustino Oro shine at 67-hour chess marathon in Peru",
-      "link": "https://en.chessbase.com/post/world-record-chess-marathon-lima-final-report",
-      "source": "ChessBase",
-      "date": "2026-07-07T20:00:00.000Z",
-      "summary": "Three full days! What if, out of those 72 hours, you play chess for 67 hours? Would you be able to survive? This was the question posed to all the players as the WR Chess World Record Marathon kicked off in Lima, Peru at the Sheraton Hotel. Some of the best…"
     },
     {
       "title": "Arjun \"Arjuly\" Erigaisi Is Month's First Titled Tuesday Victor",
@@ -56,6 +49,13 @@
       "source": "Chess.com",
       "date": "2026-07-07T18:31:56.000Z",
       "summary": "GM Benjamin Bok has qualified for the 2026 Esports World Cup&nbsp;after defeating GM Vidit Gujrathi in the 2026 India Rising Finals in Mumbai on July 4. The match reached the maximum number of possible games, with all three sets going to armageddo..."
+    },
+    {
+      "title": "First moves in Stellenbosch: African Continental Stage of the World Schools Team Championship 2026 begins",
+      "link": "https://www.fide.com/first-moves-in-stellenbosch-african-continental-stage-of-the-world-schools-team-championship-2026-begins/",
+      "source": "FIDE",
+      "date": "2026-07-07T16:01:11.000Z",
+      "summary": "The African Continental Stage of the FIDE ISCF World Schools Team Championship 2026 officially got underway today at the Coetzenburg Center in Stellenbosch, South Africa, marking the first time the event has been held on African soil. The second qualifying…"
     },
     {
       "title": "Iivo Nei (1931-2026)",
