@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T16:24:28.238Z",
+  "updated": "2026-07-09T18:47:37.221Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Jon Speelman: Two legs good, four legs better!",
+      "link": "https://en.chessbase.com/post/speelman-agony-241",
+      "source": "ChessBase",
+      "date": "2026-07-09T18:15:00.000Z",
+      "summary": "Jon Speelman examines how computer-assisted analysis can sharpen the study of complex positions, using examples from Svidler-Lobron at the 1996 Yerevan Olympiad and recent Grand Chess Tour games in Zagreb. The article explores hidden defensive resources, zu…"
+    },
+    {
+      "title": "A new African push for chess in education",
+      "link": "https://www.fide.com/a-new-african-push-for-chess-in-education/",
+      "source": "FIDE",
+      "date": "2026-07-09T18:02:31.000Z",
+      "summary": "A fresh push to bring chess into classrooms across Africa took shape in Cape Town during the African Continental Stage of the FIDE ISCF World Schools Team Championship 2026.The African Continental Stage of the FIDE ISCF World Schools Team Championship 2026…"
+    },
+    {
+      "title": "Race tightens as Day 3 tests leaders in Stellenbosch",
+      "link": "https://www.fide.com/race-tightens-as-day-3-tests-leaders-in-stellenbosch/",
+      "source": "FIDE",
+      "date": "2026-07-09T17:31:12.000Z",
+      "summary": "Day three of the African Continental Stage of the FIDE ISCF World Schools Team Championship 2026 brought rounds five and six to the Coetzenburg Center, pushing the tournament into its decisive phase. With only two rounds remaining after today’s play, every…"
+    },
     {
       "title": "Chess, concentration, and community: An interview with Timur Turlov",
       "link": "https://www.fide.com/chess-concentration-and-community-an-interview-with-timur-turlov/",
@@ -196,20 +217,6 @@
       "source": "Chess.com",
       "date": "2026-07-03T14:06:31.000Z",
       "summary": "There was no need for tiebreaks in any of the three 3 0 Thursday tournaments on July 2 as the three champions, GMs Denis Lazavik, Volodar Murzin, and IM Yoseph Taher, won outright. In the curtain-raiser, Lazavik beat GMs Magnus Carlsen and Jan-Kr..."
-    },
-    {
-      "title": "FIDE Ethics & Disciplinary Commission issues a decision in case involving GM Vladimir Kramnik",
-      "link": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
-      "source": "FIDE",
-      "date": "2026-07-03T10:38:10.000Z",
-      "summary": "The FIDE Ethics & Disciplinary Commission (EDC) has issued its decision in disciplinary proceedings involving former World Champion Vladimir Kramnik. The EDC is an independent judicial body within FIDE responsible for considering alleged violations of the F…"
-    },
-    {
-      "title": "Jan Emmanuel Garcia and Mhage Gerriahlou Sebastian triumph at 2026 Philippine Championship",
-      "link": "https://www.fide.com/jan-emmanuel-garcia-and-mhage-gerriahlou-sebastian-triumph-at-2026-philippine-championship/",
-      "source": "FIDE",
-      "date": "2026-07-03T09:21:00.000Z",
-      "summary": "IM Jan Emmanuel Garcia and untitled Mhage Gerriahlou Sebastian are the newly crowned Philippine chess champions. The 2026 edition of the national championship, held in the Open (the Battle of Grandmasters) and Women’s (Women Selection) sections, took place…"
     },
     {
       "title": "Yip, Garifullina Qualify For WR Women's Chess Tour Grand Final",
