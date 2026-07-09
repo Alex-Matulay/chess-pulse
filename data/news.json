@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T13:46:00.098Z",
+  "updated": "2026-07-09T16:24:28.238Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chess, concentration, and community: An interview with Timur Turlov",
+      "link": "https://www.fide.com/chess-concentration-and-community-an-interview-with-timur-turlov/",
+      "source": "FIDE",
+      "date": "2026-07-09T13:42:54.000Z",
+      "summary": "The FIDE ISCF World Schools Team Championship has grown rapidly since its pilot edition in Aktau in 2023, developing into a global cycle spanning four continents. During the African Continental Stage in Stellenbosch, South Africa, ISCF President Timur Turlo…"
+    },
     {
       "title": "Chess, Music and AI",
       "link": "https://en.chessbase.com/post/chess-music-and-ai",
@@ -224,13 +231,6 @@
       "source": "Chess.com",
       "date": "2026-07-02T15:00:00.000Z",
       "summary": "Playing against bots just got more fun! You now earn points every time you play against the monthly bots. Earn enough points to unlock exclusive chessboards, piece sets, and flairs that will last forever in your account! But hurry, because once th..."
-    },
-    {
-      "title": "Tris Ann Richards appointed Chair of the FIDE Commission for Women’s Chess",
-      "link": "https://www.fide.com/tris-ann-richards-appointed-chair-of-the-fide-commission-for-womens-chess/",
-      "source": "FIDE",
-      "date": "2026-07-02T14:56:11.000Z",
-      "summary": "FIDE is pleased to announce the appointment of Tris Ann Richards as the new Chair of the FIDE Commission for Women’s Chess. She succeeds Anastasia Sorokina, who has stepped down from the position after several years of dedicated service. Tris Ann Richards i…"
     },
     {
       "title": "Lichess Game of the Month: May '26",
