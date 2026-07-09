@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T06:39:07.759Z",
+  "updated": "2026-07-09T10:20:59.167Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chess, Music and AI",
+      "link": "https://en.chessbase.com/post/chess-music-and-ai",
+      "source": "ChessBase",
+      "date": "2026-07-09T10:00:00.000Z",
+      "summary": "Jonathan Levitt is an English chess grandmaster, author, teacher, and composer of endgame studies. As a player, he competed successfully in tournaments, but health challenges led him to retire from regular over-the-board play in his forties. In recent years…"
+    },
     {
       "title": "Biel Chess Festival: Aronian, Erdogmus and Bluebaum among Masters Triathlon stars",
       "link": "https://en.chessbase.com/post/biel-festival-2026-preview",
