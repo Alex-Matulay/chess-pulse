@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T04:46:08.051Z",
+  "updated": "2026-07-10T08:17:58.796Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Sarana wins KazChess Masters in Almaty, Donchenko and Kovalenko complete podium",
+      "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r9",
+      "source": "ChessBase",
+      "date": "2026-07-10T08:00:00.000Z",
+      "summary": "Alexey Sarana won the KazChess Masters in Almaty after finishing level with Alexander Donchenko on 6/9 points and taking first place on tiebreaks. The ten-player round-robin, held from 30 June to 8 July, paired five established international grandmasters wi…"
+    },
     {
       "title": "Stellenbosch: Race tightens as day three tests leaders",
       "link": "https://en.chessbase.com/post/world-school-chess-championship-2026-r3",
