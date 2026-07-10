@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T20:19:06.156Z",
+  "updated": "2026-07-10T21:57:16.750Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Arjun Completes Big Week With 3 0 Thursday Victory",
+      "link": "https://www.chess.com/news/view/arjun-ohanyan-murzin-3-0-thursday-07-10-2026",
+      "source": "Chess.com",
+      "date": "2026-07-10T20:45:45.000Z",
+      "summary": "GM Arjun Erigaisi followed up his Titled Tuesday victory this week by winning the first 3 0 Thursday on July 9. GM Emin Ohanyan completed a come-from-behind victory in the second tournament of the day. At the end of the day, GM Volodar Murzin won ..."
+    },
+    {
+      "title": "Divya Wins 14-1 Vs. Atwell, Assaubayeva 10.5-3.5 Vs. Khamdamova",
+      "link": "https://www.chess.com/news/view/2026-wscc-ro16-divya-atwell-assaubayeva-khamdamova",
+      "source": "Chess.com",
+      "date": "2026-07-10T20:31:01.000Z",
+      "summary": "The favorites, GMs Divya Deshmukh and Bibisara Assaubayeva, advanced to the Quarterfinals of the 2026 Women's Speed Chess Championship on Friday. Between the two of them, the winners lost only a single game. Divya defeated IM Rose Atwell with an u..."
+    },
     {
       "title": "Fifty years ago: Korchnoi's defection to the west",
       "link": "https://en.chessbase.com/post/korchnoi-defection-fifty-years",
@@ -90,7 +104,7 @@
       "link": "https://www.chess.com/news/view/2026-wscc-ro16-lagno-ambartsumova-kosteniuk-lee",
       "source": "Chess.com",
       "date": "2026-07-08T22:31:49.000Z",
-      "summary": "GM Kateryna Lagno and IM Alice Lee advance to the Quarterfinals of the&nbsp;2026 Women's Speed Chess Championship after winning their Round of 16 matches on Wednesday. Lagno's victory was never in doubt as she scored 10.5-3.5 on the way to elimina..."
+      "summary": "GM Kateryna Lagno and IM Alice Lee advanced to the Quarterfinals of the 2026 Women's Speed Chess Championship after winning their Round of 16 matches on Wednesday. Lagno's victory was never in doubt as she scored 10.5-3.5 on the way to eliminating..."
     },
     {
       "title": "KazChess Masters 2026 - Games and Results",
@@ -301,20 +315,6 @@
       "source": "ChessBase",
       "date": "2026-06-28T07:00:00.000Z",
       "summary": "Do you know the powerful training tool in ChessBase´26? It's called \"Replay Training\"! This great feature lets you actively go through games move by move—sharpening your strategic and tactical understanding in a targeted way. Whether under time pressure or…"
-    },
-    {
-      "title": "Nakamura Celebrates 60th Bullet Brawl Title With Powerful Victory",
-      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-june-27-2026",
-      "source": "Chess.com",
-      "date": "2026-06-28T00:11:00.000Z",
-      "summary": "GM Hikaru Nakamura bounced back from last week's rare defeat in emphatic fashion on Saturday, storming to victory in the latest edition of Bullet Brawl with 178 points. Nakamura finished 15 points clear of GM Oleksandr Bortnyk and with this win ca..."
-    },
-    {
-      "title": "Nihal Dethrones Firouzja With 15-Game Winning Streak",
-      "link": "https://www.chess.com/news/view/nihal-wins-2026-bullet-chess-championship",
-      "source": "Chess.com",
-      "date": "2026-06-27T21:11:00.000Z",
-      "summary": "GM Nihal Sarin won the 2026 Bullet Chess Championship after pulling off what once seemed impossible. After taking down GMs Andrew Tang and Arjun Erigaisi in the Losers Bracket, he went on to win back-to-back matches against three-time and defendin..."
     },
     {
       "title": "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results",
