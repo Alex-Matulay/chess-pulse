@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T11:46:49.392Z",
+  "updated": "2026-07-10T14:12:15.649Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "CBM 231: Sindarov and Vaishali steal the show",
+      "link": "https://en.chessbase.com/post/cbm-231-review-nagesh-havanur",
+      "source": "ChessBase",
+      "date": "2026-07-10T14:00:00.000Z",
+      "summary": "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the recent issue, CBM 231. 2836 games, mainly from the Candidates Tournament and European Individual Championship. 27 annotated, 11 opening surveys, 3 open…"
+    },
     {
       "title": "Chess for Humanity: Armenia and FIDE champion social change at UN Geneva side event",
       "link": "https://www.fide.com/chess-for-humanity-armenia-and-fide-champion-social-change-at-un-geneva-side-event/",
