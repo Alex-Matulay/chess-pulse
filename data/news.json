@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T04:09:34.380Z",
+  "updated": "2026-07-11T07:08:53.249Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Sahel Chess Festival prepares for its second edition",
+      "link": "https://en.chessbase.com/post/sahel-chess-festival-2026-preview",
+      "source": "ChessBase",
+      "date": "2026-07-11T09:00:00.000Z",
+      "summary": "The second edition of the Sahel Chess Festival will take place in Monastir, Tunisia, from 24 October to 1 November 2026. After attracting more than 300 players in its inaugural year, the festival will again feature several classical tournaments divided by r…"
+    },
+    {
+      "title": "Review: My Sokolov-Strategy, Part 2",
+      "link": "https://en.chessbase.com/post/review-my-sokolov-strategy-part-2",
+      "source": "ChessBase",
+      "date": "2026-07-11T07:00:00.000Z",
+      "summary": "Does this sound familiar? You often reach good positions from the opening, only to fail to convert your advantage because you do not understand the resulting positions well enough. Jochen Schwarz, a club player from Bremen, wants to improve in this area and…"
+    },
     {
       "title": "Arjun Completes Big Week With 3 0 Thursday Victory",
       "link": "https://www.chess.com/news/view/arjun-ohanyan-murzin-3-0-thursday-07-10-2026",
