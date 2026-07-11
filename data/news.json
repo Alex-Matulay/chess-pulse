@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T22:42:44.158Z",
+  "updated": "2026-07-11T23:50:44.453Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Evgeny Romanov wins Montenegro Open – Mediterranean Championship",
+      "link": "https://www.fide.com/montenegro-open-mediterranean-championship-2026/",
+      "source": "FIDE",
+      "date": "2026-07-11T22:53:34.000Z",
+      "summary": "GM Evgeny Romanov (MKD) emerged victorious at the Montenegro Open – Mediterranean Championship, edging out GMs Nikita Petrov (MNE), Lorenzo Lodici (ITA), and the top-ranked female player, IM Olga Badelka (AUT), on tiebreaks. The Montenegro Open – Mediterran…"
+    },
     {
       "title": "World's top women's championship: The Cairns Cup returns in August",
       "link": "https://en.chessbase.com/post/world-s-top-women-s-championship",
@@ -196,13 +203,6 @@
       "source": "FIDE",
       "date": "2026-07-07T16:01:11.000Z",
       "summary": "The African Continental Stage of the FIDE ISCF World Schools Team Championship 2026 officially got underway today at the Coetzenburg Center in Stellenbosch, South Africa, marking the first time the event has been held on African soil. The second qualifying…"
-    },
-    {
-      "title": "Iivo Nei (1931-2026)",
-      "link": "https://www.fide.com/iivo-nei-1931-2026/",
-      "source": "FIDE",
-      "date": "2026-07-06T23:08:02.000Z",
-      "summary": "The chess world mourns the passing of Estonian Honorary Grandmaster Iivo Nei, who passed away at the age of 94. Born on 31 October 1931 in Tartu, Estonia, Nei enjoyed an illustrious chess career spanning over eight decades. Showing early promise, he recorde…"
     },
     {
       "title": "Sindarov Sweeps Tournaments As Chess World Honors Daniel Naroditsky",
