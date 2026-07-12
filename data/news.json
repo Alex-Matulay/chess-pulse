@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T16:55:46.735Z",
+  "updated": "2026-07-12T17:57:21.271Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Can you solve these positions from the Chola Chess camp? - Second edition",
+      "link": "https://en.chessbase.com/post/chola-chess-camp-problems-2",
+      "source": "ChessBase",
+      "date": "2026-07-12T19:00:00.000Z",
+      "summary": "Chola Chess is building a dedicated space for India's strong chess players to train and improve. It is led by R. B. Ramesh and Aarthie Ramaswamy, and supported by a committed team. With consistent camps and serious training, it has already impacted over 130…"
+    },
     {
       "title": "2026 Dutch Championships: Sergey Tiviakov and Machteld van Foreest claim titles",
       "link": "https://www.fide.com/2026-dutch-championships-sergey-tiviakov-and-machteld-van-foreest-claim-titles/",
