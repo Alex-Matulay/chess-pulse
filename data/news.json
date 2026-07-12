@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T05:52:55.314Z",
+  "updated": "2026-07-12T08:09:28.373Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Biel Masters: Bluebaum wins Chess960 section",
+      "link": "https://en.chessbase.com/post/biel-festival-2026-chess960",
+      "source": "ChessBase",
+      "date": "2026-07-12T08:30:00.000Z",
+      "summary": "Five rounds against the other players in the Masters, followed by two rounds against players from the Generations Challenge - that was the format of the ACCENTUS Chess960 Masters tournament. After seven rounds, Matthias Bluebaum and Aydin Suleymanli finishe…"
+    },
     {
       "title": "ChessBase´26 – Beginner's Tips Part 22: Maximum training effect with the ‘Replay Training’ power tool (Part 2)",
       "link": "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-22-maximum-training-effect-with-the-replay-training-power-tool-part-2",
