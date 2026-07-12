@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T10:23:07.881Z",
+  "updated": "2026-07-12T11:55:51.108Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "“Chess as Social Value” – Online panel discussion by the FIDE Social Commission",
+      "link": "https://www.fide.com/chess-as-social-value-online-panel-discussion-by-the-fide-social-commission/",
+      "source": "FIDE",
+      "date": "2026-07-12T11:05:59.000Z",
+      "summary": "The FIDE Social Commission celebrates International Chess Day with an interactive discussion to showcase chess as a tool for rehabilitation, protection, and development. In celebration of the International Chess Day on July 20, the FIDE Social Commission wi…"
+    },
     {
       "title": "Biel Masters: Bluebaum wins Chess960 section",
       "link": "https://en.chessbase.com/post/biel-festival-2026-chess960",
@@ -65,11 +72,11 @@
       "summary": "The Netherland Championships took place in Amsterdam Sat 4th to Sat 11th Jul 2026. The event was a KO with both an open and women's event. Sergei Tiviakov won his fourth title defeating Liam Vrolijk in the final after a tie-break. Machteld Van Foreest beat…"
     },
     {
-      "title": "Biel Festival: Chess960 - Live!",
+      "title": "Biel Festival: Rapid - Live!",
       "link": "https://en.chessbase.com/post/biel-festival-2026-live",
       "source": "ChessBase",
       "date": "2026-07-11T14:00:00.000Z",
-      "summary": "The Biel International Chess Festival begins on Saturday with the ACCENTUS Chess960 rapid tournaments. The results of these tournaments will be used as a tie-break in the chess triathlons in the Masters Tournament and in the Generations Challenge, which fea…"
+      "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday - won by Matthias Bluebaum and Marco Materia respectively - the players in the Masters and Generations Challenge Triathlon face off in the rap…"
     },
     {
       "title": "Sahel Chess Festival prepares for its second edition",
@@ -217,13 +224,6 @@
       "source": "Chess.com",
       "date": "2026-07-07T18:31:56.000Z",
       "summary": "GM Benjamin Bok has qualified for the 2026 Esports World Cup&nbsp;after defeating GM Vidit Gujrathi in the 2026 India Rising Finals in Mumbai on July 4. The match reached the maximum number of possible games, with all three sets going to armageddo..."
-    },
-    {
-      "title": "First moves in Stellenbosch: African Continental Stage of the World Schools Team Championship 2026 begins",
-      "link": "https://www.fide.com/first-moves-in-stellenbosch-african-continental-stage-of-the-world-schools-team-championship-2026-begins/",
-      "source": "FIDE",
-      "date": "2026-07-07T16:01:11.000Z",
-      "summary": "The African Continental Stage of the FIDE ISCF World Schools Team Championship 2026 officially got underway today at the Coetzenburg Center in Stellenbosch, South Africa, marking the first time the event has been held on African soil. The second qualifying…"
     },
     {
       "title": "Sindarov Sweeps Tournaments As Chess World Honors Daniel Naroditsky",
