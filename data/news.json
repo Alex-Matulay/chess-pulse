@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T11:55:51.108Z",
+  "updated": "2026-07-12T13:13:24.998Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Biel Festival: Rapid - Live!",
+      "link": "https://en.chessbase.com/post/biel-festival-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-12T13:50:00.000Z",
+      "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday - won by Matthias Bluebaum and Marco Materia respectively - the players in the Masters and Generations Challenge Triathlon face off in the rap…"
+    },
     {
       "title": "“Chess as Social Value” – Online panel discussion by the FIDE Social Commission",
       "link": "https://www.fide.com/chess-as-social-value-online-panel-discussion-by-the-fide-social-commission/",
@@ -70,13 +77,6 @@
       "source": "The Week in Chess",
       "date": "2026-07-11T17:59:00.000Z",
       "summary": "The Netherland Championships took place in Amsterdam Sat 4th to Sat 11th Jul 2026. The event was a KO with both an open and women's event. Sergei Tiviakov won his fourth title defeating Liam Vrolijk in the final after a tie-break. Machteld Van Foreest beat…"
-    },
-    {
-      "title": "Biel Festival: Rapid - Live!",
-      "link": "https://en.chessbase.com/post/biel-festival-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-11T14:00:00.000Z",
-      "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday - won by Matthias Bluebaum and Marco Materia respectively - the players in the Masters and Generations Challenge Triathlon face off in the rap…"
     },
     {
       "title": "Sahel Chess Festival prepares for its second edition",
