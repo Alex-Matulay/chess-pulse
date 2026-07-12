@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T02:21:21.230Z",
+  "updated": "2026-07-12T05:52:55.314Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "ChessBase´26 – Beginner's Tips Part 22: Maximum training effect with the ‘Replay Training’ power tool (Part 2)",
+      "link": "https://en.chessbase.com/post/chessbase-26-beginner-s-tips-part-22-maximum-training-effect-with-the-replay-training-power-tool-part-2",
+      "source": "ChessBase",
+      "date": "2026-07-12T07:00:00.000Z",
+      "summary": "Let's continue with ChessBase´26's powerful training tool \"Replay Training\": Replay Training! We already introduced you to this super feature in the last article, and in this tutorial, we'll show you some additional features that will help you noticeably im…"
+    },
+    {
+      "title": "Nakamura Wins 50 Games En Route To 12th Title In 2026",
+      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-11-2026",
+      "source": "Chess.com",
+      "date": "2026-07-12T04:12:31.000Z",
+      "summary": "For the 12th time in 2026, GM Hikaru Nakamura triumphed in the Bullet Brawl arena after he won 50, drew eight, and lost 11 games on Saturday. With a score of 172 points, Nakamura finished 27 points clear of the second placed GM Arjun Erigaisi, 30 ..."
+    },
     {
       "title": "Evgeny Romanov wins Montenegro Open – Mediterranean Championship",
       "link": "https://www.fide.com/montenegro-open-mediterranean-championship-2026/",
@@ -350,13 +364,6 @@
       "source": "Chess.com",
       "date": "2026-06-30T13:13:00.000Z",
       "summary": "GM Magnus Carlsen has now been the world chess number-one on every FIDE rating list for the past 15 years, since July 2011. Although Carlsen has suffered scares&mdash;for instance, any loss to GM Fabiano Caruana in the 2018 World Championship matc..."
-    },
-    {
-      "title": "How Erling Haaland Helped Norway Chess Raise $10 Million For Total Chess",
-      "link": "https://www.chess.com/news/view/how-haaland-helped-norway-chess-raise-10-million",
-      "source": "Chess.com",
-      "date": "2026-06-30T10:31:00.000Z",
-      "summary": "As Erling Braut Haaland leads Norway's quest for World Cup glory, it's easy to forget that just three months ago the Manchester City superstar made headlines in a very different arena. Haaland's investment in Norway Chess sent shockwaves through ..."
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
