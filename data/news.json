@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T18:40:42.645Z",
+  "updated": "2026-07-13T20:10:10.059Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE Transforms 2027 World Cup Format",
+      "link": "https://www.chess.com/news/view/fide-world-cup-new-format",
+      "source": "Chess.com",
+      "date": "2026-07-13T19:37:00.000Z",
+      "summary": "The International Chess Federation has announced a big shake-up in the format for the 2027 FIDE World Cup and Women's World Cup. Instead of huge 206 and 107-player knockouts, the last stage will now involve only the final 16 players in each event,..."
+    },
+    {
+      "title": "Serbia Open officially starts in Belgrade",
+      "link": "https://www.fide.com/serbia-open-officially-starts-in-belgrade/",
+      "source": "FIDE",
+      "date": "2026-07-13T19:29:18.000Z",
+      "summary": "The Serbia Open 2026 was officially declared open today at the Metropol Palace Hotel in Belgrade, marking the beginning of one of Europe’s most established and internationally diverse summer chess festivals. Organized by the Chess Federation of Serbia under…"
+    },
     {
       "title": "The 1858-Rated Kid Who Beat a Super-GM - The Underdog",
       "link": "https://en.chessbase.com/post/the-1858-rated-kid-who-beat-a-super-gm-the-underdog",
@@ -147,13 +161,6 @@
       "source": "FIDE",
       "date": "2026-07-10T08:35:59.000Z",
       "summary": "FIDE and South African officials have inspected a potential venue and discussed the possibility of Cape Town bidding for the 2032 Chess Olympiad. A FIDE delegation, led by President Arkady Dvorkovich, visited the Cape Town International Convention Centre (C…"
-    },
-    {
-      "title": "A new African push for chess in education",
-      "link": "https://www.fide.com/a-new-african-push-for-chess-in-education/",
-      "source": "FIDE",
-      "date": "2026-07-09T18:02:31.000Z",
-      "summary": "A fresh push to bring chess into classrooms across Africa took shape in Cape Town during the African Continental Stage of the FIDE ISCF World Schools Team Championship 2026.The African Continental Stage of the FIDE ISCF World Schools Team Championship 2026…"
     },
     {
       "title": "Lee Edges Kosteniuk In Overtime, Lagno Eliminates Ambartsumova",
@@ -329,13 +336,6 @@
       "source": "Chess.com",
       "date": "2026-06-30T15:00:00.000Z",
       "summary": "Calling out all wizards and witches! The Chess.com Spell Chess Championship is the next event of the Chess.com Community Championships. The event takes place from July 15 to July 17 and features $2,500 in prizes. Spell Chess is what happens when ..."
-    },
-    {
-      "title": "Magnus Carlsen Reaches 15 Years Unbroken As World No. 1",
-      "link": "https://www.chess.com/news/view/magnus-carlsen-15-years-unbroken-world-number-one",
-      "source": "Chess.com",
-      "date": "2026-06-30T13:13:00.000Z",
-      "summary": "GM Magnus Carlsen has now been the world chess number-one on every FIDE rating list for the past 15 years, since July 2011. Although Carlsen has suffered scares&mdash;for instance, any loss to GM Fabiano Caruana in the 2018 World Championship matc..."
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
