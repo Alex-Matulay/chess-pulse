@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T20:10:10.059Z",
+  "updated": "2026-07-13T21:52:17.327Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Hou Yifan Beats Wagner, Avramidou Upsets Shuvalova",
+      "link": "https://www.chess.com/news/view/2026-wscc-ro16-hou-wagner-shuvalova-avramidou",
+      "source": "Chess.com",
+      "date": "2026-07-13T20:10:42.000Z",
+      "summary": "Women's world number-one GM Hou Yifan and WGM Anastasia Avramidou advance to the 2026 Women's Speed Chess Championship Quarterfinals after winning the last Round of 16 matches on Monday. Hou defeated IM Dinara Wagner in a one-sided match, 13.5-2.5..."
+    },
     {
       "title": "FIDE Transforms 2027 World Cup Format",
       "link": "https://www.chess.com/news/view/fide-world-cup-new-format",
@@ -329,13 +336,6 @@
       "source": "Chess.com",
       "date": "2026-06-30T19:36:13.000Z",
       "summary": "GM Jose Martinez won Titled Tuesday on June 30 without much trouble, going undefeated and scoring 10/11 for his second victory in the last six weeks. No one came within even half a point, but five players scored nine points, with GM Fabiano Caruan..."
-    },
-    {
-      "title": "Magic Meets Mayhem In The Chess.com Spell Chess Championship, Starting July 15",
-      "link": "https://www.chess.com/news/view/announcing-chesscom-spell-chess-championship-2026",
-      "source": "Chess.com",
-      "date": "2026-06-30T15:00:00.000Z",
-      "summary": "Calling out all wizards and witches! The Chess.com Spell Chess Championship is the next event of the Chess.com Community Championships. The event takes place from July 15 to July 17 and features $2,500 in prizes. Spell Chess is what happens when ..."
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
