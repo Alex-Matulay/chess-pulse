@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T06:11:38.082Z",
+  "updated": "2026-07-13T10:20:47.807Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "ChessBase tips for beginners - Tactical Analysis (9)",
+      "link": "https://en.chessbase.com/post/chessbase-tips-for-beginners-tactical-analysis-9",
+      "source": "ChessBase",
+      "date": "2026-07-13T12:00:00.000Z",
+      "summary": "In this episode of ChessBase Tips for Beginners, we look at Tactical Analysis, a feature that automatically adds engine annotations to your games. Instead of going through every move manually, ChessBase can detect mistakes, suggest variations, add comments,…"
+    },
+    {
+      "title": "Ashwin's Checkmate Chronicles",
+      "link": "https://en.chessbase.com/post/ashwin-s-checkmate-chronicles",
+      "source": "ChessBase",
+      "date": "2026-07-13T09:58:39.000Z",
+      "summary": "Did you attend the Checkmate: USA v. India exhibition match in the Esports Stadium in Arlington, Texas? No? Was it too far away? Well, you can visit the event virtually, get a feel for the atmosphere and the mood of the players, in this gigantic photo repor…"
+    },
     {
       "title": "Can you solve these positions from the Chola Chess camp? - Second edition",
       "link": "https://en.chessbase.com/post/chola-chess-camp-problems-2",
@@ -145,7 +159,7 @@
       "title": "Santos Beats Oro, Le To Win 2nd Leon Masters",
       "link": "https://www.chess.com/news/view/santos-wins-2026-leon-masters-le-oro",
       "source": "Chess.com",
-      "date": "2026-07-07T20:50:49.000Z",
+      "date": "2026-07-07T20:50:00.000Z",
       "summary": "Local hero GM Jaime Santos has won the&nbsp;2026 Leon Masters after celebrating his 30th birthday by beating 12-year-old Argentinian GM-elect Faustino Oro 3-1 in the Semifinals, before overcoming Vietnamese defending champion GM Liem Le 3.5-0.5 in..."
     },
     {
