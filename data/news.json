@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T10:20:47.807Z",
+  "updated": "2026-07-13T13:18:34.647Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -14,6 +14,13 @@
       "source": "ChessBase",
       "date": "2026-07-13T12:00:00.000Z",
       "summary": "In this episode of ChessBase Tips for Beginners, we look at Tactical Analysis, a feature that automatically adds engine annotations to your games. Instead of going through every move manually, ChessBase can detect mistakes, suggest variations, add comments,…"
+    },
+    {
+      "title": "Daniel Dardha and Hanne Goossens crowned Belgian chess champions",
+      "link": "https://www.fide.com/daniel-dardha-and-hanne-goossens-crowned-belgian-chess-champions/",
+      "source": "FIDE",
+      "date": "2026-07-13T11:21:54.000Z",
+      "summary": "GM Daniel Dardha and WIM Hanne Goossens are newly crowned Belgian Chess Champions, claiming their fourth and fifth national titles, respectively. The 2026 edition of the Belgian Chess Championships was held from July 4-12 at the Xaverius College in Borgerho…"
     },
     {
       "title": "Ashwin's Checkmate Chronicles",
@@ -133,13 +140,6 @@
       "source": "FIDE",
       "date": "2026-07-09T17:31:12.000Z",
       "summary": "Day three of the African Continental Stage of the FIDE ISCF World Schools Team Championship 2026 brought rounds five and six to the Coetzenburg Center, pushing the tournament into its decisive phase. With only two rounds remaining after today’s play, every…"
-    },
-    {
-      "title": "Chess, concentration, and community: An interview with Timur Turlov",
-      "link": "https://www.fide.com/chess-concentration-and-community-an-interview-with-timur-turlov/",
-      "source": "FIDE",
-      "date": "2026-07-09T13:42:54.000Z",
-      "summary": "The FIDE ISCF World Schools Team Championship has grown rapidly since its pilot edition in Aktau in 2023, developing into a global cycle spanning four continents. During the African Continental Stage in Stellenbosch, South Africa, ISCF President Timur Turlo…"
     },
     {
       "title": "Lee Edges Kosteniuk In Overtime, Lagno Eliminates Ambartsumova",
