@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T11:22:55.877Z",
+  "updated": "2026-07-14T13:23:47.551Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Biel Festival - Live!",
+      "link": "https://en.chessbase.com/post/biel-festival-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-14T13:50:00.000Z",
+      "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the class…"
+    },
     {
       "title": "New format for FIDE World Cup",
       "link": "https://en.chessbase.com/post/new-format-for-fide-world-cup",
@@ -42,6 +49,13 @@
       "source": "FIDE",
       "date": "2026-07-14T10:01:46.000Z",
       "summary": "The FIDE Council has approved qualification paths for the FIDE Candidates Tournament 2028 and the FIDE Women’s Candidates Tournament 2028, following proposals developed by the Global Strategy Commission. The regulations introduce new qualification opportuni…"
+    },
+    {
+      "title": "In Memoriam: Oleg Skvortsov (1969–2026)",
+      "link": "https://www.fide.com/in-memoriam-oleg-skvortsov-1969-2026/",
+      "source": "FIDE",
+      "date": "2026-07-14T08:26:00.000Z",
+      "summary": "It is with great sadness that we have learned of the passing of Oleg Skvortsov, a passionate chess enthusiast, long-time philanthropist, and tournament organizer. He was 57. Born in Moscow in 1969, Skvortsov played chess during his school years, reaching th…"
     },
     {
       "title": "Biel: Aronian and Finek outright winners in rapid segment",
@@ -128,13 +142,6 @@
       "summary": "Machteld van Foreest and Sergey Tiviakov, both residents of Groningen, emerged as the new Dutch champions. Van Foreest successfully defended her title and won her third overall, while for Tiviakov, it was his fourth national crown. The 2026 Dutch Chess Cham…"
     },
     {
-      "title": "Biel Festival: Rapid - Live!",
-      "link": "https://en.chessbase.com/post/biel-festival-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-12T13:50:00.000Z",
-      "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday - won by Matthias Bluebaum and Marco Materia respectively - the players in the Masters and Generations Challenge Triathlon face off in the rap…"
-    },
-    {
       "title": "“Chess as Social Value” – Online panel discussion by the FIDE Social Commission",
       "link": "https://www.fide.com/chess-as-social-value-online-panel-discussion-by-the-fide-social-commission/",
       "source": "FIDE",
@@ -189,13 +196,6 @@
       "source": "FIDE",
       "date": "2026-07-10T15:17:33.000Z",
       "summary": "There was a different feeling inside the Coetzenburg Center on Friday morning. The music still played as the players filed in, and the smiles were still everywhere, but beneath it was the awareness that they were doing this for the final time. The final two…"
-    },
-    {
-      "title": "Chess for Humanity: Armenia and FIDE champion social change at UN Geneva side event",
-      "link": "https://www.fide.com/chess-for-humanity-armenia-and-fide-champion-social-change-at-un-geneva-side-event/",
-      "source": "FIDE",
-      "date": "2026-07-10T10:32:27.000Z",
-      "summary": "In a landmark celebration of chess as a catalyst for social transformation, the Permanent Mission of Armenia to the United Nations in Geneva, in partnership with the FIDE Social Commission and UNESCO, hosted a prestigious side event on 8 July at Hall XIV of…"
     },
     {
       "title": "Lee Edges Kosteniuk In Overtime, Lagno Eliminates Ambartsumova",
