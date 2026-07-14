@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T09:54:10.627Z",
+  "updated": "2026-07-14T11:22:55.877Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "New format for FIDE World Cup",
+      "link": "https://en.chessbase.com/post/new-format-for-fide-world-cup",
+      "source": "ChessBase",
+      "date": "2026-07-14T12:32:00.000Z",
+      "summary": "The FIDE Council has approved a series of significant changes to the format of the 2027 FIDE World Cup and the 2027 FIDE Women’s World Cup, following recommendations from the Global Strategy Commission. They aim to make the competitions more inclusive, impr…"
+    },
+    {
+      "title": "FIDE World Senior Chess Championships 2026: Registration now open",
+      "link": "https://www.fide.com/fide-world-senior-chess-championships-2026-registration-now-open/",
+      "source": "FIDE",
+      "date": "2026-07-14T10:45:53.000Z",
+      "summary": "All FIDE member federations are invited to participate in the World Senior Individual Chess Championships. The competitions will be held in Vrnjačka Banja, the largest spa resort in Serbia, from November 2 (arrival) to November 15 (departure), 2026. The Cha…"
+    },
     {
       "title": "Remembering Jan Timman: New in Chess Magazine – 2026#2",
       "link": "https://en.chessbase.com/post/remembering-jan-timman-new-in-chess-magazine-2026-2",
@@ -21,6 +35,13 @@
       "source": "ChessBase",
       "date": "2026-07-14T10:05:00.000Z",
       "summary": "Svitlana Demchenko introduces the Ukrainian Variation from the Old Indian Defense and explains why it can lead to surprisingly comfortable positions for Black, especially if White accepts an early queen trade. The featured Soviet-era game between Lev Poluga…"
+    },
+    {
+      "title": "FIDE Council approves qualification paths for 2028 Candidates Tournaments",
+      "link": "https://www.fide.com/fide-council-approves-qualification-paths-for-2028-candidates-tournaments/",
+      "source": "FIDE",
+      "date": "2026-07-14T10:01:46.000Z",
+      "summary": "The FIDE Council has approved qualification paths for the FIDE Candidates Tournament 2028 and the FIDE Women’s Candidates Tournament 2028, following proposals developed by the Global Strategy Commission. The regulations introduce new qualification opportuni…"
     },
     {
       "title": "Biel: Aronian and Finek outright winners in rapid segment",
@@ -175,20 +196,6 @@
       "source": "FIDE",
       "date": "2026-07-10T10:32:27.000Z",
       "summary": "In a landmark celebration of chess as a catalyst for social transformation, the Permanent Mission of Armenia to the United Nations in Geneva, in partnership with the FIDE Social Commission and UNESCO, hosted a prestigious side event on 8 July at Hall XIV of…"
-    },
-    {
-      "title": "Asian Rapid and Blitz Championships 2026: Registration deadline extended",
-      "link": "https://www.fide.com/asian-rapid-and-blitz-chess-championships-2026-registration-deadline-extended-to-july-16/",
-      "source": "FIDE",
-      "date": "2026-07-10T09:18:35.000Z",
-      "summary": "The Asian Chess Federation is pleased to announce that the Asian Rapid & Blitz Chess Championships 2026 (Open & Women) will be held in Hong Kong, China, from July 27 to 31, 2026. The championships are organized by the Hong Kong China Chess Federation Limite…"
-    },
-    {
-      "title": "South Africa explores historic bid for first African Chess Olympiad",
-      "link": "https://www.fide.com/south-africa-explores-historic-bid-for-first-african-chess-olympiad/",
-      "source": "FIDE",
-      "date": "2026-07-10T08:35:59.000Z",
-      "summary": "FIDE and South African officials have inspected a potential venue and discussed the possibility of Cape Town bidding for the 2032 Chess Olympiad. A FIDE delegation, led by President Arkady Dvorkovich, visited the Cape Town International Convention Centre (C…"
     },
     {
       "title": "Lee Edges Kosteniuk In Overtime, Lagno Eliminates Ambartsumova",
