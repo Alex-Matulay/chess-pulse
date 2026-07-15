@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T05:07:42.148Z",
+  "updated": "2026-07-15T08:00:01.295Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "In Memoriam: Oleg Skvortsov (1969–2026)",
+      "link": "https://en.chessbase.com/post/in-memoriam-oleg-skvortsov-1969-2026",
+      "source": "ChessBase",
+      "date": "2026-07-15T09:04:01.000Z",
+      "summary": "Oleg Skvortsov, one of chess's leading patrons, has passed away. Between 2012 and 2017, he organized a series of world-class chess events, matches, and tournaments in Zurich, while also supporting the game through a number of other projects. | Photo: Wladim…"
+    },
     {
       "title": "Aleksander Wojtkiewicz (15 January 1963 – 14 July 2006): A Chess Vagabond Remembered",
       "link": "https://en.chessbase.com/post/aleksander-wojtkiewicz-15-january-1963-14-july-2006-a-chess-vagabond-remembered",
@@ -70,13 +77,6 @@
       "source": "FIDE",
       "date": "2026-07-14T10:01:46.000Z",
       "summary": "The FIDE Council has approved qualification paths for the FIDE Candidates Tournament 2028 and the FIDE Women’s Candidates Tournament 2028, following proposals developed by the Global Strategy Commission. The regulations introduce new qualification opportuni…"
-    },
-    {
-      "title": "In Memoriam: Oleg Skvortsov (1969–2026)",
-      "link": "https://www.fide.com/in-memoriam-oleg-skvortsov-1969-2026/",
-      "source": "FIDE",
-      "date": "2026-07-14T08:26:00.000Z",
-      "summary": "It is with great sadness that we have learned of the passing of Oleg Skvortsov, a passionate chess enthusiast, long-time philanthropist, and tournament organizer. He was 57. Born in Moscow in 1969, Skvortsov played chess during his school years, reaching th…"
     },
     {
       "title": "Biel: Aronian and Finek outright winners in rapid segment",
