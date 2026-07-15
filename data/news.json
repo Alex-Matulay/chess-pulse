@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T08:00:01.295Z",
+  "updated": "2026-07-15T10:10:21.844Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Biel: Classical chess sections kicks off with one decisive result per section",
+      "link": "https://en.chessbase.com/post/biel-festival-2026-classical-1",
+      "source": "ChessBase",
+      "date": "2026-07-15T11:35:00.000Z",
+      "summary": "The first round of classical chess in the Masters and the Generations Challenge Triathlons at the Biel International Chess Festival was played on Tuesday. Each event produced two draws and one winner. Matthias Bluebaum (pictured) drew his game against Yagiz…"
+    },
+    {
+      "title": "Review: Fritz 21",
+      "link": "https://en.chessbase.com/post/review-fritz-21",
+      "source": "ChessBase",
+      "date": "2026-07-15T10:00:00.000Z",
+      "summary": "\"Even stronger. Even more beautiful. Even more direct.\" That is the slogan ChessBase uses to promote the latest edition of its well-known Fritz series. But what does the new version actually offer? Who is Fritz 21 designed for? Lukas Köpl took a close look…"
+    },
     {
       "title": "In Memoriam: Oleg Skvortsov (1969–2026)",
       "link": "https://en.chessbase.com/post/in-memoriam-oleg-skvortsov-1969-2026",
@@ -42,13 +56,6 @@
       "source": "ChessBase",
       "date": "2026-07-14T19:30:00.000Z",
       "summary": "The FIDE Council has approved qualification paths for the FIDE Candidates Tournament 2028 and the FIDE Women's Candidates Tournament 2028, following proposals developed by the Global Strategy Commission. The regulations introduce new qualification opportuni…"
-    },
-    {
-      "title": "Biel Festival - Live!",
-      "link": "https://en.chessbase.com/post/biel-festival-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-14T13:50:00.000Z",
-      "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the class…"
     },
     {
       "title": "FIDE World Senior Chess Championships 2026: Registration now open",
