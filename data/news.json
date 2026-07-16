@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T08:05:17.256Z",
+  "updated": "2026-07-16T10:54:37.568Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,18 +9,25 @@
   ],
   "items": [
     {
-      "title": "Quantbox Chennai Grand Prix: Gukesh, Firouzja and Abdusattorov head eight-player field",
+      "title": "Chennai Grand Masters - Live!",
+      "link": "https://en.chessbase.com/post/chennai-gms-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-16T11:30:00.000Z",
+      "summary": "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun E…"
+    },
+    {
+      "title": "FIDE Excellence Awards shortlists announced",
+      "link": "https://www.fide.com/fide-excellence-awards-shortlists-announced/",
+      "source": "FIDE",
+      "date": "2026-07-16T09:15:24.000Z",
+      "summary": "FIDE has announced the official shortlists for the inaugural FIDE Excellence Awards, recognising outstanding achievements, individuals, events, teams, federations and initiatives from across the global chess community. Established in 2026, the biennial awar…"
+    },
+    {
+      "title": "Quantbox Chennai Grand Masters: Gukesh, Firouzja and Abdusattorov head eight-player field",
       "link": "https://en.chessbase.com/post/chennai-gms-2026-preview",
       "source": "ChessBase",
       "date": "2026-07-16T07:35:00.000Z",
       "summary": "The fourth Quantbox Chennai Grand Masters brings together an eight-player field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. The seven-round single round-robin also includes Hans Niemann, Nihal Sarin…"
-    },
-    {
-      "title": "Biel Festival - Live!",
-      "link": "https://en.chessbase.com/post/biel-festival-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-15T13:50:00.000Z",
-      "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the class…"
     },
     {
       "title": "Biel: Classical chess sections kicks off with one decisive result per section",
@@ -231,13 +238,6 @@
       "source": "Chess.com",
       "date": "2026-07-10T20:31:01.000Z",
       "summary": "The favorites, GMs Divya Deshmukh and Bibisara Assaubayeva, advanced to the Quarterfinals of the 2026 Women's Speed Chess Championship on Friday. Between the two of them, the winners lost only a single game. Divya defeated IM Rose Atwell with an u..."
-    },
-    {
-      "title": "Sr. Miriam Duggan Primary School (Uganda) takes gold at African Continental Stage of World Schools Team Championship 2026",
-      "link": "https://www.fide.com/sr-miriam-duggan-primary-school-uganda-takes-gold-at-african-continental-stage-of-world-schools-team-championship-2026/",
-      "source": "FIDE",
-      "date": "2026-07-10T15:17:33.000Z",
-      "summary": "There was a different feeling inside the Coetzenburg Center on Friday morning. The music still played as the players filed in, and the smiles were still everywhere, but beneath it was the awareness that they were doing this for the final time. The final two…"
     },
     {
       "title": "Lee Edges Kosteniuk In Overtime, Lagno Eliminates Ambartsumova",
