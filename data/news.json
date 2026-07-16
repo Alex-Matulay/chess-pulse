@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T10:54:37.568Z",
+  "updated": "2026-07-16T12:17:43.820Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Biel Festival - Live!",
+      "link": "https://en.chessbase.com/post/biel-festival-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-16T13:50:00.000Z",
+      "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the class…"
+    },
     {
       "title": "Chennai Grand Masters - Live!",
       "link": "https://en.chessbase.com/post/chennai-gms-2026-live",
