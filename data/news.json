@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T05:35:47.931Z",
+  "updated": "2026-07-16T08:05:17.256Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Quantbox Chennai Grand Prix: Gukesh, Firouzja and Abdusattorov head eight-player field",
+      "link": "https://en.chessbase.com/post/chennai-gms-2026-preview",
+      "source": "ChessBase",
+      "date": "2026-07-16T07:35:00.000Z",
+      "summary": "The fourth Quantbox Chennai Grand Masters brings together an eight-player field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun Erigaisi and Alireza Firouzja. The seven-round single round-robin also includes Hans Niemann, Nihal Sarin…"
+    },
     {
       "title": "Biel Festival - Live!",
       "link": "https://en.chessbase.com/post/biel-festival-2026-live",
