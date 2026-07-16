@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T19:59:28.303Z",
+  "updated": "2026-07-16T21:10:05.805Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Firouzja Back In Top 10 After Grabbing Early Lead In Chennai",
+      "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-1",
+      "source": "Chess.com",
+      "date": "2026-07-16T20:16:32.000Z",
+      "summary": "GM Alireza Firouzja reentered the top 10 after a win against GM Pranesh M saw him grab the sole lead after round one of the&nbsp;2026 Quantbox Chennai Grand Masters. All the other games featured near misses: GM Gukesh Dommaraju got into trouble ag..."
+    },
     {
       "title": "Biel Festival - Live!",
       "link": "https://en.chessbase.com/post/biel-festival-2026-live",
@@ -392,13 +399,6 @@
       "source": "Chess.com",
       "date": "2026-07-01T22:39:34.000Z",
       "summary": "GM Alireza Firouzja shrugged off his bullet-chess loss to GM Nihal Sarin to take the sole lead on day one of the 2026 Super Rapid & Blitz Croatia with wins over GMs Ivan Saric and Bogdan-Daniel Deac. His 5/6 put him a point ahead of GMs Praggn..."
-    },
-    {
-      "title": "Carlsen Drops 18 Points, Remains Only 2800+ Player In World",
-      "link": "https://www.chess.com/news/view/july-2026-fide-ratings",
-      "source": "Chess.com",
-      "date": "2026-07-01T19:43:27.000Z",
-      "summary": "Norway Chess 2026 and the UzChess Cup 2026 were two tournaments that shifted classical ratings for many of the world's top-15 on the July list. The most notable change was, unusually so, an 18-point drop in GM Magnus Carlsen's rating, just as he c..."
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
