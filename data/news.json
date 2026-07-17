@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T08:02:03.917Z",
+  "updated": "2026-07-17T10:42:28.089Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chennai Grand Masters - Live!",
+      "link": "https://en.chessbase.com/post/chennai-gms-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-17T11:30:00.000Z",
+      "summary": "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun E…"
+    },
     {
       "title": "Chennai GMs: Firouzja outplays Pranesh in fighting first round",
       "link": "https://en.chessbase.com/post/chennai-gms-2026-1",
