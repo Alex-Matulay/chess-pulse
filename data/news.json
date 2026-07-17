@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T18:01:17.613Z",
+  "updated": "2026-07-17T20:02:24.187Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Nakamura Tops 3 0 Thursday In His \"Best Time Control\"",
+      "link": "https://www.chess.com/news/view/nakamura-drygalov-terry-3-0-thursday-07-16-2026",
+      "source": "Chess.com",
+      "date": "2026-07-17T19:35:00.000Z",
+      "summary": "GM Hikaru Nakamura streamed his way to victory in the first 3 0 Thursday on July 16. On steam, he described the time control as clearly his strongest, explaining that it's faster than the five-minute time control used in Titled Tuesdays and that f..."
+    },
     {
       "title": "The 1926 FIDE Congress in Budapest",
       "link": "https://en.chessbase.com/post/fide-congress-budapest-1926",
@@ -26,7 +33,7 @@
       "title": "Firouzja Beats Gukesh To Take Full-Point Lead",
       "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-2-1",
       "source": "Chess.com",
-      "date": "2026-07-17T14:48:34.000Z",
+      "date": "2026-07-17T14:48:00.000Z",
       "summary": "GM Alireza Firouzja marched on with a nail-biting win over World Champion Gukesh Dommaraju to move to 2/2 and take a one-point lead at the top of the 2026 Quantbox Chennai Grand Masters standings. Only GM Dmitry Andreikin vs. GM Pranesh M was a qu..."
     },
     {
@@ -308,13 +315,6 @@
       "source": "Chess.com",
       "date": "2026-07-03T14:06:31.000Z",
       "summary": "There was no need for tiebreaks in any of the three 3 0 Thursday tournaments on July 2 as the three champions, GMs Denis Lazavik, Volodar Murzin, and IM Yoseph Taher, won outright. In the curtain-raiser, Lazavik beat GMs Magnus Carlsen and Jan-Kr..."
-    },
-    {
-      "title": "Yip, Garifullina Qualify For WR Women's Chess Tour Grand Final",
-      "link": "https://www.chess.com/news/view/yip-garifullina-win-2026-wr-womens-chess-tour-americas",
-      "source": "Chess.com",
-      "date": "2026-07-03T02:40:00.000Z",
-      "summary": "IMs Carissa Yip and Leya Garifullina won the rapid and blitz segments (respectively) of the WR Women's Chess Tour - Americas 2026 on Wednesday and Thursday. Along with the $7,000 first prize, they both qualify for the Grand Final in Stuttgart, Ger..."
     },
     {
       "title": "Lichess Game of the Month: May '26",
