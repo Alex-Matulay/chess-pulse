@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T14:39:07.099Z",
+  "updated": "2026-07-17T16:11:08.973Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "The 1926 FIDE Congress in Budapest",
+      "link": "https://en.chessbase.com/post/fide-congress-budapest-1926",
+      "source": "ChessBase",
+      "date": "2026-07-17T18:00:00.000Z",
+      "summary": "In September, Samarkand will host the 46th Chess Olympiad. After FIDE was founded in 1924, the first international team tournament was held in Budapest in the summer of 1926, albeit with only a small number of teams. From these modest beginnings, the tradit…"
+    },
+    {
+      "title": "Celebrate International Chess Day By Rekindling Your Longest Streak & Earning An Exclusive Flair",
+      "link": "https://www.chess.com/news/view/international-chess-day-2026-rewards",
+      "source": "Chess.com",
+      "date": "2026-07-17T15:00:00.000Z",
+      "summary": "International Chess Day is July 20, and this year, you can turn it into a fresh start. We invite you to celebrate this special occasion with us&mdash;while also restarting your longest streak and even winning a permanent and exclusive flair! Rest..."
+    },
+    {
+      "title": "Firouzja Beats Gukesh To Take Full-Point Lead",
+      "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-2-1",
+      "source": "Chess.com",
+      "date": "2026-07-17T14:48:34.000Z",
+      "summary": "GM Alireza Firouzja marched on with a nail-biting win over World Champion Gukesh Dommaraju to move to 2/2 and take a one-point lead at the top of the 2026 Quantbox Chennai Grand Masters standings. Only GM Dmitry Andreikin vs. GM Pranesh M was a qu..."
+    },
     {
       "title": "Biel Festival - Live!",
       "link": "https://en.chessbase.com/post/biel-festival-2026-live",
@@ -119,13 +140,6 @@
       "source": "FIDE",
       "date": "2026-07-13T11:21:54.000Z",
       "summary": "GM Daniel Dardha and WIM Hanne Goossens are newly crowned Belgian Chess Champions, claiming their fourth and fifth national titles, respectively. The 2026 edition of the Belgian Chess Championships was held from July 4-12 at the Xaverius College in Borgerho…"
-    },
-    {
-      "title": "Ashwin's Checkmate Chronicles",
-      "link": "https://en.chessbase.com/post/ashwin-s-checkmate-chronicles",
-      "source": "ChessBase",
-      "date": "2026-07-13T09:58:39.000Z",
-      "summary": "Did you attend the Checkmate: USA v. India exhibition match in the Esports Stadium in Arlington, Texas? No? Was it too far away? Well, you can visit the event virtually, get a feel for the atmosphere and the mood of the players, in this gigantic photo repor…"
     },
     {
       "title": "2026 Dutch Championships: Sergey Tiviakov and Machteld van Foreest claim titles",
@@ -301,20 +315,6 @@
       "source": "Chess.com",
       "date": "2026-07-03T02:40:00.000Z",
       "summary": "IMs Carissa Yip and Leya Garifullina won the rapid and blitz segments (respectively) of the WR Women's Chess Tour - Americas 2026 on Wednesday and Thursday. Along with the $7,000 first prize, they both qualify for the Grand Final in Stuttgart, Ger..."
-    },
-    {
-      "title": "Firouzja Extends Lead As Gukesh Hits Back",
-      "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-2",
-      "source": "Chess.com",
-      "date": "2026-07-02T21:11:00.000Z",
-      "summary": "GM Alireza Firouzja has opened up a three-point lead after beating key rivals GMs Vincent Keymer and Praggnanandhaa Rameshbabu with the black pieces on day two of the 2026 Super Rapid & Blitz Croatia. GM Bogdan-Daniel Deac began in style with ..."
-    },
-    {
-      "title": "Unlock Exclusive Boards, Piece Sets, And Flairs With The New Monthly Bot Challenges",
-      "link": "https://www.chess.com/news/view/announcing-monthly-bot-challenges",
-      "source": "Chess.com",
-      "date": "2026-07-02T15:00:00.000Z",
-      "summary": "Playing against bots just got more fun! You now earn points every time you play against the monthly bots. Earn enough points to unlock exclusive chessboards, piece sets, and flairs that will last forever in your account! But hurry, because once th..."
     },
     {
       "title": "Lichess Game of the Month: May '26",
