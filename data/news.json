@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T17:53:09.203Z",
+  "updated": "2026-07-18T18:56:39.115Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Arjun Beats Niemann To Put Pressure On Firouzja",
+      "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-3",
+      "source": "Chess.com",
+      "date": "2026-07-18T18:37:38.000Z",
+      "summary": "GM Arjun Erigaisi became the first player other than GM Alireza Firouzja to win a game in the 2026 Quantbox Chennai Grand Masters after carefully defusing an inventive queen sacrifice by GM Hans Niemann. Firouzja leads by half a point after making..."
+    },
     {
       "title": "Biel Festival - Live!",
       "link": "https://en.chessbase.com/post/biel-festival-2026-live",
@@ -315,13 +322,6 @@
       "source": "Chess.com",
       "date": "2026-07-03T19:06:07.000Z",
       "summary": "A new documentary has been released on Prime Video that sheds light on the competitive race to secure the signing of GM Magnus Carlsen ahead of the Esports World Cup debut of chess, while the world number-one also shares the spotlight with Cristia..."
-    },
-    {
-      "title": "Lazavik, Murzin, Taher Outright Winners Of 3 0 Thursday Tournaments",
-      "link": "https://www.chess.com/news/view/lazavik-murzin-taher-3-0-thursday-07-03-2026",
-      "source": "Chess.com",
-      "date": "2026-07-03T14:06:31.000Z",
-      "summary": "There was no need for tiebreaks in any of the three 3 0 Thursday tournaments on July 2 as the three champions, GMs Denis Lazavik, Volodar Murzin, and IM Yoseph Taher, won outright. In the curtain-raiser, Lazavik beat GMs Magnus Carlsen and Jan-Kr..."
     },
     {
       "title": "Lichess Game of the Month: May '26",
