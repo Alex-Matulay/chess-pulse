@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T09:19:57.447Z",
+  "updated": "2026-07-18T10:58:22.764Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chennai Grand Masters - Live!",
+      "link": "https://en.chessbase.com/post/chennai-gms-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-18T11:30:00.000Z",
+      "summary": "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun E…"
+    },
+    {
+      "title": "Rapid Champions crowned at Asian Youth Chess Championships 2026",
+      "link": "https://www.fide.com/rapid-champions-crowned-at-asian-youth-chess-championships-2026/",
+      "source": "FIDE",
+      "date": "2026-07-18T10:08:30.000Z",
+      "summary": "The Rapid Chess Championship of the 28th Asian Youth Chess Championships concluded on July 16, 2026, at the COLI Hotel in Shenzhen, China. The event brought together nearly 900 young players from 30 Asian federations for a day of exciting and highly competi…"
+    },
     {
       "title": "Review: All new releases in June!",
       "link": "https://en.chessbase.com/post/review-all-new-releases-in-june-2",
@@ -168,13 +182,6 @@
       "source": "Chess.com",
       "date": "2026-07-12T04:12:00.000Z",
       "summary": "For the 12th time in 2026, GM Hikaru Nakamura triumphed in the Bullet Brawl arena after he won 50, drew eight, and lost 11 games on Saturday. With a score of 172 points, Nakamura finished 27 points clear of the second-placed GM Arjun Erigaisi, 30 ..."
-    },
-    {
-      "title": "Evgeny Romanov wins Montenegro Open – Mediterranean Championship",
-      "link": "https://www.fide.com/montenegro-open-mediterranean-championship-2026/",
-      "source": "FIDE",
-      "date": "2026-07-11T22:53:34.000Z",
-      "summary": "GM Evgeny Romanov (MKD) emerged victorious at the Montenegro Open – Mediterranean Championship, edging out GMs Nikita Petrov (MNE), Lorenzo Lodici (ITA), and the top-ranked female player, IM Olga Badelka (AUT), on tiebreaks. The Montenegro Open – Mediterran…"
     },
     {
       "title": "Sergei Tiviakov wins his fourth Netherlands Chess Championship - Final",
@@ -420,13 +427,6 @@
       "source": "Lichess",
       "date": "2026-06-04T07:07:15.965Z",
       "summary": "A very aggressive f5 in the Ruy Lopez"
-    },
-    {
-      "title": "Upcoming tournaments and events",
-      "link": "https://en.chessbase.com/post/upcoming-tournaments-and-events-2",
-      "source": "ChessBase",
-      "date": "2026-06-03T10:50:53.000Z",
-      "summary": "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we will bring you regular overviews of the most interesting of them. We do this in cooperation with MyChess.ev…"
     }
   ]
 }
