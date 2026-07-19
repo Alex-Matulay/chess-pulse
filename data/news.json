@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T16:53:18.095Z",
+  "updated": "2026-07-19T17:54:50.605Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Firouzja Keeps Lead As Abdusattorov-Gukesh Clash Ends In Draw",
+      "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-4",
+      "source": "Chess.com",
+      "date": "2026-07-19T17:32:09.000Z",
+      "summary": "GM Alireza Firouzja enters the second half of the 2026 Quantbox Chennai Grand Masters as the sole leader after a largely uneventful draw in round four against GM Hans Niemann. The remaining games were also drawn, with World Champion Gukesh Dommara..."
+    },
     {
       "title": "The Swiss amateur who beat Bobby Fischer turns 90: Happy birthday, Dieter Keller!",
       "link": "https://en.chessbase.com/post/the-swiss-amateur-who-beat-bobby-fischer-turns-90-happy-birthday-dieter-keller",
@@ -329,13 +336,6 @@
       "source": "Chess.com",
       "date": "2026-07-04T20:50:00.000Z",
       "summary": "GM Vladimir Kramnik has been banned from FIDE events and official chess-related roles for two years after the FIDE Ethics & Disciplinary Commission (EDC) found him guilty of bullying, harassment, and unfounded cheating accusations. Kramnik cal..."
-    },
-    {
-      "title": "Perfect Praggnanandhaa Catches Firouzja",
-      "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-3",
-      "source": "Chess.com",
-      "date": "2026-07-03T21:54:00.000Z",
-      "summary": "GM Praggnanandhaa Rameshbabu goes into the blitz section of the 2026 Super Rapid & Blitz Croatia as co-leader after winning all three games on day three&mdash;against GMs Ivan Saric, Bogdan-Daniel Deac, and Anish Giri&mdash;to catch GM Alireza..."
     },
     {
       "title": "Lichess Game of the Month: May '26",
