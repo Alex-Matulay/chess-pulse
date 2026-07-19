@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T02:13:26.812Z",
+  "updated": "2026-07-19T05:47:05.355Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "ChessBase´26 – Tips for beginners, part 23: Stay up to date with program updates",
+      "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-23-stay-up-to-date-with-program-updates",
+      "source": "ChessBase",
+      "date": "2026-07-19T07:00:00.000Z",
+      "summary": "Working with ChessBase´26 is so enjoyable because it builds on the experience of the developers from 18 previous versions. But you don’t have to wait for the next release — you’ll receive ongoing improvements directly to your computer through the free updat…"
+    },
+    {
+      "title": "Nakamura Wins Back-To-Back Bullet Brawl Following Late Surge",
+      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-18-2026",
+      "source": "Chess.com",
+      "date": "2026-07-19T04:10:58.000Z",
+      "summary": "Less than 48 hours after claiming that 3+0 is his \"best time control,\" GM Hikaru Nakamura outclassed an elite field to win his 62nd career Bullet Brawl title. Nakamura stayed within striking distance of the frequently changing leaders before surgi..."
+    },
     {
       "title": "Arjun Beats Niemann To Put Pressure On Firouzja",
       "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-3",
@@ -315,13 +329,6 @@
       "source": "Chess.com",
       "date": "2026-07-03T21:54:00.000Z",
       "summary": "GM Praggnanandhaa Rameshbabu goes into the blitz section of the 2026 Super Rapid & Blitz Croatia as co-leader after winning all three games on day three&mdash;against GMs Ivan Saric, Bogdan-Daniel Deac, and Anish Giri&mdash;to catch GM Alireza..."
-    },
-    {
-      "title": "Carlsen Features In Esports World Cup Documentary & Promo With Ronaldo",
-      "link": "https://www.chess.com/news/view/carlsen-prime-documentary-ronaldo-ewc-promo",
-      "source": "Chess.com",
-      "date": "2026-07-03T19:06:07.000Z",
-      "summary": "A new documentary has been released on Prime Video that sheds light on the competitive race to secure the signing of GM Magnus Carlsen ahead of the Esports World Cup debut of chess, while the world number-one also shares the spotlight with Cristia..."
     },
     {
       "title": "Lichess Game of the Month: May '26",
