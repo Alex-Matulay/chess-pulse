@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T08:09:09.826Z",
+  "updated": "2026-07-19T10:23:24.856Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chennai Grand Masters - Live!",
+      "link": "https://en.chessbase.com/post/chennai-gms-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-19T11:30:00.000Z",
+      "summary": "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun E…"
+    },
     {
       "title": "ChessBase´26 – Tips for beginners, part 23: Stay up to date with program updates",
       "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-23-stay-up-to-date-with-program-updates",
@@ -42,13 +49,6 @@
       "source": "FIDE",
       "date": "2026-07-18T12:45:04.000Z",
       "summary": "The European Chess Union (ECU) General Assembly 2026 is underway in Bucharest, Romania, bringing together delegates from across Europe to discuss the future of chess on the continent. The Assembly is being held at the headquarters of the Romanian Olympic an…"
-    },
-    {
-      "title": "Chennai Grand Masters - Live!",
-      "link": "https://en.chessbase.com/post/chennai-gms-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-18T11:30:00.000Z",
-      "summary": "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun E…"
     },
     {
       "title": "Rapid Champions crowned at Asian Youth Chess Championships 2026",
