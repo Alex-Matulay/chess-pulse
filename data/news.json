@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T12:13:54.231Z",
+  "updated": "2026-07-20T15:07:34.844Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Breaking News: Hungary's PM nominates Judit Polgar for presidency",
+      "link": "https://en.chessbase.com/post/hungary-s-pm-nominates-judit-polgar-for-presidency",
+      "source": "ChessBase",
+      "date": "2026-07-20T16:06:07.000Z",
+      "summary": "In an astonishing move, a day after Hungarian President Tamas Sulyok signed a ​constitutional amendment that ends ⁠his term as head of state, Prime Minister Peter Magyar announced on Sunday that he would ask Judit Polgar, the greatest female chess player of…"
+    },
     {
       "title": "The world celebrates International Chess Day 2026",
       "link": "https://www.fide.com/the-world-celebrates-international-chess-day-2026/",
@@ -35,13 +42,6 @@
       "source": "FIDE",
       "date": "2026-07-20T08:05:22.000Z",
       "summary": "The 4th cycle of the FIDE School Award is now complete. In total, 20 applicants qualified for an award. This award recognizes schools that prioritize chess as an educational tool to enhance learning and build community. For these schools, chess has a profou…"
-    },
-    {
-      "title": "Breaking News: Hungary's PM nominates Judit Polgar for presidency",
-      "link": "https://en.chessbase.com/post/hungary-s-pm-nominates-judit-polgar-for-presidency",
-      "source": "ChessBase",
-      "date": "2026-07-20T03:40:00.000Z",
-      "summary": "In an astonishing move, a day after Hungarian President Tamas Sulyok signed a ​constitutional amendment that ends ⁠his term as head of state, Prime Minister Peter Magyar announced on Sunday that he would ask Judit Polgar, the greatest female chess player of…"
     },
     {
       "title": "Firouzja Keeps Lead As Abdusattorov-Gukesh Clash Ends In Draw",
