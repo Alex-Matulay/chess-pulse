@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T19:43:04.927Z",
+  "updated": "2026-07-20T21:07:24.386Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,18 @@
   ],
   "items": [
     {
+      "title": "International Chess Day 2026",
+      "link": "https://en.chessbase.com/post/international-chess-day-2026",
+      "source": "ChessBase",
+      "date": "2026-07-20T22:45:00.000Z",
+      "summary": "Did you know that today is the International Chess Day - which marks the founding of FIDE in 1924. Every year on July 20, the global chess community comes together to celebrate International Chess Day, by staging a game in the most unusual, meaningful or sy…"
+    },
+    {
       "title": "Judit Polgar, Tapped As Next President Of Hungary, Declines",
       "link": "https://www.chess.com/news/view/judit-polgar-declines-president-of-hungary",
       "source": "Chess.com",
-      "date": "2026-07-20T19:14:26.000Z",
-      "summary": "GM Judit Polgar, the greatest woman chess player in history, was invited to be Hungary's next president, a largely ceremonial position with a maximum of five years. On Sunday, Hungary's new Prime Minister Peter Magyar announced on social media tha..."
+      "date": "2026-07-20T19:14:00.000Z",
+      "summary": "GM Judit Polgar, the greatest woman chess player in history, was invited to be Hungary's next president, a largely ceremonial position with a maximum term of five years. On Sunday, Hungary's new Prime Minister Peter Magyar announced on social medi..."
     },
     {
       "title": "Chess Joins Junior Olympics As AAU Adds Chess Program",
@@ -40,7 +47,7 @@
       "title": "Arjun Stuns Gukesh As Abdusattorov Also Joins Fight For 1st",
       "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-5",
       "source": "Chess.com",
-      "date": "2026-07-20T15:29:52.000Z",
+      "date": "2026-07-20T15:29:00.000Z",
       "summary": "GM Arjun Erigaisi has beaten World Champion Gukesh Dommaraju to catch GM Alireza Firouzja in the lead with two rounds of the 2026 Quantbox Chennai Grand Masters to go. Gukesh sprang an opening surprise and gained a winning position, but lost his w..."
     },
     {
@@ -434,13 +441,6 @@
       "source": "ChessBase",
       "date": "2026-06-08T07:32:34.000Z",
       "summary": "It isn't easy to weave Sotheby’s, Queen Isabella of Spain, Fischer-Spassky 1972, Michael Caine and a vigilante killer into the same article. But that is exactly what John Henderson does, in this piece that appears in the June issue of CHESS magazine. He tel…"
-    },
-    {
-      "title": "26th European Women's Championship 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/26th-european-womens-championship-2026",
-      "source": "The Week in Chess",
-      "date": "2026-06-05T20:17:00.000Z",
-      "summary": "The 26th European Women's Championship took place Mon 25th May to Friday 5th Jun 2026. Anastasiia Hnatyshyn took clear first place with 9/11 half a point clear of Sabrina Vega Gutierrez, Olga Badelka and Nurgyul Salimova."
     }
   ]
 }
