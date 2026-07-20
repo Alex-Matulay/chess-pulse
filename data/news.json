@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T15:07:34.844Z",
+  "updated": "2026-07-20T17:56:47.094Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,32 @@
   ],
   "items": [
     {
+      "title": "Chess Joins Junior Olympics As AAU Adds Chess Program",
+      "link": "https://www.chess.com/news/view/chess-joins-junior-olympics-as-aau-adds-chess-program",
+      "source": "Chess.com",
+      "date": "2026-07-20T17:32:31.000Z",
+      "summary": "Chess will soon be coming to the Junior Olympic Games. The Amateur Athletic Union (AAU) has announced that it will add chess as its latest competition, joining established programs covering dozens of sports. Matt Thomas, the first American chessbo..."
+    },
+    {
+      "title": "“What is the real magic of social chess?” FIDE panel shares stories of change",
+      "link": "https://www.fide.com/what-is-the-real-magic-of-social-chess-fide-panel-shares-stories-of-change/",
+      "source": "FIDE",
+      "date": "2026-07-20T16:16:52.000Z",
+      "summary": "On 20 July, International Chess Day and the anniversary of FIDE’s founding in Paris in 1924, the FIDE Social Commission marked the occasion with Chess as Social Value, an online panel discussion bringing together the people behind FIDE’s flagship social pro…"
+    },
+    {
       "title": "Breaking News: Hungary's PM nominates Judit Polgar for presidency",
       "link": "https://en.chessbase.com/post/hungary-s-pm-nominates-judit-polgar-for-presidency",
       "source": "ChessBase",
       "date": "2026-07-20T16:06:07.000Z",
       "summary": "In an astonishing move, a day after Hungarian President Tamas Sulyok signed a ​constitutional amendment that ends ⁠his term as head of state, Prime Minister Peter Magyar announced on Sunday that he would ask Judit Polgar, the greatest female chess player of…"
+    },
+    {
+      "title": "Arjun Stuns Gukesh As Abdusattorov Also Joins Fight For 1st",
+      "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-5",
+      "source": "Chess.com",
+      "date": "2026-07-20T15:29:52.000Z",
+      "summary": "GM Arjun Erigaisi has beaten World Champion Gukesh Dommaraju to catch GM Alireza Firouzja in the lead with two rounds of the 2026 Quantbox Chennai Grand Masters to go. Gukesh sprang an opening surprise and gained a winning position, but lost his w..."
     },
     {
       "title": "The world celebrates International Chess Day 2026",
@@ -56,13 +77,6 @@
       "source": "ChessBase",
       "date": "2026-07-19T16:00:00.000Z",
       "summary": "Today, Dr Dieter Keller of Zurich celebrates his 90th birthday. Heartfelt congratulations to the International Master, who defeated several of the leading players of his time, most notably Bobby Fischer, Efim Geller, Bent Larsen and Oscar Panno. Eduard Frey…"
-    },
-    {
-      "title": "Biel Festival - Live!",
-      "link": "https://en.chessbase.com/post/biel-festival-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-19T13:50:00.000Z",
-      "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the class…"
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 23: Stay up to date with program updates",
@@ -219,13 +233,6 @@
       "summary": "In this episode of The Underdog, Robert Ris presents a spectacular upset from the Asian Esports Chess Cup, where a young Thai player (Pakornnarong Liukasemsarn) defeats super-GM Andrey Esipenko despite an enormous rating gap. In a sharp Italian Game with op…"
     },
     {
-      "title": "FIDE Council approves new format for 2027 World Cup and Women’s World Cup",
-      "link": "https://www.fide.com/fide-council-approves-new-format-for-2027-world-cup-and-womens-world-cup/",
-      "source": "FIDE",
-      "date": "2026-07-13T15:02:28.000Z",
-      "summary": "The FIDE Council has approved a series of significant changes to the format of the 2027 FIDE World Cup and the 2027 FIDE Women’s World Cup, following recommendations from the Global Strategy Commission. They aim to make the competitions more inclusive, impr…"
-    },
-    {
       "title": "Nakamura Wins 50 Games En Route To 12th Title In 2026",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-11-2026",
       "source": "Chess.com",
@@ -336,20 +343,6 @@
       "source": "Chess.com",
       "date": "2026-07-05T02:32:00.000Z",
       "summary": "GM Arjun Erigaisi was crowned the winner of Saturday's Bullet Brawl&nbsp;after hawking down GM Jose Martinez in the final 10 minutes of the arena. Chasing his first title since 2024, Martinez scored 161 points, almost getting the job done, but it ..."
-    },
-    {
-      "title": "Firouzja Scores 8/9 To Storm Into 3-Point Lead In Croatia",
-      "link": "https://www.chess.com/news/view/2026-super-rapid-blitz-croatia-day-4",
-      "source": "Chess.com",
-      "date": "2026-07-04T22:40:00.000Z",
-      "summary": "French GM Alireza Firouzja heads into the final day of the 2026 Super Rapid & Blitz Croatia with a three-point lead over GMs Nodirbek Abdusattorov and Maxime Vachier-Lagrave after scoring a stunning 8/9 on the first day of blitz. GM Praggnanan..."
-    },
-    {
-      "title": "FIDE Bans Former World Champion Vladimir Kramnik For 2 Years",
-      "link": "https://www.chess.com/news/view/fide-bans-kramnik-for-two-years",
-      "source": "Chess.com",
-      "date": "2026-07-04T20:50:00.000Z",
-      "summary": "GM Vladimir Kramnik has been banned from FIDE events and official chess-related roles for two years after the FIDE Ethics & Disciplinary Commission (EDC) found him guilty of bullying, harassment, and unfounded cheating accusations. Kramnik cal..."
     },
     {
       "title": "Lichess Game of the Month: May '26",
