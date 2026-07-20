@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T17:56:47.094Z",
+  "updated": "2026-07-20T19:43:04.927Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Judit Polgar, Tapped As Next President Of Hungary, Declines",
+      "link": "https://www.chess.com/news/view/judit-polgar-declines-president-of-hungary",
+      "source": "Chess.com",
+      "date": "2026-07-20T19:14:26.000Z",
+      "summary": "GM Judit Polgar, the greatest woman chess player in history, was invited to be Hungary's next president, a largely ceremonial position with a maximum of five years. On Sunday, Hungary's new Prime Minister Peter Magyar announced on social media tha..."
+    },
     {
       "title": "Chess Joins Junior Olympics As AAU Adds Chess Program",
       "link": "https://www.chess.com/news/view/chess-joins-junior-olympics-as-aau-adds-chess-program",
@@ -336,13 +343,6 @@
       "source": "Chess.com",
       "date": "2026-07-05T18:55:00.000Z",
       "summary": "GM Alireza Firouzja has won the 2026 Super Rapid & Blitz Croatia after beating GM Nodirbek Abdusattorov in a nerve-wracking armageddon game. Such a finale looked unlikely when Firouzja started the day with a three-point lead after scoring 8/9 ..."
-    },
-    {
-      "title": "Arjun Hawks Down Martinez In Late Surge",
-      "link": "https://www.chess.com/news/view/arjun-erigaisi-wins-bullet-brawl-july-4-2026",
-      "source": "Chess.com",
-      "date": "2026-07-05T02:32:00.000Z",
-      "summary": "GM Arjun Erigaisi was crowned the winner of Saturday's Bullet Brawl&nbsp;after hawking down GM Jose Martinez in the final 10 minutes of the arena. Chasing his first title since 2024, Martinez scored 161 points, almost getting the job done, but it ..."
     },
     {
       "title": "Lichess Game of the Month: May '26",
