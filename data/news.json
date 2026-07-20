@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T06:13:05.424Z",
+  "updated": "2026-07-20T09:55:41.770Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chennai Grand Masters - Live!",
+      "link": "https://en.chessbase.com/post/chennai-gms-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-20T11:30:00.000Z",
+      "summary": "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun E…"
+    },
+    {
+      "title": "Chennai GMs: Firouzja leads, Erigaisi in sole second place",
+      "link": "https://en.chessbase.com/post/chennai-gms-2026-4",
+      "source": "ChessBase",
+      "date": "2026-07-20T09:45:00.000Z",
+      "summary": "Arjun Erigaisi moved into sole second place at the Quantbox Chennai Grand Masters after scoring the only win across rounds three and four. His victory over Hans Niemann left him half a point behind leader Alireza Firouzja (pictured), who has 3/4. All four g…"
+    },
+    {
+      "title": "FIDE School Awards 2026: 20 schools recognized for educational excellence",
+      "link": "https://www.fide.com/fide-school-awards-2026-20-schools-recognized-for-educational-excellence/",
+      "source": "FIDE",
+      "date": "2026-07-20T08:05:22.000Z",
+      "summary": "The 4th cycle of the FIDE School Award is now complete. In total, 20 applicants qualified for an award. This award recognizes schools that prioritize chess as an educational tool to enhance learning and build community. For these schools, chess has a profou…"
+    },
     {
       "title": "Breaking News: Hungary's PM nominates Judit Polgar for presidency",
       "link": "https://en.chessbase.com/post/hungary-s-pm-nominates-judit-polgar-for-presidency",
@@ -35,13 +56,6 @@
       "source": "ChessBase",
       "date": "2026-07-19T13:50:00.000Z",
       "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the first segment of the class…"
-    },
-    {
-      "title": "Chennai Grand Masters - Live!",
-      "link": "https://en.chessbase.com/post/chennai-gms-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-19T11:30:00.000Z",
-      "summary": "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun E…"
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 23: Stay up to date with program updates",
@@ -210,13 +224,6 @@
       "source": "FIDE",
       "date": "2026-07-13T11:21:54.000Z",
       "summary": "GM Daniel Dardha and WIM Hanne Goossens are newly crowned Belgian Chess Champions, claiming their fourth and fifth national titles, respectively. The 2026 edition of the Belgian Chess Championships was held from July 4-12 at the Xaverius College in Borgerho…"
-    },
-    {
-      "title": "2026 Dutch Championships: Sergey Tiviakov and Machteld van Foreest claim titles",
-      "link": "https://www.fide.com/2026-dutch-championships-sergey-tiviakov-and-machteld-van-foreest-claim-titles/",
-      "source": "FIDE",
-      "date": "2026-07-12T14:18:49.000Z",
-      "summary": "Machteld van Foreest and Sergey Tiviakov, both residents of Groningen, emerged as the new Dutch champions. Van Foreest successfully defended her title and won her third overall, while for Tiviakov, it was his fourth national crown. The 2026 Dutch Chess Cham…"
     },
     {
       "title": "Nakamura Wins 50 Games En Route To 12th Title In 2026",
