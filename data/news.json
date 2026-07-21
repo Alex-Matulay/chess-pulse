@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T15:40:00.801Z",
+  "updated": "2026-07-21T17:12:40.448Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "ChessBase Summer-Special! - Part 3",
+      "link": "https://en.chessbase.com/post/chessbase-summer-special-3",
+      "source": "ChessBase",
+      "date": "2026-07-21T19:00:00.000Z",
+      "summary": "Dear chess friends! We’ve got another double offer for you today: this week (until July 26th, 2026), you can get over 25% off all Fritztrainer courses by Elisabeth Paehtz and all Fritztrainer courses by Fabien Libiszewski!"
+    },
+    {
+      "title": "Next week: USA v. Uzbekistan rapid and blitz match in Miami Beach",
+      "link": "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-preview",
+      "source": "ChessBase",
+      "date": "2026-07-21T18:00:00.000Z",
+      "summary": "WR Chess will stage a USA v. Uzbekistan team event at Faena Miami Beach on 27–28 July, bringing together ten leading grandmasters in a rapid and blitz Scheveningen format. Hikaru Nakamura, Fabiano Caruana, Wesley So and Levon Aronian will represent Team USA…"
+    },
     {
       "title": "FIDE Council lifts restrictions on the Belarus Chess Federation",
       "link": "https://www.fide.com/fide-council-lifts-restrictions-on-the-belarus-chess-federation/",
