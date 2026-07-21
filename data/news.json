@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T19:13:33.058Z",
+  "updated": "2026-07-21T21:02:56.663Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Firouzja Leads Before Final Round As Arjun, Gukesh Beaten",
+      "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-6",
+      "source": "Chess.com",
+      "date": "2026-07-21T20:00:48.000Z",
+      "summary": "GM Alireza Firouzja goes into the final round of the 2026 Quantbox Chennai Grand Masters with a half-point lead after making a draw against GM Nodirbek Abdusattorov while his co-leader GM Arjun Erigaisi lost to GM Nihal Sarin. The other big story ..."
+    },
     {
       "title": "ChessBase Summer-Special! - Part 3",
       "link": "https://en.chessbase.com/post/chessbase-summer-special-3",
@@ -315,13 +322,6 @@
       "source": "Chess.com",
       "date": "2026-07-06T22:08:57.000Z",
       "summary": "Top grandmasters, content creators, and fans from around the world came to Charlotte from July 3-5 to honor the legacy of the late GM Daniel Naroditsky. The next world championship challenger, GM Javokhir Sindarov, won both the rapid and blitz tou..."
-    },
-    {
-      "title": "Ju Wenjun, Anna Muzychuk Advance To Quarterfinals",
-      "link": "https://www.chess.com/news/view/2026-wscc-ro16-ju-le-vaishali-muzychuk",
-      "source": "Chess.com",
-      "date": "2026-07-06T19:55:00.000Z",
-      "summary": "Women's World Champion Ju Wenjun and two-time Women's Blitz World Champion Anna Muzychuk advanced to the Quarterfinals of the 2026 Women's Speed Chess Championship on Monday. Ju handily defeated IM Le Thao Nguyen Pham 9.5-4.5, while Muzychuk went ..."
     },
     {
       "title": "Titled Arenas Announcement — July to September 2026",
