@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T13:28:48.799Z",
+  "updated": "2026-07-21T15:40:00.801Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE Council lifts restrictions on the Belarus Chess Federation",
+      "link": "https://www.fide.com/fide-council-lifts-restrictions-on-the-belarus-chess-federation/",
+      "source": "FIDE",
+      "date": "2026-07-21T14:11:14.000Z",
+      "summary": "The FIDE Council has resolved to lift all existing restrictions previously imposed on the Belarus Chess Federation, effective immediately. The decision follows the recommendation of the Executive Board of the International Olympic Committee (IOC), adopted a…"
+    },
     {
       "title": "Biel Festival - Live!",
       "link": "https://en.chessbase.com/post/biel-festival-2026-live",
@@ -42,27 +49,6 @@
       "source": "FIDE",
       "date": "2026-07-21T09:28:32.000Z",
       "summary": "A new era in elite chess begins this November as Budapest hosts the official pilot of the FIDE-approved Total Chess World Championship Tour, a ground-breaking global championship created by Norway Chess that aims to redefine how the world’s best players com…"
-    },
-    {
-      "title": "Chennai GMs: Erigaisi takes down Gukesh, joins Firouzja in the lead",
-      "link": "https://en.chessbase.com/post/chennai-gms-2026-5",
-      "source": "ChessBase",
-      "date": "2026-07-21T08:00:00.000Z",
-      "summary": "Arjun Erigaisi defeated world champion Gukesh Dommaraju with black to join Alireza Firouzja in the lead with two rounds remaining at the Quantbox Chennai Grand Masters. Nodirbek Abdusattorov also won with the black pieces, beating Nihal Sarin to move within…"
-    },
-    {
-      "title": "International Chess Day 2026",
-      "link": "https://en.chessbase.com/post/international-chess-day-2026",
-      "source": "ChessBase",
-      "date": "2026-07-20T22:45:00.000Z",
-      "summary": "Did you know that today is the International Chess Day, which commemorates the founding of FIDE in 1924. Every year on July 20, the global chess community comes together to celebrate International Chess Day, by staging a game in the most unusual, meaningful…"
-    },
-    {
-      "title": "Hungary's PM nominates Judit Polgar for presidency (Update: Polgar declines)",
-      "link": "https://en.chessbase.com/post/hungary-s-pm-nominates-judit-polgar-for-presidency",
-      "source": "ChessBase",
-      "date": "2026-07-20T22:40:00.000Z",
-      "summary": "In an astonishing move, a day after Hungarian President Tamas Sulyok signed a ​constitutional amendment that ends ⁠his term as head of state, Prime Minister Peter Magyar announced on Sunday that he would ask Judit Polgar, the greatest female chess player of…"
     },
     {
       "title": "Judit Polgar, Tapped As Next President Of Hungary, Declines",
@@ -210,13 +196,6 @@
       "source": "FIDE",
       "date": "2026-07-14T10:01:46.000Z",
       "summary": "The FIDE Council has approved qualification paths for the FIDE Candidates Tournament 2028 and the FIDE Women’s Candidates Tournament 2028, following proposals developed by the Global Strategy Commission. The regulations introduce new qualification opportuni…"
-    },
-    {
-      "title": "In Memoriam: Oleg Skvortsov (1969–2026)",
-      "link": "https://www.fide.com/in-memoriam-oleg-skvortsov-1969-2026/",
-      "source": "FIDE",
-      "date": "2026-07-14T08:26:00.000Z",
-      "summary": "It is with great sadness that we have learned of the passing of Oleg Skvortsov, a passionate chess enthusiast, long-time philanthropist, and tournament organizer. He was 57. Born in Moscow in 1969, Skvortsov played chess during his school years, reaching th…"
     },
     {
       "title": "Hou Yifan Beats Wagner, Avramidou Upsets Shuvalova",
