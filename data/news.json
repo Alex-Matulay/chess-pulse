@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T05:45:47.576Z",
+  "updated": "2026-07-21T08:19:57.465Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Svitlana's Smart Moves - Most underrated World Champion",
+      "link": "https://en.chessbase.com/post/svitlana-s-smart-moves-most-underrated-world-champion",
+      "source": "ChessBase",
+      "date": "2026-07-21T10:05:00.000Z",
+      "summary": "Svitlana looks at Max Euwe, one of the most underrated world champions in chess history. Through one attacking game and one defensive game, she shows that Euwe was not just a logical and balanced player, but also capable of finding powerful sacrifices, acti…"
+    },
+    {
+      "title": "ChessBase tips for beginners - Standard Layout or Custom Layout (10)",
+      "link": "https://en.chessbase.com/post/chessbase-tips-for-beginners-standard-layout-or-custom-layout-10",
+      "source": "ChessBase",
+      "date": "2026-07-21T10:00:00.000Z",
+      "summary": "In this episode of ChessBase Tips for Beginners, we look at layout customization and show how to arrange the panes in the single game window to create a more comfortable workspace. You will learn how to use predefined layouts, resize and dock panes, save yo…"
+    },
+    {
+      "title": "Chennai GMs: Erigaisi takes down Gukesh, joins Firouzja in the lead",
+      "link": "https://en.chessbase.com/post/chennai-gms-2026-5",
+      "source": "ChessBase",
+      "date": "2026-07-21T08:00:00.000Z",
+      "summary": "Arjun Erigaisi defeated world champion Gukesh Dommaraju with black to join Alireza Firouzja in the lead with two rounds remaining at the Quantbox Chennai Grand Masters. Nodirbek Abdusattorov also won with the black pieces, beating Nihal Sarin to move within…"
+    },
     {
       "title": "International Chess Day 2026",
       "link": "https://en.chessbase.com/post/international-chess-day-2026",
@@ -56,13 +77,6 @@
       "source": "FIDE",
       "date": "2026-07-20T11:46:25.000Z",
       "summary": "Every year on July 20, the global chess community comes together to celebrate International Chess Day, marking the founding of FIDE in 1924. More than a commemoration of the game’s history, the day is a celebration of chess’s unique ability to connect peopl…"
-    },
-    {
-      "title": "Chennai Grand Masters - Live!",
-      "link": "https://en.chessbase.com/post/chennai-gms-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-20T11:30:00.000Z",
-      "summary": "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun E…"
     },
     {
       "title": "FIDE School Awards 2026: 20 schools recognized for educational excellence",
