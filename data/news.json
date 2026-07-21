@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T08:19:57.465Z",
+  "updated": "2026-07-21T11:04:19.640Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chennai Grand Masters - Live!",
+      "link": "https://en.chessbase.com/post/chennai-gms-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-21T11:30:00.000Z",
+      "summary": "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun E…"
+    },
     {
       "title": "Svitlana's Smart Moves - Most underrated World Champion",
       "link": "https://en.chessbase.com/post/svitlana-s-smart-moves-most-underrated-world-champion",
@@ -21,6 +28,13 @@
       "source": "ChessBase",
       "date": "2026-07-21T10:00:00.000Z",
       "summary": "In this episode of ChessBase Tips for Beginners, we look at layout customization and show how to arrange the panes in the single game window to create a more comfortable workspace. You will learn how to use predefined layouts, resize and dock panes, save yo…"
+    },
+    {
+      "title": "Where chess history meets its future: Budapest to launch a new era in chess with Total Chess World Championship Tour Pilot",
+      "link": "https://www.fide.com/where-chess-history-meets-its-future-budapest-to-launch-a-new-era-in-chess-with-total-chess-world-championship-tour-pilot/",
+      "source": "FIDE",
+      "date": "2026-07-21T09:28:32.000Z",
+      "summary": "A new era in elite chess begins this November as Budapest hosts the official pilot of the FIDE-approved Total Chess World Championship Tour, a ground-breaking global championship created by Norway Chess that aims to redefine how the world’s best players com…"
     },
     {
       "title": "Chennai GMs: Erigaisi takes down Gukesh, joins Firouzja in the lead",
@@ -210,13 +224,6 @@
       "source": "Chess.com",
       "date": "2026-07-13T19:37:00.000Z",
       "summary": "The International Chess Federation has announced a big shake-up in the format for the 2027 FIDE World Cup and Women's World Cup. Instead of huge 206 and 107-player knockouts, the last stage will now involve only the final 16 players in each event,..."
-    },
-    {
-      "title": "Serbia Open officially starts in Belgrade",
-      "link": "https://www.fide.com/serbia-open-officially-starts-in-belgrade/",
-      "source": "FIDE",
-      "date": "2026-07-13T19:29:18.000Z",
-      "summary": "The Serbia Open 2026 was officially declared open today at the Metropol Palace Hotel in Belgrade, marking the beginning of one of Europe’s most established and internationally diverse summer chess festivals. Organized by the Chess Federation of Serbia under…"
     },
     {
       "title": "The 1858-Rated Kid Who Beat a Super-GM - The Underdog",
