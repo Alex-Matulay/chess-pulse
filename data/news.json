@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T11:04:44.721Z",
+  "updated": "2026-07-22T13:41:05.481Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Biel Festival - Live!",
+      "link": "https://en.chessbase.com/post/biel-festival-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-22T13:50:00.000Z",
+      "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classic…"
+    },
+    {
+      "title": "Firouzja Wins 2026 Chennai Grand Masters, Andreikin Snatches 2nd",
+      "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-7",
+      "source": "Chess.com",
+      "date": "2026-07-22T12:57:37.000Z",
+      "summary": "GM Alireza Firouzja has taken clear first place in the 2026 Quantbox Chennai Grand Masters after making a draw with GM Arjun Erigaisi in the final round. GM Nodirbek Abdusattorov could have forced a playoff with a win, but instead he overpressed a..."
+    },
     {
       "title": "Budapest to launch Total Chess",
       "link": "https://en.chessbase.com/post/budapest-to-launch-total-chess",
@@ -56,13 +70,6 @@
       "source": "FIDE",
       "date": "2026-07-21T14:11:14.000Z",
       "summary": "The FIDE Council has resolved to lift all existing restrictions previously imposed on the Belarus Chess Federation, effective immediately. The decision follows the recommendation of the Executive Board of the International Olympic Committee (IOC), adopted a…"
-    },
-    {
-      "title": "Biel Festival - Live!",
-      "link": "https://en.chessbase.com/post/biel-festival-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-21T13:50:00.000Z",
-      "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classic…"
     },
     {
       "title": "Chennai Grand Masters - Live!",
@@ -329,13 +336,6 @@
       "source": "Chess.com",
       "date": "2026-07-07T18:31:56.000Z",
       "summary": "GM Benjamin Bok has qualified for the 2026 Esports World Cup&nbsp;after defeating GM Vidit Gujrathi in the 2026 India Rising Finals in Mumbai on July 4. The match reached the maximum number of possible games, with all three sets going to armageddo..."
-    },
-    {
-      "title": "Sindarov Sweeps Tournaments As Chess World Honors Daniel Naroditsky",
-      "link": "https://www.chess.com/news/view/sindarov-wins-2026-naroditsky-memorial-rapid-blitz",
-      "source": "Chess.com",
-      "date": "2026-07-06T22:08:57.000Z",
-      "summary": "Top grandmasters, content creators, and fans from around the world came to Charlotte from July 3-5 to honor the legacy of the late GM Daniel Naroditsky. The next world championship challenger, GM Javokhir Sindarov, won both the rapid and blitz tou..."
     },
     {
       "title": "Titled Arenas Announcement — July to September 2026",
