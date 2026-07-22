@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T13:41:05.481Z",
+  "updated": "2026-07-22T15:29:19.642Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Quantbox Chennai Grand Masters 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/quantbox-chennai-grand-masters-2026",
+      "source": "The Week in Chess",
+      "date": "2026-07-22T14:55:00.000Z",
+      "summary": "The Quantbox Chennai Grand Masters took place Thu 16th Jul to Wed 22nd Jul 2026. Alireza Firouzja took clear first place with 4½/7 half a point clear of Dmitry Andreikin and Arjun Erigaisi, The poor form of World Champion Gukesh continues as he finished dea…"
+    },
     {
       "title": "Biel Festival - Live!",
       "link": "https://en.chessbase.com/post/biel-festival-2026-live",
@@ -21,6 +28,13 @@
       "source": "Chess.com",
       "date": "2026-07-22T12:57:37.000Z",
       "summary": "GM Alireza Firouzja has taken clear first place in the 2026 Quantbox Chennai Grand Masters after making a draw with GM Arjun Erigaisi in the final round. GM Nodirbek Abdusattorov could have forced a playoff with a win, but instead he overpressed a..."
+    },
+    {
+      "title": "Chennai Grand Masters - Live!",
+      "link": "https://en.chessbase.com/post/chennai-gms-2026-live",
+      "source": "ChessBase",
+      "date": "2026-07-22T10:30:00.000Z",
+      "summary": "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun E…"
     },
     {
       "title": "Budapest to launch Total Chess",
@@ -70,13 +84,6 @@
       "source": "FIDE",
       "date": "2026-07-21T14:11:14.000Z",
       "summary": "The FIDE Council has resolved to lift all existing restrictions previously imposed on the Belarus Chess Federation, effective immediately. The decision follows the recommendation of the Executive Board of the International Olympic Committee (IOC), adopted a…"
-    },
-    {
-      "title": "Chennai Grand Masters - Live!",
-      "link": "https://en.chessbase.com/post/chennai-gms-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-21T10:30:00.000Z",
-      "summary": "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun E…"
     },
     {
       "title": "Svitlana's Smart Moves - Most underrated World Champion",
