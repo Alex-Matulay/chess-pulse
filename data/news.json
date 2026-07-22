@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T05:44:51.119Z",
+  "updated": "2026-07-22T08:20:51.595Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Budapest to launch Total Chess",
+      "link": "https://en.chessbase.com/post/budapest-to-launch-total-chess",
+      "source": "ChessBase",
+      "date": "2026-07-22T09:00:00.000Z",
+      "summary": "A new era in elite chess begins this November as Budapest hosts the official pilot of the FIDE-approved Total Chess World Championship Tour, a ground-breaking global championship created by Norway Chess that aims to redefine how the world’s best players com…"
+    },
+    {
+      "title": "Chennai GMs: Nihal beats Erigaisi, Pranesh stuns Gukesh",
+      "link": "https://en.chessbase.com/post/chennai-gms-2026-6",
+      "source": "ChessBase",
+      "date": "2026-07-22T08:20:00.000Z",
+      "summary": "Alireza Firouzja has a half-point lead going into the final round of the Quantbox Chennai Grand Masters after drawing Nodirbek Abdusattorov, while former co-leader Arjun Erigaisi lost to Nihal Sarin. Meanwhile, Pranesh M scored his first win of the event by…"
+    },
     {
       "title": "Firouzja Leads Before Final Round As Arjun, Gukesh Beaten",
       "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-6",
@@ -54,7 +68,7 @@
       "title": "Chennai Grand Masters - Live!",
       "link": "https://en.chessbase.com/post/chennai-gms-2026-live",
       "source": "ChessBase",
-      "date": "2026-07-21T11:30:00.000Z",
+      "date": "2026-07-21T10:30:00.000Z",
       "summary": "The Quantbox Chennai Grand Masters is taking place on 16-22 July as an eight-player single round-robin with a classical time control. In its fourth edition, it brings together a field headed by world champion Gukesh Dommaraju, Nodirbek Abdusattorov, Arjun E…"
     },
     {
