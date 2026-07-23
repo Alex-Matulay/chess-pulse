@@ -1,12 +1,27 @@
 {
-  "updated": "2026-07-23T04:11:36.620Z",
+  "updated": "2026-07-23T07:29:05.300Z",
   "sources": [
     "Chess.com",
+    "Lichess",
     "ChessBase",
     "FIDE",
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Christian Gloeckler, 14, wins Biel Masters Open with a round to spare",
+      "link": "https://en.chessbase.com/post/biel-festival-2026-final-2",
+      "source": "ChessBase",
+      "date": "2026-07-23T08:30:00.000Z",
+      "summary": "Christian Gloeckler won the Masters Open Tournament at the Biel Chess Festival with a round to spare, scoring 8/9 and securing his first grandmaster norm with a 2689 performance rating. The 14-year-old German IM entered as the ninth seed and took the title…"
+    },
+    {
+      "title": "Judit Polgar turns 50: Celebrating a chess legend",
+      "link": "https://www.fide.com/judit-polgar-turns-50-celebrating-a-chess-legend/",
+      "source": "FIDE",
+      "date": "2026-07-23T07:13:40.000Z",
+      "summary": "Today, we celebrate a true icon, a revolutionary, and unequivocally the greatest female chess player of all time. For decades, Judit Polgar didn’t just compete at the highest levels of chess – she redefined what was thought possible. A prodigy from Budapest…"
+    },
     {
       "title": "Alireza Firouzja wins Chennai Grand Masters, rejoins world top ten",
       "link": "https://en.chessbase.com/post/chennai-gms-2026-7",
@@ -20,13 +35,6 @@
       "source": "The Week in Chess",
       "date": "2026-07-22T14:55:00.000Z",
       "summary": "The Quantbox Chennai Grand Masters took place Thu 16th Jul to Wed 22nd Jul 2026. Alireza Firouzja took clear first place with 4½/7 half a point clear of Dmitry Andreikin and Arjun Erigaisi, The poor form of World Champion Gukesh continues as he finished dea…"
-    },
-    {
-      "title": "Biel Festival - Live!",
-      "link": "https://en.chessbase.com/post/biel-festival-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-22T13:50:00.000Z",
-      "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classic…"
     },
     {
       "title": "Firouzja Wins 2026 Chennai Grand Masters, Andreikin Snatches 2nd",
@@ -218,13 +226,6 @@
       "summary": "All FIDE member federations are invited to participate in the World Senior Individual Chess Championships. The competitions will be held in Vrnjačka Banja, the largest spa resort in Serbia, from November 2 (arrival) to November 15 (departure), 2026. The Cha…"
     },
     {
-      "title": "FIDE Council approves qualification paths for 2028 Candidates Tournaments",
-      "link": "https://www.fide.com/fide-council-approves-qualification-paths-for-2028-candidates-tournaments/",
-      "source": "FIDE",
-      "date": "2026-07-14T10:01:46.000Z",
-      "summary": "The FIDE Council has approved qualification paths for the FIDE Candidates Tournament 2028 and the FIDE Women’s Candidates Tournament 2028, following proposals developed by the Global Strategy Commission. The regulations introduce new qualification opportuni…"
-    },
-    {
       "title": "Hou Yifan Beats Wagner, Avramidou Upsets Shuvalova",
       "link": "https://www.chess.com/news/view/2026-wscc-ro16-hou-wagner-shuvalova-avramidou",
       "source": "Chess.com",
@@ -316,11 +317,25 @@
       "summary": "GM Benjamin Bok has qualified for the 2026 Esports World Cup&nbsp;after defeating GM Vidit Gujrathi in the 2026 India Rising Finals in Mumbai on July 4. The match reached the maximum number of possible games, with all three sets going to armageddo..."
     },
     {
+      "title": "Titled Arenas Announcement — July to September 2026",
+      "link": "https://lichess.org/@/Lichess/blog/titled-arenas-announcement-july-to-september-2026/5oiZT9uR",
+      "source": "Lichess",
+      "date": "2026-07-06T07:21:34.301Z",
+      "summary": "Announcing our schedule for upcoming Titled Arenas!"
+    },
+    {
       "title": "GCT Super Rapid & Blitz Croatia 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
       "source": "The Week in Chess",
       "date": "2026-07-05T22:55:00.000Z",
       "summary": "The GCT Super Rapid & Blitz Croatia took place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel Dea…"
+    },
+    {
+      "title": "Lichess Game of the Month: May '26",
+      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-may-26/H3C1d56C",
+      "source": "Lichess",
+      "date": "2026-07-02T12:29:51.381Z",
+      "summary": "A stunning three queens game"
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
@@ -342,6 +357,27 @@
       "source": "ChessBase",
       "date": "2026-06-22T18:00:00.000Z",
       "summary": "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess – for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been s…"
+    },
+    {
+      "title": "FIDE World Team Blitz 2026: Dragon Chilling Clinches Double Title",
+      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-blitz-2026-dragon-chilling-clinches-double-title/NNCqdkrl",
+      "source": "Lichess",
+      "date": "2026-06-21T12:35:42.692Z",
+      "summary": "Dragon Chilling won the FIDE World Team Blitz Chess Championship 2026, defeating Endgame.AI in a dominant final and achieving a double gold. Uzbekistan took third after winning against Hexamind Chess Team."
+    },
+    {
+      "title": "FIDE World Team Rapid 2026: Dragon Chilling Rapid Champions, Rise Like a Phoenix",
+      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-rapid-2026-dragon-chilling-rapid-champions-rise-like-a-phoenix/AdnRMOKE",
+      "source": "Lichess",
+      "date": "2026-06-19T14:45:15.237Z",
+      "summary": "After a topsy-turvy third day, Dragon Chilling won the FIDE World Team Rapid Chess Championship 2026 on tiebreaks, edging out Team MGD1 and Hexamind Chess Team, who shared first with Dragon Chilling on matchpoints."
+    },
+    {
+      "title": "FIDE World Team Rapid & Blitz Chess Championships 2026 Preview",
+      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-rapid-blitz-chess-championships-2026-preview/9xeS0vyr",
+      "source": "Lichess",
+      "date": "2026-06-16T22:34:27.831Z",
+      "summary": "Five days of extremely exciting, world class speed chess!"
     },
     {
       "title": "Surprise victory for Mukhiddin Madaminov in the 3rd UzChess Cup - 9",
