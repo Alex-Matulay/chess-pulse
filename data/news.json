@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T07:29:05.300Z",
+  "updated": "2026-07-23T10:16:07.596Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Upcoming tournaments and events",
+      "link": "https://en.chessbase.com/post/upcoming-tournaments-and-events-3",
+      "source": "ChessBase",
+      "date": "2026-07-23T12:00:00.000Z",
+      "summary": "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overviews of the most interesting of them. We do this in cooperation with MyChess.events, a gl…"
+    },
+    {
+      "title": "Alireza Firouzja wins Quantbox Chennai Grand Masters 2026",
+      "link": "https://www.fide.com/alireza-firouzja-wins-quantbox-chennai-grand-masters-2026/",
+      "source": "FIDE",
+      "date": "2026-07-23T08:41:04.000Z",
+      "summary": "Alireza Firouzja emerged as the winner of the fourth edition of the Quantbox Chennai Grand Masters. The Iran-born Frenchman scored 4.5/7 and finished a half-point ahead of Dmitry Andreikin and Arjun Erigaisi. The fourth edition of the Quantbox Chennai Grand…"
+    },
     {
       "title": "Christian Gloeckler, 14, wins Biel Masters Open with a round to spare",
       "link": "https://en.chessbase.com/post/biel-festival-2026-final-2",
@@ -219,13 +233,6 @@
       "summary": "GM Parham Maghsoodloo, who won Titled Tuesday five times in 2025, got his first win of 2026 on July 14. His 10/11 score won outright over GM Praggnanandhaa Rameshbabu's 9.5/11, itself good enough for sole second. GM Hikaru Nakamura took third plac..."
     },
     {
-      "title": "FIDE World Senior Chess Championships 2026: Registration now open",
-      "link": "https://www.fide.com/fide-world-senior-chess-championships-2026-registration-now-open/",
-      "source": "FIDE",
-      "date": "2026-07-14T10:45:53.000Z",
-      "summary": "All FIDE member federations are invited to participate in the World Senior Individual Chess Championships. The competitions will be held in Vrnjačka Banja, the largest spa resort in Serbia, from November 2 (arrival) to November 15 (departure), 2026. The Cha…"
-    },
-    {
       "title": "Hou Yifan Beats Wagner, Avramidou Upsets Shuvalova",
       "link": "https://www.chess.com/news/view/2026-wscc-ro16-hou-wagner-shuvalova-avramidou",
       "source": "Chess.com",
@@ -413,13 +420,6 @@
       "source": "ChessBase",
       "date": "2026-06-10T17:00:00.000Z",
       "summary": "In the comments on Part 5 of the series, readers pointed out that this was not a “master game” (as stated on the Guinness page), since Arsović had an initial rating of 2200 (which by today’s standards may correspond to a rating of 1400), while Nikolić’s rat…"
-    },
-    {
-      "title": "Under the Hammer",
-      "link": "https://en.chessbase.com/post/under-the-hammer",
-      "source": "ChessBase",
-      "date": "2026-06-08T07:32:34.000Z",
-      "summary": "It isn't easy to weave Sotheby’s, Queen Isabella of Spain, Fischer-Spassky 1972, Michael Caine and a vigilante killer into the same article. But that is exactly what John Henderson does, in this piece that appears in the June issue of CHESS magazine. He tel…"
     }
   ]
 }
