@@ -1,8 +1,7 @@
 {
-  "updated": "2026-07-23T00:01:05.502Z",
+  "updated": "2026-07-23T04:11:36.620Z",
   "sources": [
     "Chess.com",
-    "Lichess",
     "ChessBase",
     "FIDE",
     "The Week in Chess"
@@ -37,20 +36,6 @@
       "summary": "GM Alireza Firouzja has taken clear first place in the 2026 Quantbox Chennai Grand Masters after making a draw with GM Arjun Erigaisi in the final round. GM Nodirbek Abdusattorov could have forced a playoff with a win, but instead he overpressed a..."
     },
     {
-      "title": "Budapest to launch Total Chess",
-      "link": "https://en.chessbase.com/post/budapest-to-launch-total-chess",
-      "source": "ChessBase",
-      "date": "2026-07-22T09:00:00.000Z",
-      "summary": "A new era in elite chess begins this November as Budapest hosts the official pilot of the FIDE-approved Total Chess World Championship Tour, a ground-breaking global championship created by Norway Chess that aims to redefine how the world’s best players com…"
-    },
-    {
-      "title": "Chennai GMs: Nihal beats Erigaisi, Pranesh stuns Gukesh",
-      "link": "https://en.chessbase.com/post/chennai-gms-2026-6",
-      "source": "ChessBase",
-      "date": "2026-07-22T08:20:00.000Z",
-      "summary": "Alireza Firouzja has a half-point lead going into the final round of the Quantbox Chennai Grand Masters after drawing Nodirbek Abdusattorov, while former co-leader Arjun Erigaisi lost to Nihal Sarin. Meanwhile, Pranesh M scored his first win of the event by…"
-    },
-    {
       "title": "Firouzja Leads Before Final Round As Arjun, Gukesh Beaten",
       "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-6",
       "source": "Chess.com",
@@ -58,25 +43,11 @@
       "summary": "GM Alireza Firouzja goes into the final round of the 2026 Quantbox Chennai Grand Masters with a half-point lead after making a draw against GM Nodirbek Abdusattorov while his co-leader GM Arjun Erigaisi lost to GM Nihal Sarin. The other big story ..."
     },
     {
-      "title": "ChessBase Summer-Special! - Part 3",
-      "link": "https://en.chessbase.com/post/chessbase-summer-special-3",
-      "source": "ChessBase",
-      "date": "2026-07-21T19:00:00.000Z",
-      "summary": "Dear chess friends! We’ve got another double offer for you today: this week (until July 26th, 2026), you can get over 25% off all Fritztrainer courses by Elisabeth Paehtz and all Fritztrainer courses by Fabien Libiszewski!"
-    },
-    {
       "title": "Vachier-Lagrave Scrapes By Caruana To Take Titled Tuesday",
       "link": "https://www.chess.com/news/view/vachier-lagrave-wins-titled-tuesday-july-21-2026",
       "source": "Chess.com",
       "date": "2026-07-21T18:58:38.000Z",
       "summary": "GM Maxime Vachier-Lagrave is your winner for Titled Tuesday on July 21, scoring 9.5/11 points and a big win over GM Fabiano Caruana in the seventh round that proved to be the difference between first and second place&mdash;Caruana also scored 9.5 ..."
-    },
-    {
-      "title": "Next week: USA v. Uzbekistan rapid and blitz match in Miami Beach",
-      "link": "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-preview",
-      "source": "ChessBase",
-      "date": "2026-07-21T18:00:00.000Z",
-      "summary": "WR Chess will stage a USA v. Uzbekistan team event at Faena Miami Beach on 27–28 July, bringing together ten leading grandmasters in a rapid and blitz Scheveningen format. Hikaru Nakamura, Fabiano Caruana, Wesley So and Levon Aronian will represent Team USA…"
     },
     {
       "title": "FIDE Council lifts restrictions on the Belarus Chess Federation",
@@ -345,25 +316,11 @@
       "summary": "GM Benjamin Bok has qualified for the 2026 Esports World Cup&nbsp;after defeating GM Vidit Gujrathi in the 2026 India Rising Finals in Mumbai on July 4. The match reached the maximum number of possible games, with all three sets going to armageddo..."
     },
     {
-      "title": "Titled Arenas Announcement — July to September 2026",
-      "link": "https://lichess.org/@/Lichess/blog/titled-arenas-announcement-july-to-september-2026/5oiZT9uR",
-      "source": "Lichess",
-      "date": "2026-07-06T07:21:34.301Z",
-      "summary": "Announcing our schedule for upcoming Titled Arenas!"
-    },
-    {
       "title": "GCT Super Rapid & Blitz Croatia 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
       "source": "The Week in Chess",
       "date": "2026-07-05T22:55:00.000Z",
       "summary": "The GCT Super Rapid & Blitz Croatia took place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel Dea…"
-    },
-    {
-      "title": "Lichess Game of the Month: May '26",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-may-26/H3C1d56C",
-      "source": "Lichess",
-      "date": "2026-07-02T12:29:51.381Z",
-      "summary": "A stunning three queens game"
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
@@ -385,27 +342,6 @@
       "source": "ChessBase",
       "date": "2026-06-22T18:00:00.000Z",
       "summary": "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess – for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been s…"
-    },
-    {
-      "title": "FIDE World Team Blitz 2026: Dragon Chilling Clinches Double Title",
-      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-blitz-2026-dragon-chilling-clinches-double-title/NNCqdkrl",
-      "source": "Lichess",
-      "date": "2026-06-21T12:35:42.692Z",
-      "summary": "Dragon Chilling won the FIDE World Team Blitz Chess Championship 2026, defeating Endgame.AI in a dominant final and achieving a double gold. Uzbekistan took third after winning against Hexamind Chess Team."
-    },
-    {
-      "title": "FIDE World Team Rapid 2026: Dragon Chilling Rapid Champions, Rise Like a Phoenix",
-      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-rapid-2026-dragon-chilling-rapid-champions-rise-like-a-phoenix/AdnRMOKE",
-      "source": "Lichess",
-      "date": "2026-06-19T14:45:15.237Z",
-      "summary": "After a topsy-turvy third day, Dragon Chilling won the FIDE World Team Rapid Chess Championship 2026 on tiebreaks, edging out Team MGD1 and Hexamind Chess Team, who shared first with Dragon Chilling on matchpoints."
-    },
-    {
-      "title": "FIDE World Team Rapid & Blitz Chess Championships 2026 Preview",
-      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-rapid-blitz-chess-championships-2026-preview/9xeS0vyr",
-      "source": "Lichess",
-      "date": "2026-06-16T22:34:27.831Z",
-      "summary": "Five days of extremely exciting, world class speed chess!"
     },
     {
       "title": "Surprise victory for Mukhiddin Madaminov in the 3rd UzChess Cup - 9",
