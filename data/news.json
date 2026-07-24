@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T18:15:19.076Z",
+  "updated": "2026-07-24T20:16:55.061Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Alice Lee Eliminates Women's World Champion With 6-Point Margin",
+      "link": "https://www.chess.com/news/view/2026-wscc-qf-ju-lee",
+      "source": "Chess.com",
+      "date": "2026-07-24T18:16:00.000Z",
+      "summary": "IM Alice Lee upset Women's World Champion and reigning WSCC Champion GM Ju Wenjun on Friday in the 2026 Women's Speed Chess Championship Quarterfinals. Lee dominated all three portions and won the match with a shockingly one-sided 9.5-3.5 score. ..."
+    },
     {
       "title": "Costa Rica to host the American Continental Stage of World Schools Team Championship 2026",
       "link": "https://www.fide.com/costa-rica-to-host-the-american-continental-stage-of-world-schools-team-championship-2026/",
@@ -322,13 +329,6 @@
       "source": "Chess.com",
       "date": "2026-07-10T20:45:45.000Z",
       "summary": "GM Arjun Erigaisi followed up his Titled Tuesday victory this week by winning the first 3 0 Thursday on July 9. GM Emin Ohanyan completed a come-from-behind victory in the second tournament of the day. At the end of the day, GM Volodar Murzin won ..."
-    },
-    {
-      "title": "Divya Wins 14-1 Vs. Atwell, Assaubayeva 10.5-3.5 Vs. Khamdamova",
-      "link": "https://www.chess.com/news/view/2026-wscc-ro16-divya-atwell-assaubayeva-khamdamova",
-      "source": "Chess.com",
-      "date": "2026-07-10T20:31:01.000Z",
-      "summary": "The favorites, GMs Divya Deshmukh and Bibisara Assaubayeva, advanced to the Quarterfinals of the 2026 Women's Speed Chess Championship on Friday. Between the two of them, the winners lost only a single game. Divya defeated IM Rose Atwell with an u..."
     },
     {
       "title": "KazChess Masters 2026 - Games and Results",
