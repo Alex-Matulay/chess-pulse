@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T02:32:03.322Z",
+  "updated": "2026-07-24T05:46:00.435Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Aronian and Finek convincingly win 2026 Triathlons in Biel",
+      "link": "https://en.chessbase.com/post/biel-festival-2026-final-3",
+      "source": "ChessBase",
+      "date": "2026-07-24T06:40:00.000Z",
+      "summary": "Levon Aronian won the 2026 Biel Masters Triathlon on his first appearance at the festival, drawing his final classical game against Aydin Suleymanli to finish on 29½ points. The US grandmaster built his victory on strong rapid and blitz results, while Suley…"
+    },
     {
       "title": "Chess for Freedom 2026 6th Intercontinental Chess Championship for Prisoners and Chess for Freedom Conference: Registration now open",
       "link": "https://www.fide.com/chess-for-freedom-2026-6th-intercontinental-chess-championship-for-prisoners-and-chess-for-freedom-conference-registration-now-open/",
@@ -21,13 +28,6 @@
       "source": "FIDE",
       "date": "2026-07-23T20:24:54.000Z",
       "summary": "Today, the EU decision to include my name in the 21st sanctions list was published. I want to state unequivocally that I consider this decision unlawful and unfair, and this decision will be immediately challenged by all possible means. I am confident that…"
-    },
-    {
-      "title": "ChessBase Summer-Special! - Part 3",
-      "link": "https://en.chessbase.com/post/chessbase-summer-special-3",
-      "source": "ChessBase",
-      "date": "2026-07-23T20:00:01.000Z",
-      "summary": "Dear chess friends! We’ve got another double offer for you today: this week (until July 26th, 2026), you can get over 25% off all Fritztrainer courses by Elisabeth Paehtz and all Fritztrainer courses by Fabien Libiszewski!"
     },
     {
       "title": "Review: Mastering the London System by Elisabeth Pähtz",
@@ -58,13 +58,6 @@
       "summary": "GM Anish Giri, the longtime top-10 chess player and instructional author, has signed with Basilisk Gaming (stylized BASILISK), the esports organization announced in a press release and on social media Thursday. Giri will begin representing Basilis..."
     },
     {
-      "title": "Upcoming tournaments and events",
-      "link": "https://en.chessbase.com/post/upcoming-tournaments-and-events-3",
-      "source": "ChessBase",
-      "date": "2026-07-23T12:00:00.000Z",
-      "summary": "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overviews of the most interesting of them. We do this in cooperation with MyChess.events, a gl…"
-    },
-    {
       "title": "Alireza Firouzja wins Quantbox Chennai Grand Masters 2026",
       "link": "https://www.fide.com/alireza-firouzja-wins-quantbox-chennai-grand-masters-2026/",
       "source": "FIDE",
@@ -72,25 +65,11 @@
       "summary": "Alireza Firouzja emerged as the winner of the fourth edition of the Quantbox Chennai Grand Masters. The Iran-born Frenchman scored 4.5/7 and finished a half-point ahead of Dmitry Andreikin and Arjun Erigaisi. The fourth edition of the Quantbox Chennai Grand…"
     },
     {
-      "title": "Christian Gloeckler, 14, wins Biel Masters Open with a round to spare",
-      "link": "https://en.chessbase.com/post/biel-festival-2026-final-2",
-      "source": "ChessBase",
-      "date": "2026-07-23T08:30:00.000Z",
-      "summary": "Christian Gloeckler won the Masters Open Tournament at the Biel Chess Festival with a round to spare, scoring 8/9 and securing his first grandmaster norm with a 2689 performance rating. The 14-year-old German IM entered as the ninth seed and took the title…"
-    },
-    {
       "title": "Judit Polgar turns 50: Celebrating a chess legend",
       "link": "https://www.fide.com/judit-polgar-turns-50-celebrating-a-chess-legend/",
       "source": "FIDE",
       "date": "2026-07-23T07:13:40.000Z",
       "summary": "Today, we celebrate a true icon, a revolutionary, and unequivocally the greatest female chess player of all time. For decades, Judit Polgar didn’t just compete at the highest levels of chess – she redefined what was thought possible. A prodigy from Budapest…"
-    },
-    {
-      "title": "Alireza Firouzja wins Chennai Grand Masters, rejoins world top ten",
-      "link": "https://en.chessbase.com/post/chennai-gms-2026-7",
-      "source": "ChessBase",
-      "date": "2026-07-22T22:40:00.000Z",
-      "summary": "Alireza Firouzja won the Quantbox Chennai Grand Masters outright with an unbeaten 4½/7 score, drawing Arjun Erigaisi in the final round to finish half a point clear. Erigaisi and Dmitry Andreikin shared second place, with Andreikin defeating Nodirbek Abdusa…"
     },
     {
       "title": "Quantbox Chennai Grand Masters 2026 - Games and Results",
