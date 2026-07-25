@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T03:19:47.385Z",
+  "updated": "2026-07-25T06:12:53.832Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Review: ChessBase Magazine #232",
+      "link": "https://en.chessbase.com/post/review-chessbase-magazine-232",
+      "source": "ChessBase",
+      "date": "2026-07-25T07:00:00.000Z",
+      "summary": "The latest issue of ChessBase Magazine, No. 232, is once again packed with training material covering a wide range of chess topics. In his review, Lukas Köpl takes a closer look at the magazine's contents, with a particular focus on Jan Markos' article with…"
+    },
     {
       "title": "Michal Krasenkow: \"If you want a GM norm, beat a GM\"",
       "link": "https://en.chessbase.com/post/michal-krasenkow-interview-2026-chola-tournament",
