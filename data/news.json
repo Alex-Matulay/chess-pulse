@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T16:07:08.294Z",
+  "updated": "2026-07-25T17:55:03.629Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Bobby Fischer's first front-page appearance, 70 years on",
+      "link": "https://en.chessbase.com/post/bobby-fischer-first-front-page",
+      "source": "ChessBase",
+      "date": "2026-07-25T18:20:00.000Z",
+      "summary": "Seventy years ago, Bobby Fischer appeared on the cover of a chess magazine for the first time. The then 13-year-old had won the U.S. Junior Championship in Philadelphia in commanding fashion. Chess Life, the magazine of the United States Chess Federation, c…"
+    },
     {
       "title": "Review: ChessBase Magazine #232",
       "link": "https://en.chessbase.com/post/review-chessbase-magazine-232",
@@ -441,13 +448,6 @@
       "source": "The Week in Chess",
       "date": "2026-06-14T12:20:00.000Z",
       "summary": "David Navara played Felix Blohberger in a six game match in Vienna Mon 8th Jun - Sat 13th Jun 2026. Blohberger won game three and the remaining games were drawn."
-    },
-    {
-      "title": "A Game That Outlasted the Day (7)",
-      "link": "https://en.chessbase.com/post/a-game-that-outlasted-the-day-7",
-      "source": "ChessBase",
-      "date": "2026-06-10T17:00:00.000Z",
-      "summary": "In the comments on Part 5 of the series, readers pointed out that this was not a “master game” (as stated on the Guinness page), since Arsović had an initial rating of 2200 (which by today’s standards may correspond to a rating of 1400), while Nikolić’s rat…"
     }
   ]
 }
