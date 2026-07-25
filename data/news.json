@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T23:59:06.404Z",
+  "updated": "2026-07-25T03:19:47.385Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Michal Krasenkow: \"If you want a GM norm, beat a GM\"",
+      "link": "https://en.chessbase.com/post/michal-krasenkow-interview-2026-chola-tournament",
+      "source": "ChessBase",
+      "date": "2026-07-25T02:10:00.000Z",
+      "summary": "Michal Krasenkow gives an interview after a dramatic comeback win to talk about his turbulent game, his storied career and why he has no intention of making life easy for the Indian players chasing norms. Michal dominated the second edition of the Chola Che…"
+    },
+    {
+      "title": "Aronian Wins Biel Masters 2026",
+      "link": "https://www.chess.com/news/view/aronian-wins-biel-masters-2026",
+      "source": "Chess.com",
+      "date": "2026-07-25T02:03:18.000Z",
+      "summary": "GM Levon Aronian emerged as the winner of the Biel Masters&mdash;Grandmasters Triathlon event of the Biel Chess Festival, Switzerland, pocketing the top prize of CHF 10,000 (roughly &euro;10,750 or $12,250). The 59th edition of the festival had a ..."
+    },
     {
       "title": "Alice Lee Eliminates Women's World Champion With 6-Point Margin",
       "link": "https://www.chess.com/news/view/2026-wscc-qf-ju-lee",
@@ -322,13 +336,6 @@
       "source": "The Week in Chess",
       "date": "2026-07-11T17:59:00.000Z",
       "summary": "The Netherland Championships took place in Amsterdam Sat 4th to Sat 11th Jul 2026. The event was a KO with both an open and women's event. Sergei Tiviakov won his fourth title defeating Liam Vrolijk in the final after a tie-break. Machteld Van Foreest beat…"
-    },
-    {
-      "title": "Arjun Completes Big Week With 3 0 Thursday Victory",
-      "link": "https://www.chess.com/news/view/arjun-ohanyan-murzin-3-0-thursday-07-10-2026",
-      "source": "Chess.com",
-      "date": "2026-07-10T20:45:45.000Z",
-      "summary": "GM Arjun Erigaisi followed up his Titled Tuesday victory this week by winning the first 3 0 Thursday on July 9. GM Emin Ohanyan completed a come-from-behind victory in the second tournament of the day. At the end of the day, GM Volodar Murzin won ..."
     },
     {
       "title": "KazChess Masters 2026 - Games and Results",
