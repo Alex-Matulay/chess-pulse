@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T23:56:07.930Z",
+  "updated": "2026-07-26T02:34:46.536Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "20-Point Comeback Seals Stunning Tiebreak Victory For Le",
+      "link": "https://www.chess.com/news/view/tuan-minh-le-wins-bullet-brawl-july-25-2026",
+      "source": "Chess.com",
+      "date": "2026-07-26T00:21:00.000Z",
+      "summary": "Against all odds, Vietnamese GM Tuan Minh Le produced one of the most unexpected comebacks in Bullet Brawl&nbsp;after closing a 20-point gap in 16 minutes and edging out GM Hikaru Nakamura on tiebreaks on Saturday. In the final 16 minutes, Le adde..."
+    },
     {
       "title": "Bobby Fischer's first front-page appearance, 70 years on",
       "link": "https://en.chessbase.com/post/bobby-fischer-first-front-page",
@@ -329,13 +336,6 @@
       "source": "ChessBase",
       "date": "2026-07-13T18:00:00.000Z",
       "summary": "In this episode of The Underdog, Robert Ris presents a spectacular upset from the Asian Esports Chess Cup, where a young Thai player (Pakornnarong Liukasemsarn) defeats super-GM Andrey Esipenko despite an enormous rating gap. In a sharp Italian Game with op…"
-    },
-    {
-      "title": "Nakamura Wins 50 Games En Route To 12th Title In 2026",
-      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-11-2026",
-      "source": "Chess.com",
-      "date": "2026-07-12T04:12:00.000Z",
-      "summary": "For the 12th time in 2026, GM Hikaru Nakamura triumphed in the Bullet Brawl arena after he won 50, drew eight, and lost 11 games on Saturday. With a score of 172 points, Nakamura finished 27 points clear of the second-placed GM Arjun Erigaisi, 30 ..."
     },
     {
       "title": "Sergei Tiviakov wins his fourth Netherlands Chess Championship - Final",
