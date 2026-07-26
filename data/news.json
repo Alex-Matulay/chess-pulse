@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T08:24:36.909Z",
+  "updated": "2026-07-26T10:41:11.496Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Leonardo Costa and Jana Schneider are the 2026 German chess champions",
+      "link": "https://en.chessbase.com/post/german-championship-2026-report",
+      "source": "ChessBase",
+      "date": "2026-07-26T11:05:00.000Z",
+      "summary": "The German Championship has been decided: Leonardo Costa is the German champion in the open category with 6/9. Bennet Hagner, in second place, and Luis Engel, in third, follow in the standings with 5½ points each. Jana Schneider became the German women's ch…"
+    },
     {
       "title": "ChessBase´26 – Tips for beginners, part 24: Always get the latest games via update",
       "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-24-always-get-the-latest-games-via-update",
