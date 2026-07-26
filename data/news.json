@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T16:53:48.154Z",
+  "updated": "2026-07-26T17:58:32.187Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Walther von Holzhausen: Military officer, chess problemist",
+      "link": "https://en.chessbase.com/post/walther-von-holzhausen-military-officer-chess-problemist",
+      "source": "ChessBase",
+      "date": "2026-07-26T19:05:00.000Z",
+      "summary": "Walther Freiherr von Holzhausen is not among the best-known players of the early twentieth century. Nevertheless, he was a very strong amateur and, above all, a chess problem composer of great importance. As a major in the Prussian Army, the First World War…"
+    },
+    {
+      "title": "Winners crowned at 28th Asian Youth Chess Championships in Shenzhen, China",
+      "link": "https://www.fide.com/winners-crowned-at-28th-asian-youth-chess-championships-in-shenzhen-china/",
+      "source": "FIDE",
+      "date": "2026-07-26T17:11:51.000Z",
+      "summary": "The main competition with classical time control at the 28th Asian Youth Chess Championships delivered a dramatic conclusion in Shenzhen, China, with closely contested titles, decisive tie-breaks, and strong team performances across all 12 sections (9-round…"
+    },
     {
       "title": "Akopian Wins U.S. Senior Championship",
       "link": "https://www.chess.com/news/view/akopian-wins-us-senior-championship",
@@ -217,13 +231,6 @@
       "source": "Chess.com",
       "date": "2026-07-20T15:29:00.000Z",
       "summary": "GM Arjun Erigaisi has beaten World Champion Gukesh Dommaraju to catch GM Alireza Firouzja in the lead with two rounds of the 2026 Quantbox Chennai Grand Masters to go. Gukesh sprang an opening surprise and gained a winning position, but lost his w..."
-    },
-    {
-      "title": "The world celebrates International Chess Day 2026",
-      "link": "https://www.fide.com/the-world-celebrates-international-chess-day-2026/",
-      "source": "FIDE",
-      "date": "2026-07-20T11:46:25.000Z",
-      "summary": "Every year on July 20, the global chess community comes together to celebrate International Chess Day, marking the founding of FIDE in 1924. More than a commemoration of the game’s history, the day is a celebration of chess’s unique ability to connect peopl…"
     },
     {
       "title": "Firouzja Keeps Lead As Abdusattorov-Gukesh Clash Ends In Draw",
