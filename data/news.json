@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T22:02:03.365Z",
+  "updated": "2026-07-27T23:58:51.248Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Alice Lee Storms Into Women's Speed Chess Final 19.5-4.5",
+      "link": "https://www.chess.com/news/view/2026-wscc-qf-hou-muzychuk-sf-lee-avrimidou",
+      "source": "Chess.com",
+      "date": "2026-07-27T22:25:00.000Z",
+      "summary": "A run of 11 wins in 12 games saw 16-year-old IM Alice Lee overwhelm FM Anastasia Avramidou to reach the Final of the 2026 Women's Speed Chess Championship. She'll face the winner of GM Bibisara Assaubayeva vs. GM Hou Yifan, after the women's numbe..."
+    },
     {
       "title": "FIDE Capacity Building Seminar Supports African Federations",
       "link": "https://www.fide.com/fide-capacity-building-seminar-supports-african-federations/",
@@ -336,13 +343,6 @@
       "source": "Chess.com",
       "date": "2026-07-14T19:35:37.000Z",
       "summary": "GM Parham Maghsoodloo, who won Titled Tuesday five times in 2025, got his first win of 2026 on July 14. His 10/11 score won outright over GM Praggnanandhaa Rameshbabu's 9.5/11, itself good enough for sole second. GM Hikaru Nakamura took third plac..."
-    },
-    {
-      "title": "Hou Yifan Beats Wagner, Avramidou Upsets Shuvalova",
-      "link": "https://www.chess.com/news/view/2026-wscc-ro16-hou-wagner-shuvalova-avramidou",
-      "source": "Chess.com",
-      "date": "2026-07-13T20:10:00.000Z",
-      "summary": "Women's world number-one GM Hou Yifan and WGM Anastasia Avramidou advance to the 2026 Women's Speed Chess Championship Quarterfinals after winning the last Round of 16 matches on Monday. Hou defeated IM Dinara Wagner in a one-sided match, 13.5-2.5..."
     },
     {
       "title": "The 1858-Rated Kid Who Beat a Super-GM - The Underdog",
