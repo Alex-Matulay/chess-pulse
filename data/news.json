@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T20:18:55.694Z",
+  "updated": "2026-07-27T22:02:03.365Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE Capacity Building Seminar Supports African Federations",
+      "link": "https://www.fide.com/fide-capacity-building-seminar-supports-african-federations/",
+      "source": "FIDE",
+      "date": "2026-07-27T21:02:54.000Z",
+      "summary": "In the framework of the African Chess Confederation (ACC) General Assembly in Addis Ababa, Ethiopia, FIDE organised a Capacity Building Seminar for national chess federations across the continent. The seminar brought together FIDE officials, Commission Chai…"
+    },
     {
       "title": "WR Chess Miami: USA v. Uzbekistan - Live!",
       "link": "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-live",
@@ -196,13 +203,6 @@
       "source": "Chess.com",
       "date": "2026-07-23T13:10:00.000Z",
       "summary": "GM Anish Giri, the longtime top-10 chess player and instructional author, has signed with Basilisk Gaming (stylized BASILISK), the esports organization announced in a press release and on social media Thursday. Giri will begin representing Basilis..."
-    },
-    {
-      "title": "Alireza Firouzja wins Quantbox Chennai Grand Masters 2026",
-      "link": "https://www.fide.com/alireza-firouzja-wins-quantbox-chennai-grand-masters-2026/",
-      "source": "FIDE",
-      "date": "2026-07-23T08:41:04.000Z",
-      "summary": "Alireza Firouzja emerged as the winner of the fourth edition of the Quantbox Chennai Grand Masters. The Iran-born Frenchman scored 4.5/7 and finished a half-point ahead of Dmitry Andreikin and Arjun Erigaisi. The fourth edition of the Quantbox Chennai Grand…"
     },
     {
       "title": "Quantbox Chennai Grand Masters 2026 - Games and Results",
