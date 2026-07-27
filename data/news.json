@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T03:35:59.321Z",
+  "updated": "2026-07-27T06:58:27.447Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "How much faster are computers today?",
+      "link": "https://en.chessbase.com/post/how-much-faster-are-computers-today",
+      "source": "ChessBase",
+      "date": "2026-07-27T06:55:27.000Z",
+      "summary": "In the early 1980s, as a fledgling TV journalist, I did a report on the fastest computer in the world. The Cray-1 cost eight million dollars and could do 130 million floating point operations per second. That was enough to calculate the weather, but also to…"
+    },
     {
       "title": "Three Presidential Tickets Submitted to FIDE Office Ahead of 2026 Elections",
       "link": "https://www.fide.com/three-presidential-tickets-submitted-to-fide-office-ahead-of-2026-elections/",
