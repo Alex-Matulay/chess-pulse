@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T10:46:23.870Z",
+  "updated": "2026-07-27T13:36:07.034Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Kirsan is back - no he isn't",
+      "link": "https://en.chessbase.com/post/kirsan-is-back-no-he-isn-t",
+      "source": "ChessBase",
+      "date": "2026-07-27T14:48:20.000Z",
+      "summary": "Last Thursday the current FIDE President Arkady Dvorkovich has abandoned his candidacy for reelection, after been sanctioned by the European Union. We were informed by ther Chess Federation of Russia that Kirsan Ilyumzhinov, who had served as FIDE president…"
+    },
+    {
+      "title": "Akopian and Belakovskaia win US senior titles",
+      "link": "https://en.chessbase.com/post/us-senior-championships-2026-report",
+      "source": "ChessBase",
+      "date": "2026-07-27T13:00:00.000Z",
+      "summary": "Vladimir Akopian won his second US Senior Championship in three years after defeating Alexander Onischuk in a playoff, while Anjelina Belakovskaia claimed the US Senior Women's title with an unbeaten 7/8 score. Both events were held at the Saint Louis Chess…"
+    },
+    {
+      "title": "ACC General Assembly takes place in Addis Ababa; Benard Wanjala elected President",
+      "link": "https://www.fide.com/acc-general-assembly-takes-place-in-addis-ababa-benard-wanjala-elected-president/",
+      "source": "FIDE",
+      "date": "2026-07-27T11:34:11.000Z",
+      "summary": "The 10th African Chess Confederation (ACC) Electoral General Assembly took place today in Addis Ababa, Ethiopia, where delegates from across the continent elected new leadership for the organization. Following a closely contested election for the presidency…"
+    },
     {
       "title": "How much faster are computers today?",
       "link": "https://en.chessbase.com/post/how-much-faster-are-computers-today",
@@ -168,13 +189,6 @@
       "source": "FIDE",
       "date": "2026-07-23T08:41:04.000Z",
       "summary": "Alireza Firouzja emerged as the winner of the fourth edition of the Quantbox Chennai Grand Masters. The Iran-born Frenchman scored 4.5/7 and finished a half-point ahead of Dmitry Andreikin and Arjun Erigaisi. The fourth edition of the Quantbox Chennai Grand…"
-    },
-    {
-      "title": "Judit Polgar turns 50: Celebrating a chess legend",
-      "link": "https://www.fide.com/judit-polgar-turns-50-celebrating-a-chess-legend/",
-      "source": "FIDE",
-      "date": "2026-07-23T07:13:40.000Z",
-      "summary": "Today, we celebrate a true icon, a revolutionary, and unequivocally the greatest female chess player of all time. For decades, Judit Polgar didn’t just compete at the highest levels of chess – she redefined what was thought possible. A prodigy from Budapest…"
     },
     {
       "title": "Quantbox Chennai Grand Masters 2026 - Games and Results",
