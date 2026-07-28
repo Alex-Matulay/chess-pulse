@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T05:42:51.498Z",
+  "updated": "2026-07-28T08:26:26.505Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,10 +9,17 @@
   ],
   "items": [
     {
+      "title": "Bodhana breaks the record",
+      "link": "https://en.chessbase.com/post/bodhana-breaks-the-record",
+      "source": "ChessBase",
+      "date": "2026-07-28T09:50:41.000Z",
+      "summary": "And eleven-year-old British chess player has become the youngest girl to defeat a grandmaster rated above 2600, breaking a 38-year-old record previously held by Hungarian all-time great Judit Polgar. Bodhana Sivanandan defeated a French grandmaster rated 26…"
+    },
+    {
       "title": "U.S. Takes 5-3 Lead Vs. Uzbekistan In Miami Rapid Chess",
       "link": "https://www.chess.com/news/view/2026-wr-chess-rapid-blitz-miami-usa-vs-uzbekistan",
       "source": "Chess.com",
-      "date": "2026-07-28T00:30:50.000Z",
+      "date": "2026-07-28T00:30:00.000Z",
       "summary": "The U.S. leads 5-3 against Uzbekistan after day one of the WR Chess Rapid & Blitz Miami 2026. GM Levon Aronian was the MVP, putting up the highest individual score on his team, 2.5/3. GM Nodirbek Abdusattorov's 3/4, the highest on team Uzbekis..."
     },
     {
