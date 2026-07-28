@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T08:26:26.505Z",
+  "updated": "2026-07-28T11:13:21.728Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Deutsche Welle: \"Could Russia be about to lose its grip on chess leadership?\"",
+      "link": "https://en.chessbase.com/post/deutsche-welle-could-russia-be-about-to-lose-its-grip-on-chess-leadership",
+      "source": "ChessBase",
+      "date": "2026-07-28T12:00:00.000Z",
+      "summary": "The German broadcaster Deutsche Welle recently examined Russia's influence within the International Chess Federation (FIDE). Following Russia's invasion of Ukraine, the Russian Chess Federation was sanctioned, but through Russian FIDE President Arkady Dvork…"
+    },
+    {
+      "title": "WR Chess Rapid & Blitz Miami 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/wr-chess-rapid-blitz-miami-2026",
+      "source": "The Week in Chess",
+      "date": "2026-07-28T10:14:00.000Z",
+      "summary": "The WR Chess Rapid & Blitz Miami is a two day rapid and then blitz match between the USA and Uzbekistan ahead of the Olympiad. Team: Ukbekistan: Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev, Shamsiddin Vokhidov, Mukhiddin Madaminov, USA: Hik…"
+    },
     {
       "title": "Bodhana breaks the record",
       "link": "https://en.chessbase.com/post/bodhana-breaks-the-record",
