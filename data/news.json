@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T11:13:21.728Z",
+  "updated": "2026-07-28T13:54:37.180Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "WR Chess Miami: USA lead 5-3, Aronian scores 2½ out of 3",
+      "link": "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-day-1",
+      "source": "ChessBase",
+      "date": "2026-07-28T15:20:00.000Z",
+      "summary": "Team USA took a 5–3 lead over Uzbekistan after the rapid section of the WR Chess match in Miami, winning two of the four encounters played on Monday. Levon Aronian was the leading American scorer, while Nodirbek Abdusattorov produced Uzbekistan's best indiv…"
+    },
+    {
+      "title": "Geneva to host FIDE World Championship Match 2026",
+      "link": "https://en.chessbase.com/post/geneva-to-host-fide-world-championship-match-2026",
+      "source": "ChessBase",
+      "date": "2026-07-28T14:29:36.000Z",
+      "summary": "In a press release, FIDE just announced that Geneva will host the 2026 FIDE World Championship match between reigning champion Gukesh Dommaraju and challenger Javokhir Sindarov from November 25 to December 15. The announcement ends months of speculation ove…"
+    },
     {
       "title": "Deutsche Welle: \"Could Russia be about to lose its grip on chess leadership?\"",
       "link": "https://en.chessbase.com/post/deutsche-welle-could-russia-be-about-to-lose-its-grip-on-chess-leadership",
@@ -49,13 +63,6 @@
       "source": "FIDE",
       "date": "2026-07-27T21:02:54.000Z",
       "summary": "In the framework of the African Chess Confederation (ACC) General Assembly in Addis Ababa, Ethiopia, FIDE organised a Capacity Building Seminar for national chess federations across the continent. The seminar brought together FIDE officials, Commission Chai…"
-    },
-    {
-      "title": "WR Chess Miami: USA v. Uzbekistan - Live!",
-      "link": "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-live",
-      "source": "ChessBase",
-      "date": "2026-07-27T18:45:00.000Z",
-      "summary": "WR Chess stages a USA v. Uzbekistan team event in Miami Beach on 27–28 July, bringing together ten leading grandmasters in a rapid and blitz Scheveningen format. Hikaru Nakamura, Fabiano Caruana, Wesley So and Levon Aronian will represent Team USA, while Uz…"
     },
     {
       "title": "Woodward and Tang retain US junior titles with convincing performances",
@@ -210,13 +217,6 @@
       "source": "FIDE",
       "date": "2026-07-23T20:53:55.000Z",
       "summary": "FIDE and the Chess for Freedom initiative are pleased to announce that registration is now open for two major upcoming events aimed at promoting rehabilitation, education and international cooperation through chess: the 6th Intercontinental Chess Championsh…"
-    },
-    {
-      "title": "Statement by FIDE President Arkady Dvorkovich",
-      "link": "https://www.fide.com/statement-by-the-fide-president/",
-      "source": "FIDE",
-      "date": "2026-07-23T20:24:54.000Z",
-      "summary": "Today, the EU decision to include my name in the 21st sanctions list was published. I want to state unequivocally that I consider this decision unlawful and unfair, and this decision will be immediately challenged by all possible means. I am confident that…"
     },
     {
       "title": "Dvorkovich Suspends FIDE Presidency After EU Sanctions; Anand Named Interim President",
