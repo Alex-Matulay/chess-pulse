@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T23:58:51.248Z",
+  "updated": "2026-07-28T02:54:08.599Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "U.S. Takes 5-3 Lead Vs. Uzbekistan In Miami Rapid Chess",
+      "link": "https://www.chess.com/news/view/2026-wr-chess-rapid-blitz-miami-usa-vs-uzbekistan",
+      "source": "Chess.com",
+      "date": "2026-07-28T00:30:50.000Z",
+      "summary": "The U.S. leads 5-3 against Uzbekistan after day one of the WR Chess Rapid & Blitz Miami 2026. GM Levon Aronian was the MVP, putting up the highest individual score on his team, 2.5/3. GM Nodirbek Abdusattorov's 3/4, the highest on team Uzbekis..."
+    },
     {
       "title": "Alice Lee Storms Into Women's Speed Chess Final 19.5-4.5",
       "link": "https://www.chess.com/news/view/2026-wscc-qf-hou-muzychuk-sf-lee-avrimidou",
@@ -336,13 +343,6 @@
       "source": "Chess.com",
       "date": "2026-07-14T19:55:21.000Z",
       "summary": "The International Chess Federation has adopted new qualification paths for the 2028 FIDE Candidates and Women's Candidates Tournaments that will decide future world championship challengers. The rating spot GM Hikaru Nakamura used to qualify in 20..."
-    },
-    {
-      "title": "Maghsoodloo Wins Titled Tuesday With Ease",
-      "link": "https://www.chess.com/news/view/maghsoodloo-wins-titled-tuesday-july-14-2026",
-      "source": "Chess.com",
-      "date": "2026-07-14T19:35:37.000Z",
-      "summary": "GM Parham Maghsoodloo, who won Titled Tuesday five times in 2025, got his first win of 2026 on July 14. His 10/11 score won outright over GM Praggnanandhaa Rameshbabu's 9.5/11, itself good enough for sole second. GM Hikaru Nakamura took third plac..."
     },
     {
       "title": "The 1858-Rated Kid Who Beat a Super-GM - The Underdog",
