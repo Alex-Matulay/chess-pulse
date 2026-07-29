@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T13:59:41.591Z",
+  "updated": "2026-07-29T15:53:09.154Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Record-breaking British Chess Championships set to begin in Coventry",
+      "link": "https://en.chessbase.com/post/record-breaking-british-chess-championships-set-to-begin-in-coventry",
+      "source": "ChessBase",
+      "date": "2026-07-29T16:00:00.000Z",
+      "summary": "The British Championships will take place from 1 to 9 August in Coventry and, with more than 1,700 participants across all sections, will be the largest edition in 122 years. The country's leading players will compete alongside a number of promising young t…"
+    },
+    {
+      "title": "Teamwork And Chaos Return For Chess.com Bughouse Championship Starting August 3",
+      "link": "https://www.chess.com/news/view/announcing-chesscom-bughouse-championship-2026",
+      "source": "Chess.com",
+      "date": "2026-07-29T15:00:00.000Z",
+      "summary": "Who says chess needs to be an individual game? Call up your buddy and get ready for the madness of the Chess.com Bughouse Chess Championship! The event features a $5,000 prize fund and will take place from August 3 to August 7. Bughouse is one of..."
+    },
+    {
+      "title": "Global Chess League Contenders Returns On August 7 As Pathway To World Stage",
+      "link": "https://www.chess.com/news/view/announcing-tech-mahindra-global-chess-league-contenders-2026",
+      "source": "Chess.com",
+      "date": "2026-07-29T14:30:00.000Z",
+      "summary": "The Tech Mahindra Global Chess League (GCL) is returning for its fourth season with GM Magnus Carlsen headlining the field in Bengaluru, India. With a stellar lineup of the strongest players in the game teaming up in exhilarating matchups, the fou..."
+    },
     {
       "title": "Almaty to Host the Inaugural FIDE World University Team Chess Championship",
       "link": "https://en.chessbase.com/post/almaty-to-host-the-inaugural-fide-world-university-team-chess-championship",
@@ -373,20 +394,6 @@
       "summary": "GM Arjun Erigaisi became the first player other than GM Alireza Firouzja to win a game in the 2026 Quantbox Chennai Grand Masters after carefully defusing an inventive queen sacrifice by GM Hans Niemann. Firouzja leads by half a point after making..."
     },
     {
-      "title": "Nakamura Tops 3 0 Thursday In His \"Best Time Control\"",
-      "link": "https://www.chess.com/news/view/nakamura-drygalov-terry-3-0-thursday-07-16-2026",
-      "source": "Chess.com",
-      "date": "2026-07-17T19:35:00.000Z",
-      "summary": "GM Hikaru Nakamura streamed his way to victory in the first 3 0 Thursday on July 16. On stream, he described the time control as clearly his strongest, explaining that it's faster than the five-minute time control used in Titled Tuesdays and that ..."
-    },
-    {
-      "title": "Celebrate International Chess Day By Rekindling Your Longest Streak & Earning An Exclusive Flair",
-      "link": "https://www.chess.com/news/view/international-chess-day-2026-rewards",
-      "source": "Chess.com",
-      "date": "2026-07-17T15:00:00.000Z",
-      "summary": "International Chess Day is July 20, and this year, you can turn it into a fresh start. We invite you to celebrate this special occasion with us&mdash;while also restarting your longest streak and even winning a permanent and exclusive flair! Rest..."
-    },
-    {
       "title": "The 1858-Rated Kid Who Beat a Super-GM - The Underdog",
       "link": "https://en.chessbase.com/post/the-1858-rated-kid-who-beat-a-super-gm-the-underdog",
       "source": "ChessBase",
@@ -490,13 +497,6 @@
       "source": "The Week in Chess",
       "date": "2026-06-15T21:52:00.000Z",
       "summary": "The 3rd UzChess Cup took place in Tashkent Sun 7th Jun to Mon 15th Jun 2026. The Masters: Nodirbek Abdusattorov, Arjun Erigaisi, Hans Moke Niemann, Ian Nepomniachtchi, Shakhriyar Mamedyarov, Santosh Gujrathi Vidit, Nodirbek Yakubboev, Shamsiddin Vokhidov, N…"
-    },
-    {
-      "title": "Blohberger beats Navara 3.5-2.5 in a match - 3-4",
-      "link": "https://theweekinchess.com/twic-news-feed/blohberger-beats-navara-3.5-2.5-in-a-match",
-      "source": "The Week in Chess",
-      "date": "2026-06-14T14:13:00.000Z",
-      "summary": "Felix Blohberger defeated David Navara in a match in Vienna Mon 8th Jun to Sat 13th Jun 2026. 22 year-old GM Blohberger has a YouTube Channel where he talks about chess. Blohberger had a personal sponsor for the match and it was held at the headquarters of…"
     }
   ]
 }
