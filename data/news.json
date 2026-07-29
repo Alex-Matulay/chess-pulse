@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T11:21:13.622Z",
+  "updated": "2026-07-29T13:59:41.591Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Almaty to Host the Inaugural FIDE World University Team Chess Championship",
+      "link": "https://en.chessbase.com/post/almaty-to-host-the-inaugural-fide-world-university-team-chess-championship",
+      "source": "ChessBase",
+      "date": "2026-07-29T13:58:25.000Z",
+      "summary": "From August 3 to 10, 2026, Almaty will become the center of global university chess. Kazakhstan’s largest city will host the finals of the FIDE World University Team Chess Championship, the first-ever world team championship for universities. The tournament…"
+    },
     {
       "title": "Shifts and mirrors in a chess problem",
       "link": "https://en.chessbase.com/post/shifts-and-mirrors-in-a-chess-problem",
@@ -40,7 +47,7 @@
       "title": "USA Beats Uzbekistan 14-10 In WR Chess Miami Rapid & Blitz",
       "link": "https://www.chess.com/news/view/usa-wins-2026-wr-chess-rapid-blitz-miami",
       "source": "Chess.com",
-      "date": "2026-07-29T00:18:44.000Z",
+      "date": "2026-07-29T00:18:00.000Z",
       "summary": "Team USA won the match against Uzbekistan in the inaugural WR Chess Rapid & Blitz Miami 2026. They clinched the match 13-9 with a round to spare. They played the final round anyway, and tied, so the final score was 14-10. Team USA consisted o..."
     },
     {
@@ -490,13 +497,6 @@
       "source": "The Week in Chess",
       "date": "2026-06-14T14:13:00.000Z",
       "summary": "Felix Blohberger defeated David Navara in a match in Vienna Mon 8th Jun to Sat 13th Jun 2026. 22 year-old GM Blohberger has a YouTube Channel where he talks about chess. Blohberger had a personal sponsor for the match and it was held at the headquarters of…"
-    },
-    {
-      "title": "Navara vs Blohberger Match 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/navara-vs-blohberger-match-2026",
-      "source": "The Week in Chess",
-      "date": "2026-06-14T12:20:00.000Z",
-      "summary": "David Navara played Felix Blohberger in a six game match in Vienna Mon 8th Jun - Sat 13th Jun 2026. Blohberger won game three and the remaining games were drawn."
     }
   ]
 }
