@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T08:32:18.323Z",
+  "updated": "2026-07-29T11:21:13.622Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,25 @@
   ],
   "items": [
     {
+      "title": "Shifts and mirrors in a chess problem",
+      "link": "https://en.chessbase.com/post/shifts-and-mirrors-in-a-chess-problem",
+      "source": "ChessBase",
+      "date": "2026-07-29T12:00:00.000Z",
+      "summary": "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning – but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally sh…"
+    },
+    {
       "title": "USA prevail over Uzbekistan in WR Chess Miami match",
       "link": "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-day-2",
       "source": "ChessBase",
       "date": "2026-07-29T10:05:00.000Z",
       "summary": "Team USA defeated Uzbekistan 14–10 in the WR Chess Rapid & Blitz Miami event, clinching the match with one round to spare. The Americans followed their 5–3 advantage in the rapid section by winning the blitz phase 9–7. Nodirbek Abdusattorov and Javokhir Sin…"
+    },
+    {
+      "title": "Sixteen universities meet in Almaty for inaugural FIDE World University Team Chess Championship",
+      "link": "https://www.fide.com/sixteen-universities-meet-in-almaty-for-inaugural-fide-world-university-team-chess-championship/",
+      "source": "FIDE",
+      "date": "2026-07-29T08:48:22.000Z",
+      "summary": "Almaty will host the first FIDE World University Team Chess Championship from 3 to 10 August 2026, bringing together 16 university teams from around the world at Al-Farabi Kazakh National University. The final stage of the FIDE World University Team Chess C…"
     },
     {
       "title": "Bodhana Adds More Records With 1st IM Norm, 2600+ GM Win",
@@ -97,7 +111,7 @@
       "link": "https://theweekinchess.com/chessnews/events/wr-chess-rapid-blitz-miami-2026",
       "source": "The Week in Chess",
       "date": "2026-07-28T10:14:00.000Z",
-      "summary": "The WR Chess Rapid & Blitz Miami is a two day rapid and then blitz match between the USA and Uzbekistan ahead of the Olympiad. Team: Ukbekistan: Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev, Shamsiddin Vokhidov, Mukhiddin Madaminov, USA: Hik…"
+      "summary": "The WR Chess Rapid & Blitz Miami was a two day rapid and then blitz match between the USA and Uzbekistan ahead of the Olympiad. Team: Ukbekistan: Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev, Shamsiddin Vokhidov, Mukhiddin Madaminov, USA: Hi…"
     },
     {
       "title": "Bodhana breaks the record",
@@ -189,13 +203,6 @@
       "source": "FIDE",
       "date": "2026-07-26T17:11:51.000Z",
       "summary": "The main competition with classical time control at the 28th Asian Youth Chess Championships delivered a dramatic conclusion in Shenzhen, China, with closely contested titles, decisive tie-breaks, and strong team performances across all 12 sections (9-round…"
-    },
-    {
-      "title": "Leonardo Costa and Jana Schneider newly crowned German champions",
-      "link": "https://www.fide.com/leonardo-costa-and-jana-schneider-newly-crowned-german-champions/",
-      "source": "FIDE",
-      "date": "2026-07-26T15:41:00.000Z",
-      "summary": "Leonardo Costa and Jana Schneider have emerged as the new German chess champions, both securing their second national titles. The 2026 edition of the German Championship took place in Dresden from July 17 to 25. Both the DEM-Meisterklasse (Open) and the DFE…"
     },
     {
       "title": "Akopian Wins U.S. Senior Championship",
