@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T05:47:15.164Z",
+  "updated": "2026-07-29T08:32:18.323Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "USA prevail over Uzbekistan in WR Chess Miami match",
+      "link": "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-day-2",
+      "source": "ChessBase",
+      "date": "2026-07-29T10:05:00.000Z",
+      "summary": "Team USA defeated Uzbekistan 14–10 in the WR Chess Rapid & Blitz Miami event, clinching the match with one round to spare. The Americans followed their 5–3 advantage in the rapid section by winning the blitz phase 9–7. Nodirbek Abdusattorov and Javokhir Sin…"
+    },
     {
       "title": "Bodhana Adds More Records With 1st IM Norm, 2600+ GM Win",
       "link": "https://www.chess.com/news/view/bodhana-youngest-girl-im-norm-beats-2600-gm",
@@ -63,13 +70,6 @@
       "source": "FIDE",
       "date": "2026-07-28T17:36:00.000Z",
       "summary": "According to the FIDE Electoral Regulations, FIDE is publishing the list of Member Federations having the right to vote at the General Assembly 2026 together with the names of the Presidents and Delegates and the list of suspended Member Federations. ELECTO…"
-    },
-    {
-      "title": "WR Chess Miami: USA lead 5-3, Aronian scores 2½ out of 3",
-      "link": "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-day-1",
-      "source": "ChessBase",
-      "date": "2026-07-28T15:20:00.000Z",
-      "summary": "Team USA took a 5–3 lead over Uzbekistan after the rapid section of the WR Chess match in Miami, winning two of the four encounters played on Monday. Levon Aronian was the leading American scorer, while Nodirbek Abdusattorov produced Uzbekistan's best indiv…"
     },
     {
       "title": "Geneva to host FIDE World Championship Match 2026",
