@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T13:48:20.817Z",
+  "updated": "2026-07-30T15:48:53.615Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,6 +9,20 @@
   ],
   "items": [
     {
+      "title": "Final-round win secures Andorra Open title for 15-year-old Francisco Fiorito",
+      "link": "https://en.chessbase.com/post/andorra-open-2026-report",
+      "source": "ChessBase",
+      "date": "2026-07-30T16:50:00.000Z",
+      "summary": "Argentine 15-year-old IM Francisco Fiorito won the 42nd Andorra Open, scoring 7½ points from 9 rounds to finish half a point clear of the field. After suffering his only defeat in round four, he recovered to win four of his final five games, including victo…"
+    },
+    {
+      "title": "Russian Attack Destroys Historic Kherson Chess School And Its 5,000-Book Library",
+      "link": "https://www.chess.com/news/view/russian-attack-destroys-historic-kherson-chess-school-in-ukraine-5-000-book-library",
+      "source": "Chess.com",
+      "date": "2026-07-30T15:20:46.000Z",
+      "summary": "A Russian artillery attack destroyed the 121-year-old building that housed Kherson&rsquo;s Children&rsquo;s and Youth Sports School for Chess and Checkers, consuming what the regional chess federation says housed a library of more than 5,000 chess..."
+    },
+    {
       "title": "Accelerated Dragon vs Maroczy Bind- The Monthly Dragon",
       "link": "https://en.chessbase.com/post/accelerated-dragon-vs-maroczy-bind-the-monthly-dragon",
       "source": "ChessBase",
@@ -16,25 +30,11 @@
       "summary": "Chris Ward turns this edition of the Monthly Dragon into a special exploration of the Accelerated and Hyper Accelerated Dragon. He explains how Black can respond to the Maroczy Bind, why move order details matter, and which active ideas can prevent White fr…"
     },
     {
-      "title": "Firouzja withdraws from remainder of Grand Chess Tour 2026 due to schedule clash with Esports World Cup",
-      "link": "https://en.chessbase.com/post/firouzja-withdraws-from-grand-chess-tour-2026",
-      "source": "ChessBase",
-      "date": "2026-07-29T23:55:00.000Z",
-      "summary": "Alireza Firouzja has withdrawn from the remainder of the 2026 Grand Chess Tour after choosing to compete in the Esports World Cup in Paris, whose dates overlap with the Sinquefield Cup. His tour points have been annulled and contractual penalties will apply…"
-    },
-    {
       "title": "Alexandra Botez To Host Chess Arena Event With Star Creators On July 31",
       "link": "https://www.chess.com/news/view/creator-brawl-chess-arena",
       "source": "Chess.com",
       "date": "2026-07-29T18:00:00.000Z",
       "summary": "WFM Alexandra Botez's venture into the game development world continues with a new chapter. Last year, the Canadian creator announced her involvement with Chess Arena, a fast-paced chess-themed battle royale game. Now, she's hosting the Chess Aren..."
-    },
-    {
-      "title": "Record-breaking British Chess Championships set to begin in Coventry",
-      "link": "https://en.chessbase.com/post/record-breaking-british-chess-championships-set-to-begin-in-coventry",
-      "source": "ChessBase",
-      "date": "2026-07-29T16:00:00.000Z",
-      "summary": "The British Championships will take place from 1 to 9 August in Coventry and, with more than 1,700 participants across all sections, will be the largest edition in 122 years. The country's leading players will compete alongside a number of promising young t…"
     },
     {
       "title": "Teamwork And Chaos Return For Chess.com Bughouse Championship Starting August 3",
@@ -51,25 +51,11 @@
       "summary": "The Tech Mahindra Global Chess League (GCL) is returning for its fourth season with GM Magnus Carlsen headlining the field in Bengaluru, India. With a stellar lineup of the strongest players in the game teaming up in exhilarating matchups, the fou..."
     },
     {
-      "title": "Almaty to Host the Inaugural FIDE World University Team Chess Championship",
-      "link": "https://en.chessbase.com/post/almaty-to-host-the-inaugural-fide-world-university-team-chess-championship",
-      "source": "ChessBase",
-      "date": "2026-07-29T13:58:25.000Z",
-      "summary": "From August 3 to 10, 2026, Almaty will become the center of global university chess. Kazakhstan’s largest city will host the finals of the FIDE World University Team Chess Championship, the first-ever world team championship for universities. The tournament…"
-    },
-    {
       "title": "Shifts and mirrors in a chess problem",
       "link": "https://en.chessbase.com/post/shifts-and-mirrors-in-a-chess-problem",
       "source": "ChessBase",
       "date": "2026-07-29T12:00:00.000Z",
       "summary": "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning – but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally sh…"
-    },
-    {
-      "title": "USA prevail over Uzbekistan in WR Chess Miami match",
-      "link": "https://en.chessbase.com/post/wr-chess-usa-uzbekistan-match-2026-day-2",
-      "source": "ChessBase",
-      "date": "2026-07-29T10:05:00.000Z",
-      "summary": "Team USA defeated Uzbekistan 14–10 in the WR Chess Rapid & Blitz Miami event, clinching the match with one round to spare. The Americans followed their 5–3 advantage in the rapid section by winning the blitz phase 9–7. Nodirbek Abdusattorov and Javokhir Sin…"
     },
     {
       "title": "Sixteen universities meet in Almaty for inaugural FIDE World University Team Chess Championship",
@@ -107,13 +93,6 @@
       "summary": "In connection with the emergence of a vacant seat on the Constitutional Commission and in accordance with article 16.13 of the FIDE Charter and the FIDE Electoral Rules, the elections for the Member of the Constitutional Commission will take place at the FI…"
     },
     {
-      "title": "ChessBase Summer-Special! – Part 4",
-      "link": "https://en.chessbase.com/post/chessbase-summer-special-teil-4",
-      "source": "ChessBase",
-      "date": "2026-07-28T20:00:00.000Z",
-      "summary": "Dear chess friends! We’ve got another great offer for you: this week (until August 2nd, 2026), you can get over 25% off all Fritztrainer courses by RB Ramesh, Surya Ganguly and Michael Prusikin!"
-    },
-    {
       "title": "FIDE 2026 Elections: Presidential ticket candidacies announced",
       "link": "https://www.fide.com/fide-2026-elections-presidential-ticket-candidacies-announced/",
       "source": "FIDE",
@@ -128,18 +107,18 @@
       "summary": "According to the FIDE Electoral Regulations, FIDE is publishing the list of Member Federations having the right to vote at the General Assembly 2026 together with the names of the Presidents and Delegates and the list of suspended Member Federations. ELECTO…"
     },
     {
-      "title": "Geneva to host FIDE World Championship Match 2026",
-      "link": "https://en.chessbase.com/post/geneva-to-host-fide-world-championship-match-2026",
-      "source": "ChessBase",
-      "date": "2026-07-28T14:29:36.000Z",
-      "summary": "In a press release, FIDE just announced that Geneva will host the 2026 FIDE World Championship match between reigning champion Gukesh Dommaraju and challenger Javokhir Sindarov from November 25 to December 15. The announcement ends months of speculation ove…"
-    },
-    {
       "title": "Geneva To Host Gukesh-Sindarov 2026 FIDE World Championship Match",
       "link": "https://www.chess.com/news/view/geneva-gukesh-sindarov-2026-fide-world-championship",
       "source": "Chess.com",
       "date": "2026-07-28T14:25:00.000Z",
       "summary": "Geneva, Switzerland will host the 2026 FIDE World Championship between Indian World Champion Gukesh Dommaraju and his Uzbek challenger GM Javokhir Sindarov, with the 14-game match running November 25 to December 15. FIDE Interim President GM Viswa..."
+    },
+    {
+      "title": "Geneva to host FIDE World Championship Match 2026",
+      "link": "https://www.fide.com/geneva-to-host-fide-world-championship-match-2026/",
+      "source": "FIDE",
+      "date": "2026-07-28T11:38:15.000Z",
+      "summary": "The FIDE World Championship Match 2026 between reigning World Champion Gukesh D and Challenger Javokhir Sindarov will take place in Geneva, Switzerland, from November 25 to December 15. Both Gukesh, representing India, and Sindarov, representing Uzbekistan,…"
     },
     {
       "title": "WR Chess Rapid & Blitz Miami 2026 - Games and Results",
@@ -336,13 +315,6 @@
       "source": "Chess.com",
       "date": "2026-07-19T17:32:00.000Z",
       "summary": "GM Alireza Firouzja enters the second half of the 2026 Quantbox Chennai Grand Masters as the sole leader after a largely uneventful draw in round four against GM Hans Niemann. The remaining games were also drawn, with World Champion Gukesh Dommara..."
-    },
-    {
-      "title": "Nakamura Wins Back-To-Back Bullet Brawl Following Late Surge",
-      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-july-18-2026",
-      "source": "Chess.com",
-      "date": "2026-07-19T04:10:00.000Z",
-      "summary": "Less than 48 hours after claiming that 3+0 is his \"best time control,\" GM Hikaru Nakamura outclassed an elite field to win his 62nd career Bullet Brawl title. Nakamura stayed within striking distance of the frequently changing leaders before surgi..."
     },
     {
       "title": "The 1858-Rated Kid Who Beat a Super-GM - The Underdog",
