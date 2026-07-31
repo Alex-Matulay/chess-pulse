@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T15:59:14.588Z",
+  "updated": "2026-07-31T17:46:02.567Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Svitlana's Smart Moves - Center Game",
+      "link": "https://en.chessbase.com/post/svitlana-s-smart-moves-center-game",
+      "source": "ChessBase",
+      "date": "2026-07-31T18:13:18.000Z",
+      "summary": "Svitlana explores the Center Game with 1.e4 e5 2.d4 and explains why this historic opening remains a practical surprise weapon. She examines the main queen placements, Black’s most important defensive setups, and White’s typical plan of castling queenside a…"
+    },
     {
       "title": "Arab Youth Chess Championship 2026 underway in Cairo, Egypt",
       "link": "https://www.fide.com/arab-youth-chess-championship-2026-underway-in-cairo-egypt/",
@@ -56,13 +63,6 @@
       "source": "Chess.com",
       "date": "2026-07-30T15:20:46.000Z",
       "summary": "A Russian artillery attack destroyed the 121-year-old building that housed Kherson&rsquo;s Children&rsquo;s and Youth Sports School for Chess and Checkers, consuming what the regional chess federation says housed a library of more than 5,000 chess..."
-    },
-    {
-      "title": "Accelerated Dragon vs Maroczy Bind- The Monthly Dragon",
-      "link": "https://en.chessbase.com/post/accelerated-dragon-vs-maroczy-bind-the-monthly-dragon",
-      "source": "ChessBase",
-      "date": "2026-07-30T13:50:22.000Z",
-      "summary": "Chris Ward turns this edition of the Monthly Dragon into a special exploration of the Accelerated and Hyper Accelerated Dragon. He explains how Black can respond to the Maroczy Bind, why move order details matter, and which active ideas can prevent White fr…"
     },
     {
       "title": "Alexandra Botez To Host Chess Arena Event With Star Creators On July 31",
