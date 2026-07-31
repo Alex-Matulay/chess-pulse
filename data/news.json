@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T19:17:40.828Z",
+  "updated": "2026-07-31T20:59:50.120Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Decisive phase of Grand Chess Tour kicks off with Saint Louis Rapid & Blitz",
+      "link": "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-preview",
+      "source": "ChessBase",
+      "date": "2026-07-31T22:15:00.000Z",
+      "summary": "The Saint Louis Rapid & Blitz will bring ten grandmasters to the Saint Louis Chess Club from 2 to 6 August for the fourth leg of the 2026 Grand Chess Tour. Fabiano Caruana, Vincent Keymer and Wesley So are the leading tour contenders in a field that also in…"
+    },
+    {
+      "title": "Firouzja Back In Top 10, Erdogmus Overtakes Gukesh On August FIDE Rating List",
+      "link": "https://www.chess.com/news/view/august-2026-fide-rating-list",
+      "source": "Chess.com",
+      "date": "2026-07-31T19:37:10.000Z",
+      "summary": "GM Alireza Firouzja is back in the top 10 on the August 2026 FIDE rating list after his victory in the Quantbox Chennai Grand Masters, while GM Nodirbek Abdusattorov's last-round loss to GM Dmitry Andreikin saw him drop two places to eighth. For a..."
+    },
     {
       "title": "Svitlana's Smart Moves - Center Game",
       "link": "https://en.chessbase.com/post/svitlana-s-smart-moves-center-game",
@@ -329,13 +343,6 @@
       "source": "Chess.com",
       "date": "2026-07-20T15:29:00.000Z",
       "summary": "GM Arjun Erigaisi has beaten World Champion Gukesh Dommaraju to catch GM Alireza Firouzja in the lead with two rounds of the 2026 Quantbox Chennai Grand Masters to go. Gukesh sprang an opening surprise and gained a winning position, but lost his w..."
-    },
-    {
-      "title": "Firouzja Keeps Lead As Abdusattorov-Gukesh Clash Ends In Draw",
-      "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-4",
-      "source": "Chess.com",
-      "date": "2026-07-19T17:32:00.000Z",
-      "summary": "GM Alireza Firouzja enters the second half of the 2026 Quantbox Chennai Grand Masters as the sole leader after a largely uneventful draw in round four against GM Hans Niemann. The remaining games were also drawn, with World Champion Gukesh Dommara..."
     },
     {
       "title": "The 1858-Rated Kid Who Beat a Super-GM - The Underdog",
