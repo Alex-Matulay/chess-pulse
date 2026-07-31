@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T22:12:05.472Z",
+  "updated": "2026-07-31T23:58:01.013Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -42,13 +42,6 @@
       "source": "ChessBase",
       "date": "2026-07-31T14:00:00.000Z",
       "summary": "The 53rd Dortmund Sparkassen Chess Meeting gets underway on Saturday (1–8 August). Alongside a strong open tournament featuring German national team players Matthias Blübaum, Rasmus Svane and Dmitrij Kollars, as well as Biel Open winner Christian Glöckler (…"
-    },
-    {
-      "title": "School Chess Across Continents: Inside the 2026 World Schools Team Championship",
-      "link": "https://en.chessbase.com/post/school-chess-across-continents-inside-the-2026-world-schools-team-championship",
-      "source": "ChessBase",
-      "date": "2026-07-31T11:00:00.000Z",
-      "summary": "FIDE and the International School Chess Federation (ISCF) have introduced a new format for the World Schools Team Championship. Continental championships will first be held in Asia, Africa, the Americas and Europe, with the continental winners advancing to…"
     },
     {
       "title": "Registration opens for European Continental Stage of FIDE ISCF World Schools Team Championship 2026",
@@ -413,13 +406,6 @@
       "source": "Lichess",
       "date": "2026-06-19T14:45:15.237Z",
       "summary": "After a topsy-turvy third day, Dragon Chilling won the FIDE World Team Rapid Chess Championship 2026 on tiebreaks, edging out Team MGD1 and Hexamind Chess Team, who shared first with Dragon Chilling on matchpoints."
-    },
-    {
-      "title": "FIDE World Team Rapid & Blitz Chess Championships 2026 Preview",
-      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-rapid-blitz-chess-championships-2026-preview/9xeS0vyr",
-      "source": "Lichess",
-      "date": "2026-06-16T22:34:27.831Z",
-      "summary": "Five days of extremely exciting, world class speed chess!"
     }
   ]
 }
