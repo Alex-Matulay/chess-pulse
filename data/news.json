@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T13:08:25.817Z",
+  "updated": "2026-08-01T14:56:14.615Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "British Chess Championship - Live!",
+      "link": "https://en.chessbase.com/post/british-chess-championship-2026-live",
+      "source": "ChessBase",
+      "date": "2026-08-01T15:30:00.000Z",
+      "summary": "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and S…"
+    },
     {
       "title": "FIDE August 2026 rating list published",
       "link": "https://www.fide.com/fide-august-2026-rating-list-published/",
