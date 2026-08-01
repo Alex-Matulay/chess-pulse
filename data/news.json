@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T11:12:51.041Z",
+  "updated": "2026-08-01T13:08:25.817Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE August 2026 rating list published",
+      "link": "https://www.fide.com/fide-august-2026-rating-list-published/",
+      "source": "FIDE",
+      "date": "2026-08-01T12:09:08.000Z",
+      "summary": "The FIDE August 2026 rating list was primarily shaped by the Quantbox Chennai Grand Masters, Biel International Chess Festival, Oskemen Open, and several open tournaments across Europe. Both the top 10 Open and top 10 Women sections saw two important change…"
+    },
     {
       "title": "26 years ago: Carlsen's first steps in tournament chess",
       "link": "https://en.chessbase.com/post/carlsen-beginnings-tournament-chess",
@@ -217,13 +224,6 @@
       "source": "ChessBase",
       "date": "2026-07-27T10:21:48.000Z",
       "summary": "In the early 1980s, as a fledgling TV journalist, I did a report on the fastest computer in the world. The Cray-1 cost eight million dollars and could do 130 million floating point operations per second. That was enough to calculate the weather, but also to…"
-    },
-    {
-      "title": "FIDE Chess in Education Commission (EDU) courses July–September 2026",
-      "link": "https://www.fide.com/fide-chess-in-education-commission-edu-courses-july-september-2026/",
-      "source": "FIDE",
-      "date": "2026-07-27T10:19:09.000Z",
-      "summary": "Dear Chess Friends, FIDE’s Chess in Education Commission continues to accelerate its provision of training for Lecturers and Teachers of Educational Chess, offering a series of high-level online and in-person opportunities in summer and autumn 2026. The Pre…"
     },
     {
       "title": "Akopian Wins U.S. Senior Championship",
