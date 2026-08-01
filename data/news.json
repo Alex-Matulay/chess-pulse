@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T17:05:38.681Z",
+  "updated": "2026-08-01T19:01:53.641Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE ratings - August 2026",
+      "link": "https://en.chessbase.com/post/fide-ratings-august-2026",
+      "source": "ChessBase",
+      "date": "2026-08-01T20:30:00.000Z",
+      "summary": "Magnus Carlsen remains the undisputed world number one in chess. Hou Yifan is still the highest-rated woman player. Reigning world champion Gukesh Dommaraju has lost several rating points and has also relinquished his position as the world's top junior - it…"
+    },
+    {
+      "title": "112th British Chess Championships 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
+      "source": "The Week in Chess",
+      "date": "2026-08-01T18:15:00.000Z",
+      "summary": "The 112th British Chess Championships take place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those."
+    },
     {
       "title": "British Chess Championship - Live!",
       "link": "https://en.chessbase.com/post/british-chess-championship-2026-live",
