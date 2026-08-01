@@ -1,13 +1,19 @@
 {
-  "updated": "2026-08-01T06:24:16.405Z",
+  "updated": "2026-08-01T09:02:05.869Z",
   "sources": [
     "Chess.com",
-    "Lichess",
     "ChessBase",
     "FIDE",
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "26 years ago: Carlsen's first steps in tournament chess",
+      "link": "https://en.chessbase.com/post/carlsen-beginnings-tournament-chess",
+      "source": "ChessBase",
+      "date": "2026-08-01T09:00:00.000Z",
+      "summary": "Magnus Carlsen learnt to play chess at the age of five, although his tournament career began a little later, in late 1999 or early 2000. In the summer of 2000, exactly 26 years ago, Carlsen faced another nine-year-old at the Peer Gynt Open in Gausdal, who w…"
+    },
     {
       "title": "Review: Are older Fritz Trainers still worth it?",
       "link": "https://en.chessbase.com/post/review-are-older-fritz-trainers-still-worth-it",
@@ -40,7 +46,7 @@
       "title": "Firouzja Back In Top 10, Erdogmus Overtakes Gukesh On August FIDE Rating List",
       "link": "https://www.chess.com/news/view/august-2026-fide-rating-list",
       "source": "Chess.com",
-      "date": "2026-07-31T19:37:10.000Z",
+      "date": "2026-07-31T19:37:00.000Z",
       "summary": "GM Alireza Firouzja is back in the top 10 on the August 2026 FIDE rating list after his victory in the Quantbox Chennai Grand Masters, while GM Nodirbek Abdusattorov's last-round loss to GM Dmitry Andreikin saw him drop two places to eighth. For a..."
     },
     {
@@ -366,25 +372,11 @@
       "summary": "The KazChess Masters took place Tue 30th Jun to Wed 8th Jul 2026 in Almaty, Kazakhstan. Alexey Sarana edged out Alexander Donchenko on tie-break after both scored 6/9. Igor Kovalenko finished half a point behind."
     },
     {
-      "title": "Titled Arenas Announcement — July to September 2026",
-      "link": "https://lichess.org/@/Lichess/blog/titled-arenas-announcement-july-to-september-2026/5oiZT9uR",
-      "source": "Lichess",
-      "date": "2026-07-06T07:21:34.301Z",
-      "summary": "Announcing our schedule for upcoming Titled Arenas!"
-    },
-    {
       "title": "GCT Super Rapid & Blitz Croatia 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
       "source": "The Week in Chess",
       "date": "2026-07-05T22:55:00.000Z",
       "summary": "The GCT Super Rapid & Blitz Croatia took place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel Dea…"
-    },
-    {
-      "title": "Lichess Game of the Month: May '26",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-may-26/H3C1d56C",
-      "source": "Lichess",
-      "date": "2026-07-02T12:29:51.381Z",
-      "summary": "A stunning three queens game"
     },
     {
       "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
@@ -406,20 +398,6 @@
       "source": "ChessBase",
       "date": "2026-06-22T18:00:00.000Z",
       "summary": "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess – for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been s…"
-    },
-    {
-      "title": "FIDE World Team Blitz 2026: Dragon Chilling Clinches Double Title",
-      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-blitz-2026-dragon-chilling-clinches-double-title/NNCqdkrl",
-      "source": "Lichess",
-      "date": "2026-06-21T12:35:42.692Z",
-      "summary": "Dragon Chilling won the FIDE World Team Blitz Chess Championship 2026, defeating Endgame.AI in a dominant final and achieving a double gold. Uzbekistan took third after winning against Hexamind Chess Team."
-    },
-    {
-      "title": "FIDE World Team Rapid 2026: Dragon Chilling Rapid Champions, Rise Like a Phoenix",
-      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-rapid-2026-dragon-chilling-rapid-champions-rise-like-a-phoenix/AdnRMOKE",
-      "source": "Lichess",
-      "date": "2026-06-19T14:45:15.237Z",
-      "summary": "After a topsy-turvy third day, Dragon Chilling won the FIDE World Team Rapid Chess Championship 2026 on tiebreaks, edging out Team MGD1 and Hexamind Chess Team, who shared first with Dragon Chilling on matchpoints."
     }
   ]
 }
