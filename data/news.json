@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T11:58:52.646Z",
+  "updated": "2026-08-02T13:39:34.092Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "British Chess Championship - Live!",
+      "link": "https://en.chessbase.com/post/british-chess-championship-2026-live",
+      "source": "ChessBase",
+      "date": "2026-08-02T15:30:00.000Z",
+      "summary": "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and S…"
+    },
+    {
+      "title": "Dortmund: Bluebaum and Svane get off to a winning start",
+      "link": "https://en.chessbase.com/post/dortmund-festival-2026-d1",
+      "source": "ChessBase",
+      "date": "2026-08-02T15:10:00.000Z",
+      "summary": "Of the five players rated above 2600 at the main event of the Dortmund Chess Festival, only three began the tournament with a win on Saturday. Matthias Bluebaum (2689, last year's winner) defeated Alfred Parvanyan (2200), Rasmus Svane (2618) beat Robert Pri…"
+    },
+    {
+      "title": "Hou Yifan Wins, Sets Date With Alice Lee In Final",
+      "link": "https://www.chess.com/news/view/2026-wscc-sf-hou-assaubayeva",
+      "source": "Chess.com",
+      "date": "2026-08-02T12:39:37.000Z",
+      "summary": "GM Hou Yifan prevailed over GM Bibisara Assaubayeva with a final score of 12-10 in the second Semifinal of the 2026 Women's Speed Chess Championship. The match climaxed in the 1+1 bullet phase, where Hou staved off her opponent's expected resurgen..."
+    },
     {
       "title": "Nakamura Wins 50 Games, Claims 63rd Bullet Brawl Title",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-1-2026",
@@ -357,13 +378,6 @@
       "source": "ChessBase",
       "date": "2026-07-21T10:00:00.000Z",
       "summary": "In this episode of ChessBase Tips for Beginners, we look at layout customization and show how to arrange the panes in the single game window to create a more comfortable workspace. You will learn how to use predefined layouts, resize and dock panes, save yo…"
-    },
-    {
-      "title": "Judit Polgar, Tapped As Next President Of Hungary, Declines",
-      "link": "https://www.chess.com/news/view/judit-polgar-declines-president-of-hungary",
-      "source": "Chess.com",
-      "date": "2026-07-20T19:14:00.000Z",
-      "summary": "GM Judit Polgar, the greatest woman chess player in history, was invited to be Hungary's next president, a largely ceremonial position with a maximum term of five years. On Sunday, Hungary's new Prime Minister Peter Magyar announced on social medi..."
     },
     {
       "title": "The 1858-Rated Kid Who Beat a Super-GM - The Underdog",
