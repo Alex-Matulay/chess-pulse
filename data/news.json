@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T02:22:07.471Z",
+  "updated": "2026-08-02T05:52:05.539Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "ChessBase´26 – Tips for beginners, part 25: Customizing your view – how to see what matters",
+      "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-25-customizing-your-view-how-to-see-what-matters",
+      "source": "ChessBase",
+      "date": "2026-08-02T07:00:00.000Z",
+      "summary": "ChessBase´26 offers a wide range of technical features and training tools. To get the most out of them, it helps to know where to look. In this tutorial, we show you how just a few clicks can enhance your ChessBase experience. Explore the \"View\" menu across…"
+    },
+    {
+      "title": "Nakamura Wins 50 Games, Claims 63rd Bullet Brawl Title",
+      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-1-2026",
+      "source": "Chess.com",
+      "date": "2026-08-02T02:46:40.000Z",
+      "summary": "GM Hikaru Nakamura reclaimed the Bullet Brawl throne with relative ease on Saturday one week after missing out on the $400 first prize due to inferior tiebreaks. With 50 wins, eight draws, and only 11 losses to his name, Nakamura convincingly won ..."
+    },
     {
       "title": "Top seeds win in British Championship opening round",
       "link": "https://en.chessbase.com/post/british-chess-championship-2026-1",
@@ -357,13 +371,6 @@
       "source": "Chess.com",
       "date": "2026-07-20T19:14:00.000Z",
       "summary": "GM Judit Polgar, the greatest woman chess player in history, was invited to be Hungary's next president, a largely ceremonial position with a maximum term of five years. On Sunday, Hungary's new Prime Minister Peter Magyar announced on social medi..."
-    },
-    {
-      "title": "Chess Joins Junior Olympics As AAU Adds Chess Program",
-      "link": "https://www.chess.com/news/view/chess-joins-junior-olympics-as-aau-adds-chess-program",
-      "source": "Chess.com",
-      "date": "2026-07-20T17:32:31.000Z",
-      "summary": "Chess will soon be coming to the Junior Olympic Games. The Amateur Athletic Union (AAU) has announced that it will add chess as its latest competition, joining established programs covering dozens of sports. Matt Thomas, the first American chessbo..."
     },
     {
       "title": "The 1858-Rated Kid Who Beat a Super-GM - The Underdog",
