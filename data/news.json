@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T21:51:18.635Z",
+  "updated": "2026-08-02T22:51:41.556Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "World Amateur Rapid Chess Championship 2026 kicks off in Abuja, Nigeria",
+      "link": "https://www.fide.com/world-amateur-rapid-chess-championship-2026-kicks-off-in-abuja-nigeria/",
+      "source": "FIDE",
+      "date": "2026-08-02T22:34:17.000Z",
+      "summary": "The FIDE World Amateur Rapid & Blitz Chess Championship 2026 officially got underway with the Rapid section on Sunday, at the Bolton White Event Hall in Abuja, Nigeria. Players from across the world began their quest for the coveted FIDE World Amateur Rapid…"
+    },
     {
       "title": "Saint Louis Rapid & Blitz - Live!",
       "link": "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
@@ -266,13 +273,6 @@
       "source": "FIDE",
       "date": "2026-07-27T21:02:54.000Z",
       "summary": "In the framework of the African Chess Confederation (ACC) General Assembly in Addis Ababa, Ethiopia, FIDE organised a Capacity Building Seminar for national chess federations across the continent. The seminar brought together FIDE officials, Commission Chai…"
-    },
-    {
-      "title": "ACC General Assembly takes place in Addis Ababa; Benard Wanjala elected President",
-      "link": "https://www.fide.com/acc-general-assembly-takes-place-in-addis-ababa-benard-wanjala-elected-president/",
-      "source": "FIDE",
-      "date": "2026-07-27T11:34:11.000Z",
-      "summary": "The 10th African Chess Confederation (ACC) Electoral General Assembly took place today in Addis Ababa, Ethiopia, where delegates from across the continent elected new leadership for the organization. Following a closely contested election for the presidency…"
     },
     {
       "title": "How much faster are computers today?",
