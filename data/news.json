@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T13:37:02.000Z",
+  "updated": "2026-08-03T16:19:17.978Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -14,6 +14,13 @@
       "source": "ChessBase",
       "date": "2026-08-03T15:30:00.000Z",
       "summary": "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and S…"
+    },
+    {
+      "title": "The Chess Odyssey Bots Are Here For August!",
+      "link": "https://www.chess.com/news/view/odyssey-chess-bots",
+      "source": "Chess.com",
+      "date": "2026-08-03T13:42:05.000Z",
+      "summary": "Every month, a new group of bots appear on Chess.com. This August, set sail on an epic chess adventure inspired by the legends of ancient Greece!&nbsp;Navigate dangerous seas filled with monsters, magic, and heroes from Greek mythology. Enter the ..."
     },
     {
       "title": "FIDE statement regarding composition of FIDE World University Team Chess Championship Final",
@@ -373,13 +380,6 @@
       "summary": "GM Alireza Firouzja has taken clear first place in the 2026 Quantbox Chennai Grand Masters after making a draw with GM Arjun Erigaisi in the final round. GM Nodirbek Abdusattorov could have forced a playoff with a win, but instead he overpressed a..."
     },
     {
-      "title": "Firouzja Leads Before Final Round As Arjun, Gukesh Beaten",
-      "link": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-6",
-      "source": "Chess.com",
-      "date": "2026-07-21T20:00:00.000Z",
-      "summary": "GM Alireza Firouzja goes into the final round of the 2026 Quantbox Chennai Grand Masters with a half-point lead after making a draw against GM Nodirbek Abdusattorov while his co-leader GM Arjun Erigaisi lost to GM Nihal Sarin. The other big story ..."
-    },
-    {
       "title": "Svitlana's Smart Moves - Most underrated World Champion",
       "link": "https://en.chessbase.com/post/svitlana-s-smart-moves-most-underrated-world-champion",
       "source": "ChessBase",
@@ -469,13 +469,6 @@
       "source": "Lichess",
       "date": "2026-06-21T12:35:42.692Z",
       "summary": "Dragon Chilling won the FIDE World Team Blitz Chess Championship 2026, defeating Endgame.AI in a dominant final and achieving a double gold. Uzbekistan took third after winning against Hexamind Chess Team."
-    },
-    {
-      "title": "FIDE World Team Rapid 2026: Dragon Chilling Rapid Champions, Rise Like a Phoenix",
-      "link": "https://lichess.org/@/Lichess/blog/fide-world-team-rapid-2026-dragon-chilling-rapid-champions-rise-like-a-phoenix/AdnRMOKE",
-      "source": "Lichess",
-      "date": "2026-06-19T14:45:15.237Z",
-      "summary": "After a topsy-turvy third day, Dragon Chilling won the FIDE World Team Rapid Chess Championship 2026 on tiebreaks, edging out Team MGD1 and Hexamind Chess Team, who shared first with Dragon Chilling on matchpoints."
     }
   ]
 }
