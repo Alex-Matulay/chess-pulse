@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T16:19:17.978Z",
+  "updated": "2026-08-03T18:47:05.952Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Saint Louis Rapid & Blitz - Live!",
+      "link": "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
+      "source": "ChessBase",
+      "date": "2026-08-03T18:45:00.000Z",
+      "summary": "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, W…"
+    },
     {
       "title": "British Chess Championship - Live!",
       "link": "https://en.chessbase.com/post/british-chess-championship-2026-live",
