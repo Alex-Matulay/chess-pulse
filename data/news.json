@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T15:24:35.236Z",
+  "updated": "2026-08-04T17:41:38.311Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Saint Louis Rapid & Blitz - Live!",
+      "link": "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
+      "source": "ChessBase",
+      "date": "2026-08-04T18:45:00.000Z",
+      "summary": "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, W…"
+    },
+    {
+      "title": "History made in Almaty as inaugural FIDE World University Team Chess Championship gets underway",
+      "link": "https://www.fide.com/history-made-in-almaty-as-inaugural-fide-world-university-team-chess-championship-gets-underway/",
+      "source": "FIDE",
+      "date": "2026-08-04T17:25:34.000Z",
+      "summary": "History was made in Almaty, Kazakhstan, as the inaugural FIDE World University Team Chess Championship officially began, bringing together university teams from across the globe for the first-ever edition of the competition. Hosted by Al-Farabi Kazakh Natio…"
+    },
     {
       "title": "British Chess Championship - Live!",
       "link": "https://en.chessbase.com/post/british-chess-championship-2026-live",
@@ -231,13 +245,6 @@
       "source": "FIDE",
       "date": "2026-07-28T20:17:44.000Z",
       "summary": "In connection with the emergence of a vacant seat on the Constitutional Commission and in accordance with article 16.13 of the FIDE Charter and the FIDE Electoral Rules, the elections for the Member of the Constitutional Commission will take place at the FI…"
-    },
-    {
-      "title": "FIDE 2026 Elections: Presidential ticket candidacies announced",
-      "link": "https://www.fide.com/fide-2026-elections-presidential-ticket-candidacies-announced/",
-      "source": "FIDE",
-      "date": "2026-07-28T19:04:19.000Z",
-      "summary": "The 2026 FIDE Presidential election will be held on September 26, 2026, at the FIDE General Assembly in Samarkand, Uzbekistan. Each Member Federation represented in the General Assembly and in the assemblies of FIDE continents has one vote. List of Member f…"
     },
     {
       "title": "Geneva To Host Gukesh-Sindarov 2026 FIDE World Championship Match",
