@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T12:57:23.614Z",
+  "updated": "2026-08-04T15:24:35.236Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "British Chess Championship - Live!",
+      "link": "https://en.chessbase.com/post/british-chess-championship-2026-live",
+      "source": "ChessBase",
+      "date": "2026-08-04T15:30:00.000Z",
+      "summary": "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and S…"
+    },
     {
       "title": "ChessBase Summer-Special! – Part 5",
       "link": "https://en.chessbase.com/post/chessbase-summer-special-part-5",
@@ -21,6 +28,13 @@
       "source": "ChessBase",
       "date": "2026-08-04T13:00:00.000Z",
       "summary": "Do you know the feeling? You often come out of the opening with a promising position, only to struggle to convert your advantage because you do not fully understand the resulting middlegame. Jochen Schwarz, a club player from Bremen, wants to improve this a…"
+    },
+    {
+      "title": "FIDE World University Team Chess Championship starts in Almaty",
+      "link": "https://www.fide.com/fide-world-university-team-chess-championship-starts-in-almaty/",
+      "source": "FIDE",
+      "date": "2026-08-04T12:59:40.000Z",
+      "summary": "Two international chess tournaments have kicked off in Almaty: the finals of the FIDE World University Team Chess Championship and a match between the Kazakhstani and the World Youth teams. From August 4 to 9, teams from 16 universities across the globe, in…"
     },
     {
       "title": "Lichess Game of the Month: June '26",
@@ -56,13 +70,6 @@
       "source": "Chess.com",
       "date": "2026-08-03T23:35:00.000Z",
       "summary": "GM Praggnanandhaa Rameshbabu continues to lead the 2026 Saint Louis Rapid & Blitz at the end of day two. After six rounds, he has earned nine points out of a possible 12 and is two points ahead of GM Javokhir Sindarov, his closest rival. One p..."
-    },
-    {
-      "title": "British Chess Championship - Live!",
-      "link": "https://en.chessbase.com/post/british-chess-championship-2026-live",
-      "source": "ChessBase",
-      "date": "2026-08-03T15:30:00.000Z",
-      "summary": "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and S…"
     },
     {
       "title": "The Chess Odyssey Bots Are Here For August!",
@@ -231,13 +238,6 @@
       "source": "FIDE",
       "date": "2026-07-28T19:04:19.000Z",
       "summary": "The 2026 FIDE Presidential election will be held on September 26, 2026, at the FIDE General Assembly in Samarkand, Uzbekistan. Each Member Federation represented in the General Assembly and in the assemblies of FIDE continents has one vote. List of Member f…"
-    },
-    {
-      "title": "2026 FIDE Congress: List of Member Federations having right to vote",
-      "link": "https://www.fide.com/2026-fide-congress-list-of-member-federations-having-right-to-vote/",
-      "source": "FIDE",
-      "date": "2026-07-28T17:36:00.000Z",
-      "summary": "According to the FIDE Electoral Regulations, FIDE is publishing the list of Member Federations having the right to vote at the General Assembly 2026 together with the names of the Presidents and Delegates and the list of suspended Member Federations. ELECTO…"
     },
     {
       "title": "Geneva To Host Gukesh-Sindarov 2026 FIDE World Championship Match",
