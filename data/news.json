@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T04:09:14.539Z",
+  "updated": "2026-08-04T07:34:10.673Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Saint Louis Rapid & Blitz: Pragg keeps the lead, Sindarov in sole second place",
+      "link": "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-2",
+      "source": "ChessBase",
+      "date": "2026-08-04T09:25:00.000Z",
+      "summary": "Praggnanandhaa Rameshbabu remained in sole first place after six rounds of the Saint Louis Rapid & Blitz, extending his lead to 2 points over Javokhir Sindarov. The Indian grandmaster defeated Awonder Liang and drew his other two games on day two, including…"
+    },
     {
       "title": "FIDE Circuit 2026–2027: Sindarov moves into the lead",
       "link": "https://www.fide.com/fide-circuit-2026-2027-sindarov-moves-into-the-lead/",
@@ -26,7 +33,7 @@
       "title": "Praggnanandhaa Leads, Sindarov Trails By 2 Points",
       "link": "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-2",
       "source": "Chess.com",
-      "date": "2026-08-03T23:35:30.000Z",
+      "date": "2026-08-03T23:35:00.000Z",
       "summary": "GM Praggnanandhaa Rameshbabu continues to lead the 2026 Saint Louis Rapid & Blitz at the end of day two. After six rounds, he has earned nine points out of a possible 12 and is two points ahead of GM Javokhir Sindarov, his closest rival. One p..."
     },
     {
