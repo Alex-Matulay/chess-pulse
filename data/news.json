@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T10:32:52.389Z",
+  "updated": "2026-08-04T12:57:23.614Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "ChessBase Summer-Special! – Part 5",
+      "link": "https://en.chessbase.com/post/chessbase-summer-special-part-5",
+      "source": "ChessBase",
+      "date": "2026-08-04T13:00:01.000Z",
+      "summary": "Dear chess friends! We’ve got another great offer for you: this week (until August 9th, 2026), you can get over 25% off all Fritz Trainer courses by Ivan Sokolov!"
+    },
+    {
+      "title": "Review: My \"Sokolov-Strategy\" - Part 3",
+      "link": "https://en.chessbase.com/post/review-my-sokolov-strategy-part-3",
+      "source": "ChessBase",
+      "date": "2026-08-04T13:00:00.000Z",
+      "summary": "Do you know the feeling? You often come out of the opening with a promising position, only to struggle to convert your advantage because you do not fully understand the resulting middlegame. Jochen Schwarz, a club player from Bremen, wants to improve this a…"
+    },
+    {
+      "title": "Lichess Game of the Month: June '26",
+      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-june-26/a3FwhC4X",
+      "source": "Lichess",
+      "date": "2026-08-04T12:08:56.424Z",
+      "summary": "A queen sacrifice — with check!"
+    },
     {
       "title": "Saint Louis Rapid & Blitz: Pragg keeps the lead, Sindarov in sole second place",
       "link": "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-2",
