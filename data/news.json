@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T00:07:19.275Z",
+  "updated": "2026-08-05T03:56:25.134Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,10 +9,17 @@
   ],
   "items": [
     {
+      "title": "History being made in Almaty",
+      "link": "https://en.chessbase.com/post/history-being-made-in-almaty",
+      "source": "ChessBase",
+      "date": "2026-08-05T02:40:00.000Z",
+      "summary": "... as the Inaugural FIDE World University Team Chess Championship gets underway, bringing together university teams from across the globe for the first-ever edition of the competition. Hosted by Al-Farabi Kazakh National University as part of FIDE's Year o…"
+    },
+    {
       "title": "Praggnanandhaa Leads 3rd Day, Trailed by Sindarov, Wesley So",
       "link": "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-3",
       "source": "Chess.com",
-      "date": "2026-08-04T22:25:11.000Z",
+      "date": "2026-08-04T22:25:00.000Z",
       "summary": "For a third consecutive day, GM Praggnanandhaa Rameshbabu finds himself at the top of the standings in the 2026 Saint Louis Rapid & Blitz. He finished the rapid portion with 12 points on Tuesday and stayed in the lead even after losing to GM J..."
     },
     {
