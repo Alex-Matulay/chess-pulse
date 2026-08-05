@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T18:17:19.256Z",
+  "updated": "2026-08-05T20:22:17.285Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Team line-ups confirmed for 46th FIDE Chess Olympiad",
+      "link": "https://www.fide.com/team-line-ups-confirmed-for-46th-fide-chess-olympiad/",
+      "source": "FIDE",
+      "date": "2026-08-05T19:04:25.000Z",
+      "summary": "The team lists for the 46th FIDE Chess Olympiad have been published, revealing a field filled with World Champions, established national-team powers, and some of the brightest young players in chess. 400 teams have been confirmed over the two competitions:…"
+    },
     {
       "title": "Saint Louis Rapid & Blitz - Live!",
       "link": "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
@@ -231,13 +238,6 @@
       "source": "FIDE",
       "date": "2026-07-31T14:27:36.000Z",
       "summary": "The 2026 Arab Youth Chess Championship is currently underway at the Pyramids Park Resort Hotel, located on the outskirts of Cairo, Egypt. The competition, running from July 29 to August 4, has brought together the best young players from 16 Arab nations. Th…"
-    },
-    {
-      "title": "Registration opens for European Continental Stage of FIDE ISCF World Schools Team Championship 2026",
-      "link": "https://www.fide.com/registration-opens-for-european-continental-stage-of-fide-iscf-world-schools-team-championship-2026/",
-      "source": "FIDE",
-      "date": "2026-07-31T09:51:24.000Z",
-      "summary": "FIDE and the International School Chess Federation (ISCF), with the support of its general partner Freedom Holding Corp., invite all FIDE member federations from Europe to participate in the European Continental Stage of the FIDE ISCF World Schools Team Cha…"
     },
     {
       "title": "Russian Attack Destroys Historic Kherson Chess School And Its 5,000-Book Library",
