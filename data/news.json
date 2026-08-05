@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T16:01:46.878Z",
+  "updated": "2026-08-05T18:17:19.256Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Saint Louis Rapid & Blitz - Live!",
+      "link": "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
+      "source": "ChessBase",
+      "date": "2026-08-05T18:45:00.000Z",
+      "summary": "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, W…"
+    },
+    {
+      "title": "Day 2 brings high-level competition and inspiring stories to FIDE World University Team Championship Finals",
+      "link": "https://www.fide.com/day-2-brings-high-level-competition-and-inspiring-stories-to-fide-world-university-team-championship-finals/",
+      "source": "FIDE",
+      "date": "2026-08-05T17:58:59.000Z",
+      "summary": "The inaugural FIDE World University Team Championship Finals continued on Wednesday in Almaty as the battle for the knockout stage intensified, with university teams from around the world fighting for every point. Following another day of intense competitio…"
+    },
     {
       "title": "British Chess Championship - Live!",
       "link": "https://en.chessbase.com/post/british-chess-championship-2026-live",
@@ -259,13 +273,6 @@
       "source": "ChessBase",
       "date": "2026-07-29T12:00:00.000Z",
       "summary": "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning – but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally sh…"
-    },
-    {
-      "title": "Sixteen universities meet in Almaty for inaugural FIDE World University Team Chess Championship",
-      "link": "https://www.fide.com/sixteen-universities-meet-in-almaty-for-inaugural-fide-world-university-team-chess-championship/",
-      "source": "FIDE",
-      "date": "2026-07-29T08:48:22.000Z",
-      "summary": "Almaty will host the first FIDE World University Team Chess Championship from 3 to 10 August 2026, bringing together 16 university teams from around the world at Al-Farabi Kazakh National University. The final stage of the FIDE World University Team Chess C…"
     },
     {
       "title": "Bodhana Adds More Records With 1st IM Norm, 2600+ GM Win",
