@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T08:27:12.678Z",
+  "updated": "2026-08-06T11:17:27.276Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Saint Louis Rapid & Blitz: Pragg still leads, Sindarov keeps up the pace",
+      "link": "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-4",
+      "source": "ChessBase",
+      "date": "2026-08-06T11:00:00.000Z",
+      "summary": "Praggnanandhaa Rameshbabu retained the lead after the first nine blitz rounds of the Saint Louis Rapid & Blitz, scoring 6/9 to extend his advantage over Javokhir Sindarov to 1½ points. Sindarov remained the closest challenger after three consecutive wins, w…"
+    },
     {
       "title": "USA Top Seed Without Nakamura As India Prepares Olympiad Double-Gold Defense",
       "link": "https://www.chess.com/news/view/chess-olympiad-2026-lineups-announced",
@@ -28,13 +35,6 @@
       "source": "FIDE",
       "date": "2026-08-05T19:04:25.000Z",
       "summary": "The team lists for the 46th FIDE Chess Olympiad have been published, revealing a field filled with World Champions, established national-team powers, and some of the brightest young players in chess. 400 teams have been confirmed over the two competitions:…"
-    },
-    {
-      "title": "Saint Louis Rapid & Blitz - Live!",
-      "link": "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-live",
-      "source": "ChessBase",
-      "date": "2026-08-05T18:45:00.000Z",
-      "summary": "The Saint Louis Rapid & Blitz is taking place on 2-6 August at the Saint Louis Chess Club. The 10-player event sees three days of rapid chess (single round-robin) followed by two days of blitz (double round-robin). A stellar lineup features, among others, W…"
     },
     {
       "title": "Day 2 brings high-level competition and inspiring stories to FIDE World University Team Championship Finals",
