@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T23:56:00.824Z",
+  "updated": "2026-08-06T02:23:14.409Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Praggnanandhaa Leads After Surviving Losing Pawn Endgame Vs. Sindarov",
+      "link": "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-4",
+      "source": "Chess.com",
+      "date": "2026-08-06T01:18:25.000Z",
+      "summary": "The 2026 Saint Louis Rapid & Blitz has only had one leader for four days, and he has been GM Praggnanandhaa Rameshbabu. The Indian grandmaster put up the highest score in nine rounds of blitz, scoring 6/9, and is ahead of GM Javokhir Sindarov ..."
+    },
     {
       "title": "Team line-ups confirmed for 46th FIDE Chess Olympiad",
       "link": "https://www.fide.com/team-line-ups-confirmed-for-46th-fide-chess-olympiad/",
@@ -350,13 +357,6 @@
       "source": "Chess.com",
       "date": "2026-07-25T02:03:18.000Z",
       "summary": "GM Levon Aronian emerged as the winner of the Biel Masters&mdash;Grandmasters Triathlon event of the Biel Chess Festival, Switzerland, pocketing the top prize of CHF 10,000 (roughly &euro;10,750 or $12,250). The 59th edition of the festival had a ..."
-    },
-    {
-      "title": "Alice Lee Eliminates Women's World Champion With 6-Point Margin",
-      "link": "https://www.chess.com/news/view/2026-wscc-qf-ju-lee",
-      "source": "Chess.com",
-      "date": "2026-07-24T18:16:00.000Z",
-      "summary": "IM Alice Lee upset Women's World Champion and reigning WSCC Champion GM Ju Wenjun on Friday in the 2026 Women's Speed Chess Championship Quarterfinals. Lee dominated all three portions and won the match with a shockingly one-sided 9.5-3.5 score. ..."
     },
     {
       "title": "Biel Festival - Live!",
