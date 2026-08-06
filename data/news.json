@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T05:43:46.176Z",
+  "updated": "2026-08-06T08:27:12.678Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,10 +9,17 @@
   ],
   "items": [
     {
+      "title": "USA Top Seed Without Nakamura As India Prepares Olympiad Double-Gold Defense",
+      "link": "https://www.chess.com/news/view/chess-olympiad-2026-lineups-announced",
+      "source": "Chess.com",
+      "date": "2026-08-06T07:11:00.000Z",
+      "summary": "The USA is again missing GM Hikaru Nakamura for the 46th FIDE Chess Olympiad, but with GMs Fabiano Caruana, Wesley So, and Hans Niemann, it remains the top-ranked team in the Open section. Defending champion India, host nation Uzbekistan, and 2018..."
+    },
+    {
       "title": "Praggnanandhaa Leads After Surviving Losing Pawn Endgame Vs. Sindarov",
       "link": "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-4",
       "source": "Chess.com",
-      "date": "2026-08-06T01:18:25.000Z",
+      "date": "2026-08-06T01:18:00.000Z",
       "summary": "The 2026 Saint Louis Rapid & Blitz has only had one leader for four days, and he has been GM Praggnanandhaa Rameshbabu. The Indian grandmaster put up the highest score in nine rounds of blitz, scoring 6/9, and is ahead of GM Javokhir Sindarov ..."
     },
     {
@@ -350,13 +357,6 @@
       "source": "Chess.com",
       "date": "2026-07-26T00:21:00.000Z",
       "summary": "Against all odds, Vietnamese GM Tuan Minh Le produced one of the most unexpected comebacks in Bullet Brawl&nbsp;after closing a 20-point gap in 16 minutes and edging out GM Hikaru Nakamura on tiebreaks on Saturday. In the final 16 minutes, Le adde..."
-    },
-    {
-      "title": "Aronian Wins Biel Masters 2026",
-      "link": "https://www.chess.com/news/view/aronian-wins-biel-masters-2026",
-      "source": "Chess.com",
-      "date": "2026-07-25T02:03:18.000Z",
-      "summary": "GM Levon Aronian emerged as the winner of the Biel Masters&mdash;Grandmasters Triathlon event of the Biel Chess Festival, Switzerland, pocketing the top prize of CHF 10,000 (roughly &euro;10,750 or $12,250). The 59th edition of the festival had a ..."
     },
     {
       "title": "Biel Festival - Live!",
