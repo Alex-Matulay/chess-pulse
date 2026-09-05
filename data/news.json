@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T13:54:50.715Z",
+  "updated": "2026-09-05T16:04:49.981Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,130 +9,445 @@
   ],
   "items": [
     {
-      "title": "British Chess Championship - Live!",
-      "link": "https://en.chessbase.com/post/british-chess-championship-2026-live",
+      "title": "Global Chess League - Live!",
+      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
       "source": "ChessBase",
-      "date": "2026-08-06T15:30:00.000Z",
-      "summary": "The 112th edition of the British Chess Championship is taking place on 1-9 August at the University of Warwick in Coventry. The main event is a 9-round Swiss open with a classical time control. Topping the starting rank are Luke McShane, Michael Adams and S…"
+      "date": "2026-09-05T11:45:00.000Z",
+      "summary": "The Tech Mahindra Global Chess League returns for its fourth season from 5 to 13 September in Bengaluru, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league brings together elite grandmas…"
     },
     {
-      "title": "Dortmund: Dinara Wagner and Matthias Bluebaum grab crucial wins",
-      "link": "https://en.chessbase.com/post/dortmund-festival-2026-d5",
+      "title": "Daniel King - All my ChessBase courses on offer",
+      "link": "https://en.chessbase.com/post/daniel-king-all-my-chessbase-courses-on-offer",
       "source": "ChessBase",
-      "date": "2026-08-06T13:40:00.000Z",
-      "summary": "In the International Women's Tournament at the Dortmund Chess Festival, Dinara Wagner (pictured) moved into first place after defeating the previous leader, Nataliya Buksa. As Klaudia Kulon, who had been level on points with Wagner, lost to Song Yuxin, Wagn…"
+      "date": "2026-09-05T10:00:00.000Z",
+      "summary": "British Grandmaster Daniel King has been one of ChessBase's most popular and respected trainers for decades. In this Summer Special, all of his video courses are available at heavily reduced prices, including the complete 28 volume Power Play series, openin…"
     },
     {
-      "title": "Saint Louis Rapid & Blitz: Pragg still leads, Sindarov keeps up the pace",
-      "link": "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-4",
-      "source": "ChessBase",
-      "date": "2026-08-06T11:00:00.000Z",
-      "summary": "Praggnanandhaa Rameshbabu retained the lead after the first nine blitz rounds of the Saint Louis Rapid & Blitz, scoring 6/9 to extend his advantage over Javokhir Sindarov to 1½ points. Sindarov remained the closest challenger after three consecutive wins, w…"
-    },
-    {
-      "title": "USA Top Seed Without Nakamura As India Prepares Olympiad Double-Gold Defense",
-      "link": "https://www.chess.com/news/view/chess-olympiad-2026-lineups-announced",
+      "title": "Khachatryan Upstages Nhat Minh Twice To Win Duck Chess Title",
+      "link": "https://www.chess.com/news/view/2026-duck-chess-championship-khachatryan-wins",
       "source": "Chess.com",
-      "date": "2026-08-06T07:11:00.000Z",
-      "summary": "The USA is again missing GM Hikaru Nakamura for the 46th FIDE Chess Olympiad, but with GMs Fabiano Caruana, Wesley So, and Hans Niemann, it remains the top-ranked team in the Open section. Defending champion India, host nation Uzbekistan, and 2018..."
+      "date": "2026-09-05T08:19:00.000Z",
+      "summary": "Duck Chess specialist Edward Khachatryan of Israel defeated defending champion IM Nhat Minh To in both the Winners Final and the Grand Final to triumph in the 2026 Duck Chess Championship and pocket the winner's purse of $750. Nhat Minh gained $50..."
     },
     {
-      "title": "Praggnanandhaa Leads After Surviving Losing Pawn Endgame Vs. Sindarov",
-      "link": "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-4",
+      "title": "Newly reviewed: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 1)",
+      "link": "https://en.chessbase.com/post/review-ris-fritztrainers-2026-part-1",
+      "source": "ChessBase",
+      "date": "2026-09-05T07:00:00.000Z",
+      "summary": "Calculating variations, assessing positions accurately and finding the best move at the critical moment: few aspects of practical chess pose a greater challenge to players than concrete calculation. Robert Ris first addressed this topic in his 2018 Fritz Tr…"
+    },
+    {
+      "title": "Awonder Liang on chess, statistics, AI and the pursuit of small gains",
+      "link": "https://en.chessbase.com/post/awonder-liang-interview-underpromoted-2026",
+      "source": "ChessBase",
+      "date": "2026-09-04T22:20:00.000Z",
+      "summary": "In a candid interview from January 2026, 2700-level chess prodigy Awonder Liang reflects on his unique journey from a teenage sensation to a serious competitor while balancing a degree in economics and applied math. Liang challenges the notion that elite ch…"
+    },
+    {
+      "title": "European Senior Team Championship 2026 - Games and results",
+      "link": "https://theweekinchess.com/chessnews/events/european-senior-team-championship-2026",
+      "source": "The Week in Chess",
+      "date": "2026-09-04T19:21:00.000Z",
+      "summary": "The European Senior Team Championship 2026 took place Thu 27th August to Fri 4th September 2026. In the +50 event final Standings: 1st England 1, 17pts. 2nd Italy, 16pts. 3rd-4th Netherlands were just ahead of Slovakia on tie-break after they both scored 13…"
+    },
+    {
+      "title": "Svitlana's Smart Moves - Complete control like Petrosian",
+      "link": "https://en.chessbase.com/post/svitlana-s-smart-moves-complete-control-like-petrosian",
+      "source": "ChessBase",
+      "date": "2026-09-04T19:00:00.000Z",
+      "summary": "In this episode of Svitlana's Smart Moves, Svitlana Demchenko explores how to keep complete control of a position through the classic game Petrosian vs. Unzicker. She shows how Petrosian calmly neutralized every source of counterplay, dominated the open c-f…"
+    },
+    {
+      "title": "Terry Extends 3 0 Thursday Record",
+      "link": "https://www.chess.com/news/view/lazavik-maghsoodloo-terry-3-0-thursday-09-03-2026",
       "source": "Chess.com",
-      "date": "2026-08-06T01:18:00.000Z",
-      "summary": "The 2026 Saint Louis Rapid & Blitz has only had one leader for four days, and he has been GM Praggnanandhaa Rameshbabu. The Indian grandmaster put up the highest score in nine rounds of blitz, scoring 6/9, and is ahead of GM Javokhir Sindarov ..."
+      "date": "2026-09-04T18:35:20.000Z",
+      "summary": "IM Renato Terry extended his record for most 3 0 Thursday victories to 18 on September 3 after winning the final tournament of the day with a 9.5/11 score. Earlier, GMs Denis Lazavik and Parham Maghsoodloo took home the top prizes as well. NM Liud..."
     },
     {
-      "title": "Team line-ups confirmed for 46th FIDE Chess Olympiad",
-      "link": "https://www.fide.com/team-line-ups-confirmed-for-46th-fide-chess-olympiad/",
+      "title": "Lichess Game of the Month: July '26",
+      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-july-26/UxBo2UrP",
+      "source": "Lichess",
+      "date": "2026-09-04T16:45:51.279Z",
+      "summary": "A pawn race ends in a classic promotion tactic"
+    },
+    {
+      "title": "Thomas Paehtz turns 70",
+      "link": "https://en.chessbase.com/post/70-jahre-thomas-paehtz",
+      "source": "ChessBase",
+      "date": "2026-09-04T16:25:00.000Z",
+      "summary": "Thomas Paehtz was one of the leading players in East Germany, winning the East German Championship twice and the German Championship once. He later worked as a chess coach. His most successful pupil was his own daughter Elisabeth, who for decades was German…"
+    },
+    {
+      "title": "Collegiate Chess League Fall 2026 Registration",
+      "link": "https://www.chess.com/news/view/collegiate-chess-league-fall-2026-registration",
+      "source": "Chess.com",
+      "date": "2026-09-04T15:00:00.000Z",
+      "summary": "The Collegiate Chess League (CCL) is back for another thrilling season, and registrations for Fall 2026 are officially open! Once again, the CCL will boast a $25,000 prize fund and the exciting four-vs.-four team format that fans and players love...."
+    },
+    {
+      "title": "Praggnanandhaa On Fighting To Win, India's Olympiad Hopes, Gukesh-Sindarov & More",
+      "link": "https://www.chess.com/news/view/praggnanandhaa-interview-olympiad-gukesh-sindarov",
+      "source": "Chess.com",
+      "date": "2026-09-04T13:56:44.000Z",
+      "summary": "\"I think, at the moment, I would say he's the number one player in the world,\" GM Viswanathan Anand recently told The Times of India about GM Praggnanandhaa Rameshbabu, who followed victory in Norway Chess 2026 by winning the 2026 Grand Chess Tour..."
+    },
+    {
+      "title": "Season Four of the Tech Mahindra Global Chess League - Start",
+      "link": "https://theweekinchess.com/twic-news-feed/season-four-of-the-tech-mahindra-global-chess-league",
+      "source": "The Week in Chess",
+      "date": "2026-09-04T12:55:00.000Z",
+      "summary": "The 2026 Tech Mahindra Global Chess League runs Sat 5th-13th Sept in Bengaluru, India. It uses a rapid time control of 20 minutes plus 2 seconds a move. Magnus Carlsen, Alireza Firouzja and Viswanathan Anand star. League: 6 teams 10 matches, the top two fin…"
+    },
+    {
+      "title": "Tech Mahindra Global Chess League 2026 - Games and results",
+      "link": "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2026",
+      "source": "The Week in Chess",
+      "date": "2026-09-04T12:51:00.000Z",
+      "summary": "The Tech Mahindra Global Chess League takes place in Bengaluru, India 5th-13th September 2026. 6 Teams play over 10 rounds in rapid (10m+2spm) chess. Each match has its own session, there will be four a day for most of the league stage, 3 for the final coup…"
+    },
+    {
+      "title": "TCh-ESP 1st Div 2026 - Games and results",
+      "link": "https://theweekinchess.com/chessnews/events/tch-esp-1st-div-2026",
+      "source": "The Week in Chess",
+      "date": "2026-09-03T18:43:00.000Z",
+      "summary": "The Spanish CECLUB 1st Div took place Thu 27th August to Wed 2nd September 2026. Club Ajedrez Solvay headed by Vasyl Ivanchuk won the title. Final Standings: 1st Club Ajedrez Solvay, 14.0 points. 2nd Andreu Paterna, 9.0. 3rd Platja Daro Club Escacs, 8.0. 4t…"
+    },
+    {
+      "title": "12-Year-Old Faustino Oro Confirmed As World's Youngest Grandmaster",
+      "link": "https://www.chess.com/news/view/faustino-oro-officially-becomes-worlds-youngest-grandmaster",
+      "source": "Chess.com",
+      "date": "2026-09-03T16:11:00.000Z",
+      "summary": "GM Faustino Oro has officially been awarded the GM title by FIDE, making the 12-year-old Argentinian \"Messi of Chess\" the youngest current grandmaster. The confirmation comes shortly after he broke 3300 in blitz on Chess.com, giving an extra boost..."
+    },
+    {
+      "title": "Renowned Washington Square Park Player 'Chichi' Detained By ICE",
+      "link": "https://www.chess.com/news/view/washington-square-park-hustler-chichi-detained-by-ice",
+      "source": "Chess.com",
+      "date": "2026-09-03T15:20:00.000Z",
+      "summary": "Nigerian-born CM Chikwere Onyekwere (aka \"Chichi\"), the highest-rated hustler in New York's Washington Square Park, was detained by ICE (U.S. Immigration and Customs Enforcement) on Tuesday, August 25, and is currently in the Prairieland Detention..."
+    },
+    {
+      "title": "How To Watch Season 4 Of The Global Chess League",
+      "link": "https://www.chess.com/news/view/how-to-watch-global-chess-league-season-4",
+      "source": "Chess.com",
+      "date": "2026-09-03T15:00:00.000Z",
+      "summary": "The main event of the fourth season of the Tech Mahindra Global Chess League, the world's largest chess league, starts on September 5. Soon, the very best players in the world will gather in Bengaluru, India, to play in one of this year's biggest ..."
+    },
+    {
+      "title": "State of Chess: 'Grandmasters,' Gambit & Classic Games, Titled Tuesday Updates & More",
+      "link": "https://www.chess.com/news/view/2026-state-of-chess-september",
+      "source": "Chess.com",
+      "date": "2026-09-02T21:44:00.000Z",
+      "summary": "Chess.com&rsquo;s Chief Chess Officer, IM Danny Rensch, hosted State of Chess on Tuesday to share all the latest updates for Chess.com. The show featured special guests Liza Mandelup, executive producer and director of the new film Grandmasters,&n..."
+    },
+    {
+      "title": "Kramnik Loses New In Chess Lawsuit Over Naroditsky Article, Vows To Appeal",
+      "link": "https://www.chess.com/news/view/vladimir-kramnik-loses-new-in-chess-lawsuit",
+      "source": "Chess.com",
+      "date": "2026-09-02T20:30:34.000Z",
+      "summary": "GM Vladimir Kramnik has lost his lawsuit against Dutch chess magazine New In Chess over an article that accused the former world champion of cyberbullying GM Daniel Naroditsky. An Amsterdam court ruled that the article was not unlawful, rejected a..."
+    },
+    {
+      "title": "The North American Corporate Chess League Returns For Season 14 Starting October 1",
+      "link": "https://www.chess.com/news/view/announcing-north-american-corporate-chess-league-season-14",
+      "source": "Chess.com",
+      "date": "2026-09-02T15:00:00.000Z",
+      "summary": "The North American Corporate Chess League (NACCL) is back on Chess.com for its 14th season. The event runs from October 1 to November 12, and registration is now open. The NACCL is the world's largest corporate chess league, bringing together com..."
+    },
+    {
+      "title": "FIDE Election Heats Up As All 3 Presidential Tickets File Complaints",
+      "link": "https://www.chess.com/news/view/fide-election-complaints-buettner-rosenstein-turlov",
+      "source": "Chess.com",
+      "date": "2026-09-02T13:50:55.000Z",
+      "summary": "With less than a month until FIDE elects its next president, the campaign has entered an increasingly heated phase, with formal complaints from all three tickets, questions over Timur Turlov's eligibility, and allegations that FIDE itself has fail..."
+    },
+    {
+      "title": "GCL Season 4 preview: What to expect as the world’s top players head to Bengaluru",
+      "link": "https://www.fide.com/gcl-season-4-preview-what-to-expect-as-the-worlds-top-players-head-to-bengaluru/",
       "source": "FIDE",
-      "date": "2026-08-05T19:04:25.000Z",
-      "summary": "The team lists for the 46th FIDE Chess Olympiad have been published, revealing a field filled with World Champions, established national-team powers, and some of the brightest young players in chess. 400 teams have been confirmed over the two competitions:…"
+      "date": "2026-09-02T07:20:39.000Z",
+      "summary": "The FIDE Tech Mahindra Global Chess League is returning for its fourth season. With its unique format and competition concept, GCL is looking less like an annual chess tournament and more like a mature global sports league. After Dubai, London and Mumbai, S…"
     },
     {
-      "title": "Day 2 brings high-level competition and inspiring stories to FIDE World University Team Championship Finals",
-      "link": "https://www.fide.com/day-2-brings-high-level-competition-and-inspiring-stories-to-fide-world-university-team-championship-finals/",
-      "source": "FIDE",
-      "date": "2026-08-05T17:58:59.000Z",
-      "summary": "The inaugural FIDE World University Team Championship Finals continued on Wednesday in Almaty as the battle for the knockout stage intensified, with university teams from around the world fighting for every point. Following another day of intense competitio…"
-    },
-    {
-      "title": "Saint Louis Rapid & Blitz: Pragg wins rapid section despite final-round loss",
-      "link": "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-3",
-      "source": "ChessBase",
-      "date": "2026-08-05T10:35:00.000Z",
-      "summary": "Praggnanandhaa Rameshbabu finished the rapid section of the Saint Louis Rapid & Blitz in first place with 12/18 points, despite losing to Jorden van Foreest in the final round. Javokhir Sindarov trails by one point, with Wesley So another point behind. Prag…"
-    },
-    {
-      "title": "Nigeria’s 14-year-old Ekunke Odey Goodness wins FIDE World Amateur Rapid Chess Championship 2026",
-      "link": "https://www.fide.com/nigerias-14-year-old-ekunke-odey-goodness-wins-fide-world-amateur-rapid-chess-championship-2026/",
-      "source": "FIDE",
-      "date": "2026-08-05T08:52:26.000Z",
-      "summary": "History was made in Abuja as Nigeria’s 14-year-old Ekunke Odey Goodness emerged as the inaugural champion of the FIDE World Amateur Rapid Chess Championship 2026, scoring an impressive 9/11. The young Nigerian produced a remarkable performance against a str…"
-    },
-    {
-      "title": "History being made in Almaty",
-      "link": "https://en.chessbase.com/post/history-being-made-in-almaty",
-      "source": "ChessBase",
-      "date": "2026-08-05T02:40:00.000Z",
-      "summary": "... as the Inaugural FIDE World University Team Chess Championship gets underway, bringing together university teams from across the globe for the first-ever edition of the competition. Hosted by Al-Farabi Kazakh National University as part of FIDE's Year o…"
-    },
-    {
-      "title": "Praggnanandhaa Leads 3rd Day, Trailed by Sindarov, Wesley So",
-      "link": "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-3",
+      "title": "Niemann Wins Thrilling Titled Tuesday In Broadcast Return",
+      "link": "https://www.chess.com/news/view/niemann-wins-titled-tuesday-september-1-2026",
       "source": "Chess.com",
-      "date": "2026-08-04T22:25:00.000Z",
-      "summary": "For a third consecutive day, GM Praggnanandhaa Rameshbabu finds himself at the top of the standings in the 2026 Saint Louis Rapid & Blitz. He finished the rapid portion with 12 points on Tuesday and stayed in the lead even after losing to GM J..."
+      "date": "2026-09-01T20:47:00.000Z",
+      "summary": "GM Hans Niemann stole the show in September 1's Titled Tuesday at the latest possible moment. For most of the event, GM Jan-Krzysztof Duda not only threatened to win his second consecutive Titled Tuesday, but began 10/10, looking to become the fir..."
     },
     {
-      "title": "Bill Goichberg (1942-2026)",
-      "link": "https://www.chess.com/news/view/bill-goichberg-1942-2026",
+      "title": "Iranian GM Idani Switches To France: 'I Felt Forced Into It'",
+      "link": "https://www.chess.com/news/view/pouya-idani-transfers-iran-france",
       "source": "Chess.com",
-      "date": "2026-08-04T21:24:56.000Z",
-      "summary": "FM Bill Goichberg, the most prolific tournament organizer in the history of American chess, has passed at the age of 83. He leaves behind a lifetime of dedication to American chess in numerous roles, including as a competitor, tournament director,..."
+      "date": "2026-09-01T16:19:00.000Z",
+      "summary": "GM Pouya Idani, until now Iran&rsquo;s third-highest-rated player, has officially transferred to France three years after moving to Brest with his wife. The 30-year-old joins GM Alireza Firouzja and WGM Mitra Hejazipour among the prominent Iranian..."
     },
     {
-      "title": "5 Years After Emailing Keanu Reeves, Mitchell-Avila Beats Him At Chess",
-      "link": "https://www.chess.com/news/view/keanu-reeves-mitchell-avila-madwomans-game-chess",
+      "title": "Welcome to the Worst Band Class Ever 🎻",
+      "link": "https://www.chess.com/news/view/september-2026-chess-bots",
       "source": "Chess.com",
-      "date": "2026-08-04T20:03:00.000Z",
-      "summary": "Bianca Mitchell-Avila was 16 when she cold-emailed Hollywood star Keanu Reeves asking him to support her chess documentary, and perhaps face her in a final battle against \"John Wick.\" Five years later, she got her game. On Thursday, Mitchell-Avil..."
+      "date": "2026-09-01T15:21:02.000Z",
+      "summary": "This September, step onto the stage with five questionable musicians who are ready to put your chess skills and patience to the test. The chessboards are set. Bring earplugs and take your seat. 🏆 Beat the Band Class Bots throughout September to c..."
     },
     {
-      "title": "Carlsen Takes Titled Tuesday In Esports World Cup Warmup",
-      "link": "https://www.chess.com/news/view/carlsen-wins-titled-tuesday-august-4-2026",
+      "title": "SaVaToP1gG Wins Gambit Cup, Tops Field Of 1,454 Players",
+      "link": "https://www.chess.com/news/view/savatop1gg-wins-2026-gambit-cup",
       "source": "Chess.com",
-      "date": "2026-08-04T18:09:00.000Z",
-      "summary": "A week ahead of the start of the Esports World Cup main event, in which he will attempt to defend last year's title, GM Magnus Carlsen won Titled Tuesday on August 4. Carlsen scored 9.5 points and held a slightly better tiebreak over GM Arjun Erig..."
+      "date": "2026-09-01T14:49:07.000Z",
+      "summary": "SaVaToP1gG beat out a field of 1,454 players and was crowned champion on Monday in the first special edition of the Gambit Cup. The winner defeated Marzi in a heads-up final that lasted longer than expected. The favorite (his rating was 739 points..."
     },
     {
-      "title": "History made in Almaty as inaugural FIDE World University Team Chess Championship gets underway",
-      "link": "https://www.fide.com/history-made-in-almaty-as-inaugural-fide-world-university-team-chess-championship-gets-underway/",
+      "title": "Chess is getting its own home on the internet: FIDE and World Chess apply for the .chess domain extension",
+      "link": "https://www.fide.com/chess-is-getting-its-own-home-on-the-internet-fide-and-world-chess-apply-for-the-chess-domain-extension/",
       "source": "FIDE",
-      "date": "2026-08-04T17:25:34.000Z",
-      "summary": "History was made in Almaty, Kazakhstan, as the inaugural FIDE World University Team Chess Championship officially began, bringing together university teams from across the globe for the first-ever edition of the competition. Hosted by Al-Farabi Kazakh Natio…"
+      "date": "2026-09-01T11:15:44.000Z",
+      "summary": "The application for the game’s official top-level domain has been submitted to ICANN – the first chance in over a decade to create one. If approved, every federation, club, tournament and titled player will be able to carry a verified domain name ending in…"
     },
     {
-      "title": "ChessBase Summer-Special! – Part 5",
-      "link": "https://en.chessbase.com/post/chessbase-summer-special-part-5",
-      "source": "ChessBase",
-      "date": "2026-08-04T13:00:01.000Z",
-      "summary": "Dear chess friends! We’ve got another great offer for you: this week (until August 9th, 2026), you can get over 25% off all Fritz Trainer courses by Ivan Sokolov!"
-    },
-    {
-      "title": "Review: My \"Sokolov-Strategy\" - Part 3",
-      "link": "https://en.chessbase.com/post/review-my-sokolov-strategy-part-3",
-      "source": "ChessBase",
-      "date": "2026-08-04T13:00:00.000Z",
-      "summary": "Do you know the feeling? You often come out of the opening with a promising position, only to struggle to convert your advantage because you do not fully understand the resulting middlegame. Jochen Schwarz, a club player from Bremen, wants to improve this a…"
-    },
-    {
-      "title": "FIDE World University Team Chess Championship starts in Almaty",
-      "link": "https://www.fide.com/fide-world-university-team-chess-championship-starts-in-almaty/",
+      "title": "FIDE September 2026 rating list published",
+      "link": "https://www.fide.com/fide-september-2026-rating-list-published/",
       "source": "FIDE",
-      "date": "2026-08-04T12:59:40.000Z",
-      "summary": "Two international chess tournaments have kicked off in Almaty: the finals of the FIDE World University Team Chess Championship and a match between the Kazakhstani and the World Youth teams. From August 4 to 9, teams from 16 universities across the globe, in…"
+      "date": "2026-09-01T09:30:59.000Z",
+      "summary": "The FIDE September 2026 rating list was primarily shaped by the Grand Chess Tour Sinquefield Cup, the GCT Finals, the Cairns Cup, and several open tournaments across Europe. Wesley So triumphantly returned to the Top 5 Open after a nearly four-year hiatus,…"
+    },
+    {
+      "title": "FIDE Electoral Commission publishes lists of valid candidacies",
+      "link": "https://www.fide.com/fide-electoral-commission-publishes-lists-of-valid-candidacies/",
+      "source": "FIDE",
+      "date": "2026-09-01T08:35:02.000Z",
+      "summary": "The FIDE Electoral Commission has published its report dated August 30, 2026, approving the lists of valid applications for the positions of Elected Vice President, Member of the Constitutional Commission, and Zonal President. Valid candidacies for Elected…"
+    },
+    {
+      "title": "2026 FIDE Congress: List of Member Federations having right to vote",
+      "link": "https://www.fide.com/2026-fide-congress-list-of-member-federations-having-right-to-vote/",
+      "source": "FIDE",
+      "date": "2026-09-01T06:36:00.000Z",
+      "summary": "In accordance with the FIDE Electoral Regulations, FIDE is publishing the list of Member Federations entitled to vote at the 2026 General Assembly, together with the names of their Presidents and Delegates, as well as the list of suspended Member Federation…"
+    },
+    {
+      "title": "Praggnanandhaa Indian No. 1 On September FIDE Rating List",
+      "link": "https://www.chess.com/news/view/september-2026-fide-rating-list",
+      "source": "Chess.com",
+      "date": "2026-08-31T19:48:00.000Z",
+      "summary": "GM Praggnanandhaa Rameshbabu is back in the top 10 and has overtaken GM Arjun Erigaisi as Indian number-one after winning the 2026 Grand Chess Tour. A marathon month in St. Louis had a big impact on the September FIDE rating list as victory in the..."
+    },
+    {
+      "title": "Batumi to host FIDE World Cadet Championships 2026: Registration now open",
+      "link": "https://www.fide.com/batumi-to-host-fide-world-cadet-championships-2026-registration-now-open/",
+      "source": "FIDE",
+      "date": "2026-08-31T15:57:24.000Z",
+      "summary": "The clock is ticking for the world’s brightest young chess talents. FIDE and the Georgian Chess Federation are pleased to announce that the 2026 World Cadet Championships will take place in the Black Sea resort of Batumi, Georgia, from November 21 to 29, 20…"
+    },
+    {
+      "title": "Get Coached By The Almighty Mittens And Other New Coaches On Chess.com",
+      "link": "https://www.chess.com/news/view/announcing-mittens-and-other-coaches",
+      "source": "Chess.com",
+      "date": "2026-08-31T15:00:00.000Z",
+      "summary": "Hehehehehehehehe! Is it your dream coming true, or is it your worst nightmare? You can now get coached by the most formidable and cutest chess-playing entity in the world: Mittens! Along with the god-like chess-playing kitten, you can also get coa..."
+    },
+    {
+      "title": "Green Hills Resort Masters 2026 - Games and results",
+      "link": "https://theweekinchess.com/chessnews/events/green-hills-resort-masters-2026",
+      "source": "The Week in Chess",
+      "date": "2026-08-31T11:00:00.000Z",
+      "summary": "The Green Hills Resort Masters took place 30th-31st August in the Bostanlyk district which is 75km from Tashkent. The event was one day of rapid and one of blitz, the rapid games counted double. Nodirbek Yakubboev was something of a surprise winner, in the…"
+    },
+    {
+      "title": "Sofia Cup 2026 - Games and results",
+      "link": "https://theweekinchess.com/chessnews/events/sofia-cup-2026",
+      "source": "The Week in Chess",
+      "date": "2026-08-30T16:05:00.000Z",
+      "summary": "The Sofia Cup, also known as the Balkan Rapid and Blitz Championships took place 29th to 30th August 2026. Players: Alireza Firouzja Rauf Mamedov, Eduardo Iturrizaga Bonelli, Vojtech Plat, Leon Livaic, Sanan Sjugirov, Ediz Gurel, Ivan Cheparinov etc. Rauf M…"
+    },
+    {
+      "title": "Nakamura Continues Unrivalled Bullet Brawl Dominance, Coasts To 65th Title",
+      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-29-2026",
+      "source": "Chess.com",
+      "date": "2026-08-30T06:07:00.000Z",
+      "summary": "GM Hikaru Nakamura notched his 65th career Bullet Brawl title and 16th of 2026 on Saturday after finishing 23 points clear of the field, despite taking his \"foot off the gas\" at the end of the arena. Nakamura scored 51/65 and posted a score of 17..."
+    },
+    {
+      "title": "Grand Chess Tour Finals 2026 - Games and results",
+      "link": "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2026",
+      "source": "The Week in Chess",
+      "date": "2026-08-29T18:17:00.000Z",
+      "summary": "The Grand Chess Tour Finals took place in Saint Louis 22nd to 27th August 2026. This was the final event of the tour and a total prize fund of $450,000, was distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,00…"
+    },
+    {
+      "title": "Kasparov, Topalov To Renew Rivalry In $144,000 Chess960 Match",
+      "link": "https://www.chess.com/news/view/kasparov-topalov-chess960-match-st-louis",
+      "source": "Chess.com",
+      "date": "2026-08-29T12:46:00.000Z",
+      "summary": "The 13th World Champion GM Garry Kasparov will face GM Veselin Topalov, the opponent who defeated him in the final rated classical game of his career, in a $144,000 Chess960 match in St. Louis. The two former world champions will play 12 games ov..."
+    },
+    {
+      "title": "Fridrik Olafsson Memorial",
+      "link": "https://en.chessbase.com/post/fridrik-olafsson-memorial",
+      "source": "ChessBase",
+      "date": "2026-08-29T11:00:00.000Z",
+      "summary": "Chess players, mark your calendars. The Icelandic Chess Federation, Goðinn Chess Club, and Reykjavík Chess Club are joining forces to present \"Town and Country\" – two spectacular tournaments that together offer 15 rounds of high-level chess in just 11 days,…"
+    },
+    {
+      "title": "Xiong Nearly Perfect In 3 0 Thursday",
+      "link": "https://www.chess.com/news/view/pranesh-xiong-terry-3-0-thursday-08-27-2026",
+      "source": "Chess.com",
+      "date": "2026-08-28T19:08:28.000Z",
+      "summary": "No one has ever scored a perfect 11/11 in 3 0 Thursday, but GM Jeffery Xiong became the closest player to that elusive mark in the second tournament on August 27. Xiong won his first 10 games and had a forced mate on the board in the 11th, before ..."
+    },
+    {
+      "title": "2026 2nd FIDE Council Meeting, August 23: List of decisions",
+      "link": "https://www.fide.com/2nd-fide-council-meeting-august-23-2026-list-of-decisions/",
+      "source": "FIDE",
+      "date": "2026-08-28T15:39:37.000Z",
+      "summary": "2nd FIDE Council Meeting August 23, 2026 List of decisions CM2-2026/01 To note Interim President’s report. CM2-2026/02 To approve Treasurer’s report CM2-2026/03 To support in principle the suggested amendments to the FIDE Charter and to submit them to the G…"
+    },
+    {
+      "title": "Hassabis on chess and AI",
+      "link": "https://en.chessbase.com/post/hassabis-on-ai",
+      "source": "ChessBase",
+      "date": "2026-08-28T15:00:00.000Z",
+      "summary": "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neura…"
+    },
+    {
+      "title": "Praggnanandhaa Rameshbabu wins Grand Chess Tour 2026",
+      "link": "https://www.fide.com/praggnanandhaa-rameshbabu-wins-grand-chess-tour-2026/",
+      "source": "FIDE",
+      "date": "2026-08-28T09:09:00.000Z",
+      "summary": "Praggnanandhaa Rameshbabu overcame a six-point deficit on the final day to defeat Fabiano Caruana 15–13 and claim the 2026 Grand Chess Tour title. In the match for third place, Wesley So prevailed over Vincent Keymer after sweeping all four blitz games. The…"
+    },
+    {
+      "title": "FIDE stands with Nepal’s chess community in the wake of devastating floods",
+      "link": "https://www.fide.com/fide-stands-with-nepals-chess-community-in-the-wake-of-devastating-floods/",
+      "source": "FIDE",
+      "date": "2026-08-28T06:25:03.000Z",
+      "summary": "Dear President and Members of the Nepal Chess Federation, On behalf of FIDE and in my capacity as Interim President, I wish to express my deepest condolences and solidarity following the tragic floods that struck Nepal on 26 August. We are deeply saddened b…"
+    },
+    {
+      "title": "Praggnanandhaa Wins 2026 Grand Chess Tour, Wesley So Clinches 3rd",
+      "link": "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
+      "source": "Chess.com",
+      "date": "2026-08-27T22:23:00.000Z",
+      "summary": "GM Praggnanandhaa Rameshbabu came back from behind to win the final match against GM Fabiano Caruana and claim his maiden title in the 2026 Grand Chess Tour Finals, which comes with $200,000. The Indian grandmaster started the day six points behin..."
+    },
+    {
+      "title": "Chess enters school curriculum in Kurdistan, Iraq",
+      "link": "https://www.fide.com/chess-enters-school-curriculum-in-kurdistan-iraq/",
+      "source": "FIDE",
+      "date": "2026-08-27T15:49:19.000Z",
+      "summary": "Chess has officially entered the school curriculum in the Kurdistan Region of Iraq, marking an important milestone for chess education and bringing the game’s educational benefits to a new generation. The initiative was developed through the efforts of Khan…"
+    },
+    {
+      "title": "Play In The Special Edition Of The Gambit Cup On August 31",
+      "link": "https://www.chess.com/news/view/announcing-gambit-cup",
+      "source": "Chess.com",
+      "date": "2026-08-27T15:00:00.000Z",
+      "summary": "We're excited to announce a special edition of the Gambit Cup, a poker event taking place on August 31. The event starts at 12 p.m. ET / 18:00 CEST / 9:30 p.m. IST and is open to all Gambit members. The Gambit Cup is a daily poker tournament host..."
+    },
+    {
+      "title": "Assaubayeva, Anna Muzychuk Grab Final Spots In WR Women's Chess Tour Final",
+      "link": "https://www.chess.com/news/view/assaubayeva-anna-muzychuk-2026-wr-womens-chess-tour-europe",
+      "source": "Chess.com",
+      "date": "2026-08-27T10:08:00.000Z",
+      "summary": "GMs Bibisara Assaubayeva and Anna Muzychuk have taken the final spots in the WR Women's Chess Tour 2026 Grand Final after winning the WR Women's Chess Tour Europe 2026 events in Saint-Tropez, France. Assaubayeva survived two armageddon games befor..."
+    },
+    {
+      "title": "Caruana Survives To Lead Praggnanandhaa By 6; Keymer Leads So In 3rd-Place Match",
+      "link": "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-5",
+      "source": "Chess.com",
+      "date": "2026-08-26T22:46:00.000Z",
+      "summary": "GM Fabiano Caruana continues to lead GM Praggnanandhaa Rameshbabu 9-3 in the 2026 Grand Chess Tour Finals title match after making a draw in game two. Praggnanandhaa had huge winning chances in the opposite-color bishop endgame, but Caruana surviv..."
+    },
+    {
+      "title": "GothamChess Signs With BASILISK As Head Of Chess, Joins Giri & Keymer",
+      "link": "https://www.chess.com/news/view/basilisk-signs-gothamchess-levy-rozman",
+      "source": "Chess.com",
+      "date": "2026-08-26T13:02:51.000Z",
+      "summary": "IM Levy Rozman (GothamChess) is the latest addition to team BASILISK, the global esports organization. Rozman joins a team that already consists of super-GMs Anish Giri and Vincent Keymer, though his role will not be as a player but as the Head of..."
+    },
+    {
+      "title": "6th Cairns Cup 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/6th-cairns-cup-2026",
+      "source": "The Week in Chess",
+      "date": "2026-08-23T10:37:00.000Z",
+      "summary": "The 6th Cairns Cup 2026 took place Mon 10th to Fri 21st August 2026. Tan Zhongyi won with 6½/9 half a point clear of Alice Lee on 6. She earned her first GM norm in the 2026 Cairns Cup at the age of 16."
+    },
+    {
+      "title": "13th Sinquefield Cup 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/13th-sinquefield-cup-2026",
+      "source": "The Week in Chess",
+      "date": "2026-08-20T06:44:00.000Z",
+      "summary": "The 13th Sinquefield Cup took place 10th to 20th August 2026. Players: Fabiano Caruana, Javokhir Sindarov, Vincent Keymer, Wesley So, Anish Giri, Praggnanandhaa R, Jorden Van Foreest, Maxime Vachier-lagrave, Levon Aronian and Samuel Sevian. Wesley So took f…"
+    },
+    {
+      "title": "Quo vadis, Fischer Random Chess? (1)",
+      "link": "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-1",
+      "source": "ChessBase",
+      "date": "2026-08-19T23:06:12.000Z",
+      "summary": "As you have noticed, this form of chess is becoming increasingly popular. Everyone seems to like it, sponsors are lining up to stage high-prize tournaments, even World Championships. In this series we look back at the origin of Fischer-Random, Chess960 or F…"
+    },
+    {
+      "title": "Sinquefield Cup Tiebreaks - Live!",
+      "link": "https://en.chessbase.com/post/sinquefield-cup-2026-live",
+      "source": "ChessBase",
+      "date": "2026-08-19T18:50:00.000Z",
+      "summary": "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in th…"
+    },
+    {
+      "title": "Andrew Martin: Evans & Friends Vol.1 & 2",
+      "link": "https://en.chessbase.com/post/andrew-martin-evans-friends-vol-1-2",
+      "source": "ChessBase",
+      "date": "2026-08-19T07:22:09.000Z",
+      "summary": "IM Andrew Martin presents a complete White repertoire after 1.e4 e5 2.Nf3, with the Evans Gambit as its aggressive centerpiece for tactically minded players up to around 1800 Elo. Volume 1 covers the key lines, attacking ideas and traps of the Evans Gambit,…"
+    },
+    {
+      "title": "Streamer Arenas Announcement — August to December 2026",
+      "link": "https://lichess.org/@/Lichess/blog/streamer-arenas-announcement-august-to-december-2026/tkby72bI",
+      "source": "Lichess",
+      "date": "2026-08-16T19:40:30.817Z",
+      "summary": "Announcing our schedule for upcoming Streamer Arenas!"
+    },
+    {
+      "title": "Carlsen wins the Chess event in the Esports World Cup - Final",
+      "link": "https://theweekinchess.com/twic-news-feed/carlsen-wins-the-chess-event-in-the-esports-world-cup",
+      "source": "The Week in Chess",
+      "date": "2026-08-15T18:42:00.000Z",
+      "summary": "Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The c…"
+    },
+    {
+      "title": "Esports World Cup 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/esports-world-cup-2026",
+      "source": "The Week in Chess",
+      "date": "2026-08-15T16:53:00.000Z",
+      "summary": "The Esports World Cup chess section took place in Paris Tue 11th Aug to Sat 15th Aug 2026. This Double Elimination KO event featured Magnus Carlsen, Hikaru Nakmura, Alireza Firouzja and Denis Lazavik among many famous names and faces. I have a new table for…"
+    },
+    {
+      "title": "Remembering Oleg Skvortsov",
+      "link": "https://en.chessbase.com/post/remembering-oleg-skvortsov",
+      "source": "ChessBase",
+      "date": "2026-08-13T08:00:00.000Z",
+      "summary": "A few weeks ago this great chess organiser and sponsor passed away at the age of 57. For many years he invited us to his \"Zurich Chess Challenge\", which saw some of the world's top players competing. During that time we had interesting, personal interaction…"
+    },
+    {
+      "title": "More Than a Half-Year Update 2026",
+      "link": "https://lichess.org/@/Lichess/blog/more-than-a-half-year-update-2026/Bu77Rba1",
+      "source": "Lichess",
+      "date": "2026-08-12T07:27:11.461Z",
+      "summary": "Mobile updates, site updates, broadcasts, events, and more!"
+    },
+    {
+      "title": "112th British Chess Championships 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
+      "source": "The Week in Chess",
+      "date": "2026-08-09T19:46:00.000Z",
+      "summary": "The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. T…"
+    },
+    {
+      "title": "Lichess Meetup: Prague",
+      "link": "https://lichess.org/@/Lichess/blog/lichess-meetup-prague/rt9aFXz5",
+      "source": "Lichess",
+      "date": "2026-08-07T08:23:09.095Z",
+      "summary": "Sunday, September 20th, 2026"
     },
     {
       "title": "Lichess Game of the Month: June '26",
@@ -142,130 +457,11 @@
       "summary": "A queen sacrifice — with check!"
     },
     {
-      "title": "FIDE Circuit 2026–2027: Sindarov moves into the lead",
-      "link": "https://www.fide.com/fide-circuit-2026-2027-sindarov-moves-into-the-lead/",
-      "source": "FIDE",
-      "date": "2026-08-04T00:14:10.000Z",
-      "summary": "Javokhir Sindarov overtook his countryman Nodirbek Abdusattorov in the FIDE Circuit 2026–2027 race following his double victory at the Naroditsky Memorial in Charlotte, USA. Abdusattorov picked up 9.47 points for his runner-up finish at the 2026 Super Rapid…"
-    },
-    {
-      "title": "Praggnanandhaa Leads, Sindarov Trails By 2 Points",
-      "link": "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-2",
-      "source": "Chess.com",
-      "date": "2026-08-03T23:35:00.000Z",
-      "summary": "GM Praggnanandhaa Rameshbabu continues to lead the 2026 Saint Louis Rapid & Blitz at the end of day two. After six rounds, he has earned nine points out of a possible 12 and is two points ahead of GM Javokhir Sindarov, his closest rival. One p..."
-    },
-    {
-      "title": "The Chess Odyssey Bots Are Here For August!",
-      "link": "https://www.chess.com/news/view/odyssey-chess-bots",
-      "source": "Chess.com",
-      "date": "2026-08-03T13:42:05.000Z",
-      "summary": "Every month, a new group of bots appear on Chess.com. This August, set sail on an epic chess adventure inspired by the legends of ancient Greece!&nbsp;Navigate dangerous seas filled with monsters, magic, and heroes from Greek mythology. Enter the ..."
-    },
-    {
-      "title": "FIDE statement regarding composition of FIDE World University Team Chess Championship Final",
-      "link": "https://www.fide.com/fide-statement-regarding-composition-of-fide-world-university-team-chess-championship-final/",
-      "source": "FIDE",
-      "date": "2026-08-03T13:20:48.000Z",
-      "summary": "In view of a number of statements made regarding the composition of the FIDE World University Team Chess Championship Final, FIDE wishes to clarify the following: 1. The FIDE World University Team Chess Championship is a competition between universities, no…"
-    },
-    {
       "title": "Help us build the next ChessBase",
       "link": "https://en.chessbase.com/post/help-us-build-the-next-chessbase",
       "source": "ChessBase",
       "date": "2026-08-03T06:57:57.000Z",
       "summary": "We're planning the next chapters of ChessBase and we want input from the people who actually use it, before we decide what to build first. Help us by taking part in a survey that asks how you work day to day: your setup and hardware, how you use engines and…"
-    },
-    {
-      "title": "Praggnanandhaa Takes Sole Lead On Day 1",
-      "link": "https://www.chess.com/news/view/2026-saint-louis-rapid-and-blitz-day-1",
-      "source": "Chess.com",
-      "date": "2026-08-03T03:50:00.000Z",
-      "summary": "GM Praggnanandhaa Rameshbabu had the best start on day one of the 2026 Saint Louis Rapid & Blitz, taking the sole lead with five out of a possible six points. He's trailed by two players a point behind, GMs Javokhir Sindarov and Wesley So. Th..."
-    },
-    {
-      "title": "World Amateur Rapid Chess Championship 2026 kicks off in Abuja, Nigeria",
-      "link": "https://www.fide.com/world-amateur-rapid-chess-championship-2026-kicks-off-in-abuja-nigeria/",
-      "source": "FIDE",
-      "date": "2026-08-02T22:34:17.000Z",
-      "summary": "The FIDE World Amateur Rapid & Blitz Chess Championship 2026 officially got underway with the Rapid section on Sunday, at the Bolton White Event Hall in Abuja, Nigeria. Players from across the world began their quest for the coveted FIDE World Amateur Rapid…"
-    },
-    {
-      "title": "Hou Yifan Wins, Sets Date With Alice Lee In Final",
-      "link": "https://www.chess.com/news/view/2026-wscc-sf-hou-assaubayeva",
-      "source": "Chess.com",
-      "date": "2026-08-02T12:39:00.000Z",
-      "summary": "GM Hou Yifan prevailed over GM Bibisara Assaubayeva with a final score of 12-10 in the second semifinal of the 2026 Women's Speed Chess Championship. The match climaxed in the 1+1 bullet phase, where Hou staved off her opponent's expected resurgen..."
-    },
-    {
-      "title": "Nakamura Wins 50 Games, Claims 63rd Bullet Brawl Title",
-      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-1-2026",
-      "source": "Chess.com",
-      "date": "2026-08-02T02:46:40.000Z",
-      "summary": "GM Hikaru Nakamura reclaimed the Bullet Brawl throne with relative ease on Saturday one week after missing out on the $400 first prize due to inferior tiebreaks. With 50 wins, eight draws, and only 11 losses to his name, Nakamura convincingly won ..."
-    },
-    {
-      "title": "112th British Chess Championships 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
-      "source": "The Week in Chess",
-      "date": "2026-08-01T18:15:00.000Z",
-      "summary": "The 112th British Chess Championships take place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those."
-    },
-    {
-      "title": "FIDE August 2026 rating list published",
-      "link": "https://www.fide.com/fide-august-2026-rating-list-published/",
-      "source": "FIDE",
-      "date": "2026-08-01T12:09:08.000Z",
-      "summary": "The FIDE August 2026 rating list was primarily shaped by the Quantbox Chennai Grand Masters, Biel International Chess Festival, Oskemen Open, and several open tournaments across Europe. Both the top 10 Open and top 10 Women sections saw two important change…"
-    },
-    {
-      "title": "Maghsoodloo Rallies To Win 3 0 Thursday On Tiebreaks",
-      "link": "https://www.chess.com/news/view/pranav-maghsoodloo-xiong-3-0-thursday-07-30-2026",
-      "source": "Chess.com",
-      "date": "2026-08-01T03:54:00.000Z",
-      "summary": "GM Pranav Venkatesh added another feather in his cap in the first 3 0 Thursday tournament of the week, finishing with an undefeated 9.5/11 and outscoring no fewer than eight super-GMs. Wins over GMs Aravindh Chithambaram, Sergei Zhigalko, Hans Nie..."
-    },
-    {
-      "title": "Firouzja Back In Top 10, Erdogmus Overtakes Gukesh On August FIDE Rating List",
-      "link": "https://www.chess.com/news/view/august-2026-fide-rating-list",
-      "source": "Chess.com",
-      "date": "2026-07-31T19:37:00.000Z",
-      "summary": "GM Alireza Firouzja is back in the top 10 on the August 2026 FIDE rating list after his victory in the Quantbox Chennai Grand Masters, while GM Nodirbek Abdusattorov's last-round loss to GM Dmitry Andreikin saw him drop two places to eighth. For a..."
-    },
-    {
-      "title": "Arab Youth Chess Championship 2026 underway in Cairo, Egypt",
-      "link": "https://www.fide.com/arab-youth-chess-championship-2026-underway-in-cairo-egypt/",
-      "source": "FIDE",
-      "date": "2026-07-31T14:27:36.000Z",
-      "summary": "The 2026 Arab Youth Chess Championship is currently underway at the Pyramids Park Resort Hotel, located on the outskirts of Cairo, Egypt. The competition, running from July 29 to August 4, has brought together the best young players from 16 Arab nations. Th…"
-    },
-    {
-      "title": "Russian Attack Destroys Historic Kherson Chess School And Its 5,000-Book Library",
-      "link": "https://www.chess.com/news/view/russian-attack-destroys-historic-kherson-chess-school-in-ukraine-5-000-book-library",
-      "source": "Chess.com",
-      "date": "2026-07-30T15:20:46.000Z",
-      "summary": "A Russian artillery attack destroyed the 121-year-old building that housed Kherson&rsquo;s Children&rsquo;s and Youth Sports School for Chess and Checkers, consuming what the regional chess federation says housed a library of more than 5,000 chess..."
-    },
-    {
-      "title": "Alexandra Botez To Host Chess Arena Event With Star Creators On July 31",
-      "link": "https://www.chess.com/news/view/creator-brawl-chess-arena",
-      "source": "Chess.com",
-      "date": "2026-07-29T18:00:00.000Z",
-      "summary": "WFM Alexandra Botez's venture into the game development world continues with a new chapter. Last year, the Canadian creator announced her involvement with Chess Arena, a fast-paced chess-themed battle royale game. Now, she's hosting the Chess Aren..."
-    },
-    {
-      "title": "Teamwork And Chaos Return For Chess.com Bughouse Championship Starting August 3",
-      "link": "https://www.chess.com/news/view/announcing-chesscom-bughouse-championship-2026",
-      "source": "Chess.com",
-      "date": "2026-07-29T15:00:00.000Z",
-      "summary": "Who says chess needs to be an individual game? Call up your buddy and get ready for the madness of the Chess.com Bughouse Chess Championship! The event features a $5,000 prize fund and will take place from August 3 to August 7. Bughouse is one of..."
-    },
-    {
-      "title": "Global Chess League Contenders Returns On August 7 As Pathway To World Stage",
-      "link": "https://www.chess.com/news/view/announcing-tech-mahindra-global-chess-league-contenders-2026",
-      "source": "Chess.com",
-      "date": "2026-07-29T14:30:00.000Z",
-      "summary": "The Tech Mahindra Global Chess League (GCL) is returning for its fourth season with GM Magnus Carlsen headlining the field in Bengaluru, India. With a stellar lineup of the strongest players in the game teaming up in exhilarating matchups, the fou..."
     },
     {
       "title": "Shifts and mirrors in a chess problem",
@@ -275,53 +471,11 @@
       "summary": "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning – but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally sh…"
     },
     {
-      "title": "Bodhana Adds More Records With 1st IM Norm, 2600+ GM Win",
-      "link": "https://www.chess.com/news/view/bodhana-youngest-girl-im-norm-beats-2600-gm",
-      "source": "Chess.com",
-      "date": "2026-07-29T00:49:00.000Z",
-      "summary": "Eleven-year-old FM Bodhana Sivanandan added two more age records with a stunning performance at the Dole Open in France last week, becoming the youngest girl ever to score an international master norm and the youngest girl known to defeat a 2600-r..."
-    },
-    {
-      "title": "USA Beats Uzbekistan 14-10 In WR Chess Miami Rapid & Blitz",
-      "link": "https://www.chess.com/news/view/usa-wins-2026-wr-chess-rapid-blitz-miami",
-      "source": "Chess.com",
-      "date": "2026-07-29T00:18:00.000Z",
-      "summary": "Team USA won the match against Uzbekistan in the inaugural WR Chess Rapid & Blitz Miami 2026. They clinched the match 13-9 with a round to spare. They played the final round anyway, and tied, so the final score was 14-10. Team USA consisted o..."
-    },
-    {
-      "title": "7-Game Win Streak Carries Firouzja Through Titled Tuesday",
-      "link": "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-july-28-2026",
-      "source": "Chess.com",
-      "date": "2026-07-28T20:37:24.000Z",
-      "summary": "GM Alireza Firouzja returned to Titled Tuesday on July 28 and won the event outright with a score of 9.5/11, including ripping off seven straight wins from rounds four through 10. The win was Firouzja's first of 2026 after he posted four victories..."
-    },
-    {
-      "title": "Geneva To Host Gukesh-Sindarov 2026 FIDE World Championship Match",
-      "link": "https://www.chess.com/news/view/geneva-gukesh-sindarov-2026-fide-world-championship",
-      "source": "Chess.com",
-      "date": "2026-07-28T14:25:00.000Z",
-      "summary": "Geneva, Switzerland will host the 2026 FIDE World Championship between Indian World Champion Gukesh Dommaraju and his Uzbek challenger GM Javokhir Sindarov, with the 14-game match running November 25 to December 15. FIDE Interim President GM Viswa..."
-    },
-    {
       "title": "WR Chess Rapid & Blitz Miami 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/wr-chess-rapid-blitz-miami-2026",
       "source": "The Week in Chess",
       "date": "2026-07-28T10:14:00.000Z",
       "summary": "The WR Chess Rapid & Blitz Miami was a two day rapid and then blitz match between the USA and Uzbekistan ahead of the Olympiad. Team: Ukbekistan: Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev, Shamsiddin Vokhidov, Mukhiddin Madaminov, USA: Hi…"
-    },
-    {
-      "title": "U.S. Takes 5-3 Lead Vs. Uzbekistan In Miami Rapid Chess",
-      "link": "https://www.chess.com/news/view/2026-wr-chess-rapid-blitz-miami-usa-vs-uzbekistan",
-      "source": "Chess.com",
-      "date": "2026-07-28T00:30:00.000Z",
-      "summary": "The U.S. leads 5-3 against Uzbekistan after day one of the WR Chess Rapid & Blitz Miami 2026. GM Levon Aronian was the MVP, putting up the highest individual score on his team, 2.5/3. GM Nodirbek Abdusattorov's 3/4, the highest on team Uzbekis..."
-    },
-    {
-      "title": "Alice Lee Storms Into Women's Speed Chess Final 19.5-4.5",
-      "link": "https://www.chess.com/news/view/2026-wscc-qf-hou-muzychuk-sf-lee-avrimidou",
-      "source": "Chess.com",
-      "date": "2026-07-27T22:25:00.000Z",
-      "summary": "A run of 11 wins in 12 games saw 16-year-old IM Alice Lee overwhelm FM Anastasia Avramidou to reach the Final of the 2026 Women's Speed Chess Championship. She'll face the winner of GM Bibisara Assaubayeva vs. GM Hou Yifan, after the women's numbe..."
     },
     {
       "title": "How much faster are computers today?",
@@ -331,116 +485,11 @@
       "summary": "In the early 1980s, as a fledgling TV journalist, I did a report on the fastest computer in the world. The Cray-1 cost eight million dollars and could do 130 million floating point operations per second. That was enough to calculate the weather, but also to…"
     },
     {
-      "title": "Akopian Wins U.S. Senior Championship",
-      "link": "https://www.chess.com/news/view/akopian-wins-us-senior-championship",
-      "source": "Chess.com",
-      "date": "2026-07-26T11:29:00.000Z",
-      "summary": "GM Vladimir Akopian defeated top-seeded GM Alexander Onischuk in a blitz tiebreak playoff to win the 2026 U.S. Senior Championship held at the Saint Louis Chess Club, which concluded on Saturday, July 25. Akopian was awarded $26,000 for his effort..."
-    },
-    {
-      "title": "20-Point Comeback Seals Stunning Tiebreak Victory For Le",
-      "link": "https://www.chess.com/news/view/tuan-minh-le-wins-bullet-brawl-july-25-2026",
-      "source": "Chess.com",
-      "date": "2026-07-26T00:21:00.000Z",
-      "summary": "Against all odds, Vietnamese GM Tuan Minh Le produced one of the most unexpected comebacks in Bullet Brawl&nbsp;after closing a 20-point gap in 16 minutes and edging out GM Hikaru Nakamura on tiebreaks on Saturday. In the final 16 minutes, Le adde..."
-    },
-    {
       "title": "Biel Festival - Live!",
       "link": "https://en.chessbase.com/post/biel-festival-2026-live",
       "source": "ChessBase",
       "date": "2026-07-23T13:50:00.000Z",
       "summary": "The Biel International Chess Festival is taking place on 11-24 July. Following the Chess960 tournament on Saturday and the rapid chess stage on Sunday, the players in the Masters and Generations Challenge Triathlon face off in the final stage of the classic…"
-    },
-    {
-      "title": "Quantbox Chennai Grand Masters 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/quantbox-chennai-grand-masters-2026",
-      "source": "The Week in Chess",
-      "date": "2026-07-22T14:55:00.000Z",
-      "summary": "The Quantbox Chennai Grand Masters took place Thu 16th Jul to Wed 22nd Jul 2026. Alireza Firouzja took clear first place with 4½/7 half a point clear of Dmitry Andreikin and Arjun Erigaisi, The poor form of World Champion Gukesh continues as he finished dea…"
-    },
-    {
-      "title": "Svitlana's Smart Moves - Most underrated World Champion",
-      "link": "https://en.chessbase.com/post/svitlana-s-smart-moves-most-underrated-world-champion",
-      "source": "ChessBase",
-      "date": "2026-07-21T10:05:00.000Z",
-      "summary": "Svitlana looks at Max Euwe, one of the most underrated world champions in chess history. Through one attacking game and one defensive game, she shows that Euwe was not just a logical and balanced player, but also capable of finding powerful sacrifices, acti…"
-    },
-    {
-      "title": "ChessBase tips for beginners - Standard Layout or Custom Layout (10)",
-      "link": "https://en.chessbase.com/post/chessbase-tips-for-beginners-standard-layout-or-custom-layout-10",
-      "source": "ChessBase",
-      "date": "2026-07-21T10:00:00.000Z",
-      "summary": "In this episode of ChessBase Tips for Beginners, we look at layout customization and show how to arrange the panes in the single game window to create a more comfortable workspace. You will learn how to use predefined layouts, resize and dock panes, save yo…"
-    },
-    {
-      "title": "The 1858-Rated Kid Who Beat a Super-GM - The Underdog",
-      "link": "https://en.chessbase.com/post/the-1858-rated-kid-who-beat-a-super-gm-the-underdog",
-      "source": "ChessBase",
-      "date": "2026-07-13T18:00:00.000Z",
-      "summary": "In this episode of The Underdog, Robert Ris presents a spectacular upset from the Asian Esports Chess Cup, where a young Thai player (Pakornnarong Liukasemsarn) defeats super-GM Andrey Esipenko despite an enormous rating gap. In a sharp Italian Game with op…"
-    },
-    {
-      "title": "Sergei Tiviakov wins his fourth Netherlands Chess Championship - Final",
-      "link": "https://theweekinchess.com/twic-news-feed/sergei-tiviakov-wins-his-fourth-netherlands-chess-championship",
-      "source": "The Week in Chess",
-      "date": "2026-07-11T19:01:00.000Z",
-      "summary": "Sergei Tiviakov was the surprise winner of the 2026 Netherlands Chess Championships held at the Renaissance Amsterdam Schiphol Airport Hotel. Whilst the event was missing the strongest two players, Anish Giri and Jordan van Foreest, it was a pretty respecta…"
-    },
-    {
-      "title": "Netherland Championships 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/netherland-championships-2026",
-      "source": "The Week in Chess",
-      "date": "2026-07-11T17:59:00.000Z",
-      "summary": "The Netherland Championships took place in Amsterdam Sat 4th to Sat 11th Jul 2026. The event was a KO with both an open and women's event. Sergei Tiviakov won his fourth title defeating Liam Vrolijk in the final after a tie-break. Machteld Van Foreest beat…"
-    },
-    {
-      "title": "KazChess Masters 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/kazchess-masters-2026",
-      "source": "The Week in Chess",
-      "date": "2026-07-08T19:38:00.000Z",
-      "summary": "The KazChess Masters took place Tue 30th Jun to Wed 8th Jul 2026 in Almaty, Kazakhstan. Alexey Sarana edged out Alexander Donchenko on tie-break after both scored 6/9. Igor Kovalenko finished half a point behind."
-    },
-    {
-      "title": "Titled Arenas Announcement — July to September 2026",
-      "link": "https://lichess.org/@/Lichess/blog/titled-arenas-announcement-july-to-september-2026/5oiZT9uR",
-      "source": "Lichess",
-      "date": "2026-07-06T07:21:34.301Z",
-      "summary": "Announcing our schedule for upcoming Titled Arenas!"
-    },
-    {
-      "title": "GCT Super Rapid & Blitz Croatia 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/gct-super-rapid-blitz-croatia-2026",
-      "source": "The Week in Chess",
-      "date": "2026-07-05T22:55:00.000Z",
-      "summary": "The GCT Super Rapid & Blitz Croatia took place in Zagreb 1st to 5th July 2026. Players: Vincent Keymer, Alireza Firouzja, Anish Giri, Maxime Vachier-Lagrave, Jorden Van Foreest, Praggnanandhaa Rameshbabu, Nodirbek Abdusattorov, Ivan Saric, Bogdan-Daniel Dea…"
-    },
-    {
-      "title": "Lichess Game of the Month: May '26",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-may-26/H3C1d56C",
-      "source": "Lichess",
-      "date": "2026-07-02T12:29:51.381Z",
-      "summary": "A stunning three queens game"
-    },
-    {
-      "title": "ChessBase´26 – Tips for beginners, part 21: Maximum Training Effect with the Power Tool \"Replay Training\" (Part 1)",
-      "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-21-maximum-training-effect-with-the-power-tool-replay-training-part-1",
-      "source": "ChessBase",
-      "date": "2026-06-28T07:00:00.000Z",
-      "summary": "Do you know the powerful training tool in ChessBase´26? It's called \"Replay Training\"! This great feature lets you actively go through games move by move—sharpening your strategic and tactical understanding in a targeted way. Whether under time pressure or…"
-    },
-    {
-      "title": "FIDE World Rapid and Blitz Team Championships 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2026",
-      "source": "The Week in Chess",
-      "date": "2026-06-24T14:52:00.000Z",
-      "summary": "The FIDE World Rapid and Blitz Team Championships takes place Wed 17th Jun 2026 Sun 22nd Jun 2026. Three days of rapid followed by three days of blitz in Hong Kong. 48 teams. Players: Magnus Carlsen, Vladislav Artemiev, Arjun Erigaisi, Alireza Firouzja, Lev…"
-    },
-    {
-      "title": "Surrealists and chess",
-      "link": "https://en.chessbase.com/post/surrealists-and-chess",
-      "source": "ChessBase",
-      "date": "2026-06-22T18:00:00.000Z",
-      "summary": "The Lyon Olympique Échecs club has just sent out an alert to 17,500 chess players and 2,500 other contacts. The message reads: \"Surrealists and Chess – for €40, help us save a 19th-century workshop right in the heart of Lyon!\" A support committee has been s…"
     }
   ]
 }
