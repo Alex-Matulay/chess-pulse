@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T16:04:49.981Z",
+  "updated": "2026-09-05T17:04:43.483Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Pouya Idani switches federations from Iran to France",
+      "link": "https://en.chessbase.com/post/pouya-idani-represents-france-2026",
+      "source": "ChessBase",
+      "date": "2026-09-05T18:15:00.000Z",
+      "summary": "Iranian grandmaster Pouya Idani has switched federations and will now represent France. The 30-year-old, who has lived in Brest since 2023 and has long been active in French club chess, enters the country's top group of players with a rating above 2600. Ida…"
+    },
     {
       "title": "Global Chess League - Live!",
       "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
