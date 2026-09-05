@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T19:50:40.846Z",
+  "updated": "2026-09-05T21:51:44.214Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Sindarov's American Gambits Begins Global Chess League With Double Win",
+      "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-1",
+      "source": "Chess.com",
+      "date": "2026-09-05T20:07:00.000Z",
+      "summary": "GM Javokhir Sindarov beat GM Viswanathan Anand and made a draw against GM Alireza Firouzja as the FYERS American Gambits won both matches on day one of the 2026 Tech Mahindra Global Chess League. There were also wins for GM Magnus Carlsen's Alpine..."
+    },
     {
       "title": "Pouya Idani switches federations from Iran to France",
       "link": "https://en.chessbase.com/post/pouya-idani-represents-france-2026",
@@ -364,13 +371,6 @@
       "source": "Chess.com",
       "date": "2026-08-26T22:46:00.000Z",
       "summary": "GM Fabiano Caruana continues to lead GM Praggnanandhaa Rameshbabu 9-3 in the 2026 Grand Chess Tour Finals title match after making a draw in game two. Praggnanandhaa had huge winning chances in the opposite-color bishop endgame, but Caruana surviv..."
-    },
-    {
-      "title": "GothamChess Signs With BASILISK As Head Of Chess, Joins Giri & Keymer",
-      "link": "https://www.chess.com/news/view/basilisk-signs-gothamchess-levy-rozman",
-      "source": "Chess.com",
-      "date": "2026-08-26T13:02:51.000Z",
-      "summary": "IM Levy Rozman (GothamChess) is the latest addition to team BASILISK, the global esports organization. Rozman joins a team that already consists of super-GMs Anish Giri and Vincent Keymer, though his role will not be as a player but as the Head of..."
     },
     {
       "title": "6th Cairns Cup 2026 - Games and Results",
