@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T02:36:39.066Z",
+  "updated": "2026-09-06T07:32:38.535Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,32 @@
   ],
   "items": [
     {
+      "title": "England and Slovenia win European Senior Team Championships",
+      "link": "https://en.chessbase.com/post/european-senior-teams-2026-r9",
+      "source": "ChessBase",
+      "date": "2026-09-06T09:20:00.000Z",
+      "summary": "England and Slovenia claimed the titles at the European Senior Team Championships in Crete. England finished unbeaten to win the 50+ section with 17/18 match points, one ahead of Italy. In the 65+ competition, Slovenia and England both scored 16/18, with th…"
+    },
+    {
+      "title": "ChessBase´26 – Tips for Beginners, part 30: Use \"Folders\"",
+      "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-30-use-folders",
+      "source": "ChessBase",
+      "date": "2026-09-06T07:00:00.000Z",
+      "summary": "ChessBase´26 is amazingly versatile and often surprisingly user-friendly — as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the “Folders” window, which lets you quickly locate anything y…"
+    },
+    {
       "title": "Global Chess League: American Gambits win both their matches on opening day",
       "link": "https://en.chessbase.com/post/global-chess-league-2026-1",
       "source": "ChessBase",
       "date": "2026-09-06T03:50:00.000Z",
       "summary": "The fourth season of the Tech Mahindra Global Chess League got under way on Saturday, with the FYERS American Gambits making the strongest start. They won both of their opening-day matches, including a victory over the Triveni Continental Kings, who lost tw…"
+    },
+    {
+      "title": "Xiong Captures His 5th Bullet Brawl Title",
+      "link": "https://www.chess.com/news/view/xiong-wins-bullet-brawl-sep-5-2026",
+      "source": "Chess.com",
+      "date": "2026-09-06T03:44:00.000Z",
+      "summary": "GM Jeffery Xiong emerged as the winner of a thrilling edition of Bullet Brawl on Saturday in an event that saw the lead change several times, with several players taking turns at the top of the standings. Xiong scored 49.5/68 to post 162 arena po..."
     },
     {
       "title": "Sindarov's American Gambits Begin Global Chess League With Double Win",
@@ -329,13 +350,6 @@
       "source": "Chess.com",
       "date": "2026-08-27T10:08:00.000Z",
       "summary": "GMs Bibisara Assaubayeva and Anna Muzychuk have taken the final spots in the WR Women's Chess Tour 2026 Grand Final after winning the WR Women's Chess Tour Europe 2026 events in Saint-Tropez, France. Assaubayeva survived two armageddon games befor..."
-    },
-    {
-      "title": "Caruana Survives To Lead Praggnanandhaa By 6; Keymer Leads So In 3rd-Place Match",
-      "link": "https://www.chess.com/news/view/2026-grand-chess-tour-finals-day-5",
-      "source": "Chess.com",
-      "date": "2026-08-26T22:46:00.000Z",
-      "summary": "GM Fabiano Caruana continues to lead GM Praggnanandhaa Rameshbabu 9-3 in the 2026 Grand Chess Tour Finals title match after making a draw in game two. Praggnanandhaa had huge winning chances in the opposite-color bishop endgame, but Caruana surviv..."
     },
     {
       "title": "6th Cairns Cup 2026 - Games and Results",
