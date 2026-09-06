@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T17:27:55.797Z",
+  "updated": "2026-09-06T19:54:38.631Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "GCL 2026: Ganges Grandmasters edge table toppers FYERS American Gambits 9-7, jumping to second spot",
+      "link": "https://www.fide.com/gcl-2026-ganges-grandmasters-edge-table-toppers-fyers-american-gambits-9-7-jumping-to-second-spot/",
+      "source": "FIDE",
+      "date": "2026-09-06T19:42:12.000Z",
+      "summary": "PBG Alaskan Knights defeated CheQ Mumba Masters 11-6 while Alpine APL Pipers won against Ganges Grandmasters by an identical margin. Triveni Continental Kings remain the only team with zero matchpoints. Ganges Grandmasters stopped the winning juggernaut of…"
+    },
     {
       "title": "Former Super GMs taken down - The Underdog",
       "link": "https://en.chessbase.com/post/former-super-gms-taken-down-the-underdog",
@@ -329,13 +336,6 @@
       "source": "Chess.com",
       "date": "2026-08-28T19:08:28.000Z",
       "summary": "No one has ever scored a perfect 11/11 in 3 0 Thursday, but GM Jeffery Xiong became the closest player to that elusive mark in the second tournament on August 27. Xiong won his first 10 games and had a forced mate on the board in the 11th, before ..."
-    },
-    {
-      "title": "2026 2nd FIDE Council Meeting, August 23: List of decisions",
-      "link": "https://www.fide.com/2nd-fide-council-meeting-august-23-2026-list-of-decisions/",
-      "source": "FIDE",
-      "date": "2026-08-28T15:39:37.000Z",
-      "summary": "2nd FIDE Council Meeting August 23, 2026 List of decisions CM2-2026/01 To note Interim President’s report. CM2-2026/02 To approve Treasurer’s report CM2-2026/03 To support in principle the suggested amendments to the FIDE Charter and to submit them to the G…"
     },
     {
       "title": "Hassabis on chess and AI",
