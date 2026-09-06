@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T14:49:40.330Z",
+  "updated": "2026-09-06T17:27:55.797Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Former Super GMs taken down - The Underdog",
+      "link": "https://en.chessbase.com/post/former-super-gms-taken-down-the-underdog",
+      "source": "ChessBase",
+      "date": "2026-09-06T18:30:00.000Z",
+      "summary": "In this episode of Underdog, Robert Ris presents two entertaining blitz upsets from a strong event in Sofia. First, Jolanta Zawadzka punishes former 2700 player Ivan Cheparinov with a sharp kingside attack in a Sicilian, finishing the game in just 20 moves.…"
+    },
     {
       "title": "Global Chess League - Live!",
       "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
@@ -28,6 +35,13 @@
       "source": "ChessBase",
       "date": "2026-09-06T09:20:00.000Z",
       "summary": "England and Slovenia claimed the titles at the European Senior Team Championships in Crete. England finished unbeaten to win the 50+ section with 17/18 match points, one ahead of Italy. In the 65+ competition, Slovenia and England both scored 16/18, with th…"
+    },
+    {
+      "title": "GCL 2026: FYERS American Gambits make a perfect start",
+      "link": "https://www.fide.com/gcl-2026-fyers-american-gambits-make-a-perfect-start/",
+      "source": "FIDE",
+      "date": "2026-09-06T08:19:00.000Z",
+      "summary": "Defending champions Alpine APL Pipers kicked off their campaign with a fighting win with the black pieces, beating CheQ Mumba Masters 10-8. Two-time winners Triveni Continental Kings suffered a 9-10 reversal against Ganges Grandmasters. Meanwhile, FYERS Ame…"
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 30: Use \"Folders\"",
@@ -329,13 +343,6 @@
       "source": "ChessBase",
       "date": "2026-08-28T15:00:00.000Z",
       "summary": "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neura…"
-    },
-    {
-      "title": "Praggnanandhaa Rameshbabu wins Grand Chess Tour 2026",
-      "link": "https://www.fide.com/praggnanandhaa-rameshbabu-wins-grand-chess-tour-2026/",
-      "source": "FIDE",
-      "date": "2026-08-28T09:09:00.000Z",
-      "summary": "Praggnanandhaa Rameshbabu overcame a six-point deficit on the final day to defeat Fabiano Caruana 15–13 and claim the 2026 Grand Chess Tour title. In the match for third place, Wesley So prevailed over Vincent Keymer after sweeping all four blitz games. The…"
     },
     {
       "title": "Praggnanandhaa Wins 2026 Grand Chess Tour, Wesley So Clinches 3rd",
