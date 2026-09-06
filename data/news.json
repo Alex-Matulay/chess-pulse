@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T19:54:38.631Z",
+  "updated": "2026-09-06T21:55:02.671Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Carlsen Escapes Vs. Nepomniachtchi As Alpine Pipers Only Team Still Unbeaten",
+      "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-2",
+      "source": "Chess.com",
+      "date": "2026-09-06T20:00:00.000Z",
+      "summary": "GM Magnus Carlsen's Alpine APL Pipers has the only perfect record of the 2026 Tech Mahindra Global Chess League after scoring a dramatic win over GM Ian Nepomniachtchi's Ganges Grandmasters. Nepomniachtchi failed to beat the world number-one with ..."
+    },
     {
       "title": "GCL 2026: Ganges Grandmasters edge table toppers FYERS American Gambits 9-7, jumping to second spot",
       "link": "https://www.fide.com/gcl-2026-ganges-grandmasters-edge-table-toppers-fyers-american-gambits-9-7-jumping-to-second-spot/",
@@ -357,13 +364,6 @@
       "source": "Chess.com",
       "date": "2026-08-27T15:00:00.000Z",
       "summary": "We're excited to announce a special edition of the Gambit Cup, a poker event taking place on August 31. The event starts at 12 p.m. ET / 18:00 CEST / 9:30 p.m. IST and is open to all Gambit members. The Gambit Cup is a daily poker tournament host..."
-    },
-    {
-      "title": "Assaubayeva, Anna Muzychuk Grab Final Spots In WR Women's Chess Tour Final",
-      "link": "https://www.chess.com/news/view/assaubayeva-anna-muzychuk-2026-wr-womens-chess-tour-europe",
-      "source": "Chess.com",
-      "date": "2026-08-27T10:08:00.000Z",
-      "summary": "GMs Bibisara Assaubayeva and Anna Muzychuk have taken the final spots in the WR Women's Chess Tour 2026 Grand Final after winning the WR Women's Chess Tour Europe 2026 events in Saint-Tropez, France. Assaubayeva survived two armageddon games befor..."
     },
     {
       "title": "6th Cairns Cup 2026 - Games and Results",
