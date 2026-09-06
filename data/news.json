@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T07:32:38.535Z",
+  "updated": "2026-09-06T11:53:46.407Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Global Chess League - Live!",
+      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-06T11:45:00.000Z",
+      "summary": "The Tech Mahindra Global Chess League returns for its fourth season from 5 to 13 September in Bengaluru, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league brings together elite grandmas…"
+    },
+    {
+      "title": "GCL S4 Day 2 preview: Can anyone stop the Gambits?",
+      "link": "https://www.fide.com/gcl-s4-day-2-preview-can-anyone-stop-the-gambits/",
+      "source": "FIDE",
+      "date": "2026-09-06T09:20:15.000Z",
+      "summary": "One day in and the league already has a bully, three teams on nothing, and a Carlsen match to open Sunday. Where things stand Day 1 results: Alaskan Knights 4-10 American Gambits · Continental Kings 9-10 Ganges Grandmasters · Mumba Masters 8-10 Alpine Piper…"
+    },
     {
       "title": "England and Slovenia win European Senior Team Championships",
       "link": "https://en.chessbase.com/post/european-senior-teams-2026-r9",
@@ -30,11 +44,11 @@
       "summary": "The fourth season of the Tech Mahindra Global Chess League got under way on Saturday, with the FYERS American Gambits making the strongest start. They won both of their opening-day matches, including a victory over the Triveni Continental Kings, who lost tw…"
     },
     {
-      "title": "Xiong Captures His 5th Bullet Brawl Title",
-      "link": "https://www.chess.com/news/view/xiong-wins-bullet-brawl-sep-5-2026",
-      "source": "Chess.com",
-      "date": "2026-09-06T03:44:00.000Z",
-      "summary": "GM Jeffery Xiong emerged as the winner of a thrilling edition of Bullet Brawl on Saturday in an event that saw the lead change several times, with several players taking turns at the top of the standings. Xiong scored 49.5/68 to post 162 arena po..."
+      "title": "England and Slovenia triumph in European Senior Team Championship 2026",
+      "link": "https://www.fide.com/england-and-slovenia-triumph-in-european-senior-team-championship-2026/",
+      "source": "FIDE",
+      "date": "2026-09-05T20:16:00.000Z",
+      "summary": "The European Senior Team Chess Championship 2026 concluded yesterday in Hersonissos, Crete, Greece. The event took place from August 26 to September 5 at the Hotel Royal Belvedere in Hersonissos and brought together 32 teams and 150 players competing in two…"
     },
     {
       "title": "Sindarov's American Gambits Begin Global Chess League With Double Win",
@@ -42,6 +56,13 @@
       "source": "Chess.com",
       "date": "2026-09-05T20:07:00.000Z",
       "summary": "GM Javokhir Sindarov beat GM Viswanathan Anand and made a draw against GM Alireza Firouzja as the FYERS American Gambits won both matches on day one of the 2026 Tech Mahindra Global Chess League. There were also wins for GM Magnus Carlsen's Alpine..."
+    },
+    {
+      "title": "Xiong Captures His 5th Bullet Brawl Title",
+      "link": "https://www.chess.com/news/view/xiong-wins-bullet-brawl-sep-5-2026",
+      "source": "Chess.com",
+      "date": "2026-09-05T19:05:00.000Z",
+      "summary": "GM Jeffery Xiong emerged as the winner of a thrilling edition of Bullet Brawl on Saturday in an event that saw the lead change several times, with several players taking turns at the top of the standings. Xiong scored 49.5/68 to post 162 arena po..."
     },
     {
       "title": "Pouya Idani switches federations from Iran to France",
@@ -317,25 +338,11 @@
       "summary": "Praggnanandhaa Rameshbabu overcame a six-point deficit on the final day to defeat Fabiano Caruana 15–13 and claim the 2026 Grand Chess Tour title. In the match for third place, Wesley So prevailed over Vincent Keymer after sweeping all four blitz games. The…"
     },
     {
-      "title": "FIDE stands with Nepal’s chess community in the wake of devastating floods",
-      "link": "https://www.fide.com/fide-stands-with-nepals-chess-community-in-the-wake-of-devastating-floods/",
-      "source": "FIDE",
-      "date": "2026-08-28T06:25:03.000Z",
-      "summary": "Dear President and Members of the Nepal Chess Federation, On behalf of FIDE and in my capacity as Interim President, I wish to express my deepest condolences and solidarity following the tragic floods that struck Nepal on 26 August. We are deeply saddened b…"
-    },
-    {
       "title": "Praggnanandhaa Wins 2026 Grand Chess Tour, Wesley So Clinches 3rd",
       "link": "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
       "source": "Chess.com",
       "date": "2026-08-27T22:23:00.000Z",
       "summary": "GM Praggnanandhaa Rameshbabu came back from behind to win the final match against GM Fabiano Caruana and claim his maiden title in the 2026 Grand Chess Tour Finals, which comes with $200,000. The Indian grandmaster started the day six points behin..."
-    },
-    {
-      "title": "Chess enters school curriculum in Kurdistan, Iraq",
-      "link": "https://www.fide.com/chess-enters-school-curriculum-in-kurdistan-iraq/",
-      "source": "FIDE",
-      "date": "2026-08-27T15:49:19.000Z",
-      "summary": "Chess has officially entered the school curriculum in the Kurdistan Region of Iraq, marking an important milestone for chess education and bringing the game’s educational benefits to a new generation. The initiative was developed through the efforts of Khan…"
     },
     {
       "title": "Play In The Special Edition Of The Gambit Cup On August 31",
