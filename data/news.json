@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T18:33:25.188Z",
+  "updated": "2026-09-07T21:52:43.899Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Carlsen's Alpine Pipers Storms Back From Loss To Grab Sole Lead",
+      "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-3",
+      "source": "Chess.com",
+      "date": "2026-09-07T20:56:00.000Z",
+      "summary": "GM Magnus Carlsen flagged GM Viswanathan Anand in the opening match of day three of the 2026 Tech Mahindra Global Chess League, but it couldn't stop Alpine APL Pipers tasting its first defeat when GM Vidit Gujrathi also lost on time. Vidit and the..."
+    },
+    {
+      "title": "GCL 2026, Day 3: Alpine APL Pipers seize the lead",
+      "link": "https://www.fide.com/gcl-2026-day-3-alpine-apl-pipers-seize-the-lead/",
+      "source": "FIDE",
+      "date": "2026-09-07T20:48:37.000Z",
+      "summary": "The Monday matches completely reshaped the standings in the fourth edition of the Global Chess League. Despite losing their first match of the day, Alpine APL Pipers climbed to the top spot after crushing the former leaders, FYERS American Gambits. Triveni…"
+    },
     {
       "title": "Philidor at 300: Chess Master, Musician and Pioneer",
       "link": "https://en.chessbase.com/post/philidor-at-300-chess-master-musician-and-pioneer",
@@ -296,13 +310,6 @@
       "summary": "The FIDE Electoral Commission has published its report dated August 30, 2026, approving the lists of valid applications for the positions of Elected Vice President, Member of the Constitutional Commission, and Zonal President. Valid candidacies for Elected…"
     },
     {
-      "title": "2026 FIDE Congress: List of Member Federations having right to vote",
-      "link": "https://www.fide.com/2026-fide-congress-list-of-member-federations-having-right-to-vote/",
-      "source": "FIDE",
-      "date": "2026-09-01T06:36:00.000Z",
-      "summary": "In accordance with the FIDE Electoral Regulations, FIDE is publishing the list of Member Federations entitled to vote at the 2026 General Assembly, together with the names of their Presidents and Delegates, as well as the list of suspended Member Federation…"
-    },
-    {
       "title": "Praggnanandhaa Indian No. 1 On September FIDE Rating List",
       "link": "https://www.chess.com/news/view/september-2026-fide-rating-list",
       "source": "Chess.com",
@@ -371,13 +378,6 @@
       "source": "ChessBase",
       "date": "2026-08-28T15:00:00.000Z",
       "summary": "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neura…"
-    },
-    {
-      "title": "Praggnanandhaa Wins 2026 Grand Chess Tour, Wesley So Clinches 3rd",
-      "link": "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
-      "source": "Chess.com",
-      "date": "2026-08-27T22:23:00.000Z",
-      "summary": "GM Praggnanandhaa Rameshbabu came back from behind to win the final match against GM Fabiano Caruana and claim his maiden title in the 2026 Grand Chess Tour Finals, which comes with $200,000. The Indian grandmaster started the day six points behin..."
     },
     {
       "title": "6th Cairns Cup 2026 - Games and Results",
