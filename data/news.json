@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T02:34:28.252Z",
+  "updated": "2026-09-07T07:50:13.270Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Global Chess League: Pipers, Gambits and Grandmasters tied for first place",
+      "link": "https://en.chessbase.com/post/global-chess-league-2026-2",
+      "source": "ChessBase",
+      "date": "2026-09-07T08:10:00.000Z",
+      "summary": "The Alpine APL Pipers remain unbeaten after day two of the Tech Mahindra Global Chess League in Bengaluru, while the FYERS American Gambits suffered their first defeat. The Ganges Grandmasters, PBG Alaskan Knights and CheQ Mumba Masters also picked up match…"
+    },
+    {
+      "title": "FIDE Commission for Women’s Chess to hold 2026 meeting during Chess Olympiad",
+      "link": "https://www.fide.com/fide-commission-for-womens-chess-to-hold-2026-meeting-during-chess-olympiad/",
+      "source": "FIDE",
+      "date": "2026-09-07T06:58:03.000Z",
+      "summary": "The FIDE Commission for Women’s Chess (WOM) will hold its 2026 Commission Meeting on 22 September during the FIDE Chess Olympiad in Uzbekistan. The meeting will also be open to participants online on FIDE’s official YouTube channel. Themed “Beyond the Board…"
+    },
     {
       "title": "Carlsen Escapes Vs. Nepomniachtchi As Alpine Pipers Only Team Still Unbeaten",
       "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-2",
@@ -28,13 +42,6 @@
       "source": "ChessBase",
       "date": "2026-09-06T18:30:00.000Z",
       "summary": "In this episode of Underdog, Robert Ris presents two entertaining blitz upsets from a strong event in Sofia. First, Jolanta Zawadzka punishes former 2700 player Ivan Cheparinov with a sharp kingside attack in a Sicilian, finishing the game in just 20 moves.…"
-    },
-    {
-      "title": "Global Chess League - Live!",
-      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-06T11:45:00.000Z",
-      "summary": "The Tech Mahindra Global Chess League returns for its fourth season from 5 to 13 September in Bengaluru, continuing its franchise-based format that combines elite male and female players. Featuring a team structure, the league brings together elite grandmas…"
     },
     {
       "title": "GCL S4 Day 2 preview: Can anyone stop the Gambits?",
@@ -280,13 +287,6 @@
       "source": "Chess.com",
       "date": "2026-08-31T19:48:00.000Z",
       "summary": "GM Praggnanandhaa Rameshbabu is back in the top 10 and has overtaken GM Arjun Erigaisi as Indian number-one after winning the 2026 Grand Chess Tour. A marathon month in St. Louis had a big impact on the September FIDE rating list as victory in the..."
-    },
-    {
-      "title": "Batumi to host FIDE World Cadet Championships 2026: Registration now open",
-      "link": "https://www.fide.com/batumi-to-host-fide-world-cadet-championships-2026-registration-now-open/",
-      "source": "FIDE",
-      "date": "2026-08-31T15:57:24.000Z",
-      "summary": "The clock is ticking for the world’s brightest young chess talents. FIDE and the Georgian Chess Federation are pleased to announce that the 2026 World Cadet Championships will take place in the Black Sea resort of Batumi, Georgia, from November 21 to 29, 20…"
     },
     {
       "title": "Get Coached By The Almighty Mittens And Other New Coaches On Chess.com",
