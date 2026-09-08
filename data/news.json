@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T12:34:16.440Z",
+  "updated": "2026-09-08T17:02:01.265Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Mind vs Machine",
+      "link": "https://en.chessbase.com/post/mind-vs-machine",
+      "source": "ChessBase",
+      "date": "2026-09-08T19:00:00.000Z",
+      "summary": "1997: Kasparov vs Deep Blue. We all know the story. But here is a new version told by three-time National Book Award finalist Steve Sheinkin, using first-hand accounts from grandmaster Maurice Ashley, with riveting illustrations by Eisner winner Thien Pham.…"
+    },
+    {
+      "title": "Master Your Openings With Game Review's New Feature",
+      "link": "https://www.chess.com/news/view/announcing-game-review-course-check",
+      "source": "Chess.com",
+      "date": "2026-09-08T16:03:22.000Z",
+      "summary": "Staying true to your opening repertoire just got easier with Game Review. Whenever you're reviewing a game, your coach will tell you when you've deviated from the lines taught in your Chess.com Courses. With this new Game Review feature, you can i..."
+    },
     {
       "title": "Global Chess League, Day 4 - Live!",
       "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
@@ -371,13 +385,6 @@
       "source": "ChessBase",
       "date": "2026-08-29T11:00:00.000Z",
       "summary": "Chess players, mark your calendars. The Icelandic Chess Federation, Goðinn Chess Club, and Reykjavík Chess Club are joining forces to present \"Town and Country\" – two spectacular tournaments that together offer 15 rounds of high-level chess in just 11 days,…"
-    },
-    {
-      "title": "Xiong Nearly Perfect In 3 0 Thursday",
-      "link": "https://www.chess.com/news/view/pranesh-xiong-terry-3-0-thursday-08-27-2026",
-      "source": "Chess.com",
-      "date": "2026-08-28T19:08:28.000Z",
-      "summary": "No one has ever scored a perfect 11/11 in 3 0 Thursday, but GM Jeffery Xiong became the closest player to that elusive mark in the second tournament on August 27. Xiong won his first 10 games and had a forced mate on the board in the 11th, before ..."
     },
     {
       "title": "Hassabis on chess and AI",
