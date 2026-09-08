@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T20:37:24.500Z",
+  "updated": "2026-09-08T23:08:02.295Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "All Teams Still In Fight As Global Chess League Crosses Halfway",
+      "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-4",
+      "source": "Chess.com",
+      "date": "2026-09-08T21:50:00.000Z",
+      "summary": "GM Alireza Firouzja's Triveni Continental Kings continued their comeback by beating the leaders, GM Magnus Carlsen's Alpine APL Pipers, as the 2026 Tech Mahindra Global Chess League crossed the halfway mark with no teams breaking clear of the pack..."
+    },
+    {
+      "title": "Le Last Leader In Back-And-Forth Titled Tuesday",
+      "link": "https://www.chess.com/news/view/liem-le-wins-titled-tuesday-september-8-2026",
+      "source": "Chess.com",
+      "date": "2026-09-08T20:49:00.000Z",
+      "summary": "The lead wasn't necessarily the ideal place to be in Titled Tuesday on September 8, before GM Liem Le won his first of the year with a 9.5 score, ahead of GM Hikaru Nakamura and IM Tobias Koelle on tiebreaks. For the second straight week, GM Jan-K..."
+    },
     {
       "title": "GCL 2026, Day 4: FYERS American Gambits go on top with win over PBG Alaskan Knights; Triveni Continental Kings upset overnight leaders Alpine APL Pipers",
       "link": "https://www.fide.com/gcl-2026-day-4-fyers-american-gambits-go-on-top-with-win-over-pbg-alaskan-knights-triveni-continental-kings-upset-overnight-leaders-alpine-apl-pipers/",
@@ -359,25 +373,11 @@
       "summary": "The Sofia Cup, also known as the Balkan Rapid and Blitz Championships took place 29th to 30th August 2026. Players: Alireza Firouzja Rauf Mamedov, Eduardo Iturrizaga Bonelli, Vojtech Plat, Leon Livaic, Sanan Sjugirov, Ediz Gurel, Ivan Cheparinov etc. Rauf M…"
     },
     {
-      "title": "Nakamura Continues Unrivalled Bullet Brawl Dominance, Coasts To 65th Title",
-      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-aug-29-2026",
-      "source": "Chess.com",
-      "date": "2026-08-30T06:07:00.000Z",
-      "summary": "GM Hikaru Nakamura notched his 65th career Bullet Brawl title and 16th of 2026 on Saturday after finishing 23 points clear of the field, despite taking his \"foot off the gas\" at the end of the arena. Nakamura scored 51/65 and posted a score of 17..."
-    },
-    {
       "title": "Grand Chess Tour Finals 2026 - Games and results",
       "link": "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2026",
       "source": "The Week in Chess",
       "date": "2026-08-29T18:17:00.000Z",
       "summary": "The Grand Chess Tour Finals took place in Saint Louis 22nd to 27th August 2026. This was the final event of the tour and a total prize fund of $450,000, was distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,00…"
-    },
-    {
-      "title": "Kasparov, Topalov To Renew Rivalry In $144,000 Chess960 Match",
-      "link": "https://www.chess.com/news/view/kasparov-topalov-chess960-match-st-louis",
-      "source": "Chess.com",
-      "date": "2026-08-29T12:46:00.000Z",
-      "summary": "The 13th World Champion GM Garry Kasparov will face GM Veselin Topalov, the opponent who defeated him in the final rated classical game of his career, in a $144,000 Chess960 match in St. Louis. The two former world champions will play 12 games ov..."
     },
     {
       "title": "Fridrik Olafsson Memorial",
