@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T02:49:00.478Z",
+  "updated": "2026-09-08T07:45:46.895Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Global Chess League: Carlsen’s Pipers Take the Lead",
+      "link": "https://en.chessbase.com/post/global-chess-league-carlsen-s-pipers-take-the-lead",
+      "source": "ChessBase",
+      "date": "2026-09-08T09:23:39.000Z",
+      "summary": "The Alpine APL Pipers, with Magnus Carlsen on the icon board, took sole lead in the standings on day three of the Global Chess League in Bengaluru. In their first match of the day, Carlsen beat Viswanathan Anand on time (pictured), but the Pipers neverthele…"
+    },
+    {
+      "title": "Polar Chess Expedition brings the first FIDE-rated chess tournament to Antarctica and the South Pole",
+      "link": "https://www.fide.com/polar-chess-expedition-brings-the-first-fide-rated-chess-tournament-to-antarctica-and-the-south-pole/",
+      "source": "FIDE",
+      "date": "2026-09-08T07:40:15.000Z",
+      "summary": "Six chess players representing all six inhabited continents will travel to Antarctica and the Geographic South Pole this Antarctic summer season to attempt the Polar Chess Expedition, the most geographically extreme chess tournament ever played. The FIDE-ra…"
+    },
     {
       "title": "Carlsen's Alpine Pipers Storms Back From Loss To Grab Sole Lead",
       "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-3",
@@ -301,13 +315,6 @@
       "source": "FIDE",
       "date": "2026-09-01T09:30:59.000Z",
       "summary": "The FIDE September 2026 rating list was primarily shaped by the Grand Chess Tour Sinquefield Cup, the GCT Finals, the Cairns Cup, and several open tournaments across Europe. Wesley So triumphantly returned to the Top 5 Open after a nearly four-year hiatus,…"
-    },
-    {
-      "title": "FIDE Electoral Commission publishes lists of valid candidacies",
-      "link": "https://www.fide.com/fide-electoral-commission-publishes-lists-of-valid-candidacies/",
-      "source": "FIDE",
-      "date": "2026-09-01T08:35:02.000Z",
-      "summary": "The FIDE Electoral Commission has published its report dated August 30, 2026, approving the lists of valid applications for the positions of Elected Vice President, Member of the Constitutional Commission, and Zonal President. Valid candidacies for Elected…"
     },
     {
       "title": "Praggnanandhaa Indian No. 1 On September FIDE Rating List",
