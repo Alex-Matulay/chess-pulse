@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T07:45:46.895Z",
+  "updated": "2026-09-08T12:34:16.440Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Global Chess League, Day 4 - Live!",
+      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-08T11:45:00.000Z",
+      "summary": "Day four of the Global Chess League marks the end of the first half of the preliminary stage. One of the highlights of today's four matches is the clash between Alireza Firouzja and Magnus Carlsen on the icon board, as defending champions Triveni Continenta…"
+    },
     {
       "title": "Global Chess League: Carlsen’s Pipers Take the Lead",
       "link": "https://en.chessbase.com/post/global-chess-league-carlsen-s-pipers-take-the-lead",
@@ -49,13 +56,6 @@
       "source": "Chess.com",
       "date": "2026-09-07T17:00:00.000Z",
       "summary": "On September 9, Chess.com is hosting the first live FIDE presidential debate of this election. The three candidates&mdash;Jan Henric Buettner, Wadim Rosenstein, and &nbsp;Timur Turlov&mdash;will join to discuss their visions for the future of ches..."
-    },
-    {
-      "title": "Global Chess League - Live!",
-      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-07T11:45:00.000Z",
-      "summary": "Day three of the Global Chess League features four team matches, with Magnus Carlsen set to take centre stage twice. At 12:00, Carlsen and the Alpine APL Pipers face the PBG Alaskan Knights, before taking on the FYERS American Gambits at 15:00. The second m…"
     },
     {
       "title": "Global Chess League: Pipers, Gambits and Grandmasters tied for first place",
