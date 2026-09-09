@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T07:48:23.490Z",
+  "updated": "2026-09-09T12:39:59.317Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,41 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Global Chess League, Day 5 - Live!",
+      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-09T11:45:00.000Z",
+      "summary": "Four teams are tied on nine match points going into day five of the Global Chess League. The action starts at 12:00 CEST with the CheQ Mumba Masters facing Magnus Carlsen’s Alpine APL Pipers. Ganges play Triveni at 13:30, PBG face Mumba at 15:00, and Triven…"
+    },
+    {
+      "title": "Legends & Prodigies, Round 4 - Live!",
+      "link": "https://en.chessbase.com/post/legends-prodigies-live",
+      "source": "ChessBase",
+      "date": "2026-09-09T10:51:00.000Z",
+      "summary": "The \"Legends and Prodigies\" tournament is taking place in Madrid from 7 to 12 September, bringing together five grandmasters and five international masters from different generations. The event is a double round-robin with a shortened classical time control…"
+    },
+    {
+      "title": "2026 FIDE Congress: List of Member Federations having right to vote",
+      "link": "https://www.fide.com/2026-fide-congress-list-of-member-federations-having-right-to-vote/",
+      "source": "FIDE",
+      "date": "2026-09-09T10:36:00.000Z",
+      "summary": "In accordance with the FIDE Electoral Regulations, FIDE is publishing the list of Member Federations entitled to vote at the 2026 General Assembly, together with the names of their Presidents and Delegates, as well as the list of suspended Member Federation…"
+    },
+    {
+      "title": "Oro and Antón Guijarro share the lead in Madrid",
+      "link": "https://en.chessbase.com/post/oro-and-antn-guijarro-share-the-lead-in-madrid",
+      "source": "ChessBase",
+      "date": "2026-09-09T10:35:07.000Z",
+      "summary": "There were no winners on the second day of the Legends & Prodigies tournament in Madrid. All six games from rounds two and three ended in draws, including the third-round encounter between Faustino Oro and David Antón Guijarro, the two players who had won t…"
+    },
+    {
+      "title": "FIDE announces call for candidates for Athletes Commission elections",
+      "link": "https://www.fide.com/fide-announces-call-for-candidates-for-athletes-commission-elections/",
+      "source": "FIDE",
+      "date": "2026-09-09T08:00:48.000Z",
+      "summary": "FIDE has opened the call for candidates for the upcoming elections to the FIDE Athletes Commission. The Athletes Commission represents the interests and perspectives of players within FIDE, helping ensure that their voices are heard in discussions and decis…"
+    },
     {
       "title": "Andrew Martin - The Evans Gambit is still dangerous",
       "link": "https://en.chessbase.com/post/andrew-martin-the-evans-gambit-is-still-dangerous",
@@ -49,13 +84,6 @@
       "source": "Chess.com",
       "date": "2026-09-08T16:03:22.000Z",
       "summary": "Staying true to your opening repertoire just got easier with Game Review. Whenever you're reviewing a game, your coach will tell you when you've deviated from the lines taught in your Chess.com Courses. With this new Game Review feature, you can i..."
-    },
-    {
-      "title": "Global Chess League, Day 4 - Live!",
-      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-08T11:45:00.000Z",
-      "summary": "Day four of the Global Chess League marks the end of the first half of the preliminary stage. One of the highlights of today's four matches is the clash between Alireza Firouzja and Magnus Carlsen on the icon board, as defending champions Triveni Continenta…"
     },
     {
       "title": "Global Chess League: Carlsen’s Pipers Take the Lead",
@@ -310,13 +338,6 @@
       "summary": "With less than a month until FIDE elects its next president, the campaign has entered an increasingly heated phase, with formal complaints from all three tickets, questions over Timur Turlov's eligibility, and allegations that FIDE itself has fail..."
     },
     {
-      "title": "GCL Season 4 preview: What to expect as the world’s top players head to Bengaluru",
-      "link": "https://www.fide.com/gcl-season-4-preview-what-to-expect-as-the-worlds-top-players-head-to-bengaluru/",
-      "source": "FIDE",
-      "date": "2026-09-02T07:20:39.000Z",
-      "summary": "The FIDE Tech Mahindra Global Chess League is returning for its fourth season. With its unique format and competition concept, GCL is looking less like an annual chess tournament and more like a mature global sports league. After Dubai, London and Mumbai, S…"
-    },
-    {
       "title": "Niemann Wins Thrilling Titled Tuesday In Broadcast Return",
       "link": "https://www.chess.com/news/view/niemann-wins-titled-tuesday-september-1-2026",
       "source": "Chess.com",
@@ -343,13 +364,6 @@
       "source": "Chess.com",
       "date": "2026-09-01T14:49:07.000Z",
       "summary": "SaVaToP1gG beat out a field of 1,454 players and was crowned champion on Monday in the first special edition of the Gambit Cup. The winner defeated Marzi in a heads-up final that lasted longer than expected. The favorite (his rating was 739 points..."
-    },
-    {
-      "title": "Chess is getting its own home on the internet: FIDE and World Chess apply for the .chess domain extension",
-      "link": "https://www.fide.com/chess-is-getting-its-own-home-on-the-internet-fide-and-world-chess-apply-for-the-chess-domain-extension/",
-      "source": "FIDE",
-      "date": "2026-09-01T11:15:44.000Z",
-      "summary": "The application for the game’s official top-level domain has been submitted to ICANN – the first chance in over a decade to create one. If approved, every federation, club, tournament and titled player will be able to carry a verified domain name ending in…"
     },
     {
       "title": "Praggnanandhaa Indian No. 1 On September FIDE Rating List",
