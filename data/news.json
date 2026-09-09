@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T16:59:08.732Z",
+  "updated": "2026-09-09T19:38:48.278Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Review: Opening Encyclopedia 2026",
+      "link": "https://en.chessbase.com/post/review-opening-encyclopedia-2",
+      "source": "ChessBase",
+      "date": "2026-09-09T21:00:00.000Z",
+      "summary": "The ChessBase Opening Encyclopedia 2026 is one of the company’s flagship products alongside the Mega Database and the ChessBase database program - currently ChessBase'26. For years, these programs have formed part of the essential toolkit for everyday chess…"
+    },
     {
       "title": "Chess.com hosts first FIDE presidential debate",
       "link": "https://www.fide.com/chess-com-hosts-first-fide-presidential-debate/",
