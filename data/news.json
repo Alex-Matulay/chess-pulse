@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T12:39:59.317Z",
+  "updated": "2026-09-09T16:59:08.732Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,18 +9,32 @@
   ],
   "items": [
     {
+      "title": "Chess.com hosts first FIDE presidential debate",
+      "link": "https://www.fide.com/chess-com-hosts-first-fide-presidential-debate/",
+      "source": "FIDE",
+      "date": "2026-09-09T16:56:17.000Z",
+      "summary": "The popular chess platform Chess.com hosted the first debate of the 2026 FIDE presidential election on September 9. Moderated by GM Maurice Ashley, the event brought together all three candidates – Jan Henric Buettner, Timur Turlov, and Wadim Rosenstein – t…"
+    },
+    {
+      "title": "Judit Polgar Hosts Simul Against Chess Community At 12th Global Chess Festival",
+      "link": "https://www.chess.com/news/view/announcing-judit-polgar-chess-festival-2026",
+      "source": "Chess.com",
+      "date": "2026-09-09T15:00:00.000Z",
+      "summary": "Chess.com is once again partnering with legendary GM Judit Polgar to support her festival, the Judit Polgar Global Chess Festival. Judit will play a community simul on September 26 at 7:30 a.m. ET / 13:30 CEST / 5:00 p.m. IST. The event will take ..."
+    },
+    {
+      "title": "ChessBase Summer-Special! – Part 10",
+      "link": "https://en.chessbase.com/post/chessbase-summer-special-part-10",
+      "source": "ChessBase",
+      "date": "2026-09-09T15:00:00.000Z",
+      "summary": "Dear chess friends! This week's Summer Special offers you a real powerhouse: Fritz 21 and the Openingbook 2026 are available this week (until September 13, 2026) for €189.90 – save around €50!"
+    },
+    {
       "title": "Global Chess League, Day 5 - Live!",
       "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
       "source": "ChessBase",
       "date": "2026-09-09T11:45:00.000Z",
       "summary": "Four teams are tied on nine match points going into day five of the Global Chess League. The action starts at 12:00 CEST with the CheQ Mumba Masters facing Magnus Carlsen’s Alpine APL Pipers. Ganges play Triveni at 13:30, PBG face Mumba at 15:00, and Triven…"
-    },
-    {
-      "title": "Legends & Prodigies, Round 4 - Live!",
-      "link": "https://en.chessbase.com/post/legends-prodigies-live",
-      "source": "ChessBase",
-      "date": "2026-09-09T10:51:00.000Z",
-      "summary": "The \"Legends and Prodigies\" tournament is taking place in Madrid from 7 to 12 September, bringing together five grandmasters and five international masters from different generations. The event is a double round-robin with a shortened classical time control…"
     },
     {
       "title": "2026 FIDE Congress: List of Member Federations having right to vote",
@@ -198,13 +212,6 @@
       "summary": "The fourth season of the Tech Mahindra Global Chess League got under way on Saturday, with the FYERS American Gambits making the strongest start. They won both of their opening-day matches, including a victory over the Triveni Continental Kings, who lost tw…"
     },
     {
-      "title": "England and Slovenia triumph in European Senior Team Championship 2026",
-      "link": "https://www.fide.com/england-and-slovenia-triumph-in-european-senior-team-championship-2026/",
-      "source": "FIDE",
-      "date": "2026-09-05T20:16:00.000Z",
-      "summary": "The European Senior Team Chess Championship 2026 concluded yesterday in Hersonissos, Crete, Greece. The event took place from August 26 to September 5 at the Hotel Royal Belvedere in Hersonissos and brought together 32 teams and 150 players competing in two…"
-    },
-    {
       "title": "Sindarov's American Gambits Begin Global Chess League With Double Win",
       "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-1",
       "source": "Chess.com",
@@ -371,13 +378,6 @@
       "source": "Chess.com",
       "date": "2026-08-31T19:48:00.000Z",
       "summary": "GM Praggnanandhaa Rameshbabu is back in the top 10 and has overtaken GM Arjun Erigaisi as Indian number-one after winning the 2026 Grand Chess Tour. A marathon month in St. Louis had a big impact on the September FIDE rating list as victory in the..."
-    },
-    {
-      "title": "Get Coached By The Almighty Mittens And Other New Coaches On Chess.com",
-      "link": "https://www.chess.com/news/view/announcing-mittens-and-other-coaches",
-      "source": "Chess.com",
-      "date": "2026-08-31T15:00:00.000Z",
-      "summary": "Hehehehehehehehe! Is it your dream coming true, or is it your worst nightmare? You can now get coached by the most formidable and cutest chess-playing entity in the world: Mittens! Along with the god-like chess-playing kitten, you can also get coa..."
     },
     {
       "title": "Green Hills Resort Masters 2026 - Games and results",
