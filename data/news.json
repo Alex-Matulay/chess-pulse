@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T10:28:22.304Z",
+  "updated": "2026-09-10T14:44:53.788Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,18 +9,18 @@
   ],
   "items": [
     {
+      "title": "Applications Open For $50,000 Naroditsky Fellowship",
+      "link": "https://www.chess.com/news/view/naroditsky-fellowship-applications-open-2027",
+      "source": "Chess.com",
+      "date": "2026-09-10T14:03:16.000Z",
+      "summary": "Applications are now open for the inaugural $50,000 Naroditsky Fellowship, which will support elite American junior players with training, travel, and tournament preparation in 2027. The deadline to apply is December 1. The Fellowship is one of t..."
+    },
+    {
       "title": "Global Chess League, Day 6 - Live!",
       "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
       "source": "ChessBase",
       "date": "2026-09-10T11:45:00.000Z",
       "summary": "The race for the Global Chess League final enters a crucial phase on day six. FYERS American Gambits, Alpine APL Pipers and Ganges Grandmasters lead with 12 match points each, with only the top two teams advancing to Sunday’s final. The day’s top-board clas…"
-    },
-    {
-      "title": "Legends & Prodigies, Round 6 - Live!",
-      "link": "https://en.chessbase.com/post/legends-prodigies-live",
-      "source": "ChessBase",
-      "date": "2026-09-10T10:51:00.000Z",
-      "summary": "The second half of the \"Legends & Prodigies\" tournament in Madrid begins on Thursday morning with round six. After five rounds, David Antón leads with 4/5, half a point ahead of defending champion Faustino Oro. In round six, Oro has Black against Diego Flor…"
     },
     {
       "title": "Legends & Prodigies: David Antón scores twice to take sole lead",
@@ -181,7 +181,7 @@
       "link": "https://www.chess.com/news/view/how-to-watch-fide-presidential-debate-2026",
       "source": "Chess.com",
       "date": "2026-09-07T17:00:00.000Z",
-      "summary": "On September 9, Chess.com is hosting the first live FIDE presidential debate of this election. The three candidates&mdash;Jan Henric Buettner, Wadim Rosenstein, and &nbsp;Timur Turlov&mdash;will join to discuss their visions for the future of ches..."
+      "summary": "On September 9, Chess.com is hosting the first live FIDE presidential debate of this election. The three candidates&mdash;Jan Henric Buettner, Wadim Rosenstein, and Timur Turlov&mdash;will join to discuss their visions for the future of chess. He..."
     },
     {
       "title": "Global Chess League: Pipers, Gambits and Grandmasters tied for first place",
@@ -392,13 +392,6 @@
       "source": "Chess.com",
       "date": "2026-09-01T15:21:02.000Z",
       "summary": "This September, step onto the stage with five questionable musicians who are ready to put your chess skills and patience to the test. The chessboards are set. Bring earplugs and take your seat. 🏆 Beat the Band Class Bots throughout September to c..."
-    },
-    {
-      "title": "SaVaToP1gG Wins Gambit Cup, Tops Field Of 1,454 Players",
-      "link": "https://www.chess.com/news/view/savatop1gg-wins-2026-gambit-cup",
-      "source": "Chess.com",
-      "date": "2026-09-01T14:49:07.000Z",
-      "summary": "SaVaToP1gG beat out a field of 1,454 players and was crowned champion on Monday in the first special edition of the Gambit Cup. The winner defeated Marzi in a heads-up final that lasted longer than expected. The favorite (his rating was 739 points..."
     },
     {
       "title": "Green Hills Resort Masters 2026 - Games and results",
