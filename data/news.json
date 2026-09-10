@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T05:31:13.900Z",
+  "updated": "2026-09-10T10:28:22.304Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Global Chess League, Day 6 - Live!",
+      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-10T11:45:00.000Z",
+      "summary": "The race for the Global Chess League final enters a crucial phase on day six. FYERS American Gambits, Alpine APL Pipers and Ganges Grandmasters lead with 12 match points each, with only the top two teams advancing to Sunday’s final. The day’s top-board clas…"
+    },
+    {
+      "title": "Legends & Prodigies, Round 6 - Live!",
+      "link": "https://en.chessbase.com/post/legends-prodigies-live",
+      "source": "ChessBase",
+      "date": "2026-09-10T10:51:00.000Z",
+      "summary": "The second half of the \"Legends & Prodigies\" tournament in Madrid begins on Thursday morning with round six. After five rounds, David Antón leads with 4/5, half a point ahead of defending champion Faustino Oro. In round six, Oro has Black against Diego Flor…"
+    },
+    {
+      "title": "Legends & Prodigies: David Antón scores twice to take sole lead",
+      "link": "https://en.chessbase.com/post/legends-prodigies-david-antn-scores-twice-to-take-sole-lead",
+      "source": "ChessBase",
+      "date": "2026-09-10T09:32:49.000Z",
+      "summary": "After six draws the previous day, the players at the Legends & Prodigies tournament in Madrid seemed ready for a fight: rounds four and five produced just one draw in six games. Faustino Oro beat Ivan Sokolov before drawing with Jose Eduardo Martinez Alcant…"
+    },
     {
       "title": "GCL 2026, Day 5: Gambits beat Kings, Pipers defeat Mumba Masters as race to the final heats up",
       "link": "https://www.fide.com/gcl-2026-day-5-gambits-beat-kings-pipers-defeat-mumba-masters-as-race-to-the-final-heats-up/",
@@ -56,13 +77,6 @@
       "source": "ChessBase",
       "date": "2026-09-09T15:00:00.000Z",
       "summary": "Dear chess friends! This week's Summer Special offers you a real powerhouse: Fritz 21 and the Openingbook 2026 are available this week (until September 13, 2026) for €189.90 – save around €50!"
-    },
-    {
-      "title": "Global Chess League, Day 5 - Live!",
-      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-09T11:45:00.000Z",
-      "summary": "Four teams are tied on nine match points going into day five of the Global Chess League. The action starts at 12:00 CEST with the CheQ Mumba Masters facing Magnus Carlsen’s Alpine APL Pipers. Ganges play Triveni at 13:30, PBG face Mumba at 15:00, and Triven…"
     },
     {
       "title": "2026 FIDE Congress: List of Member Federations having right to vote",
@@ -532,13 +546,6 @@
       "source": "The Week in Chess",
       "date": "2026-07-28T10:14:00.000Z",
       "summary": "The WR Chess Rapid & Blitz Miami was a two day rapid and then blitz match between the USA and Uzbekistan ahead of the Olympiad. Team: Ukbekistan: Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev, Shamsiddin Vokhidov, Mukhiddin Madaminov, USA: Hi…"
-    },
-    {
-      "title": "How much faster are computers today?",
-      "link": "https://en.chessbase.com/post/how-much-faster-are-computers-today",
-      "source": "ChessBase",
-      "date": "2026-07-27T10:21:48.000Z",
-      "summary": "In the early 1980s, as a fledgling TV journalist, I did a report on the fastest computer in the world. The Cray-1 cost eight million dollars and could do 130 million floating point operations per second. That was enough to calculate the weather, but also to…"
     }
   ]
 }
