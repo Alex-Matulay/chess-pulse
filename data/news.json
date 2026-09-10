@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T21:21:24.903Z",
+  "updated": "2026-09-10T23:38:44.873Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Buettner, Turlov Clash Over Funding In FIDE Presidential Debate",
+      "link": "https://www.chess.com/news/view/fide-presidential-debate-recap-2026",
+      "source": "Chess.com",
+      "date": "2026-09-10T21:41:54.000Z",
+      "summary": "FIDE presidential candidates Jan Henric Buettner and Timur Turlov clashed over how the world chess body should be funded&mdash;and whether it should continue relying on wealthy benefactors. The third candidate, Wadim Rosenstein, disconnected short..."
+    },
     {
       "title": "GCL 2026, Day 6: One game point separates Alpine APL Pipers, FYERS American Gambits and Ganges Grandmasters at the top",
       "link": "https://www.fide.com/gcl-2026-day-6-just-one-game-point-separates-alpine-apl-pipers-fyers-american-gambits-and-ganges-grandmasters-at-the-top/",
@@ -19,7 +26,7 @@
       "title": "Alpine APL Pipers, FYERS American Gambits, Ganges Grandmasters Share 3-Way Lead",
       "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-6",
       "source": "Chess.com",
-      "date": "2026-09-10T20:48:04.000Z",
+      "date": "2026-09-10T20:48:00.000Z",
       "summary": "The FYERS American Gambits, led by GM Javokhir Sindarov, dominated a critical match against the Ganges Grandmasters, led by GM Ian Nepomniachtchi, to join a three-way tie with the Grandmasters and GM Magnus Carlsen's Alpine APL Pipers on day six o..."
     },
     {
@@ -392,13 +399,6 @@
       "source": "Chess.com",
       "date": "2026-09-01T20:47:00.000Z",
       "summary": "GM Hans Niemann stole the show in September 1's Titled Tuesday at the latest possible moment. For most of the event, GM Jan-Krzysztof Duda not only threatened to win his second consecutive Titled Tuesday, but began 10/10, looking to become the fir..."
-    },
-    {
-      "title": "Iranian GM Idani Switches To France: 'I Felt Forced Into It'",
-      "link": "https://www.chess.com/news/view/pouya-idani-transfers-iran-france",
-      "source": "Chess.com",
-      "date": "2026-09-01T16:19:00.000Z",
-      "summary": "GM Pouya Idani, until now Iran&rsquo;s third-highest-rated player, has officially transferred to France three years after moving to Brest with his wife. The 30-year-old joins GM Alireza Firouzja and WGM Mitra Hejazipour among the prominent Iranian..."
     },
     {
       "title": "Green Hills Resort Masters 2026 - Games and results",
