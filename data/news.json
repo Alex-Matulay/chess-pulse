@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T12:31:24.205Z",
+  "updated": "2026-09-11T16:51:41.536Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Clutch Chess: Kasparov and Topalov play Chess960, Day 1 – Live!",
+      "link": "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
+      "source": "ChessBase",
+      "date": "2026-09-11T18:30:00.000Z",
+      "summary": "Garry Kasparov and Veselin Topalov will face each other in “Clutch Chess: The Legends” in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each success…"
+    },
+    {
+      "title": "Tiebreaks Decide 3 0 Thursday: Lazavik, Duda, Taher Triumph",
+      "link": "https://www.chess.com/news/view/lazavik-duda-taher-3-0-thursday-09-10-2026",
+      "source": "Chess.com",
+      "date": "2026-09-11T16:49:40.000Z",
+      "summary": "It was a day of tiebreaks in 3 0 Thursday on September 10. In the first tournament, GM Denis Lazavik surpassed three other players on tiebreaks to take the title for the second straight week. In the second event, GM Jan-Krzysztof Duda surpassed tw..."
+    },
+    {
+      "title": "Build A Rock-Solid Repertoire Against 1.e4 With GM Wesley So's New Course",
+      "link": "https://www.chess.com/news/view/announcing-wesley-sos-1e4-e5-part-1-course",
+      "source": "Chess.com",
+      "date": "2026-09-11T15:00:00.000Z",
+      "summary": "You can now handle 1.e4 like a super-grandmaster. GM Wesley So has just released Elite 1.e4 e5 - Part 1, his new course built around his personal answer to White's most common opening move, 1.e4. With positional, dependable lines, So will teach yo..."
+    },
+    {
+      "title": "Clutch Chess: The Legends 2026 - Games and results",
+      "link": "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends-2026",
+      "source": "The Week in Chess",
+      "date": "2026-09-11T14:38:00.000Z",
+      "summary": "Clutch Chess: The Legends is a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games are Chess960. There are two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 an…"
+    },
     {
       "title": "Global Chess League, Day 7 - Live!",
       "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
@@ -75,7 +103,7 @@
       "title": "Applications Open For $50,000 Naroditsky Fellowship",
       "link": "https://www.chess.com/news/view/naroditsky-fellowship-applications-open-2027",
       "source": "Chess.com",
-      "date": "2026-09-10T14:03:16.000Z",
+      "date": "2026-09-10T14:03:00.000Z",
       "summary": "Applications are now open for the inaugural $50,000 Naroditsky Fellowship, which will support elite American junior players with training, travel, and tournament preparation in 2027. The deadline to apply is December 1. The Fellowship is one of t..."
     },
     {
@@ -392,20 +420,6 @@
       "source": "Chess.com",
       "date": "2026-09-02T15:00:00.000Z",
       "summary": "The North American Corporate Chess League (NACCL) is back on Chess.com for its 14th season. The event runs from October 1 to November 12, and registration is now open. The NACCL is the world's largest corporate chess league, bringing together com..."
-    },
-    {
-      "title": "FIDE Election Heats Up As All 3 Presidential Tickets File Complaints",
-      "link": "https://www.chess.com/news/view/fide-election-complaints-buettner-rosenstein-turlov",
-      "source": "Chess.com",
-      "date": "2026-09-02T13:50:55.000Z",
-      "summary": "With less than a month until FIDE elects its next president, the campaign has entered an increasingly heated phase, with formal complaints from all three tickets, questions over Timur Turlov's eligibility, and allegations that FIDE itself has fail..."
-    },
-    {
-      "title": "Niemann Wins Thrilling Titled Tuesday In Broadcast Return",
-      "link": "https://www.chess.com/news/view/niemann-wins-titled-tuesday-september-1-2026",
-      "source": "Chess.com",
-      "date": "2026-09-01T20:47:00.000Z",
-      "summary": "GM Hans Niemann stole the show in September 1's Titled Tuesday at the latest possible moment. For most of the event, GM Jan-Krzysztof Duda not only threatened to win his second consecutive Titled Tuesday, but began 10/10, looking to become the fir..."
     },
     {
       "title": "Green Hills Resort Masters 2026 - Games and results",
