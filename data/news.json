@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T07:42:52.584Z",
+  "updated": "2026-09-11T12:31:24.205Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Global Chess League, Day 7 - Live!",
+      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-11T13:15:00.000Z",
+      "summary": "hree teams are tied for the lead as the Global Chess League enters day seven in Bengaluru. The action begins at 13:30 CEST with the Triveni Continental Kings facing the PBG Alaskan Knights, featuring Alireza Firouzja against Vishy Anand on the icon board. A…"
+    },
+    {
+      "title": "FIDE World U7-U17 Rapid and Blitz Championships 2026 Egypt: Registration now open",
+      "link": "https://www.fide.com/fide-world-u7-u17-rapid-and-blitz-championships-2026-egypt-registration-now-open/",
+      "source": "FIDE",
+      "date": "2026-09-11T10:41:28.000Z",
+      "summary": "The International Chess Federation (FIDE) and the Egyptian Chess Federation are pleased to announce the 2026 FIDE World U7-U17 Rapid and Blitz Championships. The event will take place in Cairo, Egypt, from December 8 (arrival) to December 15 (departure), 20…"
+    },
+    {
+      "title": "Global Chess League: Three teams tied for the lead",
+      "link": "https://en.chessbase.com/post/global-chess-league-three-teams-tied-for-the-lead",
+      "source": "ChessBase",
+      "date": "2026-09-11T10:04:28.000Z",
+      "summary": "Six teams, 36 world-class players, 20 minutes for the entire game, an increment only from move 40, 4 points for a win with Black, 3 for a win with White, 1 for a draw, 18 to 24 games per day, and a prize fund of $1 million – the Global Chess League is a che…"
+    },
     {
       "title": "Legends & Prodigies: Oro loses – Anton Guijarro leads by one point",
       "link": "https://en.chessbase.com/post/legends-prodigies-oro-loses-anton-guijarro-leads-by-one-point",
@@ -44,13 +65,6 @@
       "summary": "Samarkand, Uzbekistan – September 10, 2026 Chess has a unique ability to dissolve boundaries, bringing people together across countries, cultures and different life circumstances. That spirit was at the heart of the opening of the 3rd FIDE Chess Olympiad fo…"
     },
     {
-      "title": "Legends & Prodigies, Round 7 - Live!",
-      "link": "https://en.chessbase.com/post/legends-prodigies-live",
-      "source": "ChessBase",
-      "date": "2026-09-10T16:51:00.000Z",
-      "summary": "David Antón remains the sole leader of the \"Legends & Prodigies\" tournament in Madrid after drawing with José Cuenca in round six. Antón has 4½/6, a full point ahead of defending champion Faustino Oro, who suffered his first defeat of the event against Dieg…"
-    },
-    {
       "title": "Salesforce’s Agentforce 360 powers the future of chess with FIDE",
       "link": "https://www.fide.com/salesforces-agentforce-360-powers-the-future-of-chess-with-fide/",
       "source": "FIDE",
@@ -63,13 +77,6 @@
       "source": "Chess.com",
       "date": "2026-09-10T14:03:16.000Z",
       "summary": "Applications are now open for the inaugural $50,000 Naroditsky Fellowship, which will support elite American junior players with training, travel, and tournament preparation in 2027. The deadline to apply is December 1. The Fellowship is one of t..."
-    },
-    {
-      "title": "Global Chess League, Day 6 - Live!",
-      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-10T11:45:00.000Z",
-      "summary": "The race for the Global Chess League final enters a crucial phase on day six. FYERS American Gambits, Alpine APL Pipers and Ganges Grandmasters lead with 12 match points each, with only the top two teams advancing to Sunday’s final. The day’s top-board clas…"
     },
     {
       "title": "Legends & Prodigies: David Antón scores twice to take sole lead",
@@ -196,13 +203,6 @@
       "source": "ChessBase",
       "date": "2026-09-08T09:23:39.000Z",
       "summary": "The Alpine APL Pipers, with Magnus Carlsen on the icon board, took sole lead in the standings on day three of the Global Chess League in Bengaluru. In their first match of the day, Carlsen beat Viswanathan Anand on time (pictured), but the Pipers neverthele…"
-    },
-    {
-      "title": "Polar Chess Expedition brings the first FIDE-rated chess tournament to Antarctica and the South Pole",
-      "link": "https://www.fide.com/polar-chess-expedition-brings-the-first-fide-rated-chess-tournament-to-antarctica-and-the-south-pole/",
-      "source": "FIDE",
-      "date": "2026-09-08T07:40:15.000Z",
-      "summary": "Six chess players representing all six inhabited continents will travel to Antarctica and the Geographic South Pole this Antarctic summer season to attempt the Polar Chess Expedition, the most geographically extreme chess tournament ever played. The FIDE-ra…"
     },
     {
       "title": "Carlsen's Alpine Pipers Storms Back From Loss To Grab Sole Lead",
@@ -546,13 +546,6 @@
       "source": "ChessBase",
       "date": "2026-07-29T12:00:00.000Z",
       "summary": "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning – but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally sh…"
-    },
-    {
-      "title": "WR Chess Rapid & Blitz Miami 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/wr-chess-rapid-blitz-miami-2026",
-      "source": "The Week in Chess",
-      "date": "2026-07-28T10:14:00.000Z",
-      "summary": "The WR Chess Rapid & Blitz Miami was a two day rapid and then blitz match between the USA and Uzbekistan ahead of the Olympiad. Team: Ukbekistan: Javokhir Sindarov, Nodirbek Abdusattorov, Nodirbek Yakubboev, Shamsiddin Vokhidov, Mukhiddin Madaminov, USA: Hi…"
     }
   ]
 }
