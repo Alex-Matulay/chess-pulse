@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T16:51:41.536Z",
+  "updated": "2026-09-11T19:23:57.873Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "A universal language: Chess, inclusion and friendship take center stage in Samarkand",
+      "link": "https://www.fide.com/a-universal-language-chess-inclusion-and-friendship-take-center-stage-in-samarkand/",
+      "source": "FIDE",
+      "date": "2026-09-11T18:58:42.000Z",
+      "summary": "The first moves have been played at the 3rd FIDE Chess Olympiad for People with Disabilities, with 41 teams beginning their campaigns in Samarkand. Following Thursday’s opening ceremony, Round 1 brought the focus to the chessboards. Most of the favourites s…"
+    },
+    {
+      "title": "Carlsen Gives Trophy To Vidit As Alpine APL Pipers Lead With Ganges Grandmasters",
+      "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-7",
+      "source": "Chess.com",
+      "date": "2026-09-11T18:49:52.000Z",
+      "summary": "GM Magnus Carlsen's Alpine APL Pipers and GM Ian Nepomniachtchi's Ganges Grandmasters lead the 2026 Tech Mahindra Global Chess League after day seven, with just one more match left in the round-robin stage. The Alpine APL Pipers won by a thin, two..."
+    },
     {
       "title": "Clutch Chess: Kasparov and Topalov play Chess960, Day 1 – Live!",
       "link": "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
@@ -203,13 +217,6 @@
       "source": "Chess.com",
       "date": "2026-09-08T20:49:00.000Z",
       "summary": "The lead wasn't necessarily the ideal place to be in Titled Tuesday on September 8, before GM Liem Le won his first of the year with a 9.5 score, ahead of GM Hikaru Nakamura and IM Tobias Koelle on tiebreaks. For the second straight week, GM Jan-K..."
-    },
-    {
-      "title": "GCL 2026, Day 4: FYERS American Gambits go on top with win over PBG Alaskan Knights; Triveni Continental Kings upset overnight leaders Alpine APL Pipers",
-      "link": "https://www.fide.com/gcl-2026-day-4-fyers-american-gambits-go-on-top-with-win-over-pbg-alaskan-knights-triveni-continental-kings-upset-overnight-leaders-alpine-apl-pipers/",
-      "source": "FIDE",
-      "date": "2026-09-08T19:32:19.000Z",
-      "summary": "The match between Ganges Grandmasters and PBG Alaskan Knights witnessed decisive outcomes on all six boards for the first time in the competition; FYERS American Gambits win first return match. FYERS American Gambits reclaimed the top spot in the Global Che…"
     },
     {
       "title": "Mind vs Machine",
@@ -413,13 +420,6 @@
       "source": "Chess.com",
       "date": "2026-09-02T20:30:34.000Z",
       "summary": "GM Vladimir Kramnik has lost his lawsuit against Dutch chess magazine New In Chess over an article that accused the former world champion of cyberbullying GM Daniel Naroditsky. An Amsterdam court ruled that the article was not unlawful, rejected a..."
-    },
-    {
-      "title": "The North American Corporate Chess League Returns For Season 14 Starting October 1",
-      "link": "https://www.chess.com/news/view/announcing-north-american-corporate-chess-league-season-14",
-      "source": "Chess.com",
-      "date": "2026-09-02T15:00:00.000Z",
-      "summary": "The North American Corporate Chess League (NACCL) is back on Chess.com for its 14th season. The event runs from October 1 to November 12, and registration is now open. The NACCL is the world's largest corporate chess league, bringing together com..."
     },
     {
       "title": "Green Hills Resort Masters 2026 - Games and results",
