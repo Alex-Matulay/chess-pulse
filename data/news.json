@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T09:58:09.070Z",
+  "updated": "2026-09-12T13:26:22.420Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Global Chess League, Day 8 - Live!",
+      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-12T13:15:00.000Z",
+      "summary": "Heading to day 8, the final day of the preliminary round, two teams are comfortably tied for first place in the Global Chess League, each with 18 team points. The Ganges Grandmasters and the Alpine APL Pipers have the best chances of reaching Sunday’s final…"
+    },
     {
       "title": "25 years ago – ChessBase news",
       "link": "https://en.chessbase.com/post/25-years-ago-chessbase-news",
@@ -77,13 +84,6 @@
       "source": "The Week in Chess",
       "date": "2026-09-11T14:38:00.000Z",
       "summary": "Clutch Chess: The Legends is a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games are Chess960. There are two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11 an…"
-    },
-    {
-      "title": "Global Chess League, Day 7 - Live!",
-      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-11T13:15:00.000Z",
-      "summary": "hree teams are tied for the lead as the Global Chess League enters day seven in Bengaluru. The action begins at 13:30 CEST with the Triveni Continental Kings facing the PBG Alaskan Knights, featuring Alireza Firouzja against Vishy Anand on the icon board. A…"
     },
     {
       "title": "FIDE World U7-U17 Rapid and Blitz Championships 2026 Egypt: Registration now open",
@@ -560,13 +560,6 @@
       "source": "ChessBase",
       "date": "2026-08-03T06:57:57.000Z",
       "summary": "We're planning the next chapters of ChessBase and we want input from the people who actually use it, before we decide what to build first. Help us by taking part in a survey that asks how you work day to day: your setup and hardware, how you use engines and…"
-    },
-    {
-      "title": "Shifts and mirrors in a chess problem",
-      "link": "https://en.chessbase.com/post/shifts-and-mirrors-in-a-chess-problem",
-      "source": "ChessBase",
-      "date": "2026-07-29T12:00:00.000Z",
-      "summary": "A year ago problem composer Werner Keym issued a challenge: compose a study in which White is winning – but one that can be shifted and mirrored vertically and horizontally, with all vertically shifted and mirrored positions drawing, and all horizontally sh…"
     }
   ]
 }
