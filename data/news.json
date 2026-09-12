@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T00:50:53.877Z",
+  "updated": "2026-09-12T05:20:11.239Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Review: Mastering Calculation by Kostya Kavutskiy",
+      "link": "https://en.chessbase.com/post/review-mastering-calculation-by-kostya-kavutskiy",
+      "source": "ChessBase",
+      "date": "2026-09-12T07:00:00.000Z",
+      "summary": "Kostya Kavutskiy is the latest \"Fritz Trainer\" to join the ChessBase team of authors. An International Master, renowned FIDE trainer and chess author, he made his ChessBase debut with the video course \"Mastering Calculation\" and has already followed it up w…"
+    },
+    {
+      "title": "Topalov Leads Kasparov 2.5-1.5 After Eventful Day",
+      "link": "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-1",
+      "source": "Chess.com",
+      "date": "2026-09-12T04:13:00.000Z",
+      "summary": "Thirteenth World Champion GM Garry Kasparov found it tough to keep the clock and his nerves in control, as GM Veselin Topalov exploited his opportunities to gain a 2.5-1.5 lead at the end of the first day of the 2026 Clutch Chess: The Legends, the..."
+    },
     {
       "title": "Chess for refugee children: A winning move",
       "link": "https://www.fide.com/chess-for-refugee-children-a-winning-move/",
@@ -413,13 +427,6 @@
       "source": "Chess.com",
       "date": "2026-09-02T21:44:00.000Z",
       "summary": "Chess.com&rsquo;s Chief Chess Officer, IM Danny Rensch, hosted State of Chess on Tuesday to share all the latest updates for Chess.com. The show featured special guests Liza Mandelup, executive producer and director of the new film Grandmasters,&n..."
-    },
-    {
-      "title": "Kramnik Loses New In Chess Lawsuit Over Naroditsky Article, Vows To Appeal",
-      "link": "https://www.chess.com/news/view/vladimir-kramnik-loses-new-in-chess-lawsuit",
-      "source": "Chess.com",
-      "date": "2026-09-02T20:30:34.000Z",
-      "summary": "GM Vladimir Kramnik has lost his lawsuit against Dutch chess magazine New In Chess over an article that accused the former world champion of cyberbullying GM Daniel Naroditsky. An Amsterdam court ruled that the article was not unlawful, rejected a..."
     },
     {
       "title": "Green Hills Resort Masters 2026 - Games and results",
