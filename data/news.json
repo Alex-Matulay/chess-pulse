@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T05:20:11.239Z",
+  "updated": "2026-09-12T09:58:09.070Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "25 years ago – ChessBase news",
+      "link": "https://en.chessbase.com/post/25-years-ago-chessbase-news",
+      "source": "ChessBase",
+      "date": "2026-09-12T08:00:00.000Z",
+      "summary": "\"Yesterday, in one of the most horrifying terrorist atrocities in history, the World Trade Center in New York was destroyed...\" Those were the words with which we launched our brand new database-driven news page, on September 12, 2001. It was the very first…"
+    },
     {
       "title": "Review: Mastering Calculation by Kostya Kavutskiy",
       "link": "https://en.chessbase.com/post/review-mastering-calculation-by-kostya-kavutskiy",
@@ -49,13 +56,6 @@
       "source": "Chess.com",
       "date": "2026-09-11T18:49:00.000Z",
       "summary": "GM Magnus Carlsen's Alpine APL Pipers and GM Ian Nepomniachtchi's Ganges Grandmasters lead the 2026 Tech Mahindra Global Chess League after day seven, with just one more match left in the round-robin stage. The Alpine APL Pipers won by a thin, two..."
-    },
-    {
-      "title": "Clutch Chess: Kasparov and Topalov play Chess960, Day 1 – Live!",
-      "link": "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
-      "source": "ChessBase",
-      "date": "2026-09-11T18:30:00.000Z",
-      "summary": "Garry Kasparov and Veselin Topalov will face each other in “Clutch Chess: The Legends” in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each success…"
     },
     {
       "title": "Tiebreaks Decide 3 0 Thursday: Lazavik, Duda, Taher Triumph",
