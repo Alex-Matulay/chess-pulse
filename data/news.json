@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T13:26:22.420Z",
+  "updated": "2026-09-12T16:41:33.690Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Clutch Chess: Kasparov and Topalov play Chess960, Day 2 – Live!",
+      "link": "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
+      "source": "ChessBase",
+      "date": "2026-09-12T18:30:00.000Z",
+      "summary": "Garry Kasparov and Veselin Topalov will face each other in “Clutch Chess: The Legends” in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each success…"
+    },
+    {
+      "title": "Salesforce to power the future of chess",
+      "link": "https://en.chessbase.com/post/salesforce-to-power-the-future-of-chess",
+      "source": "ChessBase",
+      "date": "2026-09-12T15:32:00.000Z",
+      "summary": "It is the biggest contract in FIDE's history with a private entity: Salesforce is becoming the title sponsor and technological partner of the International Chess Federation. The partnership brings the Agentforce 360 portfolio, including Slack, to the world’…"
+    },
     {
       "title": "Global Chess League, Day 8 - Live!",
       "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
@@ -553,13 +567,6 @@
       "source": "Lichess",
       "date": "2026-08-04T12:08:56.424Z",
       "summary": "A queen sacrifice — with check!"
-    },
-    {
-      "title": "Help us build the next ChessBase",
-      "link": "https://en.chessbase.com/post/help-us-build-the-next-chessbase",
-      "source": "ChessBase",
-      "date": "2026-08-03T06:57:57.000Z",
-      "summary": "We're planning the next chapters of ChessBase and we want input from the people who actually use it, before we decide what to build first. Help us by taking part in a survey that asks how you work day to day: your setup and hardware, how you use engines and…"
     }
   ]
 }
