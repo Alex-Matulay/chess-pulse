@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T02:50:07.040Z",
+  "updated": "2026-09-13T07:56:44.121Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "ChessBase´26 – Tips for Beginners, part 31: Endgame expert with the \"LiveBook\"",
+      "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-31-endgame-expert-with-the-livebook",
+      "source": "ChessBase",
+      "date": "2026-09-13T07:00:00.000Z",
+      "summary": "How do you train endgames? To be honest, the question might be better phrased as: Do you even train endgames at all? After all, the magical richness of the final phase of a game is something not everyone appreciates. This makes it all the more important tha…"
+    },
     {
       "title": "Topalov Builds Solid Lead Over Kasparov",
       "link": "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-2",
@@ -35,13 +42,6 @@
       "source": "Chess.com",
       "date": "2026-09-12T19:08:00.000Z",
       "summary": "GM Magnus Carlsen's Alpine APL Pipers will play GM Ian Nepomniachtchi's Ganges Grandmasters in this year's title match at the 2026 Tech Mahindra Global Chess League. In a rare outcome for a chess tournament, both leaders lost on the final day but ..."
-    },
-    {
-      "title": "Clutch Chess: Kasparov and Topalov play Chess960, Day 2 – Live!",
-      "link": "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
-      "source": "ChessBase",
-      "date": "2026-09-12T18:30:00.000Z",
-      "summary": "Garry Kasparov and Veselin Topalov will face each other in “Clutch Chess: The Legends” in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each success…"
     },
     {
       "title": "Salesforce to power the future of chess",
