@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T23:40:13.154Z",
+  "updated": "2026-09-13T02:50:07.040Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Topalov Builds Solid Lead Over Kasparov",
+      "link": "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-2",
+      "source": "Chess.com",
+      "date": "2026-09-13T00:31:00.000Z",
+      "summary": "GM Veselin Topalov won both blitz games to take a five-point lead over GM Garry Kasparov at the end of the second day of the 2026 Clutch Chess: The Legends Chess960 match. Topalov leads the match with a score of 8.5-3.5. Kasparov failed to conver..."
+    },
     {
       "title": "GCL: Defending champions Alpine APL Pipers to face Ganges Grandmasters in Season 4 title clash",
       "link": "https://www.fide.com/gcl-defending-champions-alpine-apl-pipers-to-face-ganges-grandmasters-in-season-4-title-clash/",
@@ -434,13 +441,6 @@
       "source": "Chess.com",
       "date": "2026-09-03T15:20:00.000Z",
       "summary": "Nigerian-born CM Chikwere Onyekwere (aka \"Chichi\"), the highest-rated hustler in New York's Washington Square Park, was detained by ICE (U.S. Immigration and Customs Enforcement) on Tuesday, August 25, and is currently in the Prairieland Detention..."
-    },
-    {
-      "title": "How To Watch Season 4 Of The Global Chess League",
-      "link": "https://www.chess.com/news/view/how-to-watch-global-chess-league-season-4",
-      "source": "Chess.com",
-      "date": "2026-09-03T15:00:00.000Z",
-      "summary": "The main event of the fourth season of the Tech Mahindra Global Chess League, the world's largest chess league, starts on September 5. Soon, the very best players in the world will gather in Bengaluru, India, to play in one of this year's biggest ..."
     },
     {
       "title": "Green Hills Resort Masters 2026 - Games and results",
