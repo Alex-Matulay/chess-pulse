@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T13:07:34.850Z",
+  "updated": "2026-09-13T17:11:53.280Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,53 @@
   ],
   "items": [
     {
+      "title": "Clutch Chess: Kasparov and Topalov play Chess960, Day 3 – Live!",
+      "link": "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
+      "source": "ChessBase",
+      "date": "2026-09-13T18:35:00.000Z",
+      "summary": "Garry Kasparov and Veselin Topalov will face each other in “Clutch Chess: The Legends” in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each success…"
+    },
+    {
+      "title": "Tech Mahindra Global Chess League 2026 - Games and results",
+      "link": "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2026",
+      "source": "The Week in Chess",
+      "date": "2026-09-13T17:24:00.000Z",
+      "summary": "The Tech Mahindra Global Chess League took place in Bengaluru, India 5th-13th September 2026. 6 Teams played over 10 rounds in rapid (10m+2spm) chess. The winners were Ganges Grandmasters with Ian Nepomniachtchi as the Legend and Levon Aronian as their boar…"
+    },
+    {
+      "title": "Legends and Prodigies II 2026 - Games and results",
+      "link": "https://theweekinchess.com/chessnews/events/legends-and-prodigies-ii-2026",
+      "source": "The Week in Chess",
+      "date": "2026-09-13T17:20:00.000Z",
+      "summary": "The second Legends and Prodigies tournament took place in Madrid Mon 7th to Sat 12th Sep 2026. David Anton Guijarro was a convincing winner with a score of 7.5/10 a point and a half clear of Jose Eduardo Martinez Alcantara, prodogy Faustino Oro finished on…"
+    },
+    {
+      "title": "On the Superfluity of Words",
+      "link": "https://en.chessbase.com/post/on-the-superfluity-of-words",
+      "source": "ChessBase",
+      "date": "2026-09-13T16:00:00.000Z",
+      "summary": "There are countless ways to be creative. Chess and mathematics are just two examples. In both fields, one can be creative without needing words to describe the results of that creativity to others. In this article, the first of a three-part series by Prof.…"
+    },
+    {
+      "title": "Nepomniachtchi Beats Carlsen, Tsolakidou Clinches For Ganges Grandmasters",
+      "link": "https://www.chess.com/news/view/ganges-grandmasters-win-2026-tech-mahindra-global-chess-league",
+      "source": "Chess.com",
+      "date": "2026-09-13T15:45:50.000Z",
+      "summary": "The Ganges Grandmasters won their maiden title at the 2026 Tech Mahindra Global Chess League after defeating defending champions Alpine APL Pipers in an exhilarating final match. GM Ian Nepomniachtchi turned around a losing position with a bishop ..."
+    },
+    {
       "title": "Review: All new releases in August!",
       "link": "https://en.chessbase.com/post/review-all-new-releases-in-august-2",
       "source": "ChessBase",
       "date": "2026-09-13T15:00:00.000Z",
       "summary": "August brings a range of new chess training products covering different areas of the game. The main topics include active opening repertoires, calculation and strategic decision-making. There are also two new courses on positional play, as well as updated d…"
+    },
+    {
+      "title": "Samarkand ready for a record-breaking Chess Olympiad",
+      "link": "https://www.fide.com/samarkand-ready-for-a-record-breaking-chess-olympiad/",
+      "source": "FIDE",
+      "date": "2026-09-13T14:56:59.000Z",
+      "summary": "For centuries, Samarkand stood at the crossroads of civilisations. Merchants, scholars and travellers crossed the ancient Silk Road, carrying ideas and cultures from one part of the world to another. Now, another kind of journey will bring the world to the…"
     },
     {
       "title": "Global Chess League, Day 9 Finals - Live!",
@@ -203,13 +245,6 @@
       "source": "ChessBase",
       "date": "2026-09-10T09:32:49.000Z",
       "summary": "After six draws the previous day, the players at the Legends & Prodigies tournament in Madrid seemed ready for a fight: rounds four and five produced just one draw in six games. Faustino Oro beat Ivan Sokolov before drawing with Jose Eduardo Martinez Alcant…"
-    },
-    {
-      "title": "GCL 2026, Day 5: Gambits beat Kings, Pipers defeat Mumba Masters as race to the final heats up",
-      "link": "https://www.fide.com/gcl-2026-day-5-gambits-beat-kings-pipers-defeat-mumba-masters-as-race-to-the-final-heats-up/",
-      "source": "FIDE",
-      "date": "2026-09-09T21:27:57.000Z",
-      "summary": "Table toppers FYERS American Gambits added to the misery of Triveni Continental Kings by inflicting yet another defeat on the two-time champions to maintain their advantage over defending champions Alpine APL Pipers at the top of the standings in the Global…"
     },
     {
       "title": "Review: Opening Encyclopedia 2026",
@@ -422,13 +457,6 @@
       "summary": "The 2026 Tech Mahindra Global Chess League runs Sat 5th-13th Sept in Bengaluru, India. It uses a rapid time control of 20 minutes plus 2 seconds a move. Magnus Carlsen, Alireza Firouzja and Viswanathan Anand star. League: 6 teams 10 matches, the top two fin…"
     },
     {
-      "title": "Tech Mahindra Global Chess League 2026 - Games and results",
-      "link": "https://theweekinchess.com/chessnews/events/tech-mahindra-global-chess-league-2026",
-      "source": "The Week in Chess",
-      "date": "2026-09-04T12:51:00.000Z",
-      "summary": "The Tech Mahindra Global Chess League takes place in Bengaluru, India 5th-13th September 2026. 6 Teams play over 10 rounds in rapid (10m+2spm) chess. Each match has its own session, there will be four a day for most of the league stage, 3 for the final coup…"
-    },
-    {
       "title": "TCh-ESP 1st Div 2026 - Games and results",
       "link": "https://theweekinchess.com/chessnews/events/tch-esp-1st-div-2026",
       "source": "The Week in Chess",
@@ -441,13 +469,6 @@
       "source": "Chess.com",
       "date": "2026-09-03T16:11:00.000Z",
       "summary": "GM Faustino Oro has officially been awarded the GM title by FIDE, making the 12-year-old Argentinian \"Messi of Chess\" the youngest current grandmaster. The confirmation comes shortly after he broke 3300 in blitz on Chess.com, giving an extra boost..."
-    },
-    {
-      "title": "Renowned Washington Square Park Player 'Chichi' Detained By ICE",
-      "link": "https://www.chess.com/news/view/washington-square-park-hustler-chichi-detained-by-ice",
-      "source": "Chess.com",
-      "date": "2026-09-03T15:20:00.000Z",
-      "summary": "Nigerian-born CM Chikwere Onyekwere (aka \"Chichi\"), the highest-rated hustler in New York's Washington Square Park, was detained by ICE (U.S. Immigration and Customs Enforcement) on Tuesday, August 25, and is currently in the Prairieland Detention..."
     },
     {
       "title": "Green Hills Resort Masters 2026 - Games and results",
@@ -546,27 +567,6 @@
       "source": "ChessBase",
       "date": "2026-08-13T08:00:00.000Z",
       "summary": "A few weeks ago this great chess organiser and sponsor passed away at the age of 57. For many years he invited us to his \"Zurich Chess Challenge\", which saw some of the world's top players competing. During that time we had interesting, personal interaction…"
-    },
-    {
-      "title": "More Than a Half-Year Update 2026",
-      "link": "https://lichess.org/@/Lichess/blog/more-than-a-half-year-update-2026/Bu77Rba1",
-      "source": "Lichess",
-      "date": "2026-08-12T07:27:11.461Z",
-      "summary": "Mobile updates, site updates, broadcasts, events, and more!"
-    },
-    {
-      "title": "112th British Chess Championships 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
-      "source": "The Week in Chess",
-      "date": "2026-08-09T19:46:00.000Z",
-      "summary": "The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. T…"
-    },
-    {
-      "title": "Lichess Meetup: Prague",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-meetup-prague/rt9aFXz5",
-      "source": "Lichess",
-      "date": "2026-08-07T08:23:09.095Z",
-      "summary": "Sunday, September 20th, 2026"
     }
   ]
 }
