@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T07:56:44.121Z",
+  "updated": "2026-09-13T13:07:34.850Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Review: All new releases in August!",
+      "link": "https://en.chessbase.com/post/review-all-new-releases-in-august-2",
+      "source": "ChessBase",
+      "date": "2026-09-13T15:00:00.000Z",
+      "summary": "August brings a range of new chess training products covering different areas of the game. The main topics include active opening repertoires, calculation and strategic decision-making. There are also two new courses on positional play, as well as updated d…"
+    },
+    {
+      "title": "Global Chess League, Day 9 Finals - Live!",
+      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-13T11:45:00.000Z",
+      "summary": "Today at 12:00 p.m., the 9th and final day of the Global Chess League begins with the matches for third place between the CheQ Mumba Masters (Vachier-Lagrave, Mamedyarov, Dronavalli) and the FYERS American Gambits (Sindarov, Nihal Sarin, Assaubayeva). The f…"
+    },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 31: Endgame expert with the \"LiveBook\"",
       "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-31-endgame-expert-with-the-livebook",
@@ -49,13 +63,6 @@
       "source": "ChessBase",
       "date": "2026-09-12T15:32:00.000Z",
       "summary": "It is the biggest contract in FIDE's history with a private entity: Salesforce is becoming the title sponsor and technological partner of the International Chess Federation. The partnership brings the Agentforce 360 portfolio, including Slack, to the world’…"
-    },
-    {
-      "title": "Global Chess League, Day 8 - Live!",
-      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-12T13:15:00.000Z",
-      "summary": "Heading to day 8, the final day of the preliminary round, two teams are comfortably tied for first place in the Global Chess League, each with 18 team points. The Ganges Grandmasters and the Alpine APL Pipers have the best chances of reaching Sunday’s final…"
     },
     {
       "title": "25 years ago – ChessBase news",
@@ -560,13 +567,6 @@
       "source": "Lichess",
       "date": "2026-08-07T08:23:09.095Z",
       "summary": "Sunday, September 20th, 2026"
-    },
-    {
-      "title": "Lichess Game of the Month: June '26",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-june-26/a3FwhC4X",
-      "source": "Lichess",
-      "date": "2026-08-04T12:08:56.424Z",
-      "summary": "A queen sacrifice — with check!"
     }
   ]
 }
