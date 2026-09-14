@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T00:38:31.808Z",
+  "updated": "2026-09-14T05:42:11.540Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Blitz Skills Help Topalov Win Match With Big Bonus",
+      "link": "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-3",
+      "source": "Chess.com",
+      "date": "2026-09-14T02:22:58.000Z",
+      "summary": "GM Veselin Topalov staved off a counterthrust from GM Garry Kasparov by winning both blitz games to win the 2026 Clutch Chess: The Legends Chess960 match at the end of the third and final day. In the final analysis, Topalov scored 11-1 in blitz ga..."
+    },
     {
       "title": "Clutch Chess: The Legends 2026 - Games and results",
       "link": "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends-2026",
@@ -462,13 +469,6 @@
       "source": "The Week in Chess",
       "date": "2026-09-03T18:43:00.000Z",
       "summary": "The Spanish CECLUB 1st Div took place Thu 27th August to Wed 2nd September 2026. Club Ajedrez Solvay headed by Vasyl Ivanchuk won the title. Final Standings: 1st Club Ajedrez Solvay, 14.0 points. 2nd Andreu Paterna, 9.0. 3rd Platja Daro Club Escacs, 8.0. 4t…"
-    },
-    {
-      "title": "12-Year-Old Faustino Oro Confirmed As World's Youngest Grandmaster",
-      "link": "https://www.chess.com/news/view/faustino-oro-officially-becomes-worlds-youngest-grandmaster",
-      "source": "Chess.com",
-      "date": "2026-09-03T16:11:00.000Z",
-      "summary": "GM Faustino Oro has officially been awarded the GM title by FIDE, making the 12-year-old Argentinian \"Messi of Chess\" the youngest current grandmaster. The confirmation comes shortly after he broke 3300 in blitz on Chess.com, giving an extra boost..."
     },
     {
       "title": "Green Hills Resort Masters 2026 - Games and results",
