@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T05:42:11.540Z",
+  "updated": "2026-09-14T11:36:34.655Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Ganges Grandmasters win Global Chess League in dramatic final",
+      "link": "https://en.chessbase.com/post/ganges-grandmasters-win-global-chess-league-in-dramatic-final",
+      "source": "ChessBase",
+      "date": "2026-09-14T12:10:28.000Z",
+      "summary": "The Ganges Grandmasters have won the fourth season of the Tech Mahindra Global Chess League. In the final in Bengaluru, Ian Nepomniachtchi's team defeated defending champions Alpine APL Pipers 4-2. After the first match ended 3-3, the Grandmasters won the s…"
+    },
+    {
+      "title": "Chess To Be Played At The South Pole In Antarctica’s 1st-Ever FIDE-Rated Tournament",
+      "link": "https://www.chess.com/news/view/first-fide-rated-chess-tournament-antarctica-south-pole",
+      "source": "Chess.com",
+      "date": "2026-09-14T10:33:14.000Z",
+      "summary": "No, it&rsquo;s not an April Fool's. More than six years after Chess.com joked&nbsp;that the pandemic-interrupted FIDE Candidates Tournament 2020 would resume in Antarctica, rated chess really is heading to the world&rsquo;s coldest continent. The..."
+    },
+    {
+      "title": "Salesforce FIDE World Championship Match 2026: Schedule, format, and prize fund confirmed",
+      "link": "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+      "source": "FIDE",
+      "date": "2026-09-14T09:59:54.000Z",
+      "summary": "FIDE is pleased to announce the regulations for the Salesforce FIDE World Championship Match 2026, confirming the venue, format, schedule, and prize distribution for the meeting between reigning World Champion Grandmaster Gukesh D and his challenger, Grandm…"
+    },
+    {
+      "title": "Legends & Prodigies: David Anton wins convincingly, Oro finishes third",
+      "link": "https://en.chessbase.com/post/legends-prodigies-david-anton-wins-convincingly-oro-finishes-third",
+      "source": "ChessBase",
+      "date": "2026-09-14T08:38:36.000Z",
+      "summary": "David Anton (pictured) won the second edition of the Legends & Prodigies tournament in Madrid unbeaten, finishing 1½ points clear of the field. Five wins and five draws gave him a world-class performance rating of 2756. Defending champion Faustino Oro faded…"
+    },
     {
       "title": "Blitz Skills Help Topalov Win Match With Big Bonus",
       "link": "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-3",
@@ -56,13 +84,6 @@
       "source": "The Week in Chess",
       "date": "2026-09-13T17:20:00.000Z",
       "summary": "The second Legends and Prodigies tournament took place in Madrid Mon 7th to Sat 12th Sep 2026. David Anton Guijarro was a convincing winner with a score of 7.5/10 a point and a half clear of Jose Eduardo Martinez Alcantara, prodogy Faustino Oro finished on…"
-    },
-    {
-      "title": "On the Superfluity of Words",
-      "link": "https://en.chessbase.com/post/on-the-superfluity-of-words",
-      "source": "ChessBase",
-      "date": "2026-09-13T16:00:00.000Z",
-      "summary": "There are countless ways to be creative. Chess and mathematics are just two examples. In both fields, one can be creative without needing words to describe the results of that creativity to others. In this article, the first of a three-part series by Prof.…"
     },
     {
       "title": "🏆 Nepomniachtchi Beats Carlsen, Tsolakidou Clinches For Ganges Grandmasters",
@@ -126,13 +147,6 @@
       "source": "Chess.com",
       "date": "2026-09-12T19:08:00.000Z",
       "summary": "GM Magnus Carlsen's Alpine APL Pipers will play GM Ian Nepomniachtchi's Ganges Grandmasters in this year's title match at the 2026 Tech Mahindra Global Chess League. In a rare outcome for a chess tournament, both leaders lost on the final day but ..."
-    },
-    {
-      "title": "Salesforce to power the future of chess",
-      "link": "https://en.chessbase.com/post/salesforce-to-power-the-future-of-chess",
-      "source": "ChessBase",
-      "date": "2026-09-12T15:32:00.000Z",
-      "summary": "It is the biggest contract in FIDE's history with a private entity: Salesforce is becoming the title sponsor and technological partner of the International Chess Federation. The partnership brings the Agentforce 360 portfolio, including Slack, to the world’…"
     },
     {
       "title": "25 years ago – ChessBase news",
@@ -224,13 +238,6 @@
       "source": "Chess.com",
       "date": "2026-09-10T21:41:54.000Z",
       "summary": "FIDE presidential candidates Jan Henric Buettner and Timur Turlov clashed over how the world chess body should be funded&mdash;and whether it should continue relying on wealthy benefactors. The third candidate, Wadim Rosenstein, disconnected short..."
-    },
-    {
-      "title": "GCL 2026, Day 6: One game point separates Alpine APL Pipers, FYERS American Gambits and Ganges Grandmasters at the top",
-      "link": "https://www.fide.com/gcl-2026-day-6-just-one-game-point-separates-alpine-apl-pipers-fyers-american-gambits-and-ganges-grandmasters-at-the-top/",
-      "source": "FIDE",
-      "date": "2026-09-10T21:12:30.000Z",
-      "summary": "Alpine APL Pipers beat PBG Alaskan Knights 11-6 but lost to Ganges Grandmasters 4-12; CheQ Mumba Masters also stay in the hunt with a 14-5 win over Triveni Continental Kings; American Gambits beat the Grandmasters 13-5. The group stage of the fourth season…"
     },
     {
       "title": "Alpine APL Pipers, FYERS American Gambits, Ganges Grandmasters Share 3-Way Lead",
@@ -448,13 +455,6 @@
       "source": "Chess.com",
       "date": "2026-09-04T15:00:00.000Z",
       "summary": "The Collegiate Chess League (CCL) is back for another thrilling season, and registrations for Fall 2026 are officially open! Once again, the CCL will boast a $25,000 prize fund and the exciting four-vs.-four team format that fans and players love...."
-    },
-    {
-      "title": "Praggnanandhaa On Fighting To Win, India's Olympiad Hopes, Gukesh-Sindarov & More",
-      "link": "https://www.chess.com/news/view/praggnanandhaa-interview-olympiad-gukesh-sindarov",
-      "source": "Chess.com",
-      "date": "2026-09-04T13:56:44.000Z",
-      "summary": "\"I think, at the moment, I would say he's the number one player in the world,\" GM Viswanathan Anand recently told The Times of India about GM Praggnanandhaa Rameshbabu, who followed victory in Norway Chess 2026 by winning the 2026 Grand Chess Tour..."
     },
     {
       "title": "Season Four of the Tech Mahindra Global Chess League - Start",
