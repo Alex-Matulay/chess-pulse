@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T11:36:34.655Z",
+  "updated": "2026-09-14T17:31:22.070Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,6 +9,20 @@
   ],
   "items": [
     {
+      "title": "Salesforce FIDE World Championship Match 2026",
+      "link": "https://en.chessbase.com/post/salesforce-fide-world-championship-match-2026",
+      "source": "ChessBase",
+      "date": "2026-09-14T18:00:00.000Z",
+      "summary": "FIDE is pleased to announce the regulations for the Salesforce FIDE World Championship Match 2026, confirming the venue, format, schedule, and prize distribution for the meeting between reigning World Champion Grandmaster Gukesh D and his challenger, Grandm…"
+    },
+    {
+      "title": "Samarkand ready for a record-breaking Chess Olympiad",
+      "link": "https://en.chessbase.com/post/samarkand-ready-for-a-record-breaking-chess-olympiad",
+      "source": "ChessBase",
+      "date": "2026-09-14T14:00:00.000Z",
+      "summary": "For centuries, Samarkand stood at the crossroads of civilisations. Merchants, scholars and travellers crossed the ancient Silk Road, carrying ideas and cultures from one part of the world to another. Now, another kind of journey will bring the world to the…"
+    },
+    {
       "title": "Ganges Grandmasters win Global Chess League in dramatic final",
       "link": "https://en.chessbase.com/post/ganges-grandmasters-win-global-chess-league-in-dramatic-final",
       "source": "ChessBase",
@@ -16,10 +30,17 @@
       "summary": "The Ganges Grandmasters have won the fourth season of the Tech Mahindra Global Chess League. In the final in Bengaluru, Ian Nepomniachtchi's team defeated defending champions Alpine APL Pipers 4-2. After the first match ended 3-3, the Grandmasters won the s…"
     },
     {
+      "title": "Tickets for the 46th FIDE Chess Olympiad now on sale",
+      "link": "https://www.fide.com/tickets-for-the-46th-fide-chess-olympiad-now-on-sale/",
+      "source": "FIDE",
+      "date": "2026-09-14T11:59:41.000Z",
+      "summary": "The 46th FIDE Chess Olympiad takes place in Samarkand, Uzbekistan, from 15 to 27 September 2026, with around 200 national teams competing across the Open and Women’s sections at the Silk Road International Exhibition Centre. Spectator tickets are now on sal…"
+    },
+    {
       "title": "Chess To Be Played At The South Pole In Antarctica’s 1st-Ever FIDE-Rated Tournament",
       "link": "https://www.chess.com/news/view/first-fide-rated-chess-tournament-antarctica-south-pole",
       "source": "Chess.com",
-      "date": "2026-09-14T10:33:14.000Z",
+      "date": "2026-09-14T10:33:00.000Z",
       "summary": "No, it&rsquo;s not an April Fool's. More than six years after Chess.com joked&nbsp;that the pandemic-interrupted FIDE Candidates Tournament 2020 would resume in Antarctica, rated chess really is heading to the world&rsquo;s coldest continent. The..."
     },
     {
@@ -98,13 +119,6 @@
       "source": "ChessBase",
       "date": "2026-09-13T15:00:00.000Z",
       "summary": "August brings a range of new chess training products covering different areas of the game. The main topics include active opening repertoires, calculation and strategic decision-making. There are also two new courses on positional play, as well as updated d…"
-    },
-    {
-      "title": "Samarkand ready for a record-breaking Chess Olympiad",
-      "link": "https://www.fide.com/samarkand-ready-for-a-record-breaking-chess-olympiad/",
-      "source": "FIDE",
-      "date": "2026-09-13T14:56:59.000Z",
-      "summary": "For centuries, Samarkand stood at the crossroads of civilisations. Merchants, scholars and travellers crossed the ancient Silk Road, carrying ideas and cultures from one part of the world to another. Now, another kind of journey will bring the world to the…"
     },
     {
       "title": "Global Chess League, Day 9 Finals - Live!",
@@ -210,13 +224,6 @@
       "source": "Chess.com",
       "date": "2026-09-11T15:00:00.000Z",
       "summary": "You can now handle 1.e4 like a super-grandmaster. GM Wesley So has just released Elite 1.e4 e5 - Part 1, his new course built around his personal answer to White's most common opening move, 1.e4. With positional, dependable lines, So will teach yo..."
-    },
-    {
-      "title": "FIDE World U7-U17 Rapid and Blitz Championships 2026 Egypt: Registration now open",
-      "link": "https://www.fide.com/fide-world-u7-u17-rapid-and-blitz-championships-2026-egypt-registration-now-open/",
-      "source": "FIDE",
-      "date": "2026-09-11T10:41:28.000Z",
-      "summary": "The International Chess Federation (FIDE) and the Egyptian Chess Federation are pleased to announce the 2026 FIDE World U7-U17 Rapid and Blitz Championships. The event will take place in Cairo, Egypt, from December 8 (arrival) to December 15 (departure), 20…"
     },
     {
       "title": "Global Chess League: Three teams tied for the lead",
@@ -560,13 +567,6 @@
       "source": "The Week in Chess",
       "date": "2026-08-15T16:53:00.000Z",
       "summary": "The Esports World Cup chess section took place in Paris Tue 11th Aug to Sat 15th Aug 2026. This Double Elimination KO event featured Magnus Carlsen, Hikaru Nakmura, Alireza Firouzja and Denis Lazavik among many famous names and faces. I have a new table for…"
-    },
-    {
-      "title": "Remembering Oleg Skvortsov",
-      "link": "https://en.chessbase.com/post/remembering-oleg-skvortsov",
-      "source": "ChessBase",
-      "date": "2026-08-13T08:00:00.000Z",
-      "summary": "A few weeks ago this great chess organiser and sponsor passed away at the age of 57. For many years he invited us to his \"Zurich Chess Challenge\", which saw some of the world's top players competing. During that time we had interesting, personal interaction…"
     }
   ]
 }
