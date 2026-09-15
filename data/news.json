@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T10:57:42.446Z",
+  "updated": "2026-09-15T15:25:53.616Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "In Memoriam: Anthony John Gillam (1943–2026)",
+      "link": "https://en.chessbase.com/post/in-memoriam-anthony-john-gillam-1943-2026",
+      "source": "ChessBase",
+      "date": "2026-09-15T15:00:00.000Z",
+      "summary": "On 15 August 2026, the publisher, renowned author and chess historian Anthony Gillam died at the age of 83. He was one of the leading figures of the Chess History & Literature Society. In his obituary, Michael Negele recalls many moments from their shared r…"
+    },
+    {
+      "title": "46th World Chess Olympiad 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
+      "source": "The Week in Chess",
+      "date": "2026-09-15T14:51:00.000Z",
+      "summary": "The 46th World Chess Olympiad takes place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. I will broadcast the top 20 matche…"
+    },
     {
       "title": "Chess historians meet in Copenhagen",
       "link": "https://en.chessbase.com/post/chess-historians-meet-in-copenhagen",
@@ -553,20 +567,6 @@
       "source": "ChessBase",
       "date": "2026-08-19T07:22:09.000Z",
       "summary": "IM Andrew Martin presents a complete White repertoire after 1.e4 e5 2.Nf3, with the Evans Gambit as its aggressive centerpiece for tactically minded players up to around 1800 Elo. Volume 1 covers the key lines, attacking ideas and traps of the Evans Gambit,…"
-    },
-    {
-      "title": "Streamer Arenas Announcement — August to December 2026",
-      "link": "https://lichess.org/@/Lichess/blog/streamer-arenas-announcement-august-to-december-2026/tkby72bI",
-      "source": "Lichess",
-      "date": "2026-08-16T19:40:30.817Z",
-      "summary": "Announcing our schedule for upcoming Streamer Arenas!"
-    },
-    {
-      "title": "Carlsen wins the Chess event in the Esports World Cup - Final",
-      "link": "https://theweekinchess.com/twic-news-feed/carlsen-wins-the-chess-event-in-the-esports-world-cup",
-      "source": "The Week in Chess",
-      "date": "2026-08-15T18:42:00.000Z",
-      "summary": "Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The c…"
     }
   ]
 }
