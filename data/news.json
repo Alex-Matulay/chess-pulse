@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T15:25:53.616Z",
+  "updated": "2026-09-15T19:28:29.011Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,41 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "The first major tournament after the Second World War: The Staunton Memorial 1946",
+      "link": "https://en.chessbase.com/post/the-first-major-tournament-after-the-second-world-war-the-staunton-memorial-1946",
+      "source": "ChessBase",
+      "date": "2026-09-15T19:00:00.000Z",
+      "summary": "The first major international tournament after the end of the Second World War took place in Groningen in August and September. It was the anniversary tournament of the Staunton Chess Club, founded in 1871. For the first time ever, a group of Soviet players…"
+    },
+    {
+      "title": "Opening press conference of the 46th FIDE Chess Olympiad",
+      "link": "https://www.fide.com/opening-press-conference-of-the-46th-fide-chess-olympiad/",
+      "source": "FIDE",
+      "date": "2026-09-15T18:07:42.000Z",
+      "summary": "The high-profile panel, moderated by Charlize van Zyl, featured Viswanathan Anand, FIDE Interim President, Alisher Sadullaev, 1st Vice President of the Uzbekistan Chess Federation, Gulrukhbegim Tokhirjonova, from team Uzbekistan (women’s section) and Nodirb…"
+    },
+    {
+      "title": "Georgios Makropoulos (1953–2026)",
+      "link": "https://en.chessbase.com/post/georgios-makropoulos-obituary",
+      "source": "ChessBase",
+      "date": "2026-09-15T17:50:00.000Z",
+      "summary": "Georgios Makropoulos, FIDE Vice President and a longstanding figure in Greek and international chess, has died at the age of 72. A seven-time Greek champion and former Olympiad player, Makropoulos later became one of the most prominent administrators in the…"
+    },
+    {
+      "title": "2026 Samarkand Olympiad: Preview",
+      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-preview/anaRyt7r",
+      "source": "Lichess",
+      "date": "2026-09-15T17:21:09.906Z",
+      "summary": "The 2026 Samarkand Olympiad promises to be a very exciting and memorable chess Olympiad."
+    },
+    {
+      "title": "Georgios Makropoulos, Former FIDE Deputy President, Dies At 72",
+      "link": "https://www.chess.com/news/view/georgios-makropoulos-former-fide-deputy-president-dies-at-72",
+      "source": "Chess.com",
+      "date": "2026-09-15T15:51:00.000Z",
+      "summary": "IM Georgios Makropoulos, a seven-time Greek chess champion who became one of the most powerful figures in international chess for decades, has passed away at the age of 72.&nbsp; The Greek Chess Federation and the International Chess Federation (..."
+    },
     {
       "title": "In Memoriam: Anthony John Gillam (1943–2026)",
       "link": "https://en.chessbase.com/post/in-memoriam-anthony-john-gillam-1943-2026",
@@ -177,13 +212,6 @@
       "summary": "August brings a range of new chess training products covering different areas of the game. The main topics include active opening repertoires, calculation and strategic decision-making. There are also two new courses on positional play, as well as updated d…"
     },
     {
-      "title": "Global Chess League, Day 9 Finals - Live!",
-      "link": "https://en.chessbase.com/post/global-chess-league-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-13T11:45:00.000Z",
-      "summary": "Today at 12:00 p.m., the 9th and final day of the Global Chess League begins with the matches for third place between the CheQ Mumba Masters (Vachier-Lagrave, Mamedyarov, Dronavalli) and the FYERS American Gambits (Sindarov, Nihal Sarin, Assaubayeva). The f…"
-    },
-    {
       "title": "ChessBase´26 – Tips for Beginners, part 31: Endgame expert with the \"LiveBook\"",
       "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-31-endgame-expert-with-the-livebook",
       "source": "ChessBase",
@@ -203,13 +231,6 @@
       "source": "FIDE",
       "date": "2026-09-12T21:56:50.000Z",
       "summary": "Both the teams advanced to the final despite losing their final league games after CheQ Mumba Masters defeated FYERS American Gambits 11-6 Defending champions Alpine APL Pipers and Ganges Grandmasters will face each other in the Season 4 finale of the Globa…"
-    },
-    {
-      "title": "Eight teams on perfect score as inclusion and lifelong love for chess take center stage in Samarkand",
-      "link": "https://www.fide.com/eight-teams-on-perfect-score-as-inclusion-and-lifelong-love-for-chess-take-center-stage-in-samarkand/",
-      "source": "FIDE",
-      "date": "2026-09-12T19:23:46.000Z",
-      "summary": "Round 2 of the 3rd FIDE Chess Olympiad for People with Disabilities brought another day of competitive chess to Samarkand, with eight teams maintaining perfect records and setting up four direct clashes between the leaders in Round 3. Beyond the results, th…"
     },
     {
       "title": "Carlsen To Play Nepomniachtchi In Final After Both Leaders Lose Last Match",
@@ -338,13 +359,6 @@
       "summary": "There were no winners on the second day of the Legends & Prodigies tournament in Madrid. All six games from rounds two and three ended in draws, including the third-round encounter between Faustino Oro and David Antón Guijarro, the two players who had won t…"
     },
     {
-      "title": "Andrew Martin - The Evans Gambit is still dangerous",
-      "link": "https://en.chessbase.com/post/andrew-martin-the-evans-gambit-is-still-dangerous",
-      "source": "ChessBase",
-      "date": "2026-09-09T07:05:19.000Z",
-      "summary": "Andrew Martin presents the Evans Gambit as a dangerous and highly practical weapon for club players, especially those rated below 1800. Using a historic game by William Davies Evans, he shows how White gives up a pawn for rapid development, central control…"
-    },
-    {
       "title": "All Teams Still In Fight As Global Chess League Crosses Halfway",
       "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-4",
       "source": "Chess.com",
@@ -359,25 +373,11 @@
       "summary": "The lead wasn't necessarily the ideal place to be in Titled Tuesday on September 8, before GM Liem Le won his first of the year with a 9.5 score, ahead of GM Hikaru Nakamura and IM Tobias Koelle on tiebreaks. For the second straight week, GM Jan-K..."
     },
     {
-      "title": "Mind vs Machine",
-      "link": "https://en.chessbase.com/post/mind-vs-machine",
-      "source": "ChessBase",
-      "date": "2026-09-08T19:00:00.000Z",
-      "summary": "1997: Kasparov vs Deep Blue. We all know the story. But here is a new version told by three-time National Book Award finalist Steve Sheinkin, using first-hand accounts from grandmaster Maurice Ashley, with riveting illustrations by Eisner winner Thien Pham.…"
-    },
-    {
       "title": "Master Your Openings With Game Review's New Feature",
       "link": "https://www.chess.com/news/view/announcing-game-review-course-check",
       "source": "Chess.com",
       "date": "2026-09-08T16:03:22.000Z",
       "summary": "Staying true to your opening repertoire just got easier with Game Review. Whenever you're reviewing a game, your coach will tell you when you've deviated from the lines taught in your Chess.com Courses. With this new Game Review feature, you can i..."
-    },
-    {
-      "title": "Global Chess League: Carlsen’s Pipers Take the Lead",
-      "link": "https://en.chessbase.com/post/global-chess-league-carlsen-s-pipers-take-the-lead",
-      "source": "ChessBase",
-      "date": "2026-09-08T09:23:39.000Z",
-      "summary": "The Alpine APL Pipers, with Magnus Carlsen on the icon board, took sole lead in the standings on day three of the Global Chess League in Bengaluru. In their first match of the day, Carlsen beat Viswanathan Anand on time (pictured), but the Pipers neverthele…"
     },
     {
       "title": "Carlsen's Alpine Pipers Storms Back From Loss To Grab Sole Lead",
@@ -387,25 +387,11 @@
       "summary": "GM Magnus Carlsen flagged GM Viswanathan Anand in the opening match of day three of the 2026 Tech Mahindra Global Chess League, but it couldn't stop Alpine APL Pipers tasting its first defeat when GM Vidit Gujrathi also lost on time. Vidit and the..."
     },
     {
-      "title": "Philidor at 300: Chess Master, Musician and Pioneer",
-      "link": "https://en.chessbase.com/post/philidor-at-300-chess-master-musician-and-pioneer",
-      "source": "ChessBase",
-      "date": "2026-09-07T20:00:00.000Z",
-      "summary": "François-André Danican, better known as Philidor, was born 300 years ago today. A celebrated musician and the greatest chess player of his age, he made his living from chess in Paris and London, performed blindfold exhibitions in Berlin and, at the invitati…"
-    },
-    {
       "title": "How To Watch The FIDE Presidential Debate On September 9",
       "link": "https://www.chess.com/news/view/how-to-watch-fide-presidential-debate-2026",
       "source": "Chess.com",
       "date": "2026-09-07T17:00:00.000Z",
       "summary": "On September 9, Chess.com is hosting the first live FIDE presidential debate of this election. The three candidates&mdash;Jan Henric Buettner, Wadim Rosenstein, and Timur Turlov&mdash;will join to discuss their visions for the future of chess. He..."
-    },
-    {
-      "title": "Global Chess League: Pipers, Gambits and Grandmasters tied for first place",
-      "link": "https://en.chessbase.com/post/global-chess-league-2026-2",
-      "source": "ChessBase",
-      "date": "2026-09-07T08:10:00.000Z",
-      "summary": "The Alpine APL Pipers remain unbeaten after day two of the Tech Mahindra Global Chess League in Bengaluru, while the FYERS American Gambits suffered their first defeat. The Ganges Grandmasters, PBG Alaskan Knights and CheQ Mumba Masters also picked up match…"
     },
     {
       "title": "Carlsen Escapes Vs. Nepomniachtchi As Alpine Pipers Only Team Still Unbeaten",
@@ -415,32 +401,11 @@
       "summary": "GM Magnus Carlsen's Alpine APL Pipers has the only perfect record in the 2026 Tech Mahindra Global Chess League after scoring a dramatic win over GM Ian Nepomniachtchi's Ganges Grandmasters. Nepomniachtchi failed to beat the world number-one with ..."
     },
     {
-      "title": "Former Super GMs taken down - The Underdog",
-      "link": "https://en.chessbase.com/post/former-super-gms-taken-down-the-underdog",
-      "source": "ChessBase",
-      "date": "2026-09-06T18:30:00.000Z",
-      "summary": "In this episode of Underdog, Robert Ris presents two entertaining blitz upsets from a strong event in Sofia. First, Jolanta Zawadzka punishes former 2700 player Ivan Cheparinov with a sharp kingside attack in a Sicilian, finishing the game in just 20 moves.…"
-    },
-    {
-      "title": "England and Slovenia win European Senior Team Championships",
-      "link": "https://en.chessbase.com/post/european-senior-teams-2026-r9",
-      "source": "ChessBase",
-      "date": "2026-09-06T09:20:00.000Z",
-      "summary": "England and Slovenia claimed the titles at the European Senior Team Championships in Crete. England finished unbeaten to win the 50+ section with 17/18 match points, one ahead of Italy. In the 65+ competition, Slovenia and England both scored 16/18, with th…"
-    },
-    {
       "title": "ChessBase´26 – Tips for Beginners, part 30: Use \"Folders\"",
       "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-30-use-folders",
       "source": "ChessBase",
       "date": "2026-09-06T07:00:00.000Z",
       "summary": "ChessBase´26 is amazingly versatile and often surprisingly user-friendly — as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the “Folders” window, which lets you quickly locate anything y…"
-    },
-    {
-      "title": "Global Chess League: American Gambits win both their matches on opening day",
-      "link": "https://en.chessbase.com/post/global-chess-league-2026-1",
-      "source": "ChessBase",
-      "date": "2026-09-06T03:50:00.000Z",
-      "summary": "The fourth season of the Tech Mahindra Global Chess League got under way on Saturday, with the FYERS American Gambits making the strongest start. They won both of their opening-day matches, including a victory over the Triveni Continental Kings, who lost tw…"
     },
     {
       "title": "Sindarov's American Gambits Begin Global Chess League With Double Win",
@@ -455,20 +420,6 @@
       "source": "Chess.com",
       "date": "2026-09-05T19:05:00.000Z",
       "summary": "GM Jeffery Xiong emerged as the winner of a thrilling edition of Bullet Brawl on Saturday in an event that saw the lead change several times, with several players taking turns at the top of the standings. Xiong scored 49.5/68 to post 162 arena po..."
-    },
-    {
-      "title": "Pouya Idani switches federations from Iran to France",
-      "link": "https://en.chessbase.com/post/pouya-idani-represents-france-2026",
-      "source": "ChessBase",
-      "date": "2026-09-05T18:15:00.000Z",
-      "summary": "Iranian grandmaster Pouya Idani has switched federations and will now represent France. The 30-year-old, who has lived in Brest since 2023 and has long been active in French club chess, enters the country's top group of players with a rating above 2600. Ida…"
-    },
-    {
-      "title": "Khachatryan Upstages Nhat Minh Twice To Win Duck Chess Title",
-      "link": "https://www.chess.com/news/view/2026-duck-chess-championship-khachatryan-wins",
-      "source": "Chess.com",
-      "date": "2026-09-05T08:19:00.000Z",
-      "summary": "Duck Chess specialist Edward Khachatryan of Israel defeated defending champion IM Nhat Minh To in both the Winners Final and the Grand Final to triumph in the 2026 Duck Chess Championship and pocket the winner's purse of $750. Nhat Minh gained $50..."
     },
     {
       "title": "European Senior Team Championship 2026 - Games and results",
@@ -567,6 +518,55 @@
       "source": "ChessBase",
       "date": "2026-08-19T07:22:09.000Z",
       "summary": "IM Andrew Martin presents a complete White repertoire after 1.e4 e5 2.Nf3, with the Evans Gambit as its aggressive centerpiece for tactically minded players up to around 1800 Elo. Volume 1 covers the key lines, attacking ideas and traps of the Evans Gambit,…"
+    },
+    {
+      "title": "Streamer Arenas Announcement — August to December 2026",
+      "link": "https://lichess.org/@/Lichess/blog/streamer-arenas-announcement-august-to-december-2026/tkby72bI",
+      "source": "Lichess",
+      "date": "2026-08-16T19:40:30.817Z",
+      "summary": "Announcing our schedule for upcoming Streamer Arenas!"
+    },
+    {
+      "title": "Carlsen wins the Chess event in the Esports World Cup - Final",
+      "link": "https://theweekinchess.com/twic-news-feed/carlsen-wins-the-chess-event-in-the-esports-world-cup",
+      "source": "The Week in Chess",
+      "date": "2026-08-15T18:42:00.000Z",
+      "summary": "Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The c…"
+    },
+    {
+      "title": "Esports World Cup 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/esports-world-cup-2026",
+      "source": "The Week in Chess",
+      "date": "2026-08-15T16:53:00.000Z",
+      "summary": "The Esports World Cup chess section took place in Paris Tue 11th Aug to Sat 15th Aug 2026. This Double Elimination KO event featured Magnus Carlsen, Hikaru Nakmura, Alireza Firouzja and Denis Lazavik among many famous names and faces. I have a new table for…"
+    },
+    {
+      "title": "Remembering Oleg Skvortsov",
+      "link": "https://en.chessbase.com/post/remembering-oleg-skvortsov",
+      "source": "ChessBase",
+      "date": "2026-08-13T08:00:00.000Z",
+      "summary": "A few weeks ago this great chess organiser and sponsor passed away at the age of 57. For many years he invited us to his \"Zurich Chess Challenge\", which saw some of the world's top players competing. During that time we had interesting, personal interaction…"
+    },
+    {
+      "title": "More Than a Half-Year Update 2026",
+      "link": "https://lichess.org/@/Lichess/blog/more-than-a-half-year-update-2026/Bu77Rba1",
+      "source": "Lichess",
+      "date": "2026-08-12T07:27:11.461Z",
+      "summary": "Mobile updates, site updates, broadcasts, events, and more!"
+    },
+    {
+      "title": "112th British Chess Championships 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
+      "source": "The Week in Chess",
+      "date": "2026-08-09T19:46:00.000Z",
+      "summary": "The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. T…"
+    },
+    {
+      "title": "Lichess Meetup: Prague",
+      "link": "https://lichess.org/@/Lichess/blog/lichess-meetup-prague/rt9aFXz5",
+      "source": "Lichess",
+      "date": "2026-08-07T08:23:09.095Z",
+      "summary": "Sunday, September 20th, 2026"
     }
   ]
 }
