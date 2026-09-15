@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T19:28:29.011Z",
+  "updated": "2026-09-15T22:40:12.755Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Sina Movahed Again In Titled Tuesday",
+      "link": "https://www.chess.com/news/view/movahed-wins-titled-tuesday-september-15-2026",
+      "source": "Chess.com",
+      "date": "2026-09-15T21:22:02.000Z",
+      "summary": "GM Sina Movahed claimed his third&nbsp;Titled Tuesday of the year and fourth of his career on September 15, coming out ahead of GM Vincent Keymer on tiebreaks after both scored 9.5/11. One move of extra tactical foresight in round 10 helped move M..."
+    },
+    {
+      "title": "Two Olympiads, two new leaders: Poland and Czech Republic surge ahead in Samarkand",
+      "link": "https://www.fide.com/two-olympiads-two-new-leaders-poland-and-czech-republic-surge-ahead-in-samarkand/",
+      "source": "FIDE",
+      "date": "2026-09-15T20:55:19.000Z",
+      "summary": "Day 5 of the 3rd FIDE Chess Olympiad for People with Disabilities marked a special moment in Samarkand. While the competition entered its decisive phase, the Opening Ceremony of the 46th FIDE Chess Olympiad also took place today, meaning that the two Olympi…"
+    },
+    {
+      "title": "Barcelona 1992 was special; Samarkand was something else: A night unlike any other",
+      "link": "https://www.fide.com/barcelona-1992-was-special-samarkand-was-something-else-a-night-unlike-any-other/",
+      "source": "FIDE",
+      "date": "2026-09-15T19:22:24.000Z",
+      "summary": "Written by Michael A. Rahal, FIDE Press Officer By now, I have attended my fair share of opening and closing ceremonies: Grand Prix events, several World Cups and Olympiads, and even the opening and closing ceremonies of the Barcelona 1992 Olympic Games. Bu…"
+    },
     {
       "title": "The first major tournament after the Second World War: The Staunton Memorial 1946",
       "link": "https://en.chessbase.com/post/the-first-major-tournament-after-the-second-world-war-the-staunton-memorial-1946",
@@ -226,13 +247,6 @@
       "summary": "GM Veselin Topalov won both blitz games to take a five-point lead over GM Garry Kasparov at the end of the second day of the 2026 Clutch Chess: The Legends Chess960 match. Topalov leads the match with a score of 8.5-3.5. Kasparov failed to conver..."
     },
     {
-      "title": "GCL: Defending champions Alpine APL Pipers to face Ganges Grandmasters in Season 4 title clash",
-      "link": "https://www.fide.com/gcl-defending-champions-alpine-apl-pipers-to-face-ganges-grandmasters-in-season-4-title-clash/",
-      "source": "FIDE",
-      "date": "2026-09-12T21:56:50.000Z",
-      "summary": "Both the teams advanced to the final despite losing their final league games after CheQ Mumba Masters defeated FYERS American Gambits 11-6 Defending champions Alpine APL Pipers and Ganges Grandmasters will face each other in the Season 4 finale of the Globa…"
-    },
-    {
       "title": "Carlsen To Play Nepomniachtchi In Final After Both Leaders Lose Last Match",
       "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-8",
       "source": "Chess.com",
@@ -415,13 +429,6 @@
       "summary": "GM Javokhir Sindarov beat GM Viswanathan Anand and made a draw against GM Alireza Firouzja as the FYERS American Gambits won both matches on day one of the 2026 Tech Mahindra Global Chess League. There were also wins for GM Magnus Carlsen's Alpine..."
     },
     {
-      "title": "Xiong Captures His 5th Bullet Brawl Title",
-      "link": "https://www.chess.com/news/view/xiong-wins-bullet-brawl-sep-5-2026",
-      "source": "Chess.com",
-      "date": "2026-09-05T19:05:00.000Z",
-      "summary": "GM Jeffery Xiong emerged as the winner of a thrilling edition of Bullet Brawl on Saturday in an event that saw the lead change several times, with several players taking turns at the top of the standings. Xiong scored 49.5/68 to post 162 arena po..."
-    },
-    {
       "title": "European Senior Team Championship 2026 - Games and results",
       "link": "https://theweekinchess.com/chessnews/events/european-senior-team-championship-2026",
       "source": "The Week in Chess",
@@ -560,13 +567,6 @@
       "source": "The Week in Chess",
       "date": "2026-08-09T19:46:00.000Z",
       "summary": "The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. T…"
-    },
-    {
-      "title": "Lichess Meetup: Prague",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-meetup-prague/rt9aFXz5",
-      "source": "Lichess",
-      "date": "2026-08-07T08:23:09.095Z",
-      "summary": "Sunday, September 20th, 2026"
     }
   ]
 }
