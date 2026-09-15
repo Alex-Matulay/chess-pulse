@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T21:21:25.665Z",
+  "updated": "2026-09-15T00:11:52.779Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE Bans Minor For 2 Years After Phone Found Hidden In Shoe",
+      "link": "https://www.chess.com/news/view/fide-bans-minor-for-2-years-after-phone-with-chess-com-open-found-hidden-in-shoe",
+      "source": "Chess.com",
+      "date": "2026-09-14T23:57:32.000Z",
+      "summary": "The FIDE Ethics & Disciplinary Commission has handed a two-year ban to a minor after he was caught with a mobile phone hidden inside his shoe during a tournament in Slovenia. The phone had the game position open on Chess.com. The five-page de..."
+    },
+    {
+      "title": "Bullet King Nakamura Takes 66th Bullet Brawl Title",
+      "link": "https://www.chess.com/news/view/nakamura-wins-bullet-brawl-sept-12",
+      "source": "Chess.com",
+      "date": "2026-09-14T21:38:40.000Z",
+      "summary": "GM Hikaru Nakamura emerged as the winner of Bullet Brawl for a record 66th time on Saturday, September 12. It was a dominant performance, with Nakamura's 184 points leaving him 42 points clear of IM Yoseph Theolifus Taher in second place. With Nak..."
+    },
     {
       "title": "Cuba takes sole lead as Olympiad for People with Disabilities crosses its halfway mark",
       "link": "https://www.fide.com/cuba-takes-sole-lead-as-the-olympiad-for-people-with-disabilities-crosses-its-halfway-mark/",
@@ -443,25 +457,11 @@
       "summary": "The European Senior Team Championship 2026 took place Thu 27th August to Fri 4th September 2026. In the +50 event final Standings: 1st England 1, 17pts. 2nd Italy, 16pts. 3rd-4th Netherlands were just ahead of Slovakia on tie-break after they both scored 13…"
     },
     {
-      "title": "Terry Extends 3 0 Thursday Record",
-      "link": "https://www.chess.com/news/view/lazavik-maghsoodloo-terry-3-0-thursday-09-03-2026",
-      "source": "Chess.com",
-      "date": "2026-09-04T18:35:20.000Z",
-      "summary": "IM Renato Terry extended his record for most 3 0 Thursday victories to 18 on September 3 after winning the final tournament of the day with a 9.5/11 score. Earlier, GMs Denis Lazavik and Parham Maghsoodloo took home the top prizes as well. NM Liud..."
-    },
-    {
       "title": "Lichess Game of the Month: July '26",
       "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-july-26/UxBo2UrP",
       "source": "Lichess",
       "date": "2026-09-04T16:45:51.279Z",
       "summary": "A pawn race ends in a classic promotion tactic"
-    },
-    {
-      "title": "Collegiate Chess League Fall 2026 Registration",
-      "link": "https://www.chess.com/news/view/collegiate-chess-league-fall-2026-registration",
-      "source": "Chess.com",
-      "date": "2026-09-04T15:00:00.000Z",
-      "summary": "The Collegiate Chess League (CCL) is back for another thrilling season, and registrations for Fall 2026 are officially open! Once again, the CCL will boast a $25,000 prize fund and the exciting four-vs.-four team format that fans and players love...."
     },
     {
       "title": "Season Four of the Tech Mahindra Global Chess League - Start",
