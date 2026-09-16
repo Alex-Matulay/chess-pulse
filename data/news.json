@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T07:07:03.270Z",
+  "updated": "2026-09-16T13:02:15.867Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE Statement on accommodation issues at the 2026 Chess Olympiad",
+      "link": "https://www.fide.com/fide-statement-on-accommodation-issues-at-the-2026-chess-olympiad/",
+      "source": "FIDE",
+      "date": "2026-09-16T12:03:27.000Z",
+      "summary": "FIDE notes with deep regret that, during the first day of the 2026 FIDE Chess Olympiad, shortcomings in the accommodation arrangements left some teams without proper loging, forcing them to rent rooms in the city at their own expense. Although accommodation…"
+    },
+    {
+      "title": "Chess Olympiad - Live!",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-16T11:45:00.000Z",
+      "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
+    },
+    {
+      "title": "Season 4 gave the Global Chess League its strongest identity yet",
+      "link": "https://www.fide.com/season-4-gave-the-global-chess-league-its-strongest-identity-yet/",
+      "source": "FIDE",
+      "date": "2026-09-16T11:01:39.000Z",
+      "summary": "Season 4 of the Tech Mahindra Global Chess League ended in Bengaluru with a new champion and a clearer sense of what the competition is becoming. The fourth edition of the Tech Mahindra Global Chess League that just finished in India’s tech hub of Bengaluru…"
+    },
     {
       "title": "A night unlike any other",
       "link": "https://en.chessbase.com/post/a-night-unlike-any-other",
@@ -196,20 +217,6 @@
       "source": "The Week in Chess",
       "date": "2026-09-13T22:09:00.000Z",
       "summary": "Clutch Chess: The Legends was a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games were Chess960. There were two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11…"
-    },
-    {
-      "title": "GCL 2026: Ganges Grandmasters upset defending champions Alpine APL Pipers to clinch maiden crown",
-      "link": "https://www.fide.com/gcl-2026-ganges-grandmasters-upset-defending-champions-alpine-apl-pipers-to-clinch-maiden-crown/",
-      "source": "FIDE",
-      "date": "2026-09-13T21:47:09.000Z",
-      "summary": "FYRES American Gambits defeated CheQ Mumba Masters to finish third. Ian Nepomniachtchi pounced on a positional error from world number one Magnus Carlsen and helped Ganges Grandmasters upset defending champions Alpine APL Pipers to clinch their maiden Globa…"
-    },
-    {
-      "title": "From inclusion to inspiration: Three teams lead after Day 3 in Samarkand",
-      "link": "https://www.fide.com/from-inclusion-to-inspiration-three-teams-lead-after-day-3-in-samarkand/",
-      "source": "FIDE",
-      "date": "2026-09-13T20:15:32.000Z",
-      "summary": "Day 3 of the 3rd FIDE Chess Olympiad for People with Disabilities began with a panel discussion on inclusion and technology in chess before attention returned to the boards, where the race at the top narrowed to just three teams with perfect scores. The mor…"
     },
     {
       "title": "Clutch Chess: Kasparov and Topalov play Chess960, Day 3 – Live!",
@@ -560,13 +567,6 @@
       "source": "The Week in Chess",
       "date": "2026-08-15T16:53:00.000Z",
       "summary": "The Esports World Cup chess section took place in Paris Tue 11th Aug to Sat 15th Aug 2026. This Double Elimination KO event featured Magnus Carlsen, Hikaru Nakmura, Alireza Firouzja and Denis Lazavik among many famous names and faces. I have a new table for…"
-    },
-    {
-      "title": "Remembering Oleg Skvortsov",
-      "link": "https://en.chessbase.com/post/remembering-oleg-skvortsov",
-      "source": "ChessBase",
-      "date": "2026-08-13T08:00:00.000Z",
-      "summary": "A few weeks ago this great chess organiser and sponsor passed away at the age of 57. For many years he invited us to his \"Zurich Chess Challenge\", which saw some of the world's top players competing. During that time we had interesting, personal interaction…"
     }
   ]
 }
