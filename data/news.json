@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T13:02:15.867Z",
+  "updated": "2026-09-16T17:54:39.274Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Samarkand Olympiad Day 1: Favourites, fireworks and a shock",
+      "link": "https://www.fide.com/samarkand-olympiad-day-1-favourites-fireworks-and-a-shock/",
+      "source": "FIDE",
+      "date": "2026-09-16T17:36:09.000Z",
+      "summary": "The opening round produced dominant victories for the favourites, colourful scenes around the venue and an unexpected defeat for India’s Arjun Erigaisi. The 46th Chess Olympiad got underway this afternoon in Samarkand, Uzbekistan, with 207 teams registered…"
+    },
+    {
+      "title": "Thai IM Upsets Indian Number-2 As Favorites Prevail",
+      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
+      "source": "Chess.com",
+      "date": "2026-09-16T16:26:00.000Z",
+      "summary": "The favorites won in round one of the 46th Chess Olympiad 2026, but there were a number of shocking individual upsets. Thai IM Prin Laohawirapap's win against Indian super-GM Arjun Erigaisi is the Game of the Day, while Iraqi CM Ali Ehsan Aryan's ..."
+    },
+    {
+      "title": "FIDE Council Statement on visa issues for delegates of the FIDE Congress",
+      "link": "https://www.fide.com/fide-council-statement-on-visa-issues-for-delegates-of-the-fide-congress/",
+      "source": "FIDE",
+      "date": "2026-09-16T14:59:52.000Z",
+      "summary": "Today, the first round of the 2026 Chess Olympiad has begun. FIDE is grateful for the organizational efforts of the Uzbekistan Chess Federation and the Olympiad Organizing Committee, headed by Mr. Aripov, Prime Minister of the Republic of Uzbekistan. FIDE i…"
+    },
     {
       "title": "FIDE Statement on accommodation issues at the 2026 Chess Olympiad",
       "link": "https://www.fide.com/fide-statement-on-accommodation-issues-at-the-2026-chess-olympiad/",
@@ -138,7 +159,7 @@
       "title": "FIDE Bans Minor For 2 Years After Phone Found Hidden In Shoe",
       "link": "https://www.chess.com/news/view/fide-bans-minor-for-2-years-after-phone-with-chess-com-open-found-hidden-in-shoe",
       "source": "Chess.com",
-      "date": "2026-09-14T23:57:32.000Z",
+      "date": "2026-09-14T23:57:00.000Z",
       "summary": "The FIDE Ethics & Disciplinary Commission has handed a two-year ban to a minor after he was caught with a mobile phone hidden inside his shoe during a tournament in Slovenia. The phone had the game position open on Chess.com. The five-page de..."
     },
     {
@@ -177,25 +198,11 @@
       "summary": "The Ganges Grandmasters have won the fourth season of the Tech Mahindra Global Chess League. In the final in Bengaluru, Ian Nepomniachtchi's team defeated defending champions Alpine APL Pipers 4-2. After the first match ended 3-3, the Grandmasters won the s…"
     },
     {
-      "title": "Tickets for the 46th FIDE Chess Olympiad now on sale",
-      "link": "https://www.fide.com/tickets-for-the-46th-fide-chess-olympiad-now-on-sale/",
-      "source": "FIDE",
-      "date": "2026-09-14T11:59:41.000Z",
-      "summary": "The 46th FIDE Chess Olympiad takes place in Samarkand, Uzbekistan, from 15 to 27 September 2026, with around 200 national teams competing across the Open and Women’s sections at the Silk Road International Exhibition Centre. Spectator tickets are now on sal…"
-    },
-    {
       "title": "Chess To Be Played At The South Pole In Antarctica’s 1st-Ever FIDE-Rated Tournament",
       "link": "https://www.chess.com/news/view/first-fide-rated-chess-tournament-antarctica-south-pole",
       "source": "Chess.com",
       "date": "2026-09-14T10:33:00.000Z",
       "summary": "No, it&rsquo;s not an April Fool's. More than six years after Chess.com joked&nbsp;that the pandemic-interrupted FIDE Candidates Tournament 2020 would resume in Antarctica, rated chess really is heading to the world&rsquo;s coldest continent. The..."
-    },
-    {
-      "title": "Salesforce FIDE World Championship Match 2026: Schedule, format, and prize fund confirmed",
-      "link": "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
-      "source": "FIDE",
-      "date": "2026-09-14T09:59:54.000Z",
-      "summary": "FIDE is pleased to announce the regulations for the Salesforce FIDE World Championship Match 2026, confirming the venue, format, schedule, and prize distribution for the meeting between reigning World Champion Grandmaster Gukesh D and his challenger, Grandm…"
     },
     {
       "title": "Legends & Prodigies: David Anton wins convincingly, Oro finishes third",
@@ -441,13 +448,6 @@
       "source": "ChessBase",
       "date": "2026-09-06T07:00:00.000Z",
       "summary": "ChessBase´26 is amazingly versatile and often surprisingly user-friendly — as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the “Folders” window, which lets you quickly locate anything y…"
-    },
-    {
-      "title": "Sindarov's American Gambits Begin Global Chess League With Double Win",
-      "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-1",
-      "source": "Chess.com",
-      "date": "2026-09-05T20:07:00.000Z",
-      "summary": "GM Javokhir Sindarov beat GM Viswanathan Anand and made a draw against GM Alireza Firouzja as the FYERS American Gambits won both matches on day one of the 2026 Tech Mahindra Global Chess League. There were also wins for GM Magnus Carlsen's Alpine..."
     },
     {
       "title": "European Senior Team Championship 2026 - Games and results",
