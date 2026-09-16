@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T22:40:12.755Z",
+  "updated": "2026-09-16T01:00:23.275Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Jon Speelman: Beware the Centaur's Hooves",
+      "link": "https://en.chessbase.com/post/speelman-agony-243",
+      "source": "ChessBase",
+      "date": "2026-09-16T01:35:00.000Z",
+      "summary": "GM Jon Speelman returns to the theme of opening preparation in the computer era, examining how engine-assisted novelties can unsettle even the strongest players. His examples begin with Fabiano Caruana's preparation from the recent Grand Chess Tour final, b…"
+    },
     {
       "title": "Sina Movahed Again In Titled Tuesday",
       "link": "https://www.chess.com/news/view/movahed-wins-titled-tuesday-september-15-2026",
@@ -560,13 +567,6 @@
       "source": "Lichess",
       "date": "2026-08-12T07:27:11.461Z",
       "summary": "Mobile updates, site updates, broadcasts, events, and more!"
-    },
-    {
-      "title": "112th British Chess Championships 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
-      "source": "The Week in Chess",
-      "date": "2026-08-09T19:46:00.000Z",
-      "summary": "The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. T…"
     }
   ]
 }
