@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T17:54:39.274Z",
+  "updated": "2026-09-16T20:47:51.268Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,18 +9,32 @@
   ],
   "items": [
     {
-      "title": "Samarkand Olympiad Day 1: Favourites, fireworks and a shock",
-      "link": "https://www.fide.com/samarkand-olympiad-day-1-favourites-fireworks-and-a-shock/",
-      "source": "FIDE",
-      "date": "2026-09-16T17:36:09.000Z",
-      "summary": "The opening round produced dominant victories for the favourites, colourful scenes around the venue and an unexpected defeat for India’s Arjun Erigaisi. The 46th Chess Olympiad got underway this afternoon in Samarkand, Uzbekistan, with 207 teams registered…"
+      "title": "That time Uzbekistan surprisingly won silver at the 1992 Chess Olympiad",
+      "link": "https://en.chessbase.com/post/uzbekistan-silver-1992-olympiad",
+      "source": "ChessBase",
+      "date": "2026-09-16T21:10:00.000Z",
+      "summary": "The 1992 Chess Olympiad in Manila was the first held after the dissolution of the Soviet Union. Suddenly, instead of one dominant USSR team, there were several very strong teams representing former Soviet republics. Russia continued the Soviet Union's run o…"
     },
     {
       "title": "Thai IM Upsets Indian Number-2 As Favorites Prevail",
       "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
       "source": "Chess.com",
-      "date": "2026-09-16T16:26:00.000Z",
+      "date": "2026-09-16T20:26:00.000Z",
       "summary": "The favorites won in round one of the 46th Chess Olympiad 2026, but there were a number of shocking individual upsets. Thai IM Prin Laohawirapap's win against Indian super-GM Arjun Erigaisi is the Game of the Day, while Iraqi CM Ali Ehsan Aryan's ..."
+    },
+    {
+      "title": "Carlsen Calls Sindarov 'Significant Favorite,' Gives Verdict On Gukesh",
+      "link": "https://www.chess.com/news/view/carlsen-calls-sindarov-significant-favorite-against-gukesh-rules-out-comeback",
+      "source": "Chess.com",
+      "date": "2026-09-16T18:29:32.000Z",
+      "summary": "GM Magnus Carlsen expects GM Javokhir Sindarov to defeat World Champion Gukesh Dommaraju, calling the challenger a \"pretty significant favorite\" and warning that the match could \"get a little bit ugly\" if Gukesh falls behind early.&nbsp; The worl..."
+    },
+    {
+      "title": "Samarkand Olympiad Day 1: Favourites, fireworks and a shock",
+      "link": "https://www.fide.com/samarkand-olympiad-day-1-favourites-fireworks-and-a-shock/",
+      "source": "FIDE",
+      "date": "2026-09-16T17:36:09.000Z",
+      "summary": "The opening round produced dominant victories for the favourites, colourful scenes around the venue and an unexpected defeat for India’s Arjun Erigaisi. The 46th Chess Olympiad got underway this afternoon in Samarkand, Uzbekistan, with 207 teams registered…"
     },
     {
       "title": "FIDE Council Statement on visa issues for delegates of the FIDE Congress",
@@ -261,13 +275,6 @@
       "summary": "August brings a range of new chess training products covering different areas of the game. The main topics include active opening repertoires, calculation and strategic decision-making. There are also two new courses on positional play, as well as updated d…"
     },
     {
-      "title": "ChessBase´26 – Tips for Beginners, part 31: Endgame expert with the \"LiveBook\"",
-      "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-31-endgame-expert-with-the-livebook",
-      "source": "ChessBase",
-      "date": "2026-09-13T07:00:00.000Z",
-      "summary": "How do you train endgames? To be honest, the question might be better phrased as: Do you even train endgames at all? After all, the magical richness of the final phase of a game is something not everyone appreciates. This makes it all the more important tha…"
-    },
-    {
       "title": "Topalov Builds Solid Lead Over Kasparov",
       "link": "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-2",
       "source": "Chess.com",
@@ -387,20 +394,6 @@
       "summary": "Chess.com is once again partnering with legendary GM Judit Polgar to support her festival, the Judit Polgar Global Chess Festival. Judit will play a community simul on September 26 at 7:30 a.m. ET / 13:30 CEST / 5:00 p.m. IST. The event will take ..."
     },
     {
-      "title": "ChessBase Summer-Special! – Part 10",
-      "link": "https://en.chessbase.com/post/chessbase-summer-special-part-10",
-      "source": "ChessBase",
-      "date": "2026-09-09T15:00:00.000Z",
-      "summary": "Dear chess friends! This week's Summer Special offers you a real powerhouse: Fritz 21 and the Openingbook 2026 are available this week (until September 13, 2026) for €189.90 – save around €50!"
-    },
-    {
-      "title": "Oro and Antón Guijarro share the lead in Madrid",
-      "link": "https://en.chessbase.com/post/oro-and-antn-guijarro-share-the-lead-in-madrid",
-      "source": "ChessBase",
-      "date": "2026-09-09T10:35:07.000Z",
-      "summary": "There were no winners on the second day of the Legends & Prodigies tournament in Madrid. All six games from rounds two and three ended in draws, including the third-round encounter between Faustino Oro and David Antón Guijarro, the two players who had won t…"
-    },
-    {
       "title": "All Teams Still In Fight As Global Chess League Crosses Halfway",
       "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-4",
       "source": "Chess.com",
@@ -434,13 +427,6 @@
       "source": "Chess.com",
       "date": "2026-09-07T17:00:00.000Z",
       "summary": "On September 9, Chess.com is hosting the first live FIDE presidential debate of this election. The three candidates&mdash;Jan Henric Buettner, Wadim Rosenstein, and Timur Turlov&mdash;will join to discuss their visions for the future of chess. He..."
-    },
-    {
-      "title": "Carlsen Escapes Vs. Nepomniachtchi As Alpine Pipers Only Team Still Unbeaten",
-      "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-2",
-      "source": "Chess.com",
-      "date": "2026-09-06T20:00:00.000Z",
-      "summary": "GM Magnus Carlsen's Alpine APL Pipers has the only perfect record in the 2026 Tech Mahindra Global Chess League after scoring a dramatic win over GM Ian Nepomniachtchi's Ganges Grandmasters. Nepomniachtchi failed to beat the world number-one with ..."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 30: Use \"Folders\"",
@@ -567,6 +553,20 @@
       "source": "The Week in Chess",
       "date": "2026-08-15T16:53:00.000Z",
       "summary": "The Esports World Cup chess section took place in Paris Tue 11th Aug to Sat 15th Aug 2026. This Double Elimination KO event featured Magnus Carlsen, Hikaru Nakmura, Alireza Firouzja and Denis Lazavik among many famous names and faces. I have a new table for…"
+    },
+    {
+      "title": "Remembering Oleg Skvortsov",
+      "link": "https://en.chessbase.com/post/remembering-oleg-skvortsov",
+      "source": "ChessBase",
+      "date": "2026-08-13T08:00:00.000Z",
+      "summary": "A few weeks ago this great chess organiser and sponsor passed away at the age of 57. For many years he invited us to his \"Zurich Chess Challenge\", which saw some of the world's top players competing. During that time we had interesting, personal interaction…"
+    },
+    {
+      "title": "More Than a Half-Year Update 2026",
+      "link": "https://lichess.org/@/Lichess/blog/more-than-a-half-year-update-2026/Bu77Rba1",
+      "source": "Lichess",
+      "date": "2026-08-12T07:27:11.461Z",
+      "summary": "Mobile updates, site updates, broadcasts, events, and more!"
     }
   ]
 }
