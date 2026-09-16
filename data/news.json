@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T01:00:23.275Z",
+  "updated": "2026-09-16T07:07:03.270Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "A night unlike any other",
+      "link": "https://en.chessbase.com/post/a-night-unlike-any-other",
+      "source": "ChessBase",
+      "date": "2026-09-16T06:56:11.000Z",
+      "summary": "FIDE Press Officer Michael Rahal writes: \"By now, I have attended my fair share of opening and closing ceremonies: Grand Prix events, several World Cups and Olympiads, and even the opening and closing ceremonies of the Barcelona 1992 Olympic Games. But none…"
+    },
     {
       "title": "Jon Speelman: Beware the Centaur's Hooves",
       "link": "https://en.chessbase.com/post/speelman-agony-243",
@@ -560,13 +567,6 @@
       "source": "ChessBase",
       "date": "2026-08-13T08:00:00.000Z",
       "summary": "A few weeks ago this great chess organiser and sponsor passed away at the age of 57. For many years he invited us to his \"Zurich Chess Challenge\", which saw some of the world's top players competing. During that time we had interesting, personal interaction…"
-    },
-    {
-      "title": "More Than a Half-Year Update 2026",
-      "link": "https://lichess.org/@/Lichess/blog/more-than-a-half-year-update-2026/Bu77Rba1",
-      "source": "Lichess",
-      "date": "2026-08-12T07:27:11.461Z",
-      "summary": "Mobile updates, site updates, broadcasts, events, and more!"
     }
   ]
 }
