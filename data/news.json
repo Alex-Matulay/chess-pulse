@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T03:06:22.392Z",
+  "updated": "2026-09-17T09:07:32.846Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Samarkand R1 (women): Nine teams from the top ten score 4-0 victories",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-1-women",
+      "source": "ChessBase",
+      "date": "2026-09-17T10:40:00.000Z",
+      "summary": "India began their women's Chess Olympiad title defence in Samarkand as the top seeds, ahead of Georgia, Kazakhstan, China and the United States. The leading teams made a comfortable start, with nine of the top ten seeds winning 4–0 and no major upsets on in…"
+    },
+    {
+      "title": "Samarkand R1 (open): Favourites win comfortably, Thailand's Laohawirapap upsets Erigaisi",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-1",
+      "source": "ChessBase",
+      "date": "2026-09-17T07:00:00.000Z",
+      "summary": "The 46th Chess Olympiad began in Samarkand with 206 teams in the open section, where the United States, India, Uzbekistan and China are the leading seeds. The top 30 teams all won their opening matches, though a few strong grandmasters dropped points. Botsw…"
+    },
     {
       "title": "Olympiad for People with Disabilities, Day 6: Poland takes sole lead",
       "link": "https://www.fide.com/olympiad-for-people-with-disabilities-poland-takes-sole-lead-as-clean-sport-and-fair-play-take-spotlight-on-day-6/",
@@ -56,13 +70,6 @@
       "source": "FIDE",
       "date": "2026-09-16T12:03:27.000Z",
       "summary": "FIDE notes with deep regret that, during the first day of the 2026 FIDE Chess Olympiad, shortcomings in the accommodation arrangements left some teams without proper loging, forcing them to rent rooms in the city at their own expense. Although accommodation…"
-    },
-    {
-      "title": "Chess Olympiad - Live!",
-      "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-16T11:45:00.000Z",
-      "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
     },
     {
       "title": "Season 4 gave the Global Chess League its strongest identity yet",
@@ -338,13 +345,6 @@
       "summary": "Six teams, 36 world-class players, 20 minutes for the entire game, an increment only from move 40, 4 points for a win with Black, 3 for a win with White, 1 for a draw, 18 to 24 games per day, and a prize fund of $1 million – the Global Chess League is a che…"
     },
     {
-      "title": "Legends & Prodigies: Oro loses – Anton Guijarro leads by one point",
-      "link": "https://en.chessbase.com/post/legends-prodigies-oro-loses-anton-guijarro-leads-by-one-point",
-      "source": "ChessBase",
-      "date": "2026-09-11T08:38:28.000Z",
-      "summary": "David Anton Guijarro heads into the final stage of the Legends & Prodigies tournament in Madrid with a one-point lead. Three rounds remain, and the Spaniard is a full point ahead of Faustino Oro, who lost to his compatriot Diego Flores in round six and drew…"
-    },
-    {
       "title": "Buettner, Turlov Clash Over Funding In FIDE Presidential Debate",
       "link": "https://www.chess.com/news/view/fide-presidential-debate-recap-2026",
       "source": "Chess.com",
@@ -364,20 +364,6 @@
       "source": "Chess.com",
       "date": "2026-09-10T14:03:00.000Z",
       "summary": "Applications are now open for the inaugural $50,000 Naroditsky Fellowship, which will support elite American junior players with training, travel, and tournament preparation in 2027. The deadline to apply is December 1. The Fellowship is one of t..."
-    },
-    {
-      "title": "Legends & Prodigies: David Antón scores twice to take sole lead",
-      "link": "https://en.chessbase.com/post/legends-prodigies-david-antn-scores-twice-to-take-sole-lead",
-      "source": "ChessBase",
-      "date": "2026-09-10T09:32:49.000Z",
-      "summary": "After six draws the previous day, the players at the Legends & Prodigies tournament in Madrid seemed ready for a fight: rounds four and five produced just one draw in six games. Faustino Oro beat Ivan Sokolov before drawing with Jose Eduardo Martinez Alcant…"
-    },
-    {
-      "title": "Review: Opening Encyclopedia 2026",
-      "link": "https://en.chessbase.com/post/review-opening-encyclopedia-2",
-      "source": "ChessBase",
-      "date": "2026-09-09T21:00:00.000Z",
-      "summary": "The ChessBase Opening Encyclopedia 2026 is one of the company’s flagship products alongside the Mega Database and the ChessBase database program - currently ChessBase'26. For years, these programs have formed part of the essential toolkit for everyday chess…"
     },
     {
       "title": "Sindarov Beats Firouzja To Give American Gambits Lead",
@@ -567,6 +553,20 @@
       "source": "Lichess",
       "date": "2026-08-12T07:27:11.461Z",
       "summary": "Mobile updates, site updates, broadcasts, events, and more!"
+    },
+    {
+      "title": "112th British Chess Championships 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
+      "source": "The Week in Chess",
+      "date": "2026-08-09T19:46:00.000Z",
+      "summary": "The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. T…"
+    },
+    {
+      "title": "Lichess Meetup: Prague",
+      "link": "https://lichess.org/@/Lichess/blog/lichess-meetup-prague/rt9aFXz5",
+      "source": "Lichess",
+      "date": "2026-08-07T08:23:09.095Z",
+      "summary": "Sunday, September 20th, 2026"
     }
   ]
 }
