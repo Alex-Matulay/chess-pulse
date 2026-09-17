@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T23:29:55.550Z",
+  "updated": "2026-09-17T03:06:22.392Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Olympiad for People with Disabilities, Day 6: Poland takes sole lead",
+      "link": "https://www.fide.com/olympiad-for-people-with-disabilities-poland-takes-sole-lead-as-clean-sport-and-fair-play-take-spotlight-on-day-6/",
+      "source": "FIDE",
+      "date": "2026-09-16T23:40:10.000Z",
+      "summary": "With just one round remaining at the 3rd FIDE Chess Olympiad for People with Disabilities, the competition entered its decisive stage in Samarkand. Poland produced a commanding 4-0 victory over the Czech Republic to emerge as the sole leader heading into th…"
+    },
     {
       "title": "That time Uzbekistan surprisingly won silver at the 1992 Chess Olympiad",
       "link": "https://en.chessbase.com/post/uzbekistan-silver-1992-olympiad",
@@ -182,13 +189,6 @@
       "source": "Chess.com",
       "date": "2026-09-14T21:38:40.000Z",
       "summary": "GM Hikaru Nakamura emerged as the winner of Bullet Brawl for a record 66th time on Saturday, September 12. It was a dominant performance, with Nakamura's 184 points leaving him 42 points clear of IM Yoseph Theolifus Taher in second place. With Nak..."
-    },
-    {
-      "title": "Cuba takes sole lead as Olympiad for People with Disabilities crosses its halfway mark",
-      "link": "https://www.fide.com/cuba-takes-sole-lead-as-the-olympiad-for-people-with-disabilities-crosses-its-halfway-mark/",
-      "source": "FIDE",
-      "date": "2026-09-14T20:37:20.000Z",
-      "summary": "The 3rd FIDE Chess Olympiad for People with Disabilities crossed its halfway mark on Monday, with Cuba emerging as the sole leader after a decisive Round 4 in Samarkand. Three teams had entered the day with perfect scores: Cuba, Israel and the Czech Republi…"
     },
     {
       "title": "Salesforce FIDE World Championship Match 2026",
