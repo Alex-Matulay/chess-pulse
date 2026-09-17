@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T09:07:32.846Z",
+  "updated": "2026-09-17T14:36:45.196Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,39 @@
   ],
   "items": [
     {
+      "title": "Chess Olympiad - Live!",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-17T11:45:00.000Z",
+      "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
+    },
+    {
+      "title": "Freedom Holding Corp. backs FIDE World Championship Match 2026 as General Partner",
+      "link": "https://www.fide.com/freedom-holding-corp-backs-fide-world-championship-match-2026-as-general-partner/",
+      "source": "FIDE",
+      "date": "2026-09-17T11:40:42.000Z",
+      "summary": "The International Chess Federation (FIDE) and Freedom Holding Corp. (NASDAQ: FRHC) announced today that Freedom has become the General Partner of the Salesforce FIDE World Championship Match 2026. The match will take place from 22 November to 12 December in…"
+    },
+    {
+      "title": "FIDE World Junior U20 Rapid and Blitz Championships: Registration now open",
+      "link": "https://www.fide.com/fide-world-junior-u20-rapid-and-blitz-championships-registration-now-open/",
+      "source": "FIDE",
+      "date": "2026-09-17T11:04:39.000Z",
+      "summary": "FIDE, in cooperation with the United Arab Emirates Chess Federation and Al Ain Chess & Mind Games Club, invites all FIDE member federations to participate in the World Junior U20 Rapid and Blitz Championships 2026. Each federation can register an unlimited…"
+    },
+    {
       "title": "Samarkand R1 (women): Nine teams from the top ten score 4-0 victories",
       "link": "https://en.chessbase.com/post/chess-olympiad-2026-1-women",
       "source": "ChessBase",
       "date": "2026-09-17T10:40:00.000Z",
       "summary": "India began their women's Chess Olympiad title defence in Samarkand as the top seeds, ahead of Georgia, Kazakhstan, China and the United States. The leading teams made a comfortable start, with nine of the top ten seeds winning 4–0 and no major upsets on in…"
+    },
+    {
+      "title": "When every move tells a story: Social Chess Blitz Talks by FIDE SOC",
+      "link": "https://www.fide.com/new-when-every-move-tells-a-story-social-chess-blitz-talks-by-fide-soc/",
+      "source": "FIDE",
+      "date": "2026-09-17T08:42:00.000Z",
+      "summary": "The new experimental format will showcase chess as a tool for education, inclusion, and personal transformation. The FIDE Social Commission is hosting an event called Social Chess Blitz Talks, a format built around short, powerful, chess-inspired stories. T…"
     },
     {
       "title": "Samarkand R1 (open): Favourites win comfortably, Thailand's Laohawirapap upsets Erigaisi",
@@ -30,18 +58,18 @@
       "summary": "With just one round remaining at the 3rd FIDE Chess Olympiad for People with Disabilities, the competition entered its decisive stage in Samarkand. Poland produced a commanding 4-0 victory over the Czech Republic to emerge as the sole leader heading into th…"
     },
     {
+      "title": "Thai IM Upsets Indian Number-2 As Favorites Prevail",
+      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
+      "source": "Chess.com",
+      "date": "2026-09-16T22:10:00.000Z",
+      "summary": "The favorites won in round one of the 46th Chess Olympiad 2026, but there were a number of shocking individual upsets. Thai IM Prin Laohawirapap's win against Indian super-GM Arjun Erigaisi is the Game of the Day, while Iraqi CM Ali Ehsan Aryan's ..."
+    },
+    {
       "title": "That time Uzbekistan surprisingly won silver at the 1992 Chess Olympiad",
       "link": "https://en.chessbase.com/post/uzbekistan-silver-1992-olympiad",
       "source": "ChessBase",
       "date": "2026-09-16T21:10:00.000Z",
       "summary": "The 1992 Chess Olympiad in Manila was the first held after the dissolution of the Soviet Union. Suddenly, instead of one dominant USSR team, there were several very strong teams representing former Soviet republics. Russia continued the Soviet Union's run o…"
-    },
-    {
-      "title": "Thai IM Upsets Indian Number-2 As Favorites Prevail",
-      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
-      "source": "Chess.com",
-      "date": "2026-09-16T20:26:00.000Z",
-      "summary": "The favorites won in round one of the 46th Chess Olympiad 2026, but there were a number of shocking individual upsets. Thai IM Prin Laohawirapap's win against Indian super-GM Arjun Erigaisi is the Game of the Day, while Iraqi CM Ali Ehsan Aryan's ..."
     },
     {
       "title": "Carlsen Calls Sindarov 'Significant Favorite,' Gives Verdict On Gukesh",
@@ -79,20 +107,6 @@
       "summary": "Season 4 of the Tech Mahindra Global Chess League ended in Bengaluru with a new champion and a clearer sense of what the competition is becoming. The fourth edition of the Tech Mahindra Global Chess League that just finished in India’s tech hub of Bengaluru…"
     },
     {
-      "title": "A night unlike any other",
-      "link": "https://en.chessbase.com/post/a-night-unlike-any-other",
-      "source": "ChessBase",
-      "date": "2026-09-16T06:56:11.000Z",
-      "summary": "FIDE Press Officer Michael Rahal writes: \"By now, I have attended my fair share of opening and closing ceremonies: Grand Prix events, several World Cups and Olympiads, and even the opening and closing ceremonies of the Barcelona 1992 Olympic Games. But none…"
-    },
-    {
-      "title": "Jon Speelman: Beware the Centaur's Hooves",
-      "link": "https://en.chessbase.com/post/speelman-agony-243",
-      "source": "ChessBase",
-      "date": "2026-09-16T01:35:00.000Z",
-      "summary": "GM Jon Speelman returns to the theme of opening preparation in the computer era, examining how engine-assisted novelties can unsettle even the strongest players. His examples begin with Fabiano Caruana's preparation from the recent Grand Chess Tour final, b…"
-    },
-    {
       "title": "Sina Movahed Again In Titled Tuesday",
       "link": "https://www.chess.com/news/view/movahed-wins-titled-tuesday-september-15-2026",
       "source": "Chess.com",
@@ -114,27 +128,6 @@
       "summary": "Written by Michael A. Rahal, FIDE Press Officer By now, I have attended my fair share of opening and closing ceremonies: Grand Prix events, several World Cups and Olympiads, and even the opening and closing ceremonies of the Barcelona 1992 Olympic Games. Bu…"
     },
     {
-      "title": "The first major tournament after the Second World War: The Staunton Memorial 1946",
-      "link": "https://en.chessbase.com/post/the-first-major-tournament-after-the-second-world-war-the-staunton-memorial-1946",
-      "source": "ChessBase",
-      "date": "2026-09-15T19:00:00.000Z",
-      "summary": "The first major international tournament after the end of the Second World War took place in Groningen in August and September. It was the anniversary tournament of the Staunton Chess Club, founded in 1871. For the first time ever, a group of Soviet players…"
-    },
-    {
-      "title": "Opening press conference of the 46th FIDE Chess Olympiad",
-      "link": "https://www.fide.com/opening-press-conference-of-the-46th-fide-chess-olympiad/",
-      "source": "FIDE",
-      "date": "2026-09-15T18:07:42.000Z",
-      "summary": "The high-profile panel, moderated by Charlize van Zyl, featured Viswanathan Anand, FIDE Interim President, Alisher Sadullaev, 1st Vice President of the Uzbekistan Chess Federation, Gulrukhbegim Tokhirjonova, from team Uzbekistan (women’s section) and Nodirb…"
-    },
-    {
-      "title": "Georgios Makropoulos (1953–2026)",
-      "link": "https://en.chessbase.com/post/georgios-makropoulos-obituary",
-      "source": "ChessBase",
-      "date": "2026-09-15T17:50:00.000Z",
-      "summary": "Georgios Makropoulos, FIDE Vice President and a longstanding figure in Greek and international chess, has died at the age of 72. A seven-time Greek champion and former Olympiad player, Makropoulos later became one of the most prominent administrators in the…"
-    },
-    {
       "title": "2026 Samarkand Olympiad: Preview",
       "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-preview/anaRyt7r",
       "source": "Lichess",
@@ -149,39 +142,11 @@
       "summary": "IM Georgios Makropoulos, a seven-time Greek chess champion who became one of the most powerful figures in international chess for decades, has passed away at the age of 72.&nbsp; The Greek Chess Federation and the International Chess Federation (..."
     },
     {
-      "title": "In Memoriam: Anthony John Gillam (1943–2026)",
-      "link": "https://en.chessbase.com/post/in-memoriam-anthony-john-gillam-1943-2026",
-      "source": "ChessBase",
-      "date": "2026-09-15T15:00:00.000Z",
-      "summary": "On 15 August 2026, the publisher, renowned author and chess historian Anthony Gillam died at the age of 83. He was one of the leading figures of the Chess History & Literature Society. In his obituary, Michael Negele recalls many moments from their shared r…"
-    },
-    {
       "title": "46th World Chess Olympiad 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
       "source": "The Week in Chess",
       "date": "2026-09-15T14:51:00.000Z",
       "summary": "The 46th World Chess Olympiad takes place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. I will broadcast the top 20 matche…"
-    },
-    {
-      "title": "Chess historians meet in Copenhagen",
-      "link": "https://en.chessbase.com/post/chess-historians-meet-in-copenhagen",
-      "source": "ChessBase",
-      "date": "2026-09-15T12:21:00.000Z",
-      "summary": "At the end of August, the chess historians of the Chess History & Literature Society met in Copenhagen to exchange new findings from their research into chess history and chess literature in talks and lectures, and to present interesting new books. Herbert…"
-    },
-    {
-      "title": "In Memoriam: Georgios Makropoulos (1953–2026)",
-      "link": "https://www.fide.com/in-memoriam-georgios-makropoulos-1953-2026/",
-      "source": "FIDE",
-      "date": "2026-09-15T09:47:56.000Z",
-      "summary": "It is with great sadness that we have learned of the passing of Georgios Makropoulos, FIDE Vice President and one of the most influential figures in Greek and international chess, at the age of 72. Born in Thessaloniki, Greece, in 1953, Makropoulos establis…"
-    },
-    {
-      "title": "2026 FIDE Congress: List of Member Federations having right to vote",
-      "link": "https://www.fide.com/2026-fide-congress-list-of-member-federations-having-right-to-vote/",
-      "source": "FIDE",
-      "date": "2026-09-15T05:48:22.000Z",
-      "summary": "In accordance with the FIDE Electoral Regulations, FIDE is publishing the list of Member Federations entitled to vote at the 2026 General Assembly, together with the names of their Presidents and Delegates, as well as the list of suspended Member Federation…"
     },
     {
       "title": "FIDE Bans Minor For 2 Years After Phone Found Hidden In Shoe",
@@ -198,39 +163,11 @@
       "summary": "GM Hikaru Nakamura emerged as the winner of Bullet Brawl for a record 66th time on Saturday, September 12. It was a dominant performance, with Nakamura's 184 points leaving him 42 points clear of IM Yoseph Theolifus Taher in second place. With Nak..."
     },
     {
-      "title": "Salesforce FIDE World Championship Match 2026",
-      "link": "https://en.chessbase.com/post/salesforce-fide-world-championship-match-2026",
-      "source": "ChessBase",
-      "date": "2026-09-14T18:00:00.000Z",
-      "summary": "FIDE is pleased to announce the regulations for the Salesforce FIDE World Championship Match 2026, confirming the venue, format, schedule, and prize distribution for the meeting between reigning World Champion Grandmaster Gukesh D and his challenger, Grandm…"
-    },
-    {
-      "title": "Samarkand ready for a record-breaking Chess Olympiad",
-      "link": "https://en.chessbase.com/post/samarkand-ready-for-a-record-breaking-chess-olympiad",
-      "source": "ChessBase",
-      "date": "2026-09-14T14:00:00.000Z",
-      "summary": "For centuries, Samarkand stood at the crossroads of civilisations. Merchants, scholars and travellers crossed the ancient Silk Road, carrying ideas and cultures from one part of the world to another. Now, another kind of journey will bring the world to the…"
-    },
-    {
-      "title": "Ganges Grandmasters win Global Chess League in dramatic final",
-      "link": "https://en.chessbase.com/post/ganges-grandmasters-win-global-chess-league-in-dramatic-final",
-      "source": "ChessBase",
-      "date": "2026-09-14T12:10:28.000Z",
-      "summary": "The Ganges Grandmasters have won the fourth season of the Tech Mahindra Global Chess League. In the final in Bengaluru, Ian Nepomniachtchi's team defeated defending champions Alpine APL Pipers 4-2. After the first match ended 3-3, the Grandmasters won the s…"
-    },
-    {
       "title": "Chess To Be Played At The South Pole In Antarctica’s 1st-Ever FIDE-Rated Tournament",
       "link": "https://www.chess.com/news/view/first-fide-rated-chess-tournament-antarctica-south-pole",
       "source": "Chess.com",
       "date": "2026-09-14T10:33:00.000Z",
       "summary": "No, it&rsquo;s not an April Fool's. More than six years after Chess.com joked&nbsp;that the pandemic-interrupted FIDE Candidates Tournament 2020 would resume in Antarctica, rated chess really is heading to the world&rsquo;s coldest continent. The..."
-    },
-    {
-      "title": "Legends & Prodigies: David Anton wins convincingly, Oro finishes third",
-      "link": "https://en.chessbase.com/post/legends-prodigies-david-anton-wins-convincingly-oro-finishes-third",
-      "source": "ChessBase",
-      "date": "2026-09-14T08:38:36.000Z",
-      "summary": "David Anton (pictured) won the second edition of the Legends & Prodigies tournament in Madrid unbeaten, finishing 1½ points clear of the field. Five wins and five draws gave him a world-class performance rating of 2756. Defending champion Faustino Oro faded…"
     },
     {
       "title": "Blitz Skills Help Topalov Win Match With Big Bonus",
@@ -245,13 +182,6 @@
       "source": "The Week in Chess",
       "date": "2026-09-13T22:09:00.000Z",
       "summary": "Clutch Chess: The Legends was a match between Garry Kasparov and Veselin Topalov held over three days at the Saint Louis Chess Club. The games were Chess960. There were two time controls: Rapid (Games 1, 2, 5, 6, 9 and 10) 25+10spm and Blitz (3, 4, 7, 8, 11…"
-    },
-    {
-      "title": "Clutch Chess: Kasparov and Topalov play Chess960, Day 3 – Live!",
-      "link": "https://en.chessbase.com/post/clutch-chess-kasparov-and-topalov-play-chess960-day-1-live",
-      "source": "ChessBase",
-      "date": "2026-09-13T18:35:00.000Z",
-      "summary": "Garry Kasparov and Veselin Topalov will face each other in “Clutch Chess: The Legends” in Saint Louis from 11 to 13 September. The two former members of the chess elite will play a twelve-game Chess960 match, with wins becoming more valuable on each success…"
     },
     {
       "title": "Tech Mahindra Global Chess League 2026 - Games and results",
@@ -275,13 +205,6 @@
       "summary": "The Ganges Grandmasters won their maiden title at the 2026 Tech Mahindra Global Chess League after defeating the defending champions Alpine APL Pipers in an exhilarating final match. GM Ian Nepomniachtchi turned around a losing position with a bis..."
     },
     {
-      "title": "Review: All new releases in August!",
-      "link": "https://en.chessbase.com/post/review-all-new-releases-in-august-2",
-      "source": "ChessBase",
-      "date": "2026-09-13T15:00:00.000Z",
-      "summary": "August brings a range of new chess training products covering different areas of the game. The main topics include active opening repertoires, calculation and strategic decision-making. There are also two new courses on positional play, as well as updated d…"
-    },
-    {
       "title": "Topalov Builds Solid Lead Over Kasparov",
       "link": "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-2",
       "source": "Chess.com",
@@ -301,13 +224,6 @@
       "source": "ChessBase",
       "date": "2026-09-12T08:00:00.000Z",
       "summary": "\"Yesterday, in one of the most horrifying terrorist atrocities in history, the World Trade Center in New York was destroyed...\" Those were the words with which we launched our brand new database-driven news page, on September 12, 2001. It was the very first…"
-    },
-    {
-      "title": "Review: Mastering Calculation by Kostya Kavutskiy",
-      "link": "https://en.chessbase.com/post/review-mastering-calculation-by-kostya-kavutskiy",
-      "source": "ChessBase",
-      "date": "2026-09-12T07:00:00.000Z",
-      "summary": "Kostya Kavutskiy is the latest \"Fritz Trainer\" to join the ChessBase team of authors. An International Master, renowned FIDE trainer and chess author, he made his ChessBase debut with the video course \"Mastering Calculation\" and has already followed it up w…"
     },
     {
       "title": "Topalov Leads Kasparov 2.5-1.5 After Eventful Day",
@@ -336,13 +252,6 @@
       "source": "Chess.com",
       "date": "2026-09-11T15:00:00.000Z",
       "summary": "You can now handle 1.e4 like a super-grandmaster. GM Wesley So has just released Elite 1.e4 e5 - Part 1, his new course built around his personal answer to White's most common opening move, 1.e4. With positional, dependable lines, So will teach yo..."
-    },
-    {
-      "title": "Global Chess League: Three teams tied for the lead",
-      "link": "https://en.chessbase.com/post/global-chess-league-three-teams-tied-for-the-lead",
-      "source": "ChessBase",
-      "date": "2026-09-11T10:04:28.000Z",
-      "summary": "Six teams, 36 world-class players, 20 minutes for the entire game, an increment only from move 40, 4 points for a win with Black, 3 for a win with White, 1 for a draw, 18 to 24 games per day, and a prize fund of $1 million – the Global Chess League is a che…"
     },
     {
       "title": "Buettner, Turlov Clash Over Funding In FIDE Presidential Debate",
@@ -567,6 +476,13 @@
       "source": "Lichess",
       "date": "2026-08-07T08:23:09.095Z",
       "summary": "Sunday, September 20th, 2026"
+    },
+    {
+      "title": "Lichess Game of the Month: June '26",
+      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-june-26/a3FwhC4X",
+      "source": "Lichess",
+      "date": "2026-08-04T12:08:56.424Z",
+      "summary": "A queen sacrifice — with check!"
     }
   ]
 }
