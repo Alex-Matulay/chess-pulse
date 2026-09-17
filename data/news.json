@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T14:36:45.196Z",
+  "updated": "2026-09-17T18:45:13.486Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "On the Superfluity of Words (2)",
+      "link": "https://en.chessbase.com/post/on-the-superfluity-of-words-2",
+      "source": "ChessBase",
+      "date": "2026-09-17T19:00:00.000Z",
+      "summary": "In today's article we present a gem of chess composition. It is a study requires no words, no instruction or stipulation, such as, for example, \"White to move and win\". Everything is solved by simply analysing the diagram. Can you follow the logic that tell…"
+    },
+    {
+      "title": "Olympiad Day 2: Big guns enter arena in Samarkand",
+      "link": "https://www.fide.com/olympiad-day-2-big-guns-enter-arena-in-samarkand/",
+      "source": "FIDE",
+      "date": "2026-09-17T17:49:35.000Z",
+      "summary": "The leading teams field their strongest line-ups as Samarkand delivers another fascinating day of chess. Round two of the Chess Olympiad in Samarkand brought many of the world’s leading players into action, as the top seeds largely decided that it was time…"
+    },
+    {
+      "title": "Gukesh Drops Under 2700 As India Beats Indonesia",
+      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-2",
+      "source": "Chess.com",
+      "date": "2026-09-17T16:21:57.000Z",
+      "summary": "With the striking exception of El Salvador (94th seed) upsetting Cuba (44th seed), the favorite teams won their matches in round two of the 46th Chess Olympiad 2026. It wasn't smooth sailing, as Uzbekistan, the United States, India, the Netherland..."
+    },
     {
       "title": "Chess Olympiad - Live!",
       "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
@@ -119,13 +140,6 @@
       "source": "FIDE",
       "date": "2026-09-15T20:55:19.000Z",
       "summary": "Day 5 of the 3rd FIDE Chess Olympiad for People with Disabilities marked a special moment in Samarkand. While the competition entered its decisive phase, the Opening Ceremony of the 46th FIDE Chess Olympiad also took place today, meaning that the two Olympi…"
-    },
-    {
-      "title": "Barcelona 1992 was special; Samarkand was something else: A night unlike any other",
-      "link": "https://www.fide.com/barcelona-1992-was-special-samarkand-was-something-else-a-night-unlike-any-other/",
-      "source": "FIDE",
-      "date": "2026-09-15T19:22:24.000Z",
-      "summary": "Written by Michael A. Rahal, FIDE Press Officer By now, I have attended my fair share of opening and closing ceremonies: Grand Prix events, several World Cups and Olympiads, and even the opening and closing ceremonies of the Barcelona 1992 Olympic Games. Bu…"
     },
     {
       "title": "2026 Samarkand Olympiad: Preview",
@@ -315,13 +329,6 @@
       "source": "Chess.com",
       "date": "2026-09-07T20:56:00.000Z",
       "summary": "GM Magnus Carlsen flagged GM Viswanathan Anand in the opening match of day three of the 2026 Tech Mahindra Global Chess League, but it couldn't stop Alpine APL Pipers tasting its first defeat when GM Vidit Gujrathi also lost on time. Vidit and the..."
-    },
-    {
-      "title": "How To Watch The FIDE Presidential Debate On September 9",
-      "link": "https://www.chess.com/news/view/how-to-watch-fide-presidential-debate-2026",
-      "source": "Chess.com",
-      "date": "2026-09-07T17:00:00.000Z",
-      "summary": "On September 9, Chess.com is hosting the first live FIDE presidential debate of this election. The three candidates&mdash;Jan Henric Buettner, Wadim Rosenstein, and Timur Turlov&mdash;will join to discuss their visions for the future of chess. He..."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 30: Use \"Folders\"",
