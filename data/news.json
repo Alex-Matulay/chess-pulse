@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T07:55:07.039Z",
+  "updated": "2026-09-18T12:38:59.929Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chess Olympiad - Live!",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-18T11:45:00.000Z",
+      "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
+    },
+    {
+      "title": "Samarkand R2 (women): Georgia only manage a draw against Montenegro",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-2-women",
+      "source": "ChessBase",
+      "date": "2026-09-18T10:35:00.000Z",
+      "summary": "Georgia became the first leading team to drop match points in the Women's Chess Olympiad, as the second seeds were held to a 2–2 draw by Montenegro in round two. Alena Skvortsova and Aleksandra Milovic (pictured) scored the Montenegrins' two wins. The Czech…"
+    },
     {
       "title": "Samarkand R2 (open): Despite close calls, all top teams grab wins",
       "link": "https://en.chessbase.com/post/chess-olympiad-2026-2",
@@ -63,13 +77,6 @@
       "source": "Chess.com",
       "date": "2026-09-17T16:21:00.000Z",
       "summary": "With the striking exception of El Salvador (94th seed) upsetting Cuba (44th seed), the favorite teams won their matches in round two of the 46th Chess Olympiad 2026. It wasn't smooth sailing, as Uzbekistan, the United States, India, the Netherland..."
-    },
-    {
-      "title": "Chess Olympiad - Live!",
-      "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-17T11:45:00.000Z",
-      "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
     },
     {
       "title": "Freedom Holding Corp. backs FIDE World Championship Match 2026 as General Partner",
@@ -504,13 +511,6 @@
       "source": "Lichess",
       "date": "2026-08-07T08:23:09.095Z",
       "summary": "Sunday, September 20th, 2026"
-    },
-    {
-      "title": "Lichess Game of the Month: June '26",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-june-26/a3FwhC4X",
-      "source": "Lichess",
-      "date": "2026-08-04T12:08:56.424Z",
-      "summary": "A queen sacrifice — with check!"
     }
   ]
 }
