@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T16:54:20.515Z",
+  "updated": "2026-09-18T19:24:39.898Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,10 +9,31 @@
   ],
   "items": [
     {
+      "title": "Dominant Starts For Ashraf, Sarana, Xiong, Bring 3 0 Thursday Wins",
+      "link": "https://www.chess.com/news/view/ashraf-sarana-xiong-3-0-thursday-09-17-2026",
+      "source": "Chess.com",
+      "date": "2026-09-18T19:02:38.000Z",
+      "summary": "No one has ever scored a perfect 11-0 in 3 0 Thursday, but FM Artin Ashraf and GM Jeffery Xiong both came close on Thursday, September 17. Ashraf started by winning 10 consecutive games in the first event. His final-round loss cost him perfection,..."
+    },
+    {
+      "title": "ChessBase – finally on Mac!",
+      "link": "https://en.chessbase.com/post/chessbase-finally-on-mac",
+      "source": "ChessBase",
+      "date": "2026-09-18T19:00:00.000Z",
+      "summary": "Our database program – used by everyone, from the World Champion to lowly club players – will now be available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what matters. The official release is Novem…"
+    },
+    {
+      "title": "Olympiad Day 3: Strong starts and stunning surprises in Samarkand",
+      "link": "https://www.fide.com/olympiad-day-3-strong-starts-and-stunning-surprises-in-samarkand/",
+      "source": "FIDE",
+      "date": "2026-09-18T17:49:37.000Z",
+      "summary": "Uzbekistan, India, China and the USA continue their strong starts, while Argentina and Iran produce major upsets in a dramatic third round The third round brought another afternoon of intense action at the Chess Olympiad, with the leading teams beginning to…"
+    },
+    {
       "title": "Giri Saves Netherlands; Argentina, Iran Upset Ukraine, France In Women's",
       "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-3",
       "source": "Chess.com",
-      "date": "2026-09-18T16:06:38.000Z",
+      "date": "2026-09-18T16:06:00.000Z",
       "summary": "The seed favorites generally won in round three of the 46th Chess Olympiad 2026, with two notable exceptions on the top 50 boards. 79th seed Kyrgyzstan beat 31st seed Brazil 2.5-1.5, while 50th seed Singapore upset 21st seed Norway with the same s..."
     },
     {
@@ -133,13 +154,6 @@
       "source": "FIDE",
       "date": "2026-09-16T12:03:27.000Z",
       "summary": "FIDE notes with deep regret that, during the first day of the 2026 FIDE Chess Olympiad, shortcomings in the accommodation arrangements left some teams without proper loging, forcing them to rent rooms in the city at their own expense. Although accommodation…"
-    },
-    {
-      "title": "Season 4 gave the Global Chess League its strongest identity yet",
-      "link": "https://www.fide.com/season-4-gave-the-global-chess-league-its-strongest-identity-yet/",
-      "source": "FIDE",
-      "date": "2026-09-16T11:01:39.000Z",
-      "summary": "Season 4 of the Tech Mahindra Global Chess League ended in Bengaluru with a new champion and a clearer sense of what the competition is becoming. The fourth edition of the Tech Mahindra Global Chess League that just finished in India’s tech hub of Bengaluru…"
     },
     {
       "title": "Sina Movahed Again In Titled Tuesday",
@@ -301,13 +315,6 @@
       "source": "Chess.com",
       "date": "2026-09-09T15:00:00.000Z",
       "summary": "Chess.com is once again partnering with legendary GM Judit Polgar to support her festival, the Judit Polgar Global Chess Festival. Judit will play a community simul on September 26 at 7:30 a.m. ET / 13:30 CEST / 5:00 p.m. IST. The event will take ..."
-    },
-    {
-      "title": "All Teams Still In Fight As Global Chess League Crosses Halfway",
-      "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-4",
-      "source": "Chess.com",
-      "date": "2026-09-08T21:50:00.000Z",
-      "summary": "GM Alireza Firouzja's Triveni Continental Kings continued their comeback by beating the leaders, GM Magnus Carlsen's Alpine APL Pipers, as the 2026 Tech Mahindra Global Chess League crossed the halfway mark with no teams breaking clear of the pack..."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 30: Use \"Folders\"",
