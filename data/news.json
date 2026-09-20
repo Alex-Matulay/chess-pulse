@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T05:39:32.464Z",
+  "updated": "2026-09-20T10:30:55.240Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chess Olympiad - Live!",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-20T11:45:00.000Z",
+      "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
+    },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
       "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-32-training-with-style",
