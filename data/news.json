@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T00:35:45.129Z",
+  "updated": "2026-09-20T05:39:32.464Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
+      "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-32-training-with-style",
+      "source": "ChessBase",
+      "date": "2026-09-20T07:00:00.000Z",
+      "summary": "It’s once again time to think about aesthetics in ChessBase´26 training: Have you ever noticed the “Style” option? If not, in this episode we’ll explain briefly and concisely how you can better adapt your screen display to your own taste."
+    },
+    {
+      "title": "Samarkand R4 (open): Eight-way tie at the top as favourites hold firm",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-4",
+      "source": "ChessBase",
+      "date": "2026-09-20T04:25:00.000Z",
+      "summary": "The leading group in the open section of the Chess Olympiad was reduced to eight teams after round four, with China, Uzbekistan, Germany and Armenia still unbeaten on every individual board. Lithuania supplied the main surprise of the day by beating Croatia…"
+    },
     {
       "title": "ChessBase interviews from Samarkand: \"How many databases? Hundreds!\"",
       "link": "https://en.chessbase.com/post/chess-olympiad-2026-interviews-2",
@@ -23,7 +37,7 @@
       "summary": "Several of the top teams remain unbeaten after another action-packed day in both sections at the Samarkand Expo venue Four rounds are now in the books, and the Chess Olympiad is beginning to reveal its first clear patterns. The leading teams are starting to…"
     },
     {
-      "title": "🇺🇸 U.S. Wins 3.5-0.5 In Both Sections As Favorites Allow No Upsets",
+      "title": "U.S. Wins 3.5-0.5 In Both Sections As Favorites Allow No Upsets",
       "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-4",
       "source": "Chess.com",
       "date": "2026-09-19T16:28:00.000Z",
@@ -35,13 +49,6 @@
       "source": "FIDE",
       "date": "2026-09-19T14:31:33.000Z",
       "summary": "Grassroots charity Movement in Refuge (MiR) aims to extend the benefits of chess to thousands more refugee children in Cox’s Bazar, Bangladesh, if additional funding is secured. And the dream is to bring a youth team from the camps to the next Olympiad. MiR…"
-    },
-    {
-      "title": "Chess Olympiad - Live!",
-      "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-19T11:45:00.000Z",
-      "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 1–3: the USA, India, Uzbekistan, and China in 1st",
