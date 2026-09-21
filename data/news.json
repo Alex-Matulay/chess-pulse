@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T17:44:49.113Z",
+  "updated": "2026-09-21T21:37:34.280Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,39 @@
   ],
   "items": [
     {
+      "title": "2026 Samarkand Olympiad Rounds 4–6: Uzbekistan in Sole Lead, Plays China in R7",
+      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-4-6-uzbekistan-in-sole-lead-plays-china-in-r7/NIRrBw3h",
+      "source": "Lichess",
+      "date": "2026-09-21T21:12:23.399Z",
+      "summary": "After defeating India, Uzbekistan is in the sole lead with 12/12 match points, with China and Armenia on 11/12. In the Women's, China and Uzbekistan are in 1st place on 12/12 match points, with 11 teams in close pursuit on 10/12 match points."
+    },
+    {
+      "title": "How can humans prosper in the AI era? Child's play",
+      "link": "https://en.chessbase.com/post/how-can-humans-prosper-in-the-ai-era",
+      "source": "ChessBase",
+      "date": "2026-09-21T20:45:00.000Z",
+      "summary": "Robots solve puzzles more efficiently, but there's a joy derived from unscrambling a Rubik's Cube or mastering chess. This Telegraph article, by Judit Polgar and Erno Rubik, argues that as AI becomes vastly faster and more capable than humans at solving pro…"
+    },
+    {
+      "title": "Nakamura Makes It Back To Back Bullet Brawls",
+      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-19-2026",
+      "source": "Chess.com",
+      "date": "2026-09-21T19:22:51.000Z",
+      "summary": "GM Hikaru Nakamura added to his Bullet Brawl dominance on September 19, winning the tournament once again. It was Nakamura's second straight week in first place, his 18th win of the year, and his 67th total to date. To put that in perspective, no ..."
+    },
+    {
+      "title": "Olympiad Day 6: Uzbekistan make their move in Samarkand",
+      "link": "https://www.fide.com/olympiad-day-6-uzbekistan-make-their-move-in-samarkand/",
+      "source": "FIDE",
+      "date": "2026-09-21T17:46:45.000Z",
+      "summary": "The hosts defeat India 2.5-1.5 to emerge as the Open section’s sole leaders Uzbekistan have emerged as the sole leaders of the Open section after six rounds, producing another impressive result on home soil. Their first team defeated India 2.5-1.5 in a thri…"
+    },
+    {
       "title": "Nihal Blunders Queen As Uzbekistan Takes Sole Lead; Indian Women Hit Back To Beat U.S.",
       "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
       "source": "Chess.com",
       "date": "2026-09-21T16:45:09.000Z",
-      "summary": "With a shock win on board three against India, Uzbekistan has taken the sole lead of the 46th Chess Olympiad 2026 after round six. GM Nihal Sarin was better on board and clock against&nbsp;GM Nodirbek Yakubboev, but with half an hour remaining he ..."
+      "summary": "With a shock win on board three against India, Uzbekistan has taken sole lead of the 46th Chess Olympiad 2026 after six rounds. GM Nihal Sarin was better on board and clock against&nbsp;GM Nodirbek Yakubboev, but he blundered his queen in the cons..."
     },
     {
       "title": "Play Chess Against NFL Star Mack Hollins",
@@ -205,13 +233,6 @@
       "summary": "The new experimental format will showcase chess as a tool for education, inclusion, and personal transformation. The FIDE Social Commission is hosting an event called Social Chess Blitz Talks, a format built around short, powerful, chess-inspired stories. T…"
     },
     {
-      "title": "Olympiad for People with Disabilities, Day 6: Poland takes sole lead",
-      "link": "https://www.fide.com/olympiad-for-people-with-disabilities-poland-takes-sole-lead-as-clean-sport-and-fair-play-take-spotlight-on-day-6/",
-      "source": "FIDE",
-      "date": "2026-09-16T23:40:10.000Z",
-      "summary": "With just one round remaining at the 3rd FIDE Chess Olympiad for People with Disabilities, the competition entered its decisive stage in Samarkand. Poland produced a commanding 4-0 victory over the Czech Republic to emerge as the sole leader heading into th…"
-    },
-    {
       "title": "Thai IM Upsets Indian Number-2 As Favorites Prevail",
       "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
       "source": "Chess.com",
@@ -343,13 +364,6 @@
       "source": "Chess.com",
       "date": "2026-09-11T16:49:40.000Z",
       "summary": "It was a day of tiebreaks in 3 0 Thursday on September 10. In the first tournament, GM Denis Lazavik surpassed three other players on tiebreaks to take the title for the second straight week. In the second event, GM Jan-Krzysztof Duda surpassed tw..."
-    },
-    {
-      "title": "Build A Rock-Solid Repertoire Against 1.e4 With GM Wesley So's New Course",
-      "link": "https://www.chess.com/news/view/announcing-wesley-sos-1e4-e5-part-1-course",
-      "source": "Chess.com",
-      "date": "2026-09-11T15:00:00.000Z",
-      "summary": "You can now handle 1.e4 like a super-grandmaster. GM Wesley So has just released Elite 1.e4 e5 - Part 1, his new course built around his personal answer to White's most common opening move, 1.e4. With positional, dependable lines, So will teach yo..."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 30: Use \"Folders\"",
