@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T11:49:47.344Z",
+  "updated": "2026-09-21T17:44:49.113Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Nihal Blunders Queen As Uzbekistan Takes Sole Lead; Indian Women Hit Back To Beat U.S.",
+      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
+      "source": "Chess.com",
+      "date": "2026-09-21T16:45:09.000Z",
+      "summary": "With a shock win on board three against India, Uzbekistan has taken the sole lead of the 46th Chess Olympiad 2026 after round six. GM Nihal Sarin was better on board and clock against&nbsp;GM Nodirbek Yakubboev, but with half an hour remaining he ..."
+    },
+    {
+      "title": "Play Chess Against NFL Star Mack Hollins",
+      "link": "https://www.chess.com/news/view/play-chess-against-nfl-star-mack-hollins",
+      "source": "Chess.com",
+      "date": "2026-09-21T16:00:00.000Z",
+      "summary": "Think you can take down an NFL receiver at chess? Now&rsquo;s your chance. BlitzChamps V Champion Mack Hollins is now a bot on Chess.com! Head to the Play Bots page and test your skills against the Super Bowl champ. Mack&rsquo;s bot is rated 14..."
+    },
+    {
+      "title": "Play For Your Favorite Esports Team In The Chess Club Showdown, Starting September 30",
+      "link": "https://www.chess.com/news/view/announcing-chess-club-showdown-2026",
+      "source": "Chess.com",
+      "date": "2026-09-21T15:00:09.000Z",
+      "summary": "You can now help your favorite esports organization fight for the top spot in our new monthly event, the Chess Club Showdown. Play alongside your chess heroes, outscore other clubs, and bring home the title. With a $15,000 monthly prize fund up fo..."
+    },
     {
       "title": "Chess Olympiad - Live!",
       "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
@@ -329,27 +350,6 @@
       "source": "Chess.com",
       "date": "2026-09-11T15:00:00.000Z",
       "summary": "You can now handle 1.e4 like a super-grandmaster. GM Wesley So has just released Elite 1.e4 e5 - Part 1, his new course built around his personal answer to White's most common opening move, 1.e4. With positional, dependable lines, So will teach yo..."
-    },
-    {
-      "title": "Buettner, Turlov Clash Over Funding In FIDE Presidential Debate",
-      "link": "https://www.chess.com/news/view/fide-presidential-debate-recap-2026",
-      "source": "Chess.com",
-      "date": "2026-09-10T21:41:54.000Z",
-      "summary": "FIDE presidential candidates Jan Henric Buettner and Timur Turlov clashed over how the world chess body should be funded&mdash;and whether it should continue relying on wealthy benefactors. The third candidate, Wadim Rosenstein, disconnected short..."
-    },
-    {
-      "title": "Alpine APL Pipers, FYERS American Gambits, Ganges Grandmasters Share 3-Way Lead",
-      "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-6",
-      "source": "Chess.com",
-      "date": "2026-09-10T20:48:00.000Z",
-      "summary": "The FYERS American Gambits, led by GM Javokhir Sindarov, dominated a critical match against the Ganges Grandmasters, led by GM Ian Nepomniachtchi, to join a three-way tie with the Grandmasters and GM Magnus Carlsen's Alpine APL Pipers on day six o..."
-    },
-    {
-      "title": "Applications Open For $50,000 Naroditsky Fellowship",
-      "link": "https://www.chess.com/news/view/naroditsky-fellowship-applications-open-2027",
-      "source": "Chess.com",
-      "date": "2026-09-10T14:03:00.000Z",
-      "summary": "Applications are now open for the inaugural $50,000 Naroditsky Fellowship, which will support elite American junior players with training, travel, and tournament preparation in 2027. The deadline to apply is December 1. The Fellowship is one of t..."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 30: Use \"Folders\"",
