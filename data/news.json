@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T05:49:24.584Z",
+  "updated": "2026-09-21T11:49:47.344Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chess Olympiad - Live!",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-21T11:45:00.000Z",
+      "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
+    },
+    {
+      "title": "Samarkand R5 (open): Germany stun USA, share the lead with India and Uzbekistan",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-5",
+      "source": "ChessBase",
+      "date": "2026-09-21T08:10:00.000Z",
+      "summary": "India, Uzbekistan and Germany emerged from round five with perfect 10/10 match scores after winning their clashes against fellow co-leaders. Germany defeated top seeds United States 2½–1½, with Frederik Svane (pictured) scoring the decisive win over Hans Ni…"
+    },
     {
       "title": "Move to bring chess to 5,000 refugee children",
       "link": "https://en.chessbase.com/post/move-to-bring-chess-to-five-thousand-refugee-children",
@@ -28,13 +42,6 @@
       "source": "Chess.com",
       "date": "2026-09-20T16:14:00.000Z",
       "summary": "GM Frederik Svane's win over GM Hans Niemann saw Germany defeat the top-seeded U.S. 2.5-1.5 in round five of the 46th Chess Olympiad 2026. Germany is joined in the lead on 10/10 match points by Uzbekistan, who crushed Hungary 4-0, and India, who d..."
-    },
-    {
-      "title": "Chess Olympiad - Live!",
-      "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-20T11:45:00.000Z",
-      "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
@@ -490,13 +497,6 @@
       "source": "The Week in Chess",
       "date": "2026-08-09T19:46:00.000Z",
       "summary": "The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. T…"
-    },
-    {
-      "title": "Lichess Meetup: Prague",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-meetup-prague/rt9aFXz5",
-      "source": "Lichess",
-      "date": "2026-08-07T08:23:09.095Z",
-      "summary": "Sunday, September 20th, 2026"
     }
   ]
 }
