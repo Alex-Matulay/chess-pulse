@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T10:51:18.114Z",
+  "updated": "2026-09-22T15:22:34.599Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Quo vadis, Fischer Random Chess? (2)",
+      "link": "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-2",
+      "source": "ChessBase",
+      "date": "2026-09-22T15:30:00.000Z",
+      "summary": "In a previous article we described the genesis of this increasingly popular form of chess – and what the strongest ever player, Magnus Carlsen, thinks of it. Today we hear the opinion of another top grandmaster. In this remarkable interview you can listen t…"
+    },
+    {
+      "title": "Chess.com Seirawan Chess Championship Starts September 30",
+      "link": "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship-2026",
+      "source": "Chess.com",
+      "date": "2026-09-22T15:02:40.000Z",
+      "summary": "Saddle your elephants and ready your hawks. The Chess.com Seirawan Chess Championship takes place from September 30 to October 2 and features a $2,500 prize fund. With two new pieces&mdash;and a whole new set of tactics&mdash;this tournament will ..."
+    },
     {
       "title": "Samarkand R6 (open): Uzbekistan beat India to take the sole lead",
       "link": "https://en.chessbase.com/post/samarkand-r6-open-uzbekistan-beat-india-to-take-the-sole-lead",
@@ -68,7 +82,7 @@
       "title": "Play For Your Favorite Esports Team In The Chess Club Showdown, Starting September 30",
       "link": "https://www.chess.com/news/view/announcing-chess-club-showdown-2026",
       "source": "Chess.com",
-      "date": "2026-09-21T15:00:09.000Z",
+      "date": "2026-09-21T15:00:00.000Z",
       "summary": "You can now help your favorite esports organization fight for the top spot in our new monthly event, the Chess Club Showdown. Play alongside your chess heroes, outscore other clubs, and bring home the title. With a $15,000 monthly prize fund up fo..."
     },
     {
@@ -364,13 +378,6 @@
       "source": "Chess.com",
       "date": "2026-09-11T18:49:00.000Z",
       "summary": "GM Magnus Carlsen's Alpine APL Pipers and GM Ian Nepomniachtchi's Ganges Grandmasters lead the 2026 Tech Mahindra Global Chess League after day seven, with just one more match left in the round-robin stage. The Alpine APL Pipers won by a thin, two..."
-    },
-    {
-      "title": "Tiebreaks Decide 3 0 Thursday: Lazavik, Duda, Taher Triumph",
-      "link": "https://www.chess.com/news/view/lazavik-duda-taher-3-0-thursday-09-10-2026",
-      "source": "Chess.com",
-      "date": "2026-09-11T16:49:40.000Z",
-      "summary": "It was a day of tiebreaks in 3 0 Thursday on September 10. In the first tournament, GM Denis Lazavik surpassed three other players on tiebreaks to take the title for the second straight week. In the second event, GM Jan-Krzysztof Duda surpassed tw..."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 30: Use \"Folders\"",
