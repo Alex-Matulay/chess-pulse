@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T05:47:10.612Z",
+  "updated": "2026-09-22T10:51:18.114Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Samarkand R6 (open): Uzbekistan beat India to take the sole lead",
+      "link": "https://en.chessbase.com/post/samarkand-r6-open-uzbekistan-beat-india-to-take-the-sole-lead",
+      "source": "ChessBase",
+      "date": "2026-09-22T08:15:00.000Z",
+      "summary": "Uzbekistan reached the rest day as the sole leaders of the open Chess Olympiad after edging defending champions India 2½–1½ in round six. Nodirbek Yakubboev (pictured) scored the decisive win from what had been an inferior position against Nihal Sarin. Chin…"
+    },
     {
       "title": "John Donaldson: New insights into Bobby Fischer",
       "link": "https://en.chessbase.com/post/john-donaldson-new-insights-into-bobby-fischer",
@@ -20,7 +27,7 @@
       "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-4-6-uzbekistan-in-sole-lead-plays-china-in-r7/NIRrBw3h",
       "source": "Lichess",
       "date": "2026-09-21T21:12:23.399Z",
-      "summary": "After defeating India, Uzbekistan is in the sole lead with 12/12 match points, with China and Armenia on 11/12. In the Women's, China and Uzbekistan are in 1st place on 12/12 match points, with 11 teams in close pursuit on 10/12 match points."
+      "summary": "After defeating India, Uzbekistan is in the sole lead with 12/12 match points, with China and Armenia on 11/12. In the Women's, China and Kazakhstan are in 1st place on 12/12 match points, with 11 teams in close pursuit on 10/12 match points."
     },
     {
       "title": "How can humans prosper in the AI era? Child's play",
@@ -28,6 +35,13 @@
       "source": "ChessBase",
       "date": "2026-09-21T20:45:00.000Z",
       "summary": "Robots solve puzzles more efficiently, but there's a joy derived from unscrambling a Rubik's Cube or mastering chess. This Telegraph article, by Judit Polgar and Erno Rubik, argues that as AI becomes vastly faster and more capable than humans at solving pro…"
+    },
+    {
+      "title": "Nihal Blunders Queen As Uzbekistan Takes Sole Lead; Indian Women Hit Back To Beat U.S.",
+      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
+      "source": "Chess.com",
+      "date": "2026-09-21T20:30:00.000Z",
+      "summary": "With a shock win on board three against India, Uzbekistan has taken sole lead of the 46th Chess Olympiad 2026 after six rounds. GM Nihal Sarin was better on board and clock against&nbsp;GM Nodirbek Yakubboev, but he blundered his queen in the cons..."
     },
     {
       "title": "Nakamura Makes It Back-To-Back Bullet Brawls",
@@ -42,13 +56,6 @@
       "source": "FIDE",
       "date": "2026-09-21T17:46:45.000Z",
       "summary": "The hosts defeat India 2.5-1.5 to emerge as the Open section’s sole leaders Uzbekistan have emerged as the sole leaders of the Open section after six rounds, producing another impressive result on home soil. Their first team defeated India 2.5-1.5 in a thri…"
-    },
-    {
-      "title": "Nihal Blunders Queen As Uzbekistan Takes Sole Lead; Indian Women Hit Back To Beat U.S.",
-      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
-      "source": "Chess.com",
-      "date": "2026-09-21T16:45:00.000Z",
-      "summary": "With a shock win on board three against India, Uzbekistan has taken sole lead of the 46th Chess Olympiad 2026 after six rounds. GM Nihal Sarin was better on board and clock against&nbsp;GM Nodirbek Yakubboev, but he blundered his queen in the cons..."
     },
     {
       "title": "Play Chess Against NFL Star Mack Hollins",
