@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T00:31:54.238Z",
+  "updated": "2026-09-22T05:47:10.612Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "John Donaldson: New insights into Bobby Fischer",
+      "link": "https://en.chessbase.com/post/john-donaldson-new-insights-into-bobby-fischer",
+      "source": "ChessBase",
+      "date": "2026-09-22T07:39:22.000Z",
+      "summary": "Bobby Fischer remains one of the most fascinating and enigmatic figures in chess history. IM John Donaldson, captain of the US team at the Chess Olympiad and the author of numerous books on famous and lesser-known chess personalities, is one of the leading…"
+    },
     {
       "title": "2026 Samarkand Olympiad Rounds 4–6: Uzbekistan in Sole Lead, Plays China in R7",
       "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-4-6-uzbekistan-in-sole-lead-plays-china-in-r7/NIRrBw3h",
@@ -23,10 +30,10 @@
       "summary": "Robots solve puzzles more efficiently, but there's a joy derived from unscrambling a Rubik's Cube or mastering chess. This Telegraph article, by Judit Polgar and Erno Rubik, argues that as AI becomes vastly faster and more capable than humans at solving pro…"
     },
     {
-      "title": "Nakamura Makes It Back To Back Bullet Brawls",
+      "title": "Nakamura Makes It Back-To-Back Bullet Brawls",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-19-2026",
       "source": "Chess.com",
-      "date": "2026-09-21T19:22:51.000Z",
+      "date": "2026-09-21T19:22:00.000Z",
       "summary": "GM Hikaru Nakamura added to his Bullet Brawl dominance on September 19, winning the tournament once again. It was Nakamura's second straight week in first place, his 18th win of the year, and his 67th total to date. To put that in perspective, no ..."
     },
     {
