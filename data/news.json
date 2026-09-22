@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T19:30:43.989Z",
+  "updated": "2026-09-22T22:40:22.789Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Free day in Samarkand: Exploring the heart of the Silk Road",
+      "link": "https://www.fide.com/free-day-in-samarkand-exploring-the-heart-of-the-silk-road/",
+      "source": "FIDE",
+      "date": "2026-09-22T20:24:06.000Z",
+      "summary": "Nearly 300 players, captains and accompanying persons joined the Samarkand Cultural Program Tour on the free day of the Chess Olympiad. Eight full buses departed from the Expo around 2 p.m., heading first to the Shah-i-Zinda Complex, a historic necropolis i…"
+    },
+    {
+      "title": "On-Fire Firouzja Finishes First In Titled Tuesday",
+      "link": "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-september-22-2026",
+      "source": "Chess.com",
+      "date": "2026-09-22T19:44:37.000Z",
+      "summary": "GM Alireza Firouzja won Titled Tuesday outright on September 22, starting 7/7 before a brief setback followed by a 3/3 performance to end the tournament. GM Denis Lazavik, who went undefeated but made three draws, finished sole second while breaki..."
+    },
     {
       "title": "Quo vadis, Fischer Random Chess? (2)",
       "link": "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-2",
@@ -247,13 +261,6 @@
       "summary": "FIDE, in cooperation with the United Arab Emirates Chess Federation and Al Ain Chess & Mind Games Club, invites all FIDE member federations to participate in the World Junior U20 Rapid and Blitz Championships 2026. Each federation can register an unlimited…"
     },
     {
-      "title": "When every move tells a story: Social Chess Blitz Talks by FIDE SOC",
-      "link": "https://www.fide.com/new-when-every-move-tells-a-story-social-chess-blitz-talks-by-fide-soc/",
-      "source": "FIDE",
-      "date": "2026-09-17T08:42:00.000Z",
-      "summary": "The new experimental format will showcase chess as a tool for education, inclusion, and personal transformation. The FIDE Social Commission is hosting an event called Social Chess Blitz Talks, a format built around short, powerful, chess-inspired stories. T…"
-    },
-    {
       "title": "Thai IM Upsets Indian Number-2 As Favorites Prevail",
       "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
       "source": "Chess.com",
@@ -371,13 +378,6 @@
       "source": "Chess.com",
       "date": "2026-09-12T04:13:00.000Z",
       "summary": "Thirteenth World Champion GM Garry Kasparov found it tough to keep the clock and his nerves in control, as GM Veselin Topalov exploited his opportunities to gain a 2.5-1.5 lead at the end of the first day of the 2026 Clutch Chess: The Legends, the..."
-    },
-    {
-      "title": "Carlsen Gives Trophy To Vidit As Alpine APL Pipers Lead With Ganges Grandmasters",
-      "link": "https://www.chess.com/news/view/2026-tech-mahindra-global-chess-league-day-7",
-      "source": "Chess.com",
-      "date": "2026-09-11T18:49:00.000Z",
-      "summary": "GM Magnus Carlsen's Alpine APL Pipers and GM Ian Nepomniachtchi's Ganges Grandmasters lead the 2026 Tech Mahindra Global Chess League after day seven, with just one more match left in the round-robin stage. The Alpine APL Pipers won by a thin, two..."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 30: Use \"Folders\"",
