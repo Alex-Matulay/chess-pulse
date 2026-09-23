@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T18:11:32.753Z",
+  "updated": "2026-09-23T21:59:10.824Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Behind the scenes in Samarkand: The playing hall",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-vlog-2",
+      "source": "ChessBase",
+      "date": "2026-09-23T21:30:00.000Z",
+      "summary": "The ChessBase crew continues its coverage from the Chess Olympiad in Samarkand, moving from the exhibition stand to the playing hall and capturing some of the atmosphere around the event. The latest vlog features reactions to the forthcoming ChessBase for M…"
+    },
+    {
+      "title": "Total Chess World Championship Tour announces six more stars for pilot",
+      "link": "https://en.chessbase.com/post/total-chess-world-ch-2026-lineup",
+      "source": "ChessBase",
+      "date": "2026-09-23T20:30:00.000Z",
+      "summary": "The 24-player field for the Total Chess World Championship Tour Pilot in Budapest is now complete, with Levon Aronian, Le Quang Liem, Jorden van Foreest, Abhimanyu Mishra, Shakhriyar Mamedyarov and Andrew Hong joining the lineup. The FIDE-approved event, sc…"
+    },
+    {
+      "title": "Olympiad Day 7: Two Nodirbeks, one golden mission",
+      "link": "https://www.fide.com/olympiad-day-7-two-nodirbeks-one-golden-mission/",
+      "source": "FIDE",
+      "date": "2026-09-23T18:45:13.000Z",
+      "summary": "Uzbekistan keeps marching towards gold as its two Nodirbeks continue to deliver With the finish line beginning to come into view, every half-point is becoming increasingly valuable in Samarkand. Uzbekistan continue to lead the Open section, with the two Nod…"
+    },
     {
       "title": "Uzbekistan Leads With 7/7 Match Wins; China, Kazakhstan Share Women's Lead",
       "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-7",
@@ -72,13 +93,6 @@
       "summary": "GM Alireza Firouzja won Titled Tuesday outright on September 22, starting 7/7 before a brief setback followed by a 3/3 performance to end the tournament. GM Denis Lazavik, who went undefeated but made three draws, finished sole second while breaki..."
     },
     {
-      "title": "Quo vadis, Fischer Random Chess? (2)",
-      "link": "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-2",
-      "source": "ChessBase",
-      "date": "2026-09-22T15:30:00.000Z",
-      "summary": "In a previous article we described the genesis of this increasingly popular form of chess – and what the strongest ever player, Magnus Carlsen, thinks of it. Today we hear the opinion of another top grandmaster. In this remarkable interview you can listen t…"
-    },
-    {
       "title": "Chess.com Seirawan Chess Championship Starts September 30",
       "link": "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship-2026",
       "source": "Chess.com",
@@ -112,13 +126,6 @@
       "source": "Lichess",
       "date": "2026-09-21T21:12:23.399Z",
       "summary": "After defeating India, Uzbekistan is in the sole lead with 12/12 match points, with China and Armenia on 11/12. In the Women's, China and Kazakhstan are in 1st place on 12/12 match points, with 11 teams in close pursuit on 10/12 match points."
-    },
-    {
-      "title": "How can humans prosper in the AI era? Child's play",
-      "link": "https://en.chessbase.com/post/how-can-humans-prosper-in-the-ai-era",
-      "source": "ChessBase",
-      "date": "2026-09-21T20:45:00.000Z",
-      "summary": "Robots solve puzzles more efficiently, but there's a joy derived from unscrambling a Rubik's Cube or mastering chess. This Telegraph article, by Judit Polgar and Erno Rubik, argues that as AI becomes vastly faster and more capable than humans at solving pro…"
     },
     {
       "title": "Nihal Blunders Queen As Uzbekistan Takes Sole Lead; Indian Women Hit Back To Beat U.S.",
@@ -156,20 +163,6 @@
       "summary": "You can now help your favorite esports organization fight for the top spot in our new monthly event, the Chess Club Showdown. Play alongside your chess heroes, outscore other clubs, and bring home the title. With a $15,000 monthly prize fund up fo..."
     },
     {
-      "title": "Samarkand R5 (open): Germany stun USA, share the lead with India and Uzbekistan",
-      "link": "https://en.chessbase.com/post/chess-olympiad-2026-5",
-      "source": "ChessBase",
-      "date": "2026-09-21T08:10:00.000Z",
-      "summary": "India, Uzbekistan and Germany emerged from round five with perfect 10/10 match scores after winning their clashes against fellow co-leaders. Germany defeated top seeds United States 2½–1½, with Frederik Svane (pictured) scoring the decisive win over Hans Ni…"
-    },
-    {
-      "title": "Move to bring chess to 5,000 refugee children",
-      "link": "https://en.chessbase.com/post/move-to-bring-chess-to-five-thousand-refugee-children",
-      "source": "ChessBase",
-      "date": "2026-09-20T19:30:00.000Z",
-      "summary": "Movement in Refuge is seeking further support to expand its chess programme for Rohingya children in Cox's Bazar, Bangladesh, after an initial FIDE-backed project reached young refugees in August. The charity hopes to raise $100,000 to bring chess to as man…"
-    },
-    {
       "title": "Olympiad Day 5: Home teams thrive along the Silk Road",
       "link": "https://www.fide.com/olympiad-day-5-home-teams-thrive-along-the-silk-road/",
       "source": "FIDE",
@@ -191,20 +184,6 @@
       "summary": "It’s once again time to think about aesthetics in ChessBase´26 training: Have you ever noticed the “Style” option? If not, in this episode we’ll explain briefly and concisely how you can better adapt your screen display to your own taste."
     },
     {
-      "title": "Samarkand R4 (open): Eight-way tie at the top as favourites hold firm",
-      "link": "https://en.chessbase.com/post/chess-olympiad-2026-4",
-      "source": "ChessBase",
-      "date": "2026-09-20T04:25:00.000Z",
-      "summary": "The leading group in the open section of the Chess Olympiad was reduced to eight teams after round four, with China, Uzbekistan, Germany and Armenia still unbeaten on every individual board. Lithuania supplied the main surprise of the day by beating Croatia…"
-    },
-    {
-      "title": "ChessBase interviews from Samarkand: \"How many databases? Hundreds!\"",
-      "link": "https://en.chessbase.com/post/chess-olympiad-2026-interviews-2",
-      "source": "ChessBase",
-      "date": "2026-09-19T19:00:00.000Z",
-      "summary": "ChessBase has a team on-site at the Chess Olympiad in Samarkand. Visitors to the ChessBase stand can find out more about ChessBase for Mac. Arne Kähler and Veronika Exler are also conducting interviews. Svitlana Demchenko has hundreds of databases, Nikita V…"
-    },
-    {
       "title": "Olympiad Day 4: The leaders begin to emerge",
       "link": "https://www.fide.com/olympiad-day-4-the-leaders-begin-to-emerge/",
       "source": "FIDE",
@@ -217,6 +196,13 @@
       "source": "Chess.com",
       "date": "2026-09-19T16:28:00.000Z",
       "summary": "Round four of the 46th Chess Olympiad 2026 saw no major upsets on the top-11 boards, which consisted of the 21 teams with perfect scores. The most dominant score was the U.S.'s 3.5-0.5 against Ukraine, with GM Levon Aronian winning the Game of the..."
+    },
+    {
+      "title": "Move to bring chess to 5,000 refugee children",
+      "link": "https://www.fide.com/move-to-bring-chess-to-5000-refugee-children/",
+      "source": "FIDE",
+      "date": "2026-09-19T14:31:33.000Z",
+      "summary": "Grassroots charity Movement in Refuge (MiR) aims to extend the benefits of chess to thousands more refugee children in Cox’s Bazar, Bangladesh, if additional funding is secured. And the dream is to bring a youth team from the camps to the next Olympiad. MiR…"
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 1–3: the USA, India, Uzbekistan, and China in 1st",
@@ -238,13 +224,6 @@
       "source": "Chess.com",
       "date": "2026-09-18T19:02:38.000Z",
       "summary": "No one has ever scored a perfect 11-0 in 3 0 Thursday, but FM Artin Ashraf and GM Jeffery Xiong both came close on Thursday, September 17. Ashraf started by winning 10 consecutive games in the first event. His final-round loss cost him perfection,..."
-    },
-    {
-      "title": "Olympiad Day 3: Strong starts and stunning surprises in Samarkand",
-      "link": "https://www.fide.com/olympiad-day-3-strong-starts-and-stunning-surprises-in-samarkand/",
-      "source": "FIDE",
-      "date": "2026-09-18T17:49:37.000Z",
-      "summary": "Uzbekistan, India, China and the USA continue their strong starts, while Argentina and Iran produce major upsets in a dramatic third round The third round brought another afternoon of intense action at the Chess Olympiad, with the leading teams beginning to…"
     },
     {
       "title": "Find Local Chess Clubs Near You With Chess.com's New Feature",
@@ -525,13 +504,6 @@
       "source": "Lichess",
       "date": "2026-08-12T07:27:11.461Z",
       "summary": "Mobile updates, site updates, broadcasts, events, and more!"
-    },
-    {
-      "title": "112th British Chess Championships 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/112th-british-chess-championships-2026",
-      "source": "The Week in Chess",
-      "date": "2026-08-09T19:46:00.000Z",
-      "summary": "The 112th British Chess Championships took place at the University of Warwick 1st to 9th August 2026. Luke McShane, Michael Adams, Shreyas Royal, Harry Grieve etc. Most interesting is the number of young players with Bodhana Sivanandan being one of those. T…"
     }
   ]
 }
