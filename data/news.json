@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T15:47:08.796Z",
+  "updated": "2026-09-24T19:45:26.030Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,39 @@
   ],
   "items": [
     {
+      "title": "Olympiad Day 8: Germany shake up the race at the top",
+      "link": "https://www.fide.com/olympiad-day-8-germany-shake-up-the-race-at-the-top/",
+      "source": "FIDE",
+      "date": "2026-09-24T18:45:28.000Z",
+      "summary": "The Svanes lead a stunning 2.5–1.5 victory over Uzbekistan as USA, China and the chasing pack close in with three rounds to go. Germany produced the result of the day in the Open section, defeating leaders Uzbekistan 2.5–1.5 to throw the race wide open with…"
+    },
+    {
+      "title": "Every Lesson Counts: FIDE Summit in Samarkand puts chess education at the heart of global development",
+      "link": "https://www.fide.com/every-lesson-counts-fide-summit-in-samarkand-puts-chess-education-at-the-heart-of-global-development/",
+      "source": "FIDE",
+      "date": "2026-09-24T16:53:27.000Z",
+      "summary": "Policymakers, educators, researchers, chess leaders and social innovators from around the world gathered in Samarkand for the FIDE Summit on Chess in Education, one of the flagship events of the 2026 FIDE Year of Chess in Education. Held during the 46th FID…"
+    },
+    {
       "title": "\"Chess is something magic\": An interview with Timur Turlov",
       "link": "https://en.chessbase.com/post/chess-is-something-magic-an-interview-with-timur-turlov",
       "source": "ChessBase",
       "date": "2026-09-24T16:32:00.000Z",
       "summary": "Timur Turlov is an entrepreneur, president of the Kazakhstan Chess Federation and a candidate for the FIDE presidency. But how did he get into chess? In a conversation with Johannes Fischer at the Chess Olympiad in Samarkand, Turlov talks about how his gran…"
+    },
+    {
+      "title": "José Antonio Carrillo receives broad support to continue at the helm of FIDE Americas",
+      "link": "https://www.fide.com/jose-antonio-carrillo-receives-broad-support-to-continue-at-the-helm-of-fide-americas/",
+      "source": "FIDE",
+      "date": "2026-09-24T15:47:19.000Z",
+      "summary": "During the 46th World Chess Olympiad, on September 24, continental elections for FIDE Americas (Confederación de Ajedrez de las Américas) were held to elect its President and the members of the new Executive Board. By a vote of 29 to 12, José Antonio Carril…"
+    },
+    {
+      "title": "Germany Ends Uzbekistan's Streak; China Grabs Women's Lead As Savitha Saves India",
+      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-8",
+      "source": "Chess.com",
+      "date": "2026-09-24T15:47:00.000Z",
+      "summary": "Germany ended Uzbekistan's streak of 7/7 match wins in round eight of the 46th Chess Olympiad 2026, winning their encounter 2.5-1.5. As in the previous round, the brothers GM Frederik Svane and GM Rasmus Svane scored points on the bottom two board..."
     },
     {
       "title": "Chess Olympiad - Live!",
@@ -177,13 +205,6 @@
       "summary": "You can now help your favorite esports organization fight for the top spot in our new monthly event, the Chess Club Showdown. Play alongside your chess heroes, outscore other clubs, and bring home the title. With a $15,000 monthly prize fund up fo..."
     },
     {
-      "title": "Olympiad Day 5: Home teams thrive along the Silk Road",
-      "link": "https://www.fide.com/olympiad-day-5-home-teams-thrive-along-the-silk-road/",
-      "source": "FIDE",
-      "date": "2026-09-20T18:22:44.000Z",
-      "summary": "Uzbekistan shines against Hungary, while Poland stuns defending champions India in the Women’s section Another fascinating afternoon unfolded in Samarkand, with the battle for the top of the standings becoming increasingly intense in both sections. Several…"
-    },
-    {
       "title": "Top Seeds Tumble As Germany Beats U.S. While Poland Defeats Indian Women",
       "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-5",
       "source": "Chess.com",
@@ -198,25 +219,11 @@
       "summary": "It’s once again time to think about aesthetics in ChessBase´26 training: Have you ever noticed the “Style” option? If not, in this episode we’ll explain briefly and concisely how you can better adapt your screen display to your own taste."
     },
     {
-      "title": "Olympiad Day 4: The leaders begin to emerge",
-      "link": "https://www.fide.com/olympiad-day-4-the-leaders-begin-to-emerge/",
-      "source": "FIDE",
-      "date": "2026-09-19T18:02:04.000Z",
-      "summary": "Several of the top teams remain unbeaten after another action-packed day in both sections at the Samarkand Expo venue Four rounds are now in the books, and the Chess Olympiad is beginning to reveal its first clear patterns. The leading teams are starting to…"
-    },
-    {
       "title": "U.S. Wins 3.5-0.5 In Both Sections As Favorites Allow No Upsets",
       "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-4",
       "source": "Chess.com",
       "date": "2026-09-19T16:28:00.000Z",
       "summary": "Round four of the 46th Chess Olympiad 2026 saw no major upsets on the top-11 boards, which consisted of the 21 teams with perfect scores. The most dominant score was the U.S.'s 3.5-0.5 against Ukraine, with GM Levon Aronian winning the Game of the..."
-    },
-    {
-      "title": "Move to bring chess to 5,000 refugee children",
-      "link": "https://www.fide.com/move-to-bring-chess-to-5000-refugee-children/",
-      "source": "FIDE",
-      "date": "2026-09-19T14:31:33.000Z",
-      "summary": "Grassroots charity Movement in Refuge (MiR) aims to extend the benefits of chess to thousands more refugee children in Cox’s Bazar, Bangladesh, if additional funding is secured. And the dream is to bring a youth team from the camps to the next Olympiad. MiR…"
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 1–3: the USA, India, Uzbekistan, and China in 1st",
@@ -364,13 +371,6 @@
       "source": "Chess.com",
       "date": "2026-09-13T15:45:00.000Z",
       "summary": "The Ganges Grandmasters won their maiden title at the 2026 Tech Mahindra Global Chess League after defeating the defending champions Alpine APL Pipers in an exhilarating final match. GM Ian Nepomniachtchi turned around a losing position with a bis..."
-    },
-    {
-      "title": "Topalov Builds Solid Lead Over Kasparov",
-      "link": "https://www.chess.com/news/view/2026-clutch-chess-legends-kasparov-topalov-day-2",
-      "source": "Chess.com",
-      "date": "2026-09-13T00:31:00.000Z",
-      "summary": "GM Veselin Topalov won both blitz games to take a five-point lead over GM Garry Kasparov at the end of the second day of the 2026 Clutch Chess: The Legends Chess960 match. Topalov leads the match with a score of 8.5-3.5. Kasparov failed to conver..."
     },
     {
       "title": "25 years ago – ChessBase news",
