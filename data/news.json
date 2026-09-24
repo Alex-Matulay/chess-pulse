@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T11:00:01.339Z",
+  "updated": "2026-09-24T15:47:08.796Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "\"Chess is something magic\": An interview with Timur Turlov",
+      "link": "https://en.chessbase.com/post/chess-is-something-magic-an-interview-with-timur-turlov",
+      "source": "ChessBase",
+      "date": "2026-09-24T16:32:00.000Z",
+      "summary": "Timur Turlov is an entrepreneur, president of the Kazakhstan Chess Federation and a candidate for the FIDE presidency. But how did he get into chess? In a conversation with Johannes Fischer at the Chess Olympiad in Samarkand, Turlov talks about how his gran…"
+    },
     {
       "title": "Chess Olympiad - Live!",
       "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
