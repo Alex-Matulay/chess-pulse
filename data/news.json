@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T01:14:11.157Z",
+  "updated": "2026-09-25T07:03:00.345Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Samarkand R8 (open): Germany stun Uzbekistan, join them in the lead",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-8",
+      "source": "ChessBase",
+      "date": "2026-09-25T08:30:00.000Z",
+      "summary": "Germany ended Uzbekistan's perfect run in round eight of the Chess Olympiad, beating the hosts 2½–1½ to join them on 14/16 match points. Brothers Frederik and Rasmus Svane (pictured) collected wins for Germany on the bottom boards for a second day in a row.…"
+    },
     {
       "title": "Olympiad Day 8: Germany shake up the race at the top",
       "link": "https://www.fide.com/olympiad-day-8-germany-shake-up-the-race-at-the-top/",
@@ -23,13 +30,6 @@
       "summary": "Policymakers, educators, researchers, chess leaders and social innovators from around the world gathered in Samarkand for the FIDE Summit on Chess in Education, one of the flagship events of the 2026 FIDE Year of Chess in Education. Held during the 46th FID…"
     },
     {
-      "title": "\"Chess is something magic\": An interview with Timur Turlov",
-      "link": "https://en.chessbase.com/post/chess-is-something-magic-an-interview-with-timur-turlov",
-      "source": "ChessBase",
-      "date": "2026-09-24T16:32:00.000Z",
-      "summary": "Timur Turlov is an entrepreneur, president of the Kazakhstan Chess Federation and a candidate for the FIDE presidency. But how did he get into chess? In a conversation with Johannes Fischer at the Chess Olympiad in Samarkand, Turlov talks about how his gran…"
-    },
-    {
       "title": "José Antonio Carrillo receives broad support to continue at the helm of FIDE Americas",
       "link": "https://www.fide.com/jose-antonio-carrillo-receives-broad-support-to-continue-at-the-helm-of-fide-americas/",
       "source": "FIDE",
@@ -42,6 +42,13 @@
       "source": "Chess.com",
       "date": "2026-09-24T15:47:00.000Z",
       "summary": "Germany ended Uzbekistan's streak of 7/7 match wins in round eight of the 46th Chess Olympiad 2026 after winning their encounter 2.5-1.5. As in the previous round, the brothers GM Frederik Svane and GM Rasmus Svane scored points on the bottom two ..."
+    },
+    {
+      "title": "Bodhana Sivanandan: Chess and other passions",
+      "link": "https://en.chessbase.com/post/bodhana-sivanandan-chess-and-other-passions",
+      "source": "ChessBase",
+      "date": "2026-09-24T15:00:08.000Z",
+      "summary": "Bodhana Sivanandan is only eleven years old, but in Samarkand she is already playing in her second Olympiad. And with considerable success: after seven rounds, she has scored six points on top board for the England women’s team, corresponding to an Elo perf…"
     },
     {
       "title": "Chess Olympiad - Live!",
