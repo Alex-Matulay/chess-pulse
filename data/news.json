@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T07:03:00.345Z",
+  "updated": "2026-09-25T13:12:17.666Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chess Olympiad - Live!",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-25T11:45:00.000Z",
+      "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
+    },
+    {
+      "title": "7/7 points, rating performance 2955!",
+      "link": "https://en.chessbase.com/post/7-7-points-rating-performance-2955",
+      "source": "ChessBase",
+      "date": "2026-09-25T09:30:00.000Z",
+      "summary": "We have seen a lot of great performances at the Olympiad in Samarkand – many great players have lived up to their high standards. But it is especially pleasing to see chess prodigies you have known and looked after since their early teens deliver the goods.…"
+    },
     {
       "title": "Samarkand R8 (open): Germany stun Uzbekistan, join them in the lead",
       "link": "https://en.chessbase.com/post/chess-olympiad-2026-8",
@@ -49,13 +63,6 @@
       "source": "ChessBase",
       "date": "2026-09-24T15:00:08.000Z",
       "summary": "Bodhana Sivanandan is only eleven years old, but in Samarkand she is already playing in her second Olympiad. And with considerable success: after seven rounds, she has scored six points on top board for the England women’s team, corresponding to an Elo perf…"
-    },
-    {
-      "title": "Chess Olympiad - Live!",
-      "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-24T11:45:00.000Z",
-      "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
     },
     {
       "title": "Samarkand R7 (open): Uzbekistan continue dominating run, extend lead",
