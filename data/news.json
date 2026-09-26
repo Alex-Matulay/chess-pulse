@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T10:43:00.147Z",
+  "updated": "2026-09-26T14:51:17.050Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,6 +9,20 @@
   ],
   "items": [
     {
+      "title": "Timur Turlov elected President of FIDE",
+      "link": "https://en.chessbase.com/post/timur-turlov-elected-president-of-fide",
+      "source": "ChessBase",
+      "date": "2026-09-26T14:00:50.000Z",
+      "summary": "Timur Turlov, President of the Kazakhstan Chess Federation, was elected President of the International Chess Federation (FIDE). The elections were held on 26 September at the FIDE General Assembly, alongside the 46th Chess Olympiad, in Samarkand, Uzbekistan…"
+    },
+    {
+      "title": "Inaugural FIDE Excellence Awards celebrate the people and achievements shaping chess worldwide",
+      "link": "https://www.fide.com/inaugural-fide-excellence-awards-celebrate-the-people-and-achievements-shaping-chess-worldwide/",
+      "source": "FIDE",
+      "date": "2026-09-26T12:01:04.000Z",
+      "summary": "The inaugural FIDE Excellence Awards were presented in Samarkand, Uzbekistan, bringing together the global chess community to celebrate outstanding achievements both on and off the board during the 2024–2026 Olympiad cycle. Held alongside the 46th FIDE Ches…"
+    },
+    {
       "title": "Chess Olympiad - Live!",
       "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
       "source": "ChessBase",
@@ -16,11 +30,18 @@
       "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
     },
     {
-      "title": "Timur Turlov elected President of FIDE",
-      "link": "https://www.fide.com/timur-turlov-elected-president-of-fide/",
+      "title": "Timur Turlov Elected FIDE President, Defeats Wadim Rosenstein 110-85",
+      "link": "https://www.chess.com/news/view/turlov-elected-new-fide-president-beats-rosenstein-in-2nd-round",
+      "source": "Chess.com",
+      "date": "2026-09-26T10:50:00.000Z",
+      "summary": "Timur Turlov was elected president of the International Chess Federation (FIDE) on Saturday, defeating German entrepreneur Wadim Rosenstein 110-85 in a second, deciding ballot at the FIDE General Assembly in Samarkand, Uzbekistan. The third candid..."
+    },
+    {
+      "title": "DGT hosts two e-Board Operator Seminars at 46th FIDE Chess Olympiad in Samarkand",
+      "link": "https://www.fide.com/dgt-hosts-two-e-board-operator-seminars-at-46th-fide-chess-olympiad-in-samarkand/",
       "source": "FIDE",
-      "date": "2026-09-26T10:01:23.000Z",
-      "summary": "Timur Turlov, President of the Kazakhstan Chess Federation, was elected President of the International Chess Federation (FIDE). The elections were held on 26 September at the FIDE General Assembly, alongside the 46th Chess Olympiad, in Samarkand, Uzbekistan…"
+      "date": "2026-09-26T10:04:00.000Z",
+      "summary": "DGT, the leading designer, developer, manufacturer, and distributor of chess-related products, held two seminars alongside the 46th FIDE Chess Olympiad in Samarkand. Led by Frans Peeters, the seminars brought together 46 participants from 33 countries and t…"
     },
     {
       "title": "Samarkand R9 (open): Uzbekistan retake sole lead after beating the US",
@@ -161,20 +182,6 @@
       "source": "Chess.com",
       "date": "2026-09-23T16:42:00.000Z",
       "summary": "With seven out of seven match wins, Uzbekistan continues to dominate the 46th Chess Olympiad 2026, with their latest victory against China 3-1 after wins by the Nodirbeks; GM Nodirbek Abdusattorov defeated GM Ding Liren and GM Nodirbek Yakubboev b..."
-    },
-    {
-      "title": "Commonwealth Chess Association partners with Chessveda to expand digital chess across Commonwealth nations",
-      "link": "https://www.fide.com/commonwealth-chess-association-partners-with-chessveda-to-expand-digital-chess-across-commonwealth-nations/",
-      "source": "FIDE",
-      "date": "2026-09-23T13:47:25.000Z",
-      "summary": "Samarkand, Uzbekistan, September 23, 2026: The Commonwealth Chess Association (CCA) has entered into a partnership with Chessveda, an integrated digital chess platform, to promote and expand chess activities across Commonwealth nations. The partnership agre…"
-    },
-    {
-      "title": "Beyond the Board: FIDE Women’s Chess Commission maps pathways, progress and the future of women’s chess",
-      "link": "https://www.fide.com/beyond-the-board-fide-womens-chess-commission-maps-pathways-progress-and-the-future-of-womens-chess/",
-      "source": "FIDE",
-      "date": "2026-09-23T13:00:56.000Z",
-      "summary": "The FIDE Commission for Women’s Chess (WOM) held its 2026 Commission Meeting on September 22 in Samarkand, bringing together FIDE leadership, Commission members, invited speakers and guests to discuss the development and future of women’s chess. Themed “Bey…"
     },
     {
       "title": "'Mister Dionisio,' Who Played Chess At Brazilian Mall For 20 Years, Dies At 96",
@@ -378,13 +385,6 @@
       "source": "Chess.com",
       "date": "2026-09-14T21:38:40.000Z",
       "summary": "GM Hikaru Nakamura emerged as the winner of Bullet Brawl for a record 66th time on Saturday, September 12. It was a dominant performance, with Nakamura's 184 points leaving him 42 points clear of IM Yoseph Theolifus Taher in second place. With Nak..."
-    },
-    {
-      "title": "Chess To Be Played At The South Pole In Antarctica’s 1st-Ever FIDE-Rated Tournament",
-      "link": "https://www.chess.com/news/view/first-fide-rated-chess-tournament-antarctica-south-pole",
-      "source": "Chess.com",
-      "date": "2026-09-14T10:33:00.000Z",
-      "summary": "No, it&rsquo;s not an April Fool's. More than six years after Chess.com joked&nbsp;that the pandemic-interrupted FIDE Candidates Tournament 2020 would resume in Antarctica, rated chess really is heading to the world&rsquo;s coldest continent. The..."
     },
     {
       "title": "Clutch Chess: The Legends 2026 - Games and results",
