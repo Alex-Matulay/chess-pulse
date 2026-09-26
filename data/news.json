@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T05:47:35.592Z",
+  "updated": "2026-09-26T10:43:00.147Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chess Olympiad - Live!",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
+      "source": "ChessBase",
+      "date": "2026-09-26T11:45:00.000Z",
+      "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
+    },
+    {
+      "title": "Timur Turlov elected President of FIDE",
+      "link": "https://www.fide.com/timur-turlov-elected-president-of-fide/",
+      "source": "FIDE",
+      "date": "2026-09-26T10:01:23.000Z",
+      "summary": "Timur Turlov, President of the Kazakhstan Chess Federation, was elected President of the International Chess Federation (FIDE). The elections were held on 26 September at the FIDE General Assembly, alongside the 46th Chess Olympiad, in Samarkand, Uzbekistan…"
+    },
     {
       "title": "Samarkand R9 (open): Uzbekistan retake sole lead after beating the US",
       "link": "https://en.chessbase.com/post/chess-olympiad-2026-9",
@@ -63,13 +77,6 @@
       "source": "FIDE",
       "date": "2026-09-25T13:54:44.000Z",
       "summary": "How can 64 squares become a space for freedom, rehabilitation, communication and human connection? This question was at the heart of the Social Chess Blitz Talks, a new format presented in Samarkand by the FIDE Social Commission. Hosted by Maria Tamkovich,…"
-    },
-    {
-      "title": "Chess Olympiad - Live!",
-      "link": "https://en.chessbase.com/post/chess-olympiad-2026-live",
-      "source": "ChessBase",
-      "date": "2026-09-25T11:45:00.000Z",
-      "summary": "The 46th edition of the Chess Olympiad is taking place on 16-27 September at the Silk Road EXPO in Samarkand, Uzbekistan. A record 208 teams in the open and 191 in the women's category are fighting for collective and individual medals. | Follow the games li…"
     },
     {
       "title": "7/7 points, rating performance 2955!",
@@ -168,13 +175,6 @@
       "source": "FIDE",
       "date": "2026-09-23T13:00:56.000Z",
       "summary": "The FIDE Commission for Women’s Chess (WOM) held its 2026 Commission Meeting on September 22 in Samarkand, bringing together FIDE leadership, Commission members, invited speakers and guests to discuss the development and future of women’s chess. Themed “Bey…"
-    },
-    {
-      "title": "Total Chess World Championship Tour announces six more stars for Budapest pilot",
-      "link": "https://www.fide.com/total-chess-world-championship-tour-announces-six-more-stars-for-budapest-pilot/",
-      "source": "FIDE",
-      "date": "2026-09-23T09:20:47.000Z",
-      "summary": "Hungary, Budapest, September 23, 2026 – Total Chess World Championship Tour, the FIDE-approved global event conceptualised by Norway Chess, has announced six more leading international chess players who will compete in the official pilot event in Budapest f…"
     },
     {
       "title": "'Mister Dionisio,' Who Played Chess At Brazilian Mall For 20 Years, Dies At 96",
@@ -546,13 +546,6 @@
       "source": "ChessBase",
       "date": "2026-08-13T08:00:00.000Z",
       "summary": "A few weeks ago this great chess organiser and sponsor passed away at the age of 57. For many years he invited us to his \"Zurich Chess Challenge\", which saw some of the world's top players competing. During that time we had interesting, personal interaction…"
-    },
-    {
-      "title": "More Than a Half-Year Update 2026",
-      "link": "https://lichess.org/@/Lichess/blog/more-than-a-half-year-update-2026/Bu77Rba1",
-      "source": "Lichess",
-      "date": "2026-08-12T07:27:11.461Z",
-      "summary": "Mobile updates, site updates, broadcasts, events, and more!"
     }
   ]
 }
