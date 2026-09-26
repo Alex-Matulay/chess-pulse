@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T18:14:49.586Z",
+  "updated": "2026-09-26T21:46:01.791Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,17 +9,31 @@
   ],
   "items": [
     {
-      "title": "Uzbekistan Maintains Lead, Pursued By India; China Continues To Lead Women's",
+      "title": "Samarkand R10 (open): Uzbekistan enter final round with one-point lead over India",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-10",
+      "source": "ChessBase",
+      "date": "2026-09-26T21:50:00.000Z",
+      "summary": "Uzbekistan will enter the final round of the Chess Olympiad with a one-point lead after beating Armenia 3½–½ in round ten. India remain their closest challengers following a clear victory over Uzbekistan 2, while Germany, Ukraine and Hungary are two points…"
+    },
+    {
+      "title": "Olympiad Day 10: Uzbekistan in command as medal race goes to the wire",
+      "link": "https://www.fide.com/olympiad-day-10-uzbekistan-in-command-as-medal-race-goes-to-the-wire/",
+      "source": "FIDE",
+      "date": "2026-09-26T18:35:18.000Z",
+      "summary": "India, Ukraine, Germany and Hungary remain in contention after a dramatic penultimate round The medal race has been dramatically reshaped going into the final round. Uzbekistan strengthened its position with a commanding 3.5–0.5 victory over Armenia, while…"
+    },
+    {
+      "title": "Uzbekistan Maintains Lead, Pursued By India; China Continues To Lead Women's, Pursued By Kazakhstan",
       "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-10",
       "source": "Chess.com",
-      "date": "2026-09-26T16:42:39.000Z",
-      "summary": "Uzbekistan held on to its sole lead with 18 points, while India continued to pursue closely behind on 17 points after the 10th and penultimate round of the 46th Chess Olympiad 2026. Ukraine and India scored dominating 3.5-0.5 victories over Armeni..."
+      "date": "2026-09-26T16:42:00.000Z",
+      "summary": "Uzbekistan held on to its sole lead with 18 points, while India continued to pursue closely behind on 17 points after the 10th and penultimate round of the 46th Chess Olympiad 2026. Uzbekistan and India scored dominating 3.5-0.5 victories over Arm..."
     },
     {
       "title": "Timur Turlov elected President of FIDE",
       "link": "https://en.chessbase.com/post/timur-turlov-elected-president-of-fide",
       "source": "ChessBase",
-      "date": "2026-09-26T14:00:50.000Z",
+      "date": "2026-09-26T15:05:00.000Z",
       "summary": "Timur Turlov, President of the Kazakhstan Chess Federation, was elected President of the International Chess Federation (FIDE). The elections were held on 26 September at the FIDE General Assembly, alongside the 46th Chess Olympiad, in Samarkand, Uzbekistan…"
     },
     {
@@ -175,13 +189,6 @@
       "source": "ChessBase",
       "date": "2026-09-23T20:30:00.000Z",
       "summary": "The 24-player field for the Total Chess World Championship Tour Pilot in Budapest is now complete, with Levon Aronian, Le Quang Liem, Jorden van Foreest, Abhimanyu Mishra, Shakhriyar Mamedyarov and Andrew Hong joining the lineup. The FIDE-approved event, sc…"
-    },
-    {
-      "title": "Olympiad Day 7: Two Nodirbeks, one golden mission",
-      "link": "https://www.fide.com/olympiad-day-7-two-nodirbeks-one-golden-mission/",
-      "source": "FIDE",
-      "date": "2026-09-23T18:45:13.000Z",
-      "summary": "Uzbekistan keeps marching towards gold as its two Nodirbeks continue to deliver With the finish line beginning to come into view, every half-point is becoming increasingly valuable in Samarkand. Uzbekistan continue to lead the Open section, with the two Nod…"
     },
     {
       "title": "Uzbekistan Leads With 7/7 Match Wins; China, Kazakhstan Share Women's Lead",
