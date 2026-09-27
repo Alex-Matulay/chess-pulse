@@ -1,12 +1,34 @@
 {
-  "updated": "2026-09-27T12:40:04.484Z",
+  "updated": "2026-09-27T17:24:57.156Z",
   "sources": [
     "Chess.com",
+    "Lichess",
     "ChessBase",
     "FIDE",
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Uzbekistan’s dream finish: Olympiad gold in Samarkand",
+      "link": "https://www.fide.com/uzbekistans-dream-finish-olympiad-gold-in-samarkand/",
+      "source": "FIDE",
+      "date": "2026-09-27T15:00:04.000Z",
+      "summary": "China’s new generation shines and Kazakhstan and India complete the Women’s medal podium. Uzbekistan won the Open section of the 2026 Chess Olympiad on home soil in Samarkand, defeating Ukraine 2.5–1.5 in the final round to claim their second Olympiad title…"
+    },
+    {
+      "title": "Inaugural FIDE Excellence Awards celebrate the people and achievements shaping chess worldwide",
+      "link": "https://en.chessbase.com/post/fide-excellence-awards-2026-winners",
+      "source": "ChessBase",
+      "date": "2026-09-27T15:00:00.000Z",
+      "summary": "The inaugural FIDE Excellence Awards were presented in Samarkand during the 46th Chess Olympiad, recognising achievements across the chess world during the 2024–2026 cycle. Honours went to players, teams, tournaments, federations, creators and social initia…"
+    },
+    {
+      "title": "2026 Samarkand Olympiad Rounds 10–11: Uzbekistan, China Win Open, Women’s",
+      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-10-11-uzbekistan-china-win-open-womens/W0x2a9bz",
+      "source": "Lichess",
+      "date": "2026-09-27T13:39:19.439Z",
+      "summary": "Uzbekistan wins the open on 20/22 match points, with India taking the silver and Germany the bronze. In the Women's, China won two points clear of the field on 20 match points, with Kazakhstan in 2nd on 18 and India in third on 17."
+    },
     {
       "title": "🥇 Uzbekistan, China Both Win To Clinch Olympiad Gold",
       "link": "https://www.chess.com/news/view/uzbekistan-china-win-2026-samarkand-chess-olympiad",
@@ -50,13 +72,6 @@
       "summary": "Timur Turlov, President of the Kazakhstan Chess Federation, was elected President of the International Chess Federation (FIDE). The elections were held on 26 September at the FIDE General Assembly, alongside the 46th Chess Olympiad, in Samarkand, Uzbekistan…"
     },
     {
-      "title": "Inaugural FIDE Excellence Awards celebrate the people and achievements shaping chess worldwide",
-      "link": "https://www.fide.com/inaugural-fide-excellence-awards-celebrate-the-people-and-achievements-shaping-chess-worldwide/",
-      "source": "FIDE",
-      "date": "2026-09-26T12:01:04.000Z",
-      "summary": "The inaugural FIDE Excellence Awards were presented in Samarkand, Uzbekistan, bringing together the global chess community to celebrate outstanding achievements both on and off the board during the 2024–2026 Olympiad cycle. Held alongside the 46th FIDE Ches…"
-    },
-    {
       "title": "Timur Turlov Elected FIDE President, Defeats Wadim Rosenstein 110-85",
       "link": "https://www.chess.com/news/view/turlov-elected-new-fide-president-beats-rosenstein-in-2nd-round",
       "source": "Chess.com",
@@ -76,6 +91,13 @@
       "source": "ChessBase",
       "date": "2026-09-26T03:45:00.000Z",
       "summary": "Uzbekistan regained sole first place in the Chess Olympiad by beating top seeds United States 2½–1½ in round nine, with Nodirbek Abdusattorov and Nodirbek Yakubboev again providing the decisive points - like they did against China in round seven. India, Arm…"
+    },
+    {
+      "title": "2026 Samarkand Olympiad Rounds 7–9: Uzbekistan & China Lead Open and Women’s",
+      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-7-9-uzbekistan-china-lead-open-and-womens/MF1Hjp6Z",
+      "source": "Lichess",
+      "date": "2026-09-25T19:09:30.441Z",
+      "summary": "Uzbekistan is in sole first on 16/18 match points, with India, Uzbekistan 2, and Armenia one point behind on 15/18; in the Women's, China is in sole first on 17/18 match points, with its closest rivals on 15/18 being India, Kazakhstan, and Mongolia."
     },
     {
       "title": "Olympiad Day 9: Uzbekistan takes a giant step towards gold",
@@ -146,13 +168,6 @@
       "source": "FIDE",
       "date": "2026-09-24T16:53:27.000Z",
       "summary": "Policymakers, educators, researchers, chess leaders and social innovators from around the world gathered in Samarkand for the FIDE Summit on Chess in Education, one of the flagship events of the 2026 FIDE Year of Chess in Education. Held during the 46th FID…"
-    },
-    {
-      "title": "José Antonio Carrillo receives broad support to continue at the helm of FIDE Americas",
-      "link": "https://www.fide.com/jose-antonio-carrillo-receives-broad-support-to-continue-at-the-helm-of-fide-americas/",
-      "source": "FIDE",
-      "date": "2026-09-24T15:47:19.000Z",
-      "summary": "During the 46th World Chess Olympiad, on September 24, continental elections for FIDE Americas (Confederación de Ajedrez de las Américas) were held to elect its President and the members of the new Executive Board. By a vote of 29 to 12, José Antonio Carril…"
     },
     {
       "title": "Germany Ends Uzbekistan's Streak; China Grabs Women's Lead As Savitha Saves India",
@@ -239,6 +254,13 @@
       "summary": "Bobby Fischer remains one of the most fascinating and enigmatic figures in chess history. IM John Donaldson, captain of the US team at the Chess Olympiad and the author of numerous books on famous and lesser-known chess personalities, is one of the leading…"
     },
     {
+      "title": "2026 Samarkand Olympiad Rounds 4–6: Uzbekistan in Sole Lead, Plays China in R7",
+      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-4-6-uzbekistan-in-sole-lead-plays-china-in-r7/NIRrBw3h",
+      "source": "Lichess",
+      "date": "2026-09-21T21:12:23.399Z",
+      "summary": "After defeating India, Uzbekistan is in the sole lead with 12/12 match points, with China and Armenia on 11/12. In the Women's, China and Kazakhstan are in 1st place on 12/12 match points, with 11 teams in close pursuit on 10/12 match points."
+    },
+    {
       "title": "Nihal Blunders Queen As Uzbekistan Takes Sole Lead; Indian Women Hit Back To Beat U.S.",
       "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
       "source": "Chess.com",
@@ -286,6 +308,13 @@
       "source": "Chess.com",
       "date": "2026-09-19T16:28:00.000Z",
       "summary": "Round four of the 46th Chess Olympiad 2026 saw no major upsets on the top-11 boards, which consisted of the 21 teams with perfect scores. The most dominant score was the U.S.'s 3.5-0.5 against Ukraine, with GM Levon Aronian winning the Game of the..."
+    },
+    {
+      "title": "2026 Samarkand Olympiad Rounds 1–3: the USA, India, Uzbekistan, and China in 1st",
+      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-1-3-the-usa-india-uzbekistan-and-china-in-1st/KVapO7qb",
+      "source": "Lichess",
+      "date": "2026-09-18T21:39:42.099Z",
+      "summary": "The top 10 seeds in both the Open and Women's, except for England in the Open and Georgia, Ukraine, and France in the Women's, remain steady on 6/6 match points."
     },
     {
       "title": "Giri Saves Netherlands; Argentina, Iran Upset Ukraine, France In Women's",
@@ -358,6 +387,13 @@
       "summary": "GM Sina Movahed claimed his third&nbsp;Titled Tuesday of the year and fourth of his career on September 15, coming out ahead of GM Vincent Keymer on tiebreaks after both scored 9.5/11. One move of extra tactical foresight in round 10 helped move M..."
     },
     {
+      "title": "2026 Samarkand Olympiad: Preview",
+      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-preview/anaRyt7r",
+      "source": "Lichess",
+      "date": "2026-09-15T17:21:09.906Z",
+      "summary": "The 2026 Samarkand Olympiad promises to be a very exciting and memorable chess Olympiad."
+    },
+    {
       "title": "Georgios Makropoulos, Former FIDE Deputy President, Dies At 72",
       "link": "https://www.chess.com/news/view/georgios-makropoulos-former-fide-deputy-president-dies-at-72",
       "source": "Chess.com",
@@ -405,6 +441,13 @@
       "source": "The Week in Chess",
       "date": "2026-09-04T19:21:00.000Z",
       "summary": "The European Senior Team Championship 2026 took place Thu 27th August to Fri 4th September 2026. In the +50 event final Standings: 1st England 1, 17pts. 2nd Italy, 16pts. 3rd-4th Netherlands were just ahead of Slovakia on tie-break after they both scored 13…"
+    },
+    {
+      "title": "Lichess Game of the Month: July '26",
+      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-july-26/UxBo2UrP",
+      "source": "Lichess",
+      "date": "2026-09-04T16:45:51.279Z",
+      "summary": "A pawn race ends in a classic promotion tactic"
     },
     {
       "title": "Season Four of the Tech Mahindra Global Chess League - Start",
@@ -489,6 +532,13 @@
       "source": "ChessBase",
       "date": "2026-08-19T07:22:09.000Z",
       "summary": "IM Andrew Martin presents a complete White repertoire after 1.e4 e5 2.Nf3, with the Evans Gambit as its aggressive centerpiece for tactically minded players up to around 1800 Elo. Volume 1 covers the key lines, attacking ideas and traps of the Evans Gambit,…"
+    },
+    {
+      "title": "Streamer Arenas Announcement — August to December 2026",
+      "link": "https://lichess.org/@/Lichess/blog/streamer-arenas-announcement-august-to-december-2026/tkby72bI",
+      "source": "Lichess",
+      "date": "2026-08-16T19:40:30.817Z",
+      "summary": "Announcing our schedule for upcoming Streamer Arenas!"
     },
     {
       "title": "Carlsen wins the Chess event in the Esports World Cup - Final",
