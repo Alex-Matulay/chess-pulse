@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T10:27:10.112Z",
+  "updated": "2026-09-28T18:22:19.946Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "XTX London Chess Classic returns",
+      "link": "https://en.chessbase.com/post/xtx-london-chess-classic-returns",
+      "source": "ChessBase",
+      "date": "2026-09-28T18:00:00.000Z",
+      "summary": "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026."
+    },
+    {
+      "title": "Aronian, Le, Mamedyarov Complete 24-Player Total Chess Pilot Field",
+      "link": "https://www.chess.com/news/view/aronian-liem-mamedyarov-complete-24-player-total-chess-pilot-field",
+      "source": "Chess.com",
+      "date": "2026-09-28T14:08:56.000Z",
+      "summary": "GMs Levon Aronian,&nbsp;Liem Le, and Shakhriyar Mamedyarov are among the final six players confirmed for the Total Chess World Championship Tour Pilot, completing the 24-player field for the November 10-20 event in Budapest, Hungary. GMs Jorden v..."
+    },
+    {
+      "title": "FIDE Council composition for 2026–2030 announced",
+      "link": "https://www.fide.com/fide-council-composition-for-2026-2030-announced/",
+      "source": "FIDE",
+      "date": "2026-09-28T12:22:26.000Z",
+      "summary": "Following the FIDE elections and the General Assembly held in Samarkand, FIDE is pleased to announce the composition of the FIDE Council for the 2026–2030 term. President and Deputy President 1.⁠ ⁠Timur Turlov (KAZ) – President2.⁠ ⁠Viswanathan Anand (IND) –…"
+    },
     {
       "title": "Clear win for China in Women's Chess Olympiad, while Kazakhstan and India complete the podium",
       "link": "https://en.chessbase.com/post/chess-olympiad-2026-11-women",
@@ -175,13 +196,6 @@
       "source": "ChessBase",
       "date": "2026-09-25T08:30:00.000Z",
       "summary": "Germany ended Uzbekistan's perfect run in round eight of the Chess Olympiad, beating the hosts 2½–1½ to join them on 14/16 match points. Brothers Frederik and Rasmus Svane (pictured) collected wins for Germany on the bottom boards for a second day in a row.…"
-    },
-    {
-      "title": "Olympiad Day 8: Germany shake up the race at the top",
-      "link": "https://www.fide.com/olympiad-day-8-germany-shake-up-the-race-at-the-top/",
-      "source": "FIDE",
-      "date": "2026-09-24T18:45:28.000Z",
-      "summary": "The Svanes lead a stunning 2.5–1.5 victory over Uzbekistan as USA, China and the chasing pack close in with three rounds to go. Germany produced the result of the day in the Open section, defeating leaders Uzbekistan 2.5–1.5 to throw the race wide open with…"
     },
     {
       "title": "Germany Ends Uzbekistan's Streak; China Grabs Women's Lead As Savitha Saves India",
@@ -408,13 +422,6 @@
       "summary": "The 2026 Samarkand Olympiad promises to be a very exciting and memorable chess Olympiad."
     },
     {
-      "title": "Georgios Makropoulos, Former FIDE Deputy President, Dies At 72",
-      "link": "https://www.chess.com/news/view/georgios-makropoulos-former-fide-deputy-president-dies-at-72",
-      "source": "Chess.com",
-      "date": "2026-09-15T15:51:00.000Z",
-      "summary": "IM Georgios Makropoulos, a seven-time Greek chess champion who became one of the most powerful figures in international chess for decades, has passed away at the age of 72.&nbsp; The Greek Chess Federation and the International Chess Federation (..."
-    },
-    {
       "title": "Clutch Chess: The Legends 2026 - Games and results",
       "link": "https://theweekinchess.com/chessnews/events/clutch-chess-the-legends-2026",
       "source": "The Week in Chess",
@@ -560,13 +567,6 @@
       "source": "The Week in Chess",
       "date": "2026-08-15T18:42:00.000Z",
       "summary": "Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The c…"
-    },
-    {
-      "title": "Esports World Cup 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/esports-world-cup-2026",
-      "source": "The Week in Chess",
-      "date": "2026-08-15T16:53:00.000Z",
-      "summary": "The Esports World Cup chess section took place in Paris Tue 11th Aug to Sat 15th Aug 2026. This Double Elimination KO event featured Magnus Carlsen, Hikaru Nakmura, Alireza Firouzja and Denis Lazavik among many famous names and faces. I have a new table for…"
     }
   ]
 }
