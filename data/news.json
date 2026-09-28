@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T18:22:19.946Z",
+  "updated": "2026-09-28T23:38:22.157Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,18 @@
   ],
   "items": [
     {
+      "title": "Nakamura Completes Bullet Brawl Hat Trick",
+      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-26-2026",
+      "source": "Chess.com",
+      "date": "2026-09-28T20:28:00.000Z",
+      "summary": "GM Hikaru Nakamura won Bullet Brawl for the third consecutive week on September 26. He once again dominated the event, winning by a 25-point margin with 172 points. GM Tuan Minh Le took second place with 147 points, three points ahead of GM Oleksa..."
+    },
+    {
       "title": "XTX London Chess Classic returns",
       "link": "https://en.chessbase.com/post/xtx-london-chess-classic-returns",
       "source": "ChessBase",
       "date": "2026-09-28T18:00:00.000Z",
-      "summary": "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026."
+      "summary": "The XTX Markets London Chess Classic (LCC) returns to the capital between 24th November and 6th December 2026. The event will begin with an opening ceremony and drawing of lots at the iconic Tower of London, with the majority of games taking place alongside…"
     },
     {
       "title": "Aronian, Le, Mamedyarov Complete 24-Player Total Chess Pilot Field",
@@ -406,13 +413,6 @@
       "source": "Chess.com",
       "date": "2026-09-16T18:29:32.000Z",
       "summary": "GM Magnus Carlsen expects GM Javokhir Sindarov to defeat World Champion Gukesh Dommaraju, calling the challenger a \"pretty significant favorite\" and warning that the match could \"get a little bit ugly\" if Gukesh falls behind early.&nbsp; The worl..."
-    },
-    {
-      "title": "Sina Movahed Again In Titled Tuesday",
-      "link": "https://www.chess.com/news/view/movahed-wins-titled-tuesday-september-15-2026",
-      "source": "Chess.com",
-      "date": "2026-09-15T21:22:02.000Z",
-      "summary": "GM Sina Movahed claimed his third&nbsp;Titled Tuesday of the year and fourth of his career on September 15, coming out ahead of GM Vincent Keymer on tiebreaks after both scored 9.5/11. One move of extra tactical foresight in round 10 helped move M..."
     },
     {
       "title": "2026 Samarkand Olympiad: Preview",
