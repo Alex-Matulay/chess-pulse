@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T10:21:29.948Z",
+  "updated": "2026-09-29T16:45:03.325Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Meet Screen-Free Chess.com With New ChessUp Lite Smart Board",
+      "link": "https://www.chess.com/news/view/announcing-chessup-lite",
+      "source": "Chess.com",
+      "date": "2026-09-29T16:00:00.000Z",
+      "summary": "The smartest chessboard on the market, ChessUp, is back with a new addition to its smart chessboard lineup. With a dedicated button that starts a Chess.com game on your favorite time control, the new ChessUp Lite is the fastest way to play online ..."
+    },
+    {
+      "title": "New Feature: Add Your Chess.com Stats To LinkedIn",
+      "link": "https://www.chess.com/news/view/chess-com-stats-linkedin-profile-integration",
+      "source": "Chess.com",
+      "date": "2026-09-29T13:00:00.000Z",
+      "summary": "Your LinkedIn profile tells the story of your professional life. Now, it can also tell people that you&rsquo;re a chess player. Every rating point you&rsquo;ve earned, every puzzle you&rsquo;ve solved, and every game you&rsquo;ve played is part o..."
+    },
     {
       "title": "Bodhana Sivanandan: Youngest-Ever WGM at 11",
       "link": "https://en.chessbase.com/post/bodhana-sivanandan-youngest-ever-wgm-at-11",
@@ -345,7 +359,7 @@
       "summary": "Think you can take down an NFL receiver at chess? Now&rsquo;s your chance. BlitzChamps V Champion Mack Hollins is now a bot on Chess.com! Head to the Play Bots page and test your skills against the Super Bowl champ. Mack&rsquo;s bot is rated 14..."
     },
     {
-      "title": "Play For Your Favorite Esports Team In The Chess Club Showdown, Starting September 30",
+      "title": "How To Play The Chess Club Showdown, Starting September 30",
       "link": "https://www.chess.com/news/view/announcing-chess-club-showdown-2026",
       "source": "Chess.com",
       "date": "2026-09-21T15:00:00.000Z",
@@ -427,20 +441,6 @@
       "source": "Chess.com",
       "date": "2026-09-17T16:21:00.000Z",
       "summary": "With the striking exception of El Salvador (94th seed) upsetting Cuba (44th seed), the favorite teams won their matches in round two of the 46th Chess Olympiad 2026. It wasn't smooth sailing, as Uzbekistan, the United States, India, the Netherland..."
-    },
-    {
-      "title": "Thai IM Upsets Indian Number-2 As Favorites Prevail",
-      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-1",
-      "source": "Chess.com",
-      "date": "2026-09-16T22:10:00.000Z",
-      "summary": "The favorites won in round one of the 46th Chess Olympiad 2026, but there were a number of shocking individual upsets. Thai IM Prin Laohawirapap's win against Indian super-GM Arjun Erigaisi is the Game of the Day, while Iraqi CM Ali Ehsan Aryan's ..."
-    },
-    {
-      "title": "Carlsen Calls Sindarov 'Significant Favorite,' Gives Verdict On Gukesh",
-      "link": "https://www.chess.com/news/view/carlsen-calls-sindarov-significant-favorite-against-gukesh-rules-out-comeback",
-      "source": "Chess.com",
-      "date": "2026-09-16T18:29:32.000Z",
-      "summary": "GM Magnus Carlsen expects GM Javokhir Sindarov to defeat World Champion Gukesh Dommaraju, calling the challenger a \"pretty significant favorite\" and warning that the match could \"get a little bit ugly\" if Gukesh falls behind early.&nbsp; The worl..."
     },
     {
       "title": "2026 Samarkand Olympiad: Preview",
