@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T23:38:22.157Z",
+  "updated": "2026-09-29T03:54:54.243Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "The dark side of the online world: Hanna Sayce's story",
+      "link": "https://en.chessbase.com/post/hanna-sayce-story-online-world",
+      "source": "ChessBase",
+      "date": "2026-09-29T05:05:00.000Z",
+      "summary": "Over the past four years, Australian chess streamer Hanna Sayce has attracted considerable attention with her chess streams on Twitch, though not all of it was welcome. A stalker followed her activities, harassed her online and, after falsely accusing her o…"
+    },
     {
       "title": "Nakamura Completes Bullet Brawl Hat Trick",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-26-2026",
@@ -560,13 +567,6 @@
       "source": "Lichess",
       "date": "2026-08-16T19:40:30.817Z",
       "summary": "Announcing our schedule for upcoming Streamer Arenas!"
-    },
-    {
-      "title": "Carlsen wins the Chess event in the Esports World Cup - Final",
-      "link": "https://theweekinchess.com/twic-news-feed/carlsen-wins-the-chess-event-in-the-esports-world-cup",
-      "source": "The Week in Chess",
-      "date": "2026-08-15T18:42:00.000Z",
-      "summary": "Magnus Carlsen convincingly won the lucrative chess final of the Esports World Cup which is being held in Paris, France. The event as a whole has 25 tournaments held over 24 different games and takes place July 6th to August 23rd, a period of 48 days. The c…"
     }
   ]
 }
