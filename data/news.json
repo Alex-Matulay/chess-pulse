@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T03:54:54.243Z",
+  "updated": "2026-09-29T10:21:29.948Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Bodhana Sivanandan: Youngest-Ever WGM at 11",
+      "link": "https://en.chessbase.com/post/bodhana-sivanandan-youngest-ever-wgm-at-11",
+      "source": "ChessBase",
+      "date": "2026-09-29T11:25:31.000Z",
+      "summary": "The eleven-year-old Bodhana Sivanandan played on top board for England at the Women's Olympiad, was the best player on her team and one of the best performers on board one. With this result, she earned her third WGM norm and is now the youngest Woman Grandm…"
+    },
+    {
+      "title": "Interview with the Olympic winners from Uzbekistan: \"We have many more victories to come!\"",
+      "link": "https://en.chessbase.com/post/uzbekistan-winners-interview-olympiad-2026",
+      "source": "ChessBase",
+      "date": "2026-09-29T10:00:00.000Z",
+      "summary": "Uzbekistan are Olympiad champions again! They finished two match points clear of Germany and India. After the celebrations, ChessBase India caught up with the Uzbek team to talk about the games, the pressure, and what this win means to them. Do not miss wha…"
+    },
+    {
+      "title": "Vincent Keymer: Relaxed, light-hearted and funny",
+      "link": "https://en.chessbase.com/post/vincent-keymer-relaxed-light-hearted-and-funny",
+      "source": "ChessBase",
+      "date": "2026-09-29T09:37:38.000Z",
+      "summary": "Anyone playing for medals at a Chess Olympiad takes chess seriously. In Samarkand, Vincent Keymer won bronze with the German team, Germany’s first team medal since silver in Istanbul in 2000. But after the final round, Keymer took time for a short interview…"
+    },
     {
       "title": "The dark side of the online world: Hanna Sayce's story",
       "link": "https://en.chessbase.com/post/hanna-sayce-story-online-world",
@@ -546,27 +567,6 @@
       "source": "ChessBase",
       "date": "2026-08-19T23:06:12.000Z",
       "summary": "As you have noticed, this form of chess is becoming increasingly popular. Everyone seems to like it, sponsors are lining up to stage high-prize tournaments, even World Championships. In this series we look back at the origin of Fischer-Random, Chess960 or F…"
-    },
-    {
-      "title": "Sinquefield Cup Tiebreaks - Live!",
-      "link": "https://en.chessbase.com/post/sinquefield-cup-2026-live",
-      "source": "ChessBase",
-      "date": "2026-08-19T18:50:00.000Z",
-      "summary": "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in th…"
-    },
-    {
-      "title": "Andrew Martin: Evans & Friends Vol.1 & 2",
-      "link": "https://en.chessbase.com/post/andrew-martin-evans-friends-vol-1-2",
-      "source": "ChessBase",
-      "date": "2026-08-19T07:22:09.000Z",
-      "summary": "IM Andrew Martin presents a complete White repertoire after 1.e4 e5 2.Nf3, with the Evans Gambit as its aggressive centerpiece for tactically minded players up to around 1800 Elo. Volume 1 covers the key lines, attacking ideas and traps of the Evans Gambit,…"
-    },
-    {
-      "title": "Streamer Arenas Announcement — August to December 2026",
-      "link": "https://lichess.org/@/Lichess/blog/streamer-arenas-announcement-august-to-december-2026/tkby72bI",
-      "source": "Lichess",
-      "date": "2026-08-16T19:40:30.817Z",
-      "summary": "Announcing our schedule for upcoming Streamer Arenas!"
     }
   ]
 }
