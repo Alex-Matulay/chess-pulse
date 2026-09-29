@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T16:45:03.325Z",
+  "updated": "2026-09-29T21:13:57.133Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE Gligorić Trophy 2026 winners announced",
+      "link": "https://www.fide.com/fide-gligoric-trophy-2026-winners-announced/",
+      "source": "FIDE",
+      "date": "2026-09-29T19:39:00.000Z",
+      "summary": "Following a review of the nominations for the 2026 Svetozar Gligorić Trophy, the FIDE Gligorić Trophy Award Commission has decided to award the trophy to two recipients: Sebastian Poltorak (Poland) – For his exemplary sportsmanship during the 2025 European…"
+    },
+    {
+      "title": "WSTC 2026 European Stage begins in Tsaghkadzor",
+      "link": "https://www.fide.com/wstc-2026-european-stage-begins-in-tsaghkadzor/",
+      "source": "FIDE",
+      "date": "2026-09-29T18:06:39.000Z",
+      "summary": "The European Continental Stage of the FIDE ISCF World Schools Team Championship 2026 commenced on 29 September in Tsaghkadzor, Armenia. 27 school teams from 25 nations are competing in the final qualifying stage for places in the Grand Final in December. Th…"
+    },
+    {
+      "title": "Dream Olympiad For Uzbekistan: 13 Samarkand 2026 Conclusions",
+      "link": "https://www.chess.com/news/view/uzbekistan-2026-samarkand-chess-olympiad-11-conclusions",
+      "source": "Chess.com",
+      "date": "2026-09-29T17:39:00.000Z",
+      "summary": "Uzbekistan's victory in the Chennai Olympiad of 2022 was sweet, but regaining the title on home soil in the 46th Chess Olympiad 2026 is even sweeter. We look back on that triumph in Samarkand, which earned each player on the team $200,000. We also..."
+    },
+    {
+      "title": "Texas Tech Defeats 3-Time Champion Mizzou As Fall CCL Season Begins",
+      "link": "https://www.chess.com/news/view/2026-ccl-fall-week-one-update",
+      "source": "Chess.com",
+      "date": "2026-09-29T17:34:00.000Z",
+      "summary": "The Collegiate Chess League, the leading online chess competition for college students, started with two tight matches and one blowout in the top division's opening round. Texas Tech defeated three-time league champions the University of Missouri ..."
+    },
     {
       "title": "Meet Screen-Free Chess.com With New ChessUp Lite Smart Board",
       "link": "https://www.chess.com/news/view/announcing-chessup-lite",
@@ -219,20 +247,6 @@
       "summary": "They aren't playing in the Olympiad, but GMs Magnus Carlsen and Hikaru Nakamura both competed in the first 3 0 Thursday on September 24. Both players joined a tie atop the standings, with Carlsen taking first on tiebreaks, with help from a mouse s..."
     },
     {
-      "title": "ChessMom returns in Samarkand: Supporting mothers on and off the board",
-      "link": "https://www.fide.com/chessmom-returns-in-samarkand-supporting-mothers-on-and-off-the-board/",
-      "source": "FIDE",
-      "date": "2026-09-25T14:43:24.000Z",
-      "summary": "The ChessMom Project has doubled in size since its debut in Budapest, giving 12 players the opportunity to compete at the 2026 Chess Olympiad while travelling with their young children and caregivers. When the 46th Chess Olympiad got underway in Samarkand,…"
-    },
-    {
-      "title": "Social Chess Blitz Talks in Samarkand: Stories of freedom, purpose and connection",
-      "link": "https://www.fide.com/social-chess-blitz-talks-in-samarkand-stories-of-freedom-purpose-and-connection/",
-      "source": "FIDE",
-      "date": "2026-09-25T13:54:44.000Z",
-      "summary": "How can 64 squares become a space for freedom, rehabilitation, communication and human connection? This question was at the heart of the Social Chess Blitz Talks, a new format presented in Samarkand by the FIDE Social Commission. Hosted by Maria Tamkovich,…"
-    },
-    {
       "title": "7/7 points, rating performance 2955!",
       "link": "https://en.chessbase.com/post/7-7-points-rating-performance-2955",
       "source": "ChessBase",
@@ -415,13 +429,6 @@
       "summary": "Playing chess online is great, but meeting new people and playing chess in real life is, too! Now, you can easily find physical chess clubs near you right here on our Local Clubs page. Club owners can also get their club verified and listed as an ..."
     },
     {
-      "title": "Tickets Now On Sale For 'Grandmasters' As Film Hits U.S. Theaters On October 11 & 14",
-      "link": "https://www.chess.com/news/view/announcing-grandmasters-theatrical-release",
-      "source": "Chess.com",
-      "date": "2026-09-18T15:00:00.000Z",
-      "summary": "Chess is hitting the big screen. Grandmasters, the new chess film following the dramatic tides and incredible characters of top-level chess, is showing in 90+ AMC theaters across the United States on October 11 and 14. For the first time, you can ..."
-    },
-    {
       "title": "46th World Chess Olympiad 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
       "source": "The Week in Chess",
@@ -434,13 +441,6 @@
       "source": "The Week in Chess",
       "date": "2026-09-17T20:10:00.000Z",
       "summary": "The 3rd FIDE Chess Olympiad for People with Disabilities took place Fri 11th to Thu 17th Sep 2026. Poland beat Cuba in Round 5 to take the lead which they retained to the end, Cuba took the Silver medal and Uzbekistan 1 the Bronze."
-    },
-    {
-      "title": "Gukesh Drops Under 2700 As India Beats Indonesia",
-      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-2",
-      "source": "Chess.com",
-      "date": "2026-09-17T16:21:00.000Z",
-      "summary": "With the striking exception of El Salvador (94th seed) upsetting Cuba (44th seed), the favorite teams won their matches in round two of the 46th Chess Olympiad 2026. It wasn't smooth sailing, as Uzbekistan, the United States, India, the Netherland..."
     },
     {
       "title": "2026 Samarkand Olympiad: Preview",
