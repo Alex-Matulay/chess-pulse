@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T06:31:48.004Z",
+  "updated": "2026-09-30T13:17:05.766Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Judit Polgar Scores 3.5-1.5 In Simultaneous Display At Global Chess Festival",
+      "link": "https://www.chess.com/news/view/judit-polgar-global-chess-festival-2026",
+      "source": "Chess.com",
+      "date": "2026-09-30T12:47:37.000Z",
+      "summary": "The 12th edition of GM Judit Polgar's traditional annual Global Chess Festival was staged on September 26 in the Hungarian National Gallery, Budapest. Judit took on five different communities in a simultaneous display, scoring 3.5-1.5, with three ..."
+    },
+    {
+      "title": "Behind the scenes in Samarkand: Inside the Expo",
+      "link": "https://en.chessbase.com/post/chess-olympiad-2026-inside-the-expo",
+      "source": "ChessBase",
+      "date": "2026-09-30T10:00:00.000Z",
+      "summary": "Arne Kähler sets off by golf cart from the entrance gate to the exhibition area at the Chess Olympiad in Samarkand. He shows the stands of WR Chess, DGT and ChessBase, while also passing the ChessBase India workspace, the food court and the souvenir shop. A…"
+    },
     {
       "title": "Wesley Sews Up First Titled Tuesday Of 2026",
       "link": "https://www.chess.com/news/view/so-wins-titled-tuesday-september-29-2026",
@@ -422,13 +436,6 @@
       "summary": "The seed favorites generally won in round three of the 46th Chess Olympiad 2026, with two notable exceptions on the top 50 boards. The 79th seed Kyrgyzstan beat the 31st seed Brazil 2.5-1.5, while 50th seed Singapore upset 21st seed Norway with th..."
     },
     {
-      "title": "Dominant Starts For Ashraf, Sarana, Xiong, Bring 3 0 Thursday Wins",
-      "link": "https://www.chess.com/news/view/ashraf-sarana-xiong-3-0-thursday-09-17-2026",
-      "source": "Chess.com",
-      "date": "2026-09-18T19:02:38.000Z",
-      "summary": "No one has ever scored a perfect 11-0 in 3 0 Thursday, but FM Artin Ashraf and GM Jeffery Xiong both came close on Thursday, September 17. Ashraf started by winning 10 consecutive games in the first event. His final-round loss cost him perfection,..."
-    },
-    {
       "title": "46th World Chess Olympiad 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
       "source": "The Week in Chess",
@@ -560,13 +567,6 @@
       "source": "The Week in Chess",
       "date": "2026-08-20T06:44:00.000Z",
       "summary": "The 13th Sinquefield Cup took place 10th to 20th August 2026. Players: Fabiano Caruana, Javokhir Sindarov, Vincent Keymer, Wesley So, Anish Giri, Praggnanandhaa R, Jorden Van Foreest, Maxime Vachier-lagrave, Levon Aronian and Samuel Sevian. Wesley So took f…"
-    },
-    {
-      "title": "Quo vadis, Fischer Random Chess? (1)",
-      "link": "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-1",
-      "source": "ChessBase",
-      "date": "2026-08-19T23:06:12.000Z",
-      "summary": "As you have noticed, this form of chess is becoming increasingly popular. Everyone seems to like it, sponsors are lining up to stage high-prize tournaments, even World Championships. In this series we look back at the origin of Fischer-Random, Chess960 or F…"
     }
   ]
 }
