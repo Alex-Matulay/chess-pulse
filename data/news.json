@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T18:47:12.551Z",
+  "updated": "2026-09-30T22:47:30.601Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Garry Kasparov Reportedly Warned Of Alleged Russian Assassination Plot In U.S.",
+      "link": "https://www.chess.com/news/view/kasparov-warned-alleged-russian-assassination-plot-usa",
+      "source": "Chess.com",
+      "date": "2026-09-30T19:16:09.000Z",
+      "summary": "The 13th World Chess Champion Garry Kasparov was warned by U.S. authorities this summer that he was the target of a plot to kill him and was placed under special protection, according to Spanish newspaper El Mundo, citing a source close to the for..."
+    },
+    {
+      "title": "WSTC Europe Day 2: Bright smiles, brilliant moves, and cultural rhythms in Tsaghkadzor",
+      "link": "https://www.fide.com/wstc-europe-day-2-bright-smiles-brilliant-moves-and-cultural-rhythms-in-tsaghkadzor/",
+      "source": "FIDE",
+      "date": "2026-09-30T19:14:36.000Z",
+      "summary": "The second day of the European Continental Stage of the FIDE ISCF World Schools Team Championship 2026 brought an incredible mix of high energy, team spirit, and pure chess magic to Tsaghkadzor, Armenia. With school teams cheering each other on, Rounds 3 an…"
+    },
     {
       "title": "Turlov: Chess is massively undervalued",
       "link": "https://en.chessbase.com/post/turlov-chess-is-massively-undervalued",
@@ -184,13 +198,6 @@
       "summary": "Uzbekistan is in sole first on 16/18 match points, with India, Uzbekistan 2, and Armenia one point behind on 15/18; in the Women's, China is in sole first on 17/18 match points, with its closest rivals on 15/18 being India, Kazakhstan, and Mongolia."
     },
     {
-      "title": "Olympiad Day 9: Uzbekistan takes a giant step towards gold",
-      "link": "https://www.fide.com/olympiad-day-9-uzbekistan-takes-a-giant-step-towards-gold/",
-      "source": "FIDE",
-      "date": "2026-09-25T19:01:08.000Z",
-      "summary": "India stays in the hunt, while a surprise victory by Uzbekistan’s second team shakes up the race With just two rounds remaining, the race at the top has become increasingly unpredictable. Uzbekistan took a major step towards gold by defeating the United Sta…"
-    },
-    {
       "title": "Uzbekistan Beats U.S. To Take Sole Lead; Chinese Women Lead By 2 Points",
       "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-9",
       "source": "Chess.com",
@@ -287,13 +294,6 @@
       "source": "ChessBase",
       "date": "2026-09-20T07:00:00.000Z",
       "summary": "It’s once again time to think about aesthetics in ChessBase´26 training: Have you ever noticed the “Style” option? If not, in this episode we’ll explain briefly and concisely how you can better adapt your screen display to your own taste."
-    },
-    {
-      "title": "U.S. Wins 3.5-0.5 In Both Sections As Favorites Allow No Upsets",
-      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-4",
-      "source": "Chess.com",
-      "date": "2026-09-19T16:28:00.000Z",
-      "summary": "Round four of the 46th Chess Olympiad 2026 saw no major upsets on the top-11 boards, which consisted of the 21 teams with perfect scores. The most dominant score was the U.S.'s 3.5-0.5 against Ukraine, with GM Levon Aronian winning the Game of the..."
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 1–3: the USA, India, Uzbekistan, and China in 1st",
@@ -455,13 +455,6 @@
       "source": "ChessBase",
       "date": "2026-08-19T07:22:09.000Z",
       "summary": "IM Andrew Martin presents a complete White repertoire after 1.e4 e5 2.Nf3, with the Evans Gambit as its aggressive centerpiece for tactically minded players up to around 1800 Elo. Volume 1 covers the key lines, attacking ideas and traps of the Evans Gambit,…"
-    },
-    {
-      "title": "Streamer Arenas Announcement — August to December 2026",
-      "link": "https://lichess.org/@/Lichess/blog/streamer-arenas-announcement-august-to-december-2026/tkby72bI",
-      "source": "Lichess",
-      "date": "2026-08-16T19:40:30.817Z",
-      "summary": "Announcing our schedule for upcoming Streamer Arenas!"
     }
   ]
 }
