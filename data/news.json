@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T08:13:03.541Z",
+  "updated": "2026-10-01T15:56:53.358Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,6 +9,34 @@
   ],
   "items": [
     {
+      "title": "FIDE Ratings - October 2026",
+      "link": "https://en.chessbase.com/post/fide-ratings-october-2026",
+      "source": "ChessBase",
+      "date": "2026-10-01T16:16:09.000Z",
+      "summary": "The results of the Chess Olympiad in Uzbekistan brought notable changes to the rankings. Among the big winners are Uzbekistan's Abdusattorov, Sindarov and Yakubboev. Yagiz Kaan Erdogmus has extended his lead over Gukesh in the junior rankings, while Alice L…"
+    },
+    {
+      "title": "Man Charged With Stalking Hannah Sayce, Accused Of Making False Drug Report",
+      "link": "https://www.chess.com/news/view/man-charged-with-stalking-hannah-sayce-false-drug-reports",
+      "source": "Chess.com",
+      "date": "2026-10-01T15:40:21.000Z",
+      "summary": "A man from Melbourne has been charged over an alleged stalking campaign against Australian chess streamer and content creator WCM Hannah Sayce, which reportedly included making false drug allegations and led to her detention in Qatar. Shumsheer S..."
+    },
+    {
+      "title": "Main Decisions of the FIDE General Assembly 2026",
+      "link": "https://www.fide.com/main-decisions-of-the-fide-general-assembly-2026/",
+      "source": "FIDE",
+      "date": "2026-10-01T14:42:21.000Z",
+      "summary": "The FIDE General Assembly was held on 26–27 September 2026 in Samarkand, Uzbekistan, during the 46th FIDE Chess Olympiad and the FIDE Congress 2026. The Congress brought together representatives of FIDE Member Federations, as well as members of the FIDE Cou…"
+    },
+    {
+      "title": "FIDE October 2026 rating list published",
+      "link": "https://www.fide.com/fide-october-2026-rating-list-published/",
+      "source": "FIDE",
+      "date": "2026-10-01T12:25:32.000Z",
+      "summary": "The October 2026 rating list was primarily shaped by the recently concluded 46th Chess Olympiad, with both the top 10 Open and Women’s lists seeing some important shifts. Nodirbek Abdusattorov returned to the top five after a three-month absence following h…"
+    },
+    {
       "title": "Greatest Olympiad Underdogs - The Underdog",
       "link": "https://en.chessbase.com/post/greatest-olympiad-underdogs-the-underdog",
       "source": "ChessBase",
@@ -16,11 +44,18 @@
       "summary": "In this Olympiad special of The Underdog, Robert Ris presents seven remarkable upsets from both the Women’s and Open sections, chosen not only for the rating differences but also for the instructive chess behind them. The examples range from spectacular att…"
     },
     {
-      "title": "Garry Kasparov Reportedly Warned Of Alleged Russian Assassination Plot In U.S.",
+      "title": "Witty Alien Shocks Carlsen As 9z Globant Wins 4400-Player Chess Club Showdown",
+      "link": "https://www.chess.com/news/view/9z-globant-wins-chess-club-showdown-september-2026",
+      "source": "Chess.com",
+      "date": "2026-10-01T08:37:00.000Z",
+      "summary": "9z Globant, a team with 962 participants, took first place in the first Chess Club Showdown on Wednesday, September 30. The event featured nine esports teams, ranging in size from 151 to 1142 members. Everyone played a two-hour arena of five-minut..."
+    },
+    {
+      "title": "Garry Kasparov Confirms Security Warnings After Report Of Russian Assassination Plot",
       "link": "https://www.chess.com/news/view/kasparov-warned-alleged-russian-assassination-plot-usa",
       "source": "Chess.com",
-      "date": "2026-09-30T19:16:09.000Z",
-      "summary": "The 13th World Chess Champion Garry Kasparov was warned by U.S. authorities this summer that he was the target of a plot to kill him and was placed under special protection, according to Spanish newspaper El Mundo, citing a source close to the for..."
+      "date": "2026-09-30T19:16:00.000Z",
+      "summary": "The 13th World Chess Champion Garry Kasparov says security services in the U.S. warned him and a fellow Russian opposition figure that their lives were in danger and that they should take precautions. His statement comes one day after a report by ..."
     },
     {
       "title": "WSTC Europe Day 2: Bright smiles, brilliant moves, and cultural rhythms in Tsaghkadzor",
@@ -184,20 +219,6 @@
       "summary": "Timur Turlov was elected president of the International Chess Federation (FIDE) on Saturday, defeating German entrepreneur Wadim Rosenstein 110-85 in a second, deciding ballot at the FIDE General Assembly in Samarkand, Uzbekistan. The third candid..."
     },
     {
-      "title": "DGT hosts two e-Board Operator Seminars at 46th FIDE Chess Olympiad in Samarkand",
-      "link": "https://www.fide.com/dgt-hosts-two-e-board-operator-seminars-at-46th-fide-chess-olympiad-in-samarkand/",
-      "source": "FIDE",
-      "date": "2026-09-26T10:04:00.000Z",
-      "summary": "DGT, the leading designer, developer, manufacturer, and distributor of chess-related products, held two seminars alongside the 46th FIDE Chess Olympiad in Samarkand. Led by Frans Peeters, the seminars brought together 46 participants from 33 countries and t…"
-    },
-    {
-      "title": "Timur Turlov elected President of FIDE",
-      "link": "https://www.fide.com/timur-turlov-elected-president-of-fide/",
-      "source": "FIDE",
-      "date": "2026-09-26T10:01:23.000Z",
-      "summary": "Timur Turlov, President of the Kazakhstan Chess Federation, was elected President of the International Chess Federation (FIDE). The elections were held on 26 September at the FIDE General Assembly, alongside the 46th Chess Olympiad, in Samarkand, Uzbekistan…"
-    },
-    {
       "title": "2026 Samarkand Olympiad Rounds 7–9: Uzbekistan & China Lead Open and Women’s",
       "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-7-9-uzbekistan-china-lead-open-and-womens/MF1Hjp6Z",
       "source": "Lichess",
@@ -280,20 +301,6 @@
       "source": "Chess.com",
       "date": "2026-09-21T16:00:00.000Z",
       "summary": "Think you can take down an NFL receiver at chess? Now&rsquo;s your chance. BlitzChamps V Champion Mack Hollins is now a bot on Chess.com! Head to the Play Bots page and test your skills against the Super Bowl champ. Mack&rsquo;s bot is rated 14..."
-    },
-    {
-      "title": "How To Play The Chess Club Showdown, Starting September 30",
-      "link": "https://www.chess.com/news/view/announcing-chess-club-showdown-2026",
-      "source": "Chess.com",
-      "date": "2026-09-21T15:00:00.000Z",
-      "summary": "You can now help your favorite esports organization fight for the top spot in our new monthly event, the Chess Club Showdown. Play alongside your chess heroes, outscore other clubs, and bring home the title. With a $15,000 monthly prize fund up fo..."
-    },
-    {
-      "title": "Top Seeds Tumble As Germany Beats U.S. While Poland Defeats Indian Women",
-      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-5",
-      "source": "Chess.com",
-      "date": "2026-09-20T16:14:00.000Z",
-      "summary": "GM Frederik Svane's win over GM Hans Niemann saw Germany defeat the top-seeded U.S. 2.5-1.5 in round five of the 46th Chess Olympiad 2026. Germany is joined in the lead on 10/10 match points by Uzbekistan, who crushed Hungary 4-0, and India, who d..."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
