@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T15:56:53.358Z",
+  "updated": "2026-10-01T20:49:33.622Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,6 +9,34 @@
   ],
   "items": [
     {
+      "title": "Afghan Olympiad participants arrested after returning home",
+      "link": "https://en.chessbase.com/post/afghan-olympiad-participants-arrested",
+      "source": "ChessBase",
+      "date": "2026-10-01T21:00:00.000Z",
+      "summary": "Chess is currently banned in Afghanistan. This was not always the case. Despite the ban, Afghan teams took part in both the open and women's sections of the Chess Olympiad, a decision that was not welcomed by the ruling Taliban. Three of the players were ar…"
+    },
+    {
+      "title": "WSTC Europe Day 3: Competitions, tactical masterclasses and high-altitude adventures in Tsaghkadzor",
+      "link": "https://www.fide.com/wstc-europe-day-3-competitions-tactical-masterclasses-and-high-altitude-adventures-in-tsaghkadzor/",
+      "source": "FIDE",
+      "date": "2026-10-01T20:43:15.000Z",
+      "summary": "The third day of the European Continental Stage of the FIDE ISCF World Schools Team Championship 2026 elevated the competitive intensity to new heights in Tsaghkadzor, Armenia. With the tournament crossing into its critical second half, Rounds 5 and 6 deliv…"
+    },
+    {
+      "title": "Road to Weissenhaus 2027: Freestyle Friday is back",
+      "link": "https://www.fide.com/road-to-weissenhaus-2027-freestyle-friday-is-back/",
+      "source": "FIDE",
+      "date": "2026-10-01T19:56:02.000Z",
+      "summary": "The World Championship race restarts this Friday, and the door is still wide open. Hamburg / Weissenhaus, October 1, 2026 – The race to the 2027 FIDE Freestyle Chess World Championship is back on. Freestyle Friday, the weekly online tournament on Chess.com,…"
+    },
+    {
+      "title": "Behind the scenes in Samarkand: The Olympiad comes to a close",
+      "link": "https://en.chessbase.com/post/behind-the-scenes-in-samarkand-the-olympiad-comes-to-a-close",
+      "source": "ChessBase",
+      "date": "2026-10-01T19:00:00.000Z",
+      "summary": "Arne Kähler shares impressions from the final moments in Samarkand: the start of the crucial matches Uzbekistan–Ukraine and India–Hungary in the last round, a blitz game against seven-year-old Uzbek talent Mukhammadyusuf Bakhramov, scenes from the press roo…"
+    },
+    {
       "title": "FIDE Ratings - October 2026",
       "link": "https://en.chessbase.com/post/fide-ratings-october-2026",
       "source": "ChessBase",
@@ -16,10 +44,17 @@
       "summary": "The results of the Chess Olympiad in Uzbekistan brought notable changes to the rankings. Among the big winners are Uzbekistan's Abdusattorov, Sindarov and Yakubboev. Yagiz Kaan Erdogmus has extended his lead over Gukesh in the junior rankings, while Alice L…"
     },
     {
+      "title": "Olympiad Stars Abdusattorov, Erdogmus Climb On October FIDE Rating List",
+      "link": "https://www.chess.com/news/view/october-2026-fide-rating-list",
+      "source": "Chess.com",
+      "date": "2026-10-01T15:56:00.000Z",
+      "summary": "GMs Nodirbek Abdusattorov and Yagiz Kaan Erdogmus are the stars on an October FIDE rating list dominated by the 46th Chess Olympiad in Samarkand. Abdusattorov climbed two spots to world number-five after picking up 18 rating points and individual ..."
+    },
+    {
       "title": "Man Charged With Stalking Hannah Sayce, Accused Of Making False Drug Report",
       "link": "https://www.chess.com/news/view/man-charged-with-stalking-hannah-sayce-false-drug-reports",
       "source": "Chess.com",
-      "date": "2026-10-01T15:40:21.000Z",
+      "date": "2026-10-01T15:40:00.000Z",
       "summary": "A man from Melbourne has been charged over an alleged stalking campaign against Australian chess streamer and content creator WCM Hannah Sayce, which reportedly included making false drug allegations and led to her detention in Qatar. Shumsheer S..."
     },
     {
@@ -191,25 +226,11 @@
       "summary": "Uzbekistan has won its second Olympiad gold, this time on home soil, in the 46th Chess Olympiad 2026 in Samarkand. GM Mukhiddin Madaminov was the last-day hero, winning a sharp clash with GM Roman Dehtiarov in a 2.5-1.5 win over Ukraine. World Cha..."
     },
     {
-      "title": "Olympiad Day 10: Uzbekistan in command as medal race goes to the wire",
-      "link": "https://www.fide.com/olympiad-day-10-uzbekistan-in-command-as-medal-race-goes-to-the-wire/",
-      "source": "FIDE",
-      "date": "2026-09-26T18:35:18.000Z",
-      "summary": "India, Ukraine, Germany and Hungary remain in contention after a dramatic penultimate round The medal race has been dramatically reshaped going into the final round. Uzbekistan strengthened its position with a commanding 3.5–0.5 victory over Armenia, while…"
-    },
-    {
       "title": "Uzbekistan Still Leads India Before Final Round; Chinese Women Lead Kazakhstan",
       "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-10",
       "source": "Chess.com",
       "date": "2026-09-26T16:42:00.000Z",
       "summary": "Uzbekistan held on to its sole lead with 18 points, while India continued to pursue closely behind on 17 points after the 10th and penultimate round of the 46th Chess Olympiad 2026. Uzbekistan and India scored dominating 3.5-0.5 victories over Arm..."
-    },
-    {
-      "title": "Inaugural FIDE Excellence Awards celebrate the people and achievements shaping chess worldwide",
-      "link": "https://www.fide.com/inaugural-fide-excellence-awards-celebrate-the-people-and-achievements-shaping-chess-worldwide/",
-      "source": "FIDE",
-      "date": "2026-09-26T12:01:04.000Z",
-      "summary": "The inaugural FIDE Excellence Awards were presented in Samarkand, Uzbekistan, bringing together the global chess community to celebrate outstanding achievements both on and off the board during the 2024–2026 Olympiad cycle. Held alongside the 46th FIDE Ches…"
     },
     {
       "title": "Timur Turlov Elected FIDE President, Defeats Wadim Rosenstein 110-85",
@@ -294,13 +315,6 @@
       "source": "Chess.com",
       "date": "2026-09-21T19:22:00.000Z",
       "summary": "GM Hikaru Nakamura added to his Bullet Brawl dominance on September 19, winning the tournament once again. It was Nakamura's second straight week in first place, his 18th win of the year, and his 67th total to date. To put that in perspective, no ..."
-    },
-    {
-      "title": "Play Chess Against NFL Star Mack Hollins",
-      "link": "https://www.chess.com/news/view/play-chess-against-nfl-star-mack-hollins",
-      "source": "Chess.com",
-      "date": "2026-09-21T16:00:00.000Z",
-      "summary": "Think you can take down an NFL receiver at chess? Now&rsquo;s your chance. BlitzChamps V Champion Mack Hollins is now a bot on Chess.com! Head to the Play Bots page and test your skills against the Super Bowl champ. Mack&rsquo;s bot is rated 14..."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
