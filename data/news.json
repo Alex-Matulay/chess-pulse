@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T13:30:13.470Z",
+  "updated": "2026-10-02T18:55:59.356Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,25 @@
   ],
   "items": [
     {
+      "title": "Freestyle Friday Returns With World Championship Spots On The Line",
+      "link": "https://www.chess.com/news/view/freestyle-friday-returns-october-2-with-world-championship-spots-on-the-line",
+      "source": "Chess.com",
+      "date": "2026-10-02T15:00:00.000Z",
+      "summary": "Freestyle Friday returns to Chess.com this Friday, October 2, resuming the race for places in the 2027 FIDE Freestyle Chess World Championships. Ten weekly tournaments remain before December's knockout finals, which will award one qualification sp..."
+    },
+    {
       "title": "Jon Speelman at 70: A leading figure of English chess",
       "link": "https://en.chessbase.com/post/jon-speelman-70th-birthday",
       "source": "ChessBase",
       "date": "2026-10-02T14:00:00.000Z",
       "summary": "Jonathan Speelman turns 70 today, 2 October 2026. The English grandmaster was one of the world's leading players in the late 1980s, reaching the Candidates semifinals and climbing to the world top five in the FIDE rankings. A three-time British champion, Sp…"
+    },
+    {
+      "title": "Small Nations Chess Association restarts activities and elects new Board",
+      "link": "https://www.fide.com/small-nations-chess-association-restarts-activities-and-elects-new-board/",
+      "source": "FIDE",
+      "date": "2026-10-02T13:26:42.000Z",
+      "summary": "Members of the Small Nations Chess Association (SNACA) convened in Samarkand, Uzbekistan, for the Association’s General Assembly, where they agreed to revitalize SNACA’s operations, approved new statutes, and elected a new Board to serve a two-year term. SN…"
     },
     {
       "title": "Is Russia plotting to kill Kasparov?",
@@ -233,13 +247,6 @@
       "summary": "Following the FIDE elections and the General Assembly held in Samarkand, FIDE is pleased to announce the composition of the FIDE Council for the 2026–2030 term. President and Deputy President 1.⁠ ⁠Timur Turlov (KAZ) – President2.⁠ ⁠Viswanathan Anand (IND) –…"
     },
     {
-      "title": "Fireworks, drones and champions: Samarkand’s grand Olympiad finale",
-      "link": "https://www.fide.com/fireworks-drones-and-champions-samarkands-grand-olympiad-finale/",
-      "source": "FIDE",
-      "date": "2026-09-27T20:09:20.000Z",
-      "summary": "What an amazing way to finish the Olympiad! The Uzbekistan Local Organising Committee put on a show for the ages – one of the best closing ceremonies I have attended, and I have been to many! Category prizes At around 7PM, the celebrations kicked off with t…"
-    },
-    {
       "title": "2026 Samarkand Olympiad Rounds 10–11: Uzbekistan, China Win Open, Women’s",
       "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-10-11-uzbekistan-china-win-open-womens/W0x2a9bz",
       "source": "Lichess",
@@ -336,13 +343,6 @@
       "source": "Chess.com",
       "date": "2026-09-21T20:30:00.000Z",
       "summary": "With a shock win on board three against India, Uzbekistan has taken sole lead of the 46th Chess Olympiad 2026 after six rounds. GM Nihal Sarin was better on board and clock against&nbsp;GM Nodirbek Yakubboev, but he blundered his queen in the cons..."
-    },
-    {
-      "title": "Nakamura Makes It Back-To-Back Bullet Brawls",
-      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-19-2026",
-      "source": "Chess.com",
-      "date": "2026-09-21T19:22:00.000Z",
-      "summary": "GM Hikaru Nakamura added to his Bullet Brawl dominance on September 19, winning the tournament once again. It was Nakamura's second straight week in first place, his 18th win of the year, and his 67th total to date. To put that in perspective, no ..."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
