@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T17:08:25.953Z",
+  "updated": "2026-10-03T20:31:24.771Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -525,13 +525,6 @@
       "source": "ChessBase",
       "date": "2026-08-19T23:06:12.000Z",
       "summary": "As you have noticed, this form of chess is becoming increasingly popular. Everyone seems to like it, sponsors are lining up to stage high-prize tournaments, even World Championships. In this series we look back at the origin of Fischer-Random, Chess960 or F…"
-    },
-    {
-      "title": "Sinquefield Cup Tiebreaks - Live!",
-      "link": "https://en.chessbase.com/post/sinquefield-cup-2026-live",
-      "source": "ChessBase",
-      "date": "2026-08-19T18:50:00.000Z",
-      "summary": "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in th…"
     }
   ]
 }
