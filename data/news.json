@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T07:30:04.333Z",
+  "updated": "2026-10-03T12:59:10.835Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "From Tsaghkadzor to the Grand Final: European Schools Chess Champions crowned amidst cultural celebration",
+      "link": "https://en.chessbase.com/post/wstc-2026-european-stage-final",
+      "source": "ChessBase",
+      "date": "2026-10-03T14:15:00.000Z",
+      "summary": "Gymnasium No. 50 of Minsk won the European Continental Stage of the FIDE ISCF World Schools Team Championship in Tsaghkadzor, completing the eight-round event with a perfect match score. Riga State Gymnasium No. 1 took second place, while LEPL Georgia, Kuta…"
+    },
+    {
+      "title": "Retrospective: 2025 Toronto Lichess Meetup",
+      "link": "https://lichess.org/@/Lichess/blog/retrospective-2025-toronto-lichess-meetup/3ReyIZOk",
+      "source": "Lichess",
+      "date": "2026-10-03T11:43:37.642Z",
+      "summary": "One year later, we look back at the 2025 Lichess meetup in Toronto, which saw an OTB tournament, work, and, of course, a whole lot of fun!"
+    },
+    {
+      "title": "46th World Chess Olympiad 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
+      "source": "The Week in Chess",
+      "date": "2026-10-03T11:02:00.000Z",
+      "summary": "The 46th World Chess Olympiad took place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. The hosts Uzbekistan took the gold…"
+    },
     {
       "title": "Upcoming tournaments and events",
       "link": "https://en.chessbase.com/post/upcoming-tournaments-and-events-5",
@@ -364,13 +385,6 @@
       "source": "Lichess",
       "date": "2026-09-18T21:39:42.099Z",
       "summary": "The top 10 seeds in both the Open and Women's, except for England in the Open and Georgia, Ukraine, and France in the Women's, remain steady on 6/6 match points."
-    },
-    {
-      "title": "46th World Chess Olympiad 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
-      "source": "The Week in Chess",
-      "date": "2026-09-17T20:10:00.000Z",
-      "summary": "The 46th World Chess Olympiad takes place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. I will broadcast the top 20 matche…"
     },
     {
       "title": "3rd FIDE Chess Olympiad for People with Disabilities 2026 - Games and Results",
