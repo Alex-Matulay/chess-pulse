@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T20:31:24.771Z",
+  "updated": "2026-10-03T23:29:06.703Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -518,13 +518,6 @@
       "source": "The Week in Chess",
       "date": "2026-08-20T06:44:00.000Z",
       "summary": "The 13th Sinquefield Cup took place 10th to 20th August 2026. Players: Fabiano Caruana, Javokhir Sindarov, Vincent Keymer, Wesley So, Anish Giri, Praggnanandhaa R, Jorden Van Foreest, Maxime Vachier-lagrave, Levon Aronian and Samuel Sevian. Wesley So took f…"
-    },
-    {
-      "title": "Quo vadis, Fischer Random Chess? (1)",
-      "link": "https://en.chessbase.com/post/quo-vadis-fischer-random-chess-1",
-      "source": "ChessBase",
-      "date": "2026-08-19T23:06:12.000Z",
-      "summary": "As you have noticed, this form of chess is becoming increasingly popular. Everyone seems to like it, sponsors are lining up to stage high-prize tournaments, even World Championships. In this series we look back at the origin of Fischer-Random, Chess960 or F…"
     }
   ]
 }
