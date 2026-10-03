@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T12:59:10.835Z",
+  "updated": "2026-10-03T17:08:25.953Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Critical thinking takes centre stage at Judit Polgar's Global Chess Festival",
+      "link": "https://en.chessbase.com/post/global-chess-festival-2026-report",
+      "source": "ChessBase",
+      "date": "2026-10-03T17:00:00.000Z",
+      "summary": "The 12th Judit Polgar Global Chess Festival took place at the Hungarian National Gallery in Budapest, with critical thinking as the central theme of its 2026 edition. The programme combined chess with education, technology and art, and included a Community…"
+    },
+    {
+      "title": "Awonder Liang Invincible At Seirawan Chess, The Complex Variant",
+      "link": "https://www.chess.com/news/view/2026-seirawan-chess-championship-liang-wins",
+      "source": "Chess.com",
+      "date": "2026-10-03T15:21:01.000Z",
+      "summary": "GM Awonder Liang blanked his opposition with 3-0 victories in all the matches to convincingly win the 2026 Seirawan Chess Championship, an event he won in 2024 too. It was a brisk evening for the 23-year-old American GM, who was hardly in any trou..."
+    },
     {
       "title": "From Tsaghkadzor to the Grand Final: European Schools Chess Champions crowned amidst cultural celebration",
       "link": "https://en.chessbase.com/post/wstc-2026-european-stage-final",
@@ -357,13 +371,6 @@
       "source": "Chess.com",
       "date": "2026-09-22T22:42:00.000Z",
       "summary": "Dionisio Sganzerla turned a table in a Brazilian shopping mall into a meeting place for chess players for more than two decades. His death at 96 has sparked a wave of tributes. Known locally as \"Mr. Dionisio,\" Sganzerla died on September 12 in Go..."
-    },
-    {
-      "title": "On-Fire Firouzja Finishes First In Titled Tuesday",
-      "link": "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-september-22-2026",
-      "source": "Chess.com",
-      "date": "2026-09-22T19:44:00.000Z",
-      "summary": "GM Alireza Firouzja won Titled Tuesday outright on September 22, starting 7/7 before a brief setback followed by a 3/3 performance to end the tournament. GM Denis Lazavik, who went undefeated but made three draws, finished sole second while breaki..."
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 4–6: Uzbekistan in Sole Lead, Plays China in R7",
