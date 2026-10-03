@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T01:40:57.609Z",
+  "updated": "2026-10-03T07:30:04.333Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -14,6 +14,13 @@
       "source": "ChessBase",
       "date": "2026-10-03T02:00:00.000Z",
       "summary": "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overview of the most interesting of them – focused mainly on tournaments in November. We do th…"
+    },
+    {
+      "title": "Hy Nguyen, Maghsoodloo, Grischuk Take 3 0 Thursday Titles",
+      "link": "https://www.chess.com/news/view/hy-nguyen-maghsoodloo-grischuk-3-0-thursday-10-1-2026",
+      "source": "Chess.com",
+      "date": "2026-10-03T01:51:34.000Z",
+      "summary": "GM Parham Maghsoodloo scored in the top four in three different 3 0 Thursday Tournaments on October 1. His nine points in the first tournament weren't quite enough to win, as he took second on tiebreaks behind IM Quoc Hy Nguyen. Maghsoodloo domina..."
     },
     {
       "title": "Bluebaum Takes First Freestyle Friday Of New Season",
@@ -338,13 +345,6 @@
       "summary": "GM Alireza Firouzja won Titled Tuesday outright on September 22, starting 7/7 before a brief setback followed by a 3/3 performance to end the tournament. GM Denis Lazavik, who went undefeated but made three draws, finished sole second while breaki..."
     },
     {
-      "title": "Chess.com Seirawan Chess Championship Starts September 30",
-      "link": "https://www.chess.com/news/view/announcing-chesscom-seirawan-chess-championship-2026",
-      "source": "Chess.com",
-      "date": "2026-09-22T15:02:40.000Z",
-      "summary": "Saddle your elephants and ready your hawks. The Chess.com Seirawan Chess Championship takes place from September 30 to October 2 and features a $2,500 prize fund. With two new pieces&mdash;and a whole new set of tactics&mdash;this tournament will ..."
-    },
-    {
       "title": "2026 Samarkand Olympiad Rounds 4–6: Uzbekistan in Sole Lead, Plays China in R7",
       "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-4-6-uzbekistan-in-sole-lead-plays-china-in-r7/NIRrBw3h",
       "source": "Lichess",
@@ -511,13 +511,6 @@
       "source": "ChessBase",
       "date": "2026-08-19T18:50:00.000Z",
       "summary": "The Sinquefield Cup is taking place on 10-20 August at the Saint Louis Chess Club. It is a 10-player single round-robin with a classical time control. Besides battling for a share of the $475,000 prize fund, players battle to get one of the four spots in th…"
-    },
-    {
-      "title": "Andrew Martin: Evans & Friends Vol.1 & 2",
-      "link": "https://en.chessbase.com/post/andrew-martin-evans-friends-vol-1-2",
-      "source": "ChessBase",
-      "date": "2026-08-19T07:22:09.000Z",
-      "summary": "IM Andrew Martin presents a complete White repertoire after 1.e4 e5 2.Nf3, with the Evans Gambit as its aggressive centerpiece for tactically minded players up to around 1800 Elo. Volume 1 covers the key lines, attacking ideas and traps of the Evans Gambit,…"
     }
   ]
 }
