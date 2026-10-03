@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T22:48:15.720Z",
+  "updated": "2026-10-03T01:40:57.609Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Upcoming tournaments and events",
+      "link": "https://en.chessbase.com/post/upcoming-tournaments-and-events-5",
+      "source": "ChessBase",
+      "date": "2026-10-03T02:00:00.000Z",
+      "summary": "Looking for an interesting over-the-board chess tournament to play, attend, or simply watch? There are plenty being staged all over the world, and we bring you an overview of the most interesting of them – focused mainly on tournaments in November. We do th…"
+    },
+    {
+      "title": "Bluebaum Takes First Freestyle Friday Of New Season",
+      "link": "https://www.chess.com/news/view/bluebaum-wins-freestyle-friday-october-2-2026",
+      "source": "Chess.com",
+      "date": "2026-10-03T01:23:25.000Z",
+      "summary": "GM Matthias Bluebaum won the return tournament of Freestyle Friday on October 2 with nine points, taking the tournament outright ahead of GMs Oleksandr Bortnyk, Pranav Venkatesh, and SL Narayanan on 8.5/11. Pranav clinched an appearance in next ye..."
+    },
     {
       "title": "From Tsaghkadzor to Grand Final: European Schools Chess Champions crowned amidst cultural celebration",
       "link": "https://www.fide.com/from-tsaghkadzor-to-grand-final-european-schools-chess-champions-crowned-amidst-cultural-celebration/",
@@ -336,13 +350,6 @@
       "source": "Lichess",
       "date": "2026-09-21T21:12:23.399Z",
       "summary": "After defeating India, Uzbekistan is in the sole lead with 12/12 match points, with China and Armenia on 11/12. In the Women's, China and Kazakhstan are in 1st place on 12/12 match points, with 11 teams in close pursuit on 10/12 match points."
-    },
-    {
-      "title": "Nihal Blunders Queen As Uzbekistan Takes Sole Lead; Indian Women Hit Back To Beat U.S.",
-      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-6",
-      "source": "Chess.com",
-      "date": "2026-09-21T20:30:00.000Z",
-      "summary": "With a shock win on board three against India, Uzbekistan has taken sole lead of the 46th Chess Olympiad 2026 after six rounds. GM Nihal Sarin was better on board and clock against&nbsp;GM Nodirbek Yakubboev, but he blundered his queen in the cons..."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
