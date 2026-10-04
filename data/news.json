@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T04:00:04.981Z",
+  "updated": "2026-10-04T10:30:59.674Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Nakamura Breaks Calendar Record With 4th Consecutive Victory",
+      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-3-2026",
+      "source": "Chess.com",
+      "date": "2026-10-04T04:30:45.000Z",
+      "summary": "In a week when GM Hikaru Nakamura pushed Chess.com's blitz record to new heights, it is fitting that he also broke the record for the most Bullet Brawl victories in a single year, albeit with three months to spare. A dominant run in the second hal..."
+    },
     {
       "title": "Critical thinking takes centre stage at Judit Polgar's Global Chess Festival",
       "link": "https://en.chessbase.com/post/global-chess-festival-2026-report",
@@ -366,13 +373,6 @@
       "summary": "With seven out of seven match wins, Uzbekistan continues to dominate the 46th Chess Olympiad 2026, with their latest victory against China 3-1 after wins by the Nodirbeks; GM Nodirbek Abdusattorov defeated GM Ding Liren and GM Nodirbek Yakubboev b..."
     },
     {
-      "title": "'Mister Dionisio,' Who Played Chess At Brazilian Mall For 20 Years, Dies At 96",
-      "link": "https://www.chess.com/news/view/dionisio-sganzerla-brazilian-mall-chess-dies-96",
-      "source": "Chess.com",
-      "date": "2026-09-22T22:42:00.000Z",
-      "summary": "Dionisio Sganzerla turned a table in a Brazilian shopping mall into a meeting place for chess players for more than two decades. His death at 96 has sparked a wave of tributes. Known locally as \"Mr. Dionisio,\" Sganzerla died on September 12 in Go..."
-    },
-    {
       "title": "2026 Samarkand Olympiad Rounds 4–6: Uzbekistan in Sole Lead, Plays China in R7",
       "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-4-6-uzbekistan-in-sole-lead-plays-china-in-r7/NIRrBw3h",
       "source": "Lichess",
@@ -511,13 +511,6 @@
       "source": "The Week in Chess",
       "date": "2026-08-23T10:37:00.000Z",
       "summary": "The 6th Cairns Cup 2026 took place Mon 10th to Fri 21st August 2026. Tan Zhongyi won with 6½/9 half a point clear of Alice Lee on 6. She earned her first GM norm in the 2026 Cairns Cup at the age of 16."
-    },
-    {
-      "title": "13th Sinquefield Cup 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/13th-sinquefield-cup-2026",
-      "source": "The Week in Chess",
-      "date": "2026-08-20T06:44:00.000Z",
-      "summary": "The 13th Sinquefield Cup took place 10th to 20th August 2026. Players: Fabiano Caruana, Javokhir Sindarov, Vincent Keymer, Wesley So, Anish Giri, Praggnanandhaa R, Jorden Van Foreest, Maxime Vachier-lagrave, Levon Aronian and Samuel Sevian. Wesley So took f…"
     }
   ]
 }
