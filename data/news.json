@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T18:58:40.208Z",
+  "updated": "2026-10-04T22:16:09.532Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Jon Speelman: Miniatures in Samarkand",
+      "link": "https://en.chessbase.com/post/speelman-agony-244",
+      "source": "ChessBase",
+      "date": "2026-10-04T22:10:00.000Z",
+      "summary": "Jon Speelman looks back at the Samarkand Olympiad through a selection of short decisive games from the open section. From nearly 9,000 games played across the event, he filters out miniatures of 25 moves or fewer involving at least one player rated above 25…"
+    },
     {
       "title": "From the Olympiad to the Mediterranean: Titled stars head to the Sahel Chess Festival",
       "link": "https://en.chessbase.com/post/sahel-chess-festival-2026-preview-2",
