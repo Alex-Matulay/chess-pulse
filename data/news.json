@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T10:30:59.674Z",
+  "updated": "2026-10-04T15:37:48.065Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,10 +9,24 @@
   ],
   "items": [
     {
+      "title": "Evren Ucok and the case for chess in developing young minds",
+      "link": "https://en.chessbase.com/post/evren-ucok-syoung-minds",
+      "source": "ChessBase",
+      "date": "2026-10-04T14:50:00.000Z",
+      "summary": "Chess philanthropist Evren Ucok has committed over $5 million in just three years to transform the global chess ecosystem. Moving beyond traditional sponsorships, his visionary investment provides holistic support for emerging prodigies like Yagiz Kaan Erdo…"
+    },
+    {
+      "title": "Main decisions of the FIDE General Assembly 2026",
+      "link": "https://en.chessbase.com/post/decisions-fide-general-assembly-2026",
+      "source": "ChessBase",
+      "date": "2026-10-04T14:00:00.000Z",
+      "summary": "The FIDE General Assembly in Samarkand elected Timur Turlov as President and Viswanathan Anand as Deputy President, alongside a new group of vice-presidents and senior officials. Delegates also approved plans for a dedicated Chess960 rating system, changes…"
+    },
+    {
       "title": "Nakamura Breaks Calendar Record With 4th Consecutive Victory",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-3-2026",
       "source": "Chess.com",
-      "date": "2026-10-04T04:30:45.000Z",
+      "date": "2026-10-04T04:30:00.000Z",
       "summary": "In a week when GM Hikaru Nakamura pushed Chess.com's blitz record to new heights, it is fitting that he also broke the record for the most Bullet Brawl victories in a single year, albeit with three months to spare. A dominant run in the second hal..."
     },
     {
@@ -175,13 +189,6 @@
       "source": "Chess.com",
       "date": "2026-10-01T15:40:00.000Z",
       "summary": "A man from Melbourne has been charged over an alleged stalking campaign against Australian chess streamer and content creator WCM Hannah Sayce, which reportedly included making false drug allegations and led to her detention in Qatar. Shumsheer S..."
-    },
-    {
-      "title": "Main Decisions of the FIDE General Assembly 2026",
-      "link": "https://www.fide.com/main-decisions-of-the-fide-general-assembly-2026/",
-      "source": "FIDE",
-      "date": "2026-10-01T14:42:21.000Z",
-      "summary": "The FIDE General Assembly was held on 26–27 September 2026 in Samarkand, Uzbekistan, during the 46th FIDE Chess Olympiad and the FIDE Congress 2026. The Congress brought together representatives of FIDE Member Federations, as well as members of the FIDE Cou…"
     },
     {
       "title": "FIDE October 2026 rating list published",
