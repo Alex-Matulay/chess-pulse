@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T08:11:08.189Z",
+  "updated": "2026-10-05T17:46:29.963Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Learning strategy from Bent Larsen",
+      "link": "https://en.chessbase.com/post/learning-strategy-from-bent-larsen",
+      "source": "ChessBase",
+      "date": "2026-10-05T17:00:00.000Z",
+      "summary": "Bent Larsen combined an unconventional approach to the opening with a strong understanding of dynamic positions. In the 20th volume of the ChessBase Master Class series, several experts examine different aspects of the Danish star's play. The strategy secti…"
+    },
+    {
+      "title": "FIDE Announces Open Call for Commission Nominations",
+      "link": "https://www.fide.com/fide-announces-open-call-for-commission-nominations/",
+      "source": "FIDE",
+      "date": "2026-10-05T14:33:59.000Z",
+      "summary": "Following the election of the new FIDE leadership, we are entering a new chapter of our work – building on what has been achieved, continuing the projects that have proven successful, and developing new initiatives that can make FIDE and chess even more eff…"
+    },
+    {
+      "title": "Six-way tie in the lead after two rounds in Fagernes",
+      "link": "https://en.chessbase.com/post/fagernes-autumn-2026-r2",
+      "source": "ChessBase",
+      "date": "2026-10-05T12:00:00.000Z",
+      "summary": "The Fagernes International Autumn Tournament is under way in Norway, with six players sharing the lead in the GM Swiss after two rounds. Tiger Hillarp Persson, Aksel Bu Kvaloy, Christian Gloeckler (pictured, left), Harika Dronavalli, Frode Olav Olsen Urkeda…"
+    },
     {
       "title": "Lichess Game of the Month: August '26",
       "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-august-26/ekVdAfDN",
@@ -217,13 +238,6 @@
       "source": "FIDE",
       "date": "2026-09-29T19:39:00.000Z",
       "summary": "Following a review of the nominations for the 2026 Svetozar Gligorić Trophy, the FIDE Gligorić Trophy Award Commission has decided to award the trophy to two recipients: Sebastian Poltorak (Poland) – For his exemplary sportsmanship during the 2025 European…"
-    },
-    {
-      "title": "WSTC 2026 European Stage begins in Tsaghkadzor",
-      "link": "https://www.fide.com/wstc-2026-european-stage-begins-in-tsaghkadzor/",
-      "source": "FIDE",
-      "date": "2026-09-29T18:06:39.000Z",
-      "summary": "The European Continental Stage of the FIDE ISCF World Schools Team Championship 2026 commenced on 29 September in Tsaghkadzor, Armenia. 27 school teams from 25 nations are competing in the final qualifying stage for places in the Grand Final in December. Th…"
     },
     {
       "title": "Dream Olympiad For Uzbekistan: 13 Samarkand 2026 Conclusions",
