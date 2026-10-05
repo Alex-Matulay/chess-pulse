@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T01:31:30.315Z",
+  "updated": "2026-10-05T08:11:08.189Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Lichess Game of the Month: August '26",
+      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-august-26/ekVdAfDN",
+      "source": "Lichess",
+      "date": "2026-10-05T03:23:59.630Z",
+      "summary": "The long diagonal paves the way to White's king"
+    },
     {
       "title": "Jon Speelman: Miniatures in Samarkand",
       "link": "https://en.chessbase.com/post/speelman-agony-244",
