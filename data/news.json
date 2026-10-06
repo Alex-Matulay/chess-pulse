@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:49:14.082Z",
+  "updated": "2026-10-06T22:13:20.380Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "The oldest chess pieces in the world",
+      "link": "https://en.chessbase.com/post/oldest-chess-pieces-in-the-world",
+      "source": "ChessBase",
+      "date": "2026-10-06T23:05:00.000Z",
+      "summary": "In 1977, the historian and archaeologist Yuri Buryakov discovered a set of seven ivory pieces in the ruins of the ancient city of Afrasiab, near Samarkand. The pieces have been dated to the mid-seventh century and are regarded as the oldest known chess piec…"
+    },
+    {
+      "title": "Nakamura Sets New Chess.com Rating Record As Artemiev Pulls Out Last-Second Win",
+      "link": "https://www.chess.com/news/view/artemiev-wins-titled-tuesday-october-6-2026",
+      "source": "Chess.com",
+      "date": "2026-10-06T20:53:06.000Z",
+      "summary": "A day after becoming the first 3500-rated Chess.com Blitz player in site history, GM Hikaru Nakamura upped his record to 3503 while streaming Titled Tuesday live from Sithonia, Greece, on October 6. Unfortunately for Nakamura, he did not ultimatel..."
+    },
     {
       "title": "The princes of Samarkand",
       "link": "https://en.chessbase.com/post/princes-of-samarkand-german-team",
@@ -364,13 +378,6 @@
       "source": "Chess.com",
       "date": "2026-09-24T15:47:00.000Z",
       "summary": "Germany ended Uzbekistan's streak of 7/7 match wins in round eight of the 46th Chess Olympiad 2026 after winning their encounter 2.5-1.5. As in the previous round, the brothers GM Frederik Svane and GM Rasmus Svane scored points on the bottom two ..."
-    },
-    {
-      "title": "Uzbekistan Leads With 7/7 Match Wins; China, Kazakhstan Share Women's Lead",
-      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-7",
-      "source": "Chess.com",
-      "date": "2026-09-23T16:42:00.000Z",
-      "summary": "With seven out of seven match wins, Uzbekistan continues to dominate the 46th Chess Olympiad 2026, with their latest victory against China 3-1 after wins by the Nodirbeks; GM Nodirbek Abdusattorov defeated GM Ding Liren and GM Nodirbek Yakubboev b..."
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 4–6: Uzbekistan in Sole Lead, Plays China in R7",
