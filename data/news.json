@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T11:43:00.446Z",
+  "updated": "2026-10-06T17:49:14.082Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,32 @@
   ],
   "items": [
     {
+      "title": "The princes of Samarkand",
+      "link": "https://en.chessbase.com/post/princes-of-samarkand-german-team",
+      "source": "ChessBase",
+      "date": "2026-10-06T19:00:00.000Z",
+      "summary": "The success of the German national team has something to do with Thuringia. The foundations were laid almost 20 years ago, when national youth coach Bernd Vökler entered a youth team as Germany's second squad at the Chess Olympiad in Dresden. The \"Princes'…"
+    },
+    {
+      "title": "German chess magazine SCHACH launches first English edition as CHESS INSIGHT",
+      "link": "https://en.chessbase.com/post/german-chess-magazine-schach-launches-first-english-edition-as-chess-insight",
+      "source": "ChessBase",
+      "date": "2026-10-06T16:00:00.000Z",
+      "summary": "For the first time in its history, the renowned German chess magazine SCHACH is available in English. Published under the title CHESS INSIGHT, the new edition was released on October 1, 2026, and is available digitally through Forward Chess."
+    },
+    {
       "title": "Vlastimil Hort Tournament 2026: Return to Hotel Don Giovanni",
       "link": "https://en.chessbase.com/post/vlastimil-hort-tournament-2026-return-to-hotel-don-giovanni",
       "source": "ChessBase",
       "date": "2026-10-06T12:27:50.000Z",
       "summary": "On Saturday, 21 November 2026, Prague’s Hotel Don Giovanni will host the second Vlastimil Hort Tournament, a rapid chess tournament dedicated to one of the greatest Czech chess players of all time, Grandmaster Vlastimil Hort, who had a very special connecti…"
+    },
+    {
+      "title": "FIDE World Senior Team Championships 2027: Registration opens",
+      "link": "https://www.fide.com/fide-world-senior-team-championships-2027-registration-opens/",
+      "source": "FIDE",
+      "date": "2026-10-06T11:40:56.000Z",
+      "summary": "FIDE, the German Chess Federation (DSB) and LandesSchachverband Sachsen-Anhalt e. V. invite all FIDE member federations and eligible teams to participate in the World Senior Team Chess Championships taking place in Magdeburg, Germany from March 31 (arrival)…"
     },
     {
       "title": "Respect over results: Sebastian Poltorak and Tin Jingyao receive Gligoric Trophy 2026",
@@ -224,13 +245,6 @@
       "source": "Chess.com",
       "date": "2026-09-30T19:16:00.000Z",
       "summary": "The 13th World Chess Champion Garry Kasparov says security services in the U.S. warned him and a fellow Russian opposition figure that their lives were in danger and that they should take precautions. His statement comes one day after a report by ..."
-    },
-    {
-      "title": "WSTC Europe Day 2: Bright smiles, brilliant moves, and cultural rhythms in Tsaghkadzor",
-      "link": "https://www.fide.com/wstc-europe-day-2-bright-smiles-brilliant-moves-and-cultural-rhythms-in-tsaghkadzor/",
-      "source": "FIDE",
-      "date": "2026-09-30T19:14:36.000Z",
-      "summary": "The second day of the European Continental Stage of the FIDE ISCF World Schools Team Championship 2026 brought an incredible mix of high energy, team spirit, and pure chess magic to Tsaghkadzor, Armenia. With school teams cheering each other on, Rounds 3 an…"
     },
     {
       "title": "Bodhana Sivanandan, 11, Becomes Youngest-Ever WGM, Scores Second IM Norm",
