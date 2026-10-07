@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T09:41:31.076Z",
+  "updated": "2026-10-07T17:10:50.880Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Frederik Svane: An understated Olympic record",
+      "link": "https://en.chessbase.com/post/frederik-svane-understated-olympic-record",
+      "source": "ChessBase",
+      "date": "2026-10-07T19:00:00.000Z",
+      "summary": "Two Olympiads, thirteen wins, seven draws, no defeats, two individual gold medals and a team bronze - Frederik Svane's Olympiad record is impressive. At the 2026 Chess Olympiad in Samarkand, he also set a low-key record: never before had a German player won…"
+    },
+    {
+      "title": "GothamChess European Tour Kicks Off On October 25 With Special Guests And Activities",
+      "link": "https://www.chess.com/news/view/gotham-chess-european-tour-guests-activities-2026",
+      "source": "Chess.com",
+      "date": "2026-10-07T15:00:00.000Z",
+      "summary": "Europe is about to meet the world's biggest chess creator in person again. IM Levy Rozman, better known as GothamChess, is returning to the old continent for his second tour from October 25 to November 10. Fans in six cities can get tickets to see..."
+    },
+    {
+      "title": "President of Kazakhstan Kassym-Jomart Tokayev receives FIDE President Timur Turlov",
+      "link": "https://www.fide.com/president-of-kazakhstan-kassym-jomart-tokayev-receives-fide-president-timur-turlov/",
+      "source": "FIDE",
+      "date": "2026-10-07T11:06:27.000Z",
+      "summary": "President of the Republic of Kazakhstan Kassym-Jomart Tokayev received newly elected FIDE President Timur Turlov and congratulated him on his election to lead the International Chess Federation. During the meeting, the sides discussed the development of che…"
+    },
     {
       "title": "From Dusk till Dawn",
       "link": "https://en.chessbase.com/post/from-dusk-till-dawn",
@@ -254,13 +275,6 @@
       "summary": "A man from Melbourne has been charged over an alleged stalking campaign against Australian chess streamer and content creator WCM Hannah Sayce, which reportedly included making false drug allegations and led to her detention in Qatar. Shumsheer S..."
     },
     {
-      "title": "FIDE October 2026 rating list published",
-      "link": "https://www.fide.com/fide-october-2026-rating-list-published/",
-      "source": "FIDE",
-      "date": "2026-10-01T12:25:32.000Z",
-      "summary": "The October 2026 rating list was primarily shaped by the recently concluded 46th Chess Olympiad, with both the top 10 Open and Women’s lists seeing some important shifts. Nodirbek Abdusattorov returned to the top five after a three-month absence following h…"
-    },
-    {
       "title": "Witty Alien Shocks Carlsen As 9z Globant Wins 4400-Player Chess Club Showdown",
       "link": "https://www.chess.com/news/view/9z-globant-wins-chess-club-showdown-september-2026",
       "source": "Chess.com",
@@ -385,13 +399,6 @@
       "source": "Chess.com",
       "date": "2026-09-25T16:42:41.000Z",
       "summary": "They aren't playing in the Olympiad, but GMs Magnus Carlsen and Hikaru Nakamura both competed in the first 3 0 Thursday on September 24. Both players joined a tie atop the standings, with Carlsen taking first on tiebreaks, with help from a mouse s..."
-    },
-    {
-      "title": "Germany Ends Uzbekistan's Streak; China Grabs Women's Lead As Savitha Saves India",
-      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-8",
-      "source": "Chess.com",
-      "date": "2026-09-24T15:47:00.000Z",
-      "summary": "Germany ended Uzbekistan's streak of 7/7 match wins in round eight of the 46th Chess Olympiad 2026 after winning their encounter 2.5-1.5. As in the previous round, the brothers GM Frederik Svane and GM Rasmus Svane scored points on the bottom two ..."
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 4–6: Uzbekistan in Sole Lead, Plays China in R7",
@@ -525,13 +532,6 @@
       "source": "ChessBase",
       "date": "2026-08-28T15:00:00.000Z",
       "summary": "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neura…"
-    },
-    {
-      "title": "6th Cairns Cup 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/6th-cairns-cup-2026",
-      "source": "The Week in Chess",
-      "date": "2026-08-23T10:37:00.000Z",
-      "summary": "The 6th Cairns Cup 2026 took place Mon 10th to Fri 21st August 2026. Tan Zhongyi won with 6½/9 half a point clear of Alice Lee on 6. She earned her first GM norm in the 2026 Cairns Cup at the age of 16."
     }
   ]
 }
