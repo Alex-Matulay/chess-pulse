@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T02:00:37.882Z",
+  "updated": "2026-10-07T09:41:31.076Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,6 +9,20 @@
   ],
   "items": [
     {
+      "title": "From Dusk till Dawn",
+      "link": "https://en.chessbase.com/post/from-dusk-till-dawn",
+      "source": "ChessBase",
+      "date": "2026-10-07T11:00:00.000Z",
+      "summary": "Older readers will remember. In the old days, before the invention of the internet, you actually had to meet in person to play chess. In blitz chess, you sat opposite one another, saw each other and even talked. It was a sociable affair and, at times, rathe…"
+    },
+    {
+      "title": "\"Chess might be one of the least expressive sports I have ever watched\"",
+      "link": "https://en.chessbase.com/post/chess-least-expressive-of-sports",
+      "source": "ChessBase",
+      "date": "2026-10-07T07:30:00.000Z",
+      "summary": "Coming from badminton and motorsport, Naganethra Reddy expected chess to feel quiet and hard to read. Watching the Global Chess League changed that: the drama was in the glances, pauses, and small gestures around the board, and in the stories shared through…"
+    },
+    {
       "title": "The oldest chess pieces in the world",
       "link": "https://en.chessbase.com/post/oldest-chess-pieces-in-the-world",
       "source": "ChessBase",
@@ -16,7 +30,7 @@
       "summary": "In 1977, the historian and archaeologist Yuri Buryakov discovered a set of seven ivory pieces in the ruins of the ancient city of Afrasiab, near Samarkand. The pieces have been dated to the mid-seventh century and are regarded as the oldest known chess piec…"
     },
     {
-      "title": "Nakamura Sets New Chess.com Rating Record As Artemiev Pulls Out Last-Second Win",
+      "title": "Nakamura Sets New Chess.com Rating Record As Artemiev Pulls Off Last-Second Win",
       "link": "https://www.chess.com/news/view/artemiev-wins-titled-tuesday-october-6-2026",
       "source": "Chess.com",
       "date": "2026-10-06T20:53:06.000Z",
