@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T09:52:12.502Z",
+  "updated": "2026-10-08T17:08:09.690Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Beating the Sicilian with 3.Bc4 - seriously?",
+      "link": "https://en.chessbase.com/post/beating-the-sicilian-with-3-bc4",
+      "source": "ChessBase",
+      "date": "2026-10-08T12:00:00.000Z",
+      "summary": "This is not an advertisement! The 'amateur move' 3.Bc4 (without a subsequent d2-d4) against the Sicilian Defence, combined with a setup resembling the Italian Game, is becoming increasingly popular. Even top professionals are now using this system successfu…"
+    },
     {
       "title": "The 2026/27 season of the Bundesliga kicks off this weekend",
       "link": "https://en.chessbase.com/post/bundesliga-2026-27-kick-off",
