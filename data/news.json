@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T09:56:02.143Z",
+  "updated": "2026-10-09T16:47:58.412Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Dubov Accepts $20,000 100-Game Challenge From 'Bullet Grandpa'",
+      "link": "https://www.chess.com/news/view/club-player-challenges-dubov-to-100-bullet-games",
+      "source": "Chess.com",
+      "date": "2026-10-09T15:30:22.000Z",
+      "summary": "Josh Smith, an amateur player with a US Chess rating in the 1800s, is set to play GM Daniil Dubov in a 100-game bullet match with up to $20,000 on the line. But there is a catch: Dubov must win every single game to collect the full amount. The 49..."
+    },
+    {
+      "title": "Fabiano Caruana targets fifth consecutive US title",
+      "link": "https://en.chessbase.com/post/us-championships-2026-caruana-titles",
+      "source": "ChessBase",
+      "date": "2026-10-09T11:50:00.000Z",
+      "summary": "Fabiano Caruana has won the US Championship five times, including four consecutive titles from 2022 to 2025. His first victory came on his debut in 2016, shortly after returning to the US federation. At the 2026 edition in Saint Louis, Caruana can equal Sam…"
+    },
+    {
+      "title": "FIDE World Amateur Chess Championships 2026: Registration deadline extended",
+      "link": "https://www.fide.com/fide-world-amateur-chess-championships-2026-registration-deadline-extended/",
+      "source": "FIDE",
+      "date": "2026-10-09T11:11:07.000Z",
+      "summary": "All FIDE Member Federations and eligible players are invited to participate in the 2026 FIDE World Amateur Chess Championships, open to male and female players with a FIDE rating under 2300. The event will take place in Klang, Selangor, Malaysia, from Novem…"
+    },
     {
       "title": "Fagernes: Gloeckler holds outright lead with three rounds to go",
       "link": "https://en.chessbase.com/post/fagernes-autumn-2026-r7",
@@ -422,13 +443,6 @@
       "summary": "In a day full of miracles and turnarounds, Uzbekistan has regained sole lead of the 46th Chess Olympiad 2026 after beating top seed U.S. in round nine. GM Wesley So beat World Championship Challenger Javokhir Sindarov on board two, but the Nodirbe..."
     },
     {
-      "title": "Heartbreak For Minh Le, Victories For Carlsen, Maghsoodloo, Ashraf In 3 0 Thursday",
-      "link": "https://www.chess.com/news/view/carlsen-maghsoodloo-ashraf-3-0-thursday-09-24-2026",
-      "source": "Chess.com",
-      "date": "2026-09-25T16:42:41.000Z",
-      "summary": "They aren't playing in the Olympiad, but GMs Magnus Carlsen and Hikaru Nakamura both competed in the first 3 0 Thursday on September 24. Both players joined a tie atop the standings, with Carlsen taking first on tiebreaks, with help from a mouse s..."
-    },
-    {
       "title": "2026 Samarkand Olympiad Rounds 4–6: Uzbekistan in Sole Lead, Plays China in R7",
       "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-4-6-uzbekistan-in-sole-lead-plays-china-in-r7/NIRrBw3h",
       "source": "Lichess",
@@ -553,13 +567,6 @@
       "source": "ChessBase",
       "date": "2026-08-29T11:00:00.000Z",
       "summary": "Chess players, mark your calendars. The Icelandic Chess Federation, Goðinn Chess Club, and Reykjavík Chess Club are joining forces to present \"Town and Country\" – two spectacular tournaments that together offer 15 rounds of high-level chess in just 11 days,…"
-    },
-    {
-      "title": "Hassabis on chess and AI",
-      "link": "https://en.chessbase.com/post/hassabis-on-ai",
-      "source": "ChessBase",
-      "date": "2026-08-28T15:00:00.000Z",
-      "summary": "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neura…"
     }
   ]
 }
