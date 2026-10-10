@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T01:27:15.941Z",
+  "updated": "2026-10-10T08:00:56.301Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 2)",
+      "link": "https://en.chessbase.com/post/review-robert-ris-fritztrainers-on-openings-calculation-and-strategic-thinking-part-2",
+      "source": "ChessBase",
+      "date": "2026-10-10T07:00:00.000Z",
+      "summary": "In recent years, Robert Ris has made a name for himself as a creator of opening courses. He also hosts a regular ChessBase show on opening trends, in which he examines the latest developments. Lukas Köpl has taken a closer look at Ris's opening courses and…"
+    },
+    {
+      "title": "Duda Scores 10/11, Narrowly Misses First Perfect Score",
+      "link": "https://www.chess.com/news/view/duda-bortnyk-le-3-0-thursday-10-8-2026",
+      "source": "Chess.com",
+      "date": "2026-10-10T06:09:00.000Z",
+      "summary": "GMs Jan-Krzysztof Duda, Oleksandr Bortnyk, and Tuan Minh Le fended off prodigies and numerous 3000+ rated opponents to win October 8's 3 0 Thursday&nbsp;tournaments outright. Duda dominated the 215-player-strong first tournament and came close to..."
+    },
     {
       "title": "Dubov Accepts $20,000 100-Game Challenge From 'Bullet Grandpa'",
       "link": "https://www.chess.com/news/view/club-player-challenges-dubov-to-100-bullet-games",
@@ -287,13 +301,6 @@
       "source": "Lichess",
       "date": "2026-09-25T19:09:30.441Z",
       "summary": "Uzbekistan is in sole first on 16/18 match points, with India, Uzbekistan 2, and Armenia one point behind on 15/18; in the Women's, China is in sole first on 17/18 match points, with its closest rivals on 15/18 being India, Kazakhstan, and Mongolia."
-    },
-    {
-      "title": "Uzbekistan Beats U.S. To Take Sole Lead; Chinese Women Lead By 2 Points",
-      "link": "https://www.chess.com/news/view/2026-samarkand-chess-olympiad-round-9",
-      "source": "Chess.com",
-      "date": "2026-09-25T16:45:00.000Z",
-      "summary": "In a day full of miracles and turnarounds, Uzbekistan has regained sole lead of the 46th Chess Olympiad 2026 after beating top seed U.S. in round nine. GM Wesley So beat World Championship Challenger Javokhir Sindarov on board two, but the Nodirbe..."
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 4–6: Uzbekistan in Sole Lead, Plays China in R7",
