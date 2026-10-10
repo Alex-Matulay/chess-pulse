@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T14:59:00.143Z",
+  "updated": "2026-10-10T19:11:39.999Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,25 +9,39 @@
   ],
   "items": [
     {
+      "title": "US Championships - Live!",
+      "link": "https://en.chessbase.com/post/us-championships-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-10T19:00:00.000Z",
+      "summary": "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in th…"
+    },
+    {
+      "title": "Between the Silk Road and the chessboard - eight days in Uzbekistan",
+      "link": "https://en.chessbase.com/post/eight-days-uzbekistan-axel-eger",
+      "source": "ChessBase",
+      "date": "2026-10-10T17:40:00.000Z",
+      "summary": "Besides the spectacular Chess Olympiad, Uzbekistan and the city of Samarkand had much more to offer, including friendly people and 2,500 years of culture. Axel Eger attended the Olympiad and took the opportunity to explore the country and get to know its pe…"
+    },
+    {
+      "title": "Record field set for 6th Intercontinental Chess Championship for Prisoners",
+      "link": "https://www.fide.com/record-field-set-for-6th-intercontinental-chess-championship-for-prisoners/",
+      "source": "FIDE",
+      "date": "2026-10-10T16:10:38.000Z",
+      "summary": "The 6th Intercontinental Online Chess Championship for Prisoners will take place on October 13–15, 2026, bringing together incarcerated players from around the world for three days of international online competition. This year’s championship is set to esta…"
+    },
+    {
       "title": "Maghsoodloo Wins Star-Studded Freestyle Friday",
       "link": "https://www.chess.com/news/view/maghsoodloo-wins-freestyle-friday-october-9-2026",
       "source": "Chess.com",
-      "date": "2026-10-10T14:47:09.000Z",
+      "date": "2026-10-10T14:47:00.000Z",
       "summary": "GM Parham Maghsoodloo took a step closer to qualifying for the 2027 FIDE Freestyle Chess World Championship by taking out the latest edition of Freestyle Friday. Maghsoodloo scored 9/11 en route to victory, suffering only a single loss to one of U..."
-    },
-    {
-      "title": "US Championships: Liang beats Niemann in all-around exciting first round",
-      "link": "https://en.chessbase.com/post/us-championships-2026-1",
-      "source": "ChessBase",
-      "date": "2026-10-10T13:25:00.000Z",
-      "summary": "Wesley So, Awonder Liang and Jeffery Xiong scored victories with the white pieces in the opening round of the US Championship in Saint Louis, while defending champion Fabiano Caruana drew his game against Levon Aronian in just 17 moves. In the women's tourn…"
     },
     {
       "title": "Birthday Boy Wesley So Starts U.S. Championship With Topsy-Turvy Win",
       "link": "https://www.chess.com/news/view/2026-us-chess-championship-round-1",
       "source": "Chess.com",
       "date": "2026-10-10T08:55:00.000Z",
-      "summary": "Three-time national champion GM Wesley So celebrated his 33rd birthday with a win over GM Sam Shankland in the first round of the 2026 U.S. Chess Championship, which started in St. Louis on Friday. GMs Jeffery Xiong and Awonder Liang were the othe..."
+      "summary": "Three-time national champion GM Wesley So celebrated his 33rd birthday with a win over GM Sam Shankland in the first round of the 2026 U.S. Chess Championship, which started in St. Louis on Friday. GMs Jeffery Xiong and Awonder Liang also started ..."
     },
     {
       "title": "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 2)",
@@ -189,13 +203,6 @@
       "source": "FIDE",
       "date": "2026-10-01T20:43:15.000Z",
       "summary": "The third day of the European Continental Stage of the FIDE ISCF World Schools Team Championship 2026 elevated the competitive intensity to new heights in Tsaghkadzor, Armenia. With the tournament crossing into its critical second half, Rounds 5 and 6 deliv…"
-    },
-    {
-      "title": "Road to Weissenhaus 2027: Freestyle Friday is back",
-      "link": "https://www.fide.com/road-to-weissenhaus-2027-freestyle-friday-is-back/",
-      "source": "FIDE",
-      "date": "2026-10-01T19:56:02.000Z",
-      "summary": "The World Championship race restarts this Friday, and the door is still wide open. Hamburg / Weissenhaus, October 1, 2026 – The race to the 2027 FIDE Freestyle Chess World Championship is back on. Freestyle Friday, the weekly online tournament on Chess.com,…"
     },
     {
       "title": "Olympiad Stars Abdusattorov, Erdogmus Climb On October FIDE Rating List",
