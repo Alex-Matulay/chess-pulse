@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T21:25:48.554Z",
+  "updated": "2026-10-10T01:27:15.941Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,18 +9,18 @@
   ],
   "items": [
     {
-      "title": "US Championships - Live!",
-      "link": "https://en.chessbase.com/post/us-championships-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-09T19:00:00.000Z",
-      "summary": "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in th…"
-    },
-    {
       "title": "Dubov Accepts $20,000 100-Game Challenge From 'Bullet Grandpa'",
       "link": "https://www.chess.com/news/view/club-player-challenges-dubov-to-100-bullet-games",
       "source": "Chess.com",
       "date": "2026-10-09T15:30:22.000Z",
       "summary": "Josh Smith, an amateur player with a US Chess rating in the 1800s, is set to play GM Daniil Dubov in a 100-game bullet match with up to $20,000 on the line. But there is a catch: Dubov must win every single game to collect the full amount. The 49..."
+    },
+    {
+      "title": "Fabiano Caruana targets fifth consecutive US title",
+      "link": "https://en.chessbase.com/post/us-championships-2026-caruana-titles",
+      "source": "ChessBase",
+      "date": "2026-10-09T11:50:00.000Z",
+      "summary": "Fabiano Caruana has won the US Championship five times, including four consecutive titles from 2022 to 2025. His first victory came on his debut in 2016, shortly after returning to the US federation. At the 2026 edition in Saint Louis, Caruana can equal Sam…"
     },
     {
       "title": "FIDE World Amateur Chess Championships 2026: Registration deadline extended",
