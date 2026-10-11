@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T23:09:09.012Z",
+  "updated": "2026-10-11T03:37:50.504Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,32 @@
   ],
   "items": [
     {
-      "title": "US Championships - Live!",
-      "link": "https://en.chessbase.com/post/us-championships-2026-live",
+      "title": "US Championships: So and Liang remain perfect, Paragua beats Yip",
+      "link": "https://en.chessbase.com/post/us-championships-2026-2",
       "source": "ChessBase",
-      "date": "2026-10-10T19:00:00.000Z",
-      "summary": "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in th…"
+      "date": "2026-10-11T04:45:00.000Z",
+      "summary": "Wesley So and Awonder Liang remain the only players with perfect scores in the open section of the US Championship after two rounds. Fabiano Caruana stands alone in third place, half a point behind. In the women's tournament, the two lowest-rated participan…"
+    },
+    {
+      "title": "Wesley So, Awonder Liang Lead Open; Paragua, Cervantes Lead Women With Perfect Scores",
+      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-2",
+      "source": "Chess.com",
+      "date": "2026-10-11T02:58:47.000Z",
+      "summary": "GMs Wesley So and Awonder Liang won again in round two of the 2026 U.S. Chess Championship to lead with 2/2 perfect scores. So was much worse against GM Jeffery Xiong but turned it around, while Liang converted an endgame to give GM Sam Sevian his..."
+    },
+    {
+      "title": "The strange comforts of superstition in chess",
+      "link": "https://en.chessbase.com/post/strange-comforts-superstition-chess",
+      "source": "ChessBase",
+      "date": "2026-10-11T02:00:00.000Z",
+      "summary": "Chess sells itself as a contest of calculation, where chance has been removed. Yet some elite players keep lucky pens, repeat outfits and meals, or give a cat a place in their pre-game routine. The interesting question is not whether a lucky charm can chang…"
+    },
+    {
+      "title": "Nakamura Makes History With Record 5th Straight Bullet Brawl Victory",
+      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-10-2026",
+      "source": "Chess.com",
+      "date": "2026-10-11T00:14:00.000Z",
+      "summary": "History was made in the Bullet Brawl arena on Saturday as GM Hikaru Nakamura acquired his fifth straight title, eclipsing a record set and shared by the late GM Daniel Naroditsky and himself back in 2023. Nakamura made his biggest move in the sec..."
     },
     {
       "title": "Between the Silk Road and the chessboard - eight days in Uzbekistan",
@@ -289,25 +310,11 @@
       "summary": "GM Hikaru Nakamura won Bullet Brawl for the third consecutive week on September 26. He once again dominated the event, winning by a 25-point margin with 172 points. GM Tuan Minh Le took second place with 147 points, three points ahead of GM Oleksa..."
     },
     {
-      "title": "Aronian, Le, Mamedyarov Complete 24-Player Total Chess Pilot Field",
-      "link": "https://www.chess.com/news/view/aronian-liem-mamedyarov-complete-24-player-total-chess-pilot-field",
-      "source": "Chess.com",
-      "date": "2026-09-28T14:08:56.000Z",
-      "summary": "GMs Levon Aronian,&nbsp;Liem Le, and Shakhriyar Mamedyarov are among the final six players confirmed for the Total Chess World Championship Tour Pilot, completing the 24-player field for the November 10-20 event in Budapest, Hungary. GMs Jorden v..."
-    },
-    {
       "title": "2026 Samarkand Olympiad Rounds 10–11: Uzbekistan, China Win Open, Women’s",
       "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-10-11-uzbekistan-china-win-open-womens/W0x2a9bz",
       "source": "Lichess",
       "date": "2026-09-27T13:39:19.439Z",
       "summary": "Uzbekistan wins the open on 20/22 match points, with India taking the silver and Germany the bronze. In the Women's, China won two points clear of the field on 20 match points, with Kazakhstan in 2nd on 18 and India in third on 17."
-    },
-    {
-      "title": "🥇 Uzbekistan, China Both Win To Clinch Olympiad Gold",
-      "link": "https://www.chess.com/news/view/uzbekistan-china-win-2026-samarkand-chess-olympiad",
-      "source": "Chess.com",
-      "date": "2026-09-27T12:19:00.000Z",
-      "summary": "Uzbekistan has won its second Olympiad gold, this time on home soil, in the 46th Chess Olympiad 2026 in Samarkand. GM Mukhiddin Madaminov was the last-day hero, winning a sharp clash with GM Roman Dehtiarov in a 2.5-1.5 win over Ukraine. World Cha..."
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 7–9: Uzbekistan & China Lead Open and Women’s",
