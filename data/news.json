@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T16:29:31.808Z",
+  "updated": "2026-10-11T20:44:40.765Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "US Championships - Live!",
+      "link": "https://en.chessbase.com/post/us-championships-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-11T19:00:00.000Z",
+      "summary": "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in th…"
+    },
     {
       "title": "The Chess Olympiad that wasn't: Munich 1936",
       "link": "https://en.chessbase.com/post/chess-olympiad-that-was-not-munich-1936",
