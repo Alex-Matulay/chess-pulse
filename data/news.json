@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T10:31:32.080Z",
+  "updated": "2026-10-11T16:29:31.808Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "The Chess Olympiad that wasn't: Munich 1936",
+      "link": "https://en.chessbase.com/post/chess-olympiad-that-was-not-munich-1936",
+      "source": "ChessBase",
+      "date": "2026-10-11T13:00:00.000Z",
+      "summary": "Among all the Chess Olympiads held throughout history, the 1936 tournament in Munich occupies a special place. FIDE did not officially recognise the event as a Chess Olympiad. Nevertheless, the competition between national teams met all the requirements. Li…"
+    },
     {
       "title": "US Championships: So and Liang remain perfect, Paragua beats Yip",
       "link": "https://en.chessbase.com/post/us-championships-2026-2",
