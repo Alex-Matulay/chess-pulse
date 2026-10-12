@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T16:25:29.519Z",
+  "updated": "2026-10-12T23:25:48.225Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "US Championships - Live!",
+      "link": "https://en.chessbase.com/post/us-championships-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-12T19:00:00.000Z",
+      "summary": "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, whi…"
+    },
+    {
+      "title": "Fagernes: Jumabayev takes title, Gloeckler secures second GM norm",
+      "link": "https://en.chessbase.com/post/fagernes-autumn-2026-r10",
+      "source": "ChessBase",
+      "date": "2026-10-12T18:40:00.000Z",
+      "summary": "Fourteen-year-old Christian Gloeckler secured his second grandmaster norm at the International Autumn Tournament in Fagernes, Norway. Although the German youngster lost his final two games, this did not affect the norm he had already secured. Rinat Jumabaye…"
+    },
     {
       "title": "US Championships: Shankland and Woodward score",
       "link": "https://en.chessbase.com/post/us-championships-2026-3",
