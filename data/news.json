@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T06:53:04.397Z",
+  "updated": "2026-10-12T16:25:29.519Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,18 +9,53 @@
   ],
   "items": [
     {
+      "title": "US Championships: Shankland and Woodward score",
+      "link": "https://en.chessbase.com/post/us-championships-2026-3",
+      "source": "ChessBase",
+      "date": "2026-10-12T17:20:00.000Z",
+      "summary": "Wesley So and Awonder Liang drew their direct encounter in round three of the US Championship, remaining tied for first place on 2½/3. Andy Woodward and Sam Shankland (pictured) scored victories, with Woodward joining Fabiano Caruana half a point behind the…"
+    },
+    {
+      "title": "FIDE General Assembly adopts resolution on shorter time controls: What it means",
+      "link": "https://www.fide.com/fide-general-assembly-adopts-resolution-on-shorter-time-controls-what-it-means/",
+      "source": "FIDE",
+      "date": "2026-10-12T13:29:27.000Z",
+      "summary": "The FIDE General Assembly has formally supported a resolution based on a proposal by the Icelandic Chess Federation concerning shorter time controls in classical chess. However, the adoption of the resolution does not mean that the regulations change immedi…"
+    },
+    {
+      "title": "FIDE General Assembly 2026: List of decisions",
+      "link": "https://www.fide.com/fide-general-assembly-2026-list-of-decisions/",
+      "source": "FIDE",
+      "date": "2026-10-12T12:16:36.000Z",
+      "summary": "FIDE General Assembly September 26-27, 2026 Samarkand, Uzbekistan List of decisions GA-2026/01 To approve the Electoral Commission’s report. GA-2026/02 To elect three Scrutineers: Ms. Nina Rob (SLO), Mr. Francisco J Cruz Arce (PUR), Mr. Sidi Mohammed Tajedi…"
+    },
+    {
+      "title": "3rd FIDE Council Meeting 2026: List of decisions",
+      "link": "https://www.fide.com/3rd-fide-council-meeting-2026-list-of-decisions/",
+      "source": "FIDE",
+      "date": "2026-10-12T12:06:42.000Z",
+      "summary": "3rd FIDE Council Meeting September 21, 2026 List of decisions CM3-2026/01 To note Interim President’s report. CM3-2026/02 To approve Treasurer’s report. CM3-2026/03 To note the Global Strategy Commission’ Report. CM3-2026/04 To note the Arbiters’ Commission…"
+    },
+    {
+      "title": "Media accreditation for the Salesforce FIDE World Championship is now open",
+      "link": "https://www.fide.com/media-accreditation-for-the-salesforce-fide-world-championship-is-now-open/",
+      "source": "FIDE",
+      "date": "2026-10-12T08:55:03.000Z",
+      "summary": "The Salesforce FIDE World Chess Championship begins on November 22, 2026, in Geneva, Switzerland. The first of 14 games between World Champion Gukesh D of India and Challenger Javokhir Sindarov of Uzbekistan will be played on November 24. Two 20-year-old pr…"
+    },
+    {
+      "title": "Woodward, Shankland Strike; Alice Lee Joins Women's Leaders",
+      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-3",
+      "source": "Chess.com",
+      "date": "2026-10-12T07:40:22.000Z",
+      "summary": "GMs Wesley So and Awonder Liang continued as joint leaders with 2.5 points after their mutual encounter ended in a draw in the third round of the 2026 U.S. Chess Championship. GM Andy Woodward was rewarded with a win for his dynamic play against G..."
+    },
+    {
       "title": "Bundesliga: Viernheim and Baden-Baden set the early pace",
       "link": "https://en.chessbase.com/post/bundesliga-2026-27-r3",
       "source": "ChessBase",
       "date": "2026-10-12T07:25:00.000Z",
       "summary": "Defending champions SC Viernheim and perennial favourites OSG Baden-Baden are the only teams to have won all three matches in the opening weekend of the 2026/27 Chess Bundesliga. Viernheim lead on board points, while Bayern Munich sit third with 5/6 match p…"
-    },
-    {
-      "title": "US Championships - Live!",
-      "link": "https://en.chessbase.com/post/us-championships-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-11T19:00:00.000Z",
-      "summary": "The 2026 US Chess Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in th…"
     },
     {
       "title": "The Chess Olympiad that wasn't: Munich 1936",
@@ -212,39 +247,11 @@
       "summary": "GM Matthias Bluebaum won the return tournament of Freestyle Friday on October 2 with nine points, taking the tournament outright ahead of GMs Oleksandr Bortnyk, Pranav Venkatesh, and SL Narayanan on 8.5/11. Pranav clinched an appearance in next ye..."
     },
     {
-      "title": "From Tsaghkadzor to Grand Final: European Schools Chess Champions crowned amidst cultural celebration",
-      "link": "https://www.fide.com/from-tsaghkadzor-to-grand-final-european-schools-chess-champions-crowned-amidst-cultural-celebration/",
-      "source": "FIDE",
-      "date": "2026-10-02T21:26:39.000Z",
-      "summary": "The curtain fell on the World Schools Team Championship Europe 2026. After four days of intense competition, brilliant sacrifices, and unparalleled teamwork, the young chess champions were crowned in Tsaghkadzor, Armenia. Gymnasium No. 50 of Minsk (Belarus)…"
-    },
-    {
       "title": "Freestyle Friday Returns With World Championship Spots On The Line",
       "link": "https://www.chess.com/news/view/freestyle-friday-returns-october-2-with-world-championship-spots-on-the-line",
       "source": "Chess.com",
       "date": "2026-10-02T15:00:00.000Z",
       "summary": "Freestyle Friday returns to Chess.com this Friday, October 2, resuming the race for places in the 2027 FIDE Freestyle Chess World Championships. Ten weekly tournaments remain before December's knockout finals, which will award one qualification sp..."
-    },
-    {
-      "title": "Small Nations Chess Association restarts activities and elects new Board",
-      "link": "https://www.fide.com/small-nations-chess-association-restarts-activities-and-elects-new-board/",
-      "source": "FIDE",
-      "date": "2026-10-02T13:26:42.000Z",
-      "summary": "Members of the Small Nations Chess Association (SNACA) convened in Samarkand, Uzbekistan, for the Association’s General Assembly, where they agreed to revitalize SNACA’s operations, approved new statutes, and elected a new Board to serve a two-year term. SN…"
-    },
-    {
-      "title": "“Theory and Practice of Chess Education” conference begins in Tsaghkadzor",
-      "link": "https://www.fide.com/theory-and-practice-of-chess-education-conference-begins-in-tsaghkadzor/",
-      "source": "FIDE",
-      "date": "2026-10-01T21:32:13.000Z",
-      "summary": "Alongside the 2026 World Schools Chess Championship – Europe, the International Scientific Conference “Theory and Practice of Chess Education” officially commenced in Tsaghkadzor, Armenia, running from October 1–2, 2026. Serving as a cornerstone event durin…"
-    },
-    {
-      "title": "WSTC Europe Day 3: Competitions, tactical masterclasses and high-altitude adventures in Tsaghkadzor",
-      "link": "https://www.fide.com/wstc-europe-day-3-competitions-tactical-masterclasses-and-high-altitude-adventures-in-tsaghkadzor/",
-      "source": "FIDE",
-      "date": "2026-10-01T20:43:15.000Z",
-      "summary": "The third day of the European Continental Stage of the FIDE ISCF World Schools Team Championship 2026 elevated the competitive intensity to new heights in Tsaghkadzor, Armenia. With the tournament crossing into its critical second half, Rounds 5 and 6 deliv…"
     },
     {
       "title": "Olympiad Stars Abdusattorov, Erdogmus Climb On October FIDE Rating List",
@@ -322,13 +329,6 @@
       "source": "Chess.com",
       "date": "2026-09-29T13:00:00.000Z",
       "summary": "Your LinkedIn profile tells the story of your professional life. Now, it can also tell people that you&rsquo;re a chess player. Every rating point you&rsquo;ve earned, every puzzle you&rsquo;ve solved, and every game you&rsquo;ve played is part o..."
-    },
-    {
-      "title": "Nakamura Completes Bullet Brawl Hat Trick",
-      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-09-26-2026",
-      "source": "Chess.com",
-      "date": "2026-09-28T20:28:00.000Z",
-      "summary": "GM Hikaru Nakamura won Bullet Brawl for the third consecutive week on September 26. He once again dominated the event, winning by a 25-point margin with 172 points. GM Tuan Minh Le took second place with 147 points, three points ahead of GM Oleksa..."
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 10–11: Uzbekistan, China Win Open, Women’s",
@@ -469,13 +469,6 @@
       "source": "ChessBase",
       "date": "2026-08-29T11:00:00.000Z",
       "summary": "Chess players, mark your calendars. The Icelandic Chess Federation, Goðinn Chess Club, and Reykjavík Chess Club are joining forces to present \"Town and Country\" – two spectacular tournaments that together offer 15 rounds of high-level chess in just 11 days,…"
-    },
-    {
-      "title": "Hassabis on chess and AI",
-      "link": "https://en.chessbase.com/post/hassabis-on-ai",
-      "source": "ChessBase",
-      "date": "2026-08-28T15:00:00.000Z",
-      "summary": "In a 15-minute video, Demis Hassabis, one of the central scientists working on artificial intelligence, tells us why he worries about AI going rogue. Hassabis, head of Google AI research, is a very strong chess player who created Alpha zero, the first neura…"
     }
   ]
 }
