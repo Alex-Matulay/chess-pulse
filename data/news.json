@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T23:25:48.225Z",
+  "updated": "2026-10-13T05:11:06.777Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Yu Yangyi beats Ding Liren in final match, wins Shenzhen Masters",
+      "link": "https://en.chessbase.com/post/shenzhen-nanshan-mastes-2026-report",
+      "source": "ChessBase",
+      "date": "2026-10-13T02:45:00.000Z",
+      "summary": "At the Shenzhen Masters, China's leading players faced young talents. The matches were contested in a knockout format, with four rapid games per encounter. In the event of a draw, blitz tiebreaks decided the matches. Defending champion Ding Liren faced Yu Y…"
+    },
     {
       "title": "US Championships - Live!",
       "link": "https://en.chessbase.com/post/us-championships-2026-live",
