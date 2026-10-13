@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T05:11:06.777Z",
+  "updated": "2026-10-13T13:25:24.669Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "A dispute in the Bundesliga",
+      "link": "https://en.chessbase.com/post/a-dispute-in-the-bundesliga",
+      "source": "ChessBase",
+      "date": "2026-10-13T12:33:33.000Z",
+      "summary": "The German Chess Bundesliga is known for its continuity. For decades, it has operated under well-established rules, although players, spectators and arbiters have not always agreed on how to apply them. A particularly curious case arose in the 1986/87 seaso…"
+    },
+    {
+      "title": "Greek Championship 2026: Evgenios Ioannidis and Stavroula Tsolakidou win titles",
+      "link": "https://www.fide.com/greek-championship-2026-evgenios-ioannidis-wins-maiden-title/",
+      "source": "FIDE",
+      "date": "2026-10-13T11:57:07.000Z",
+      "summary": "GM Evgenios Ioannidis and IM Stavroula Tsolakidou are the new Greek chess champions. Ioannidis claimed his maiden national crown, while Tsolakidou won her second title. The 75th edition of the Greek Championship (open section) took place from October 3 to 1…"
+    },
+    {
+      "title": "Day Of Endgames Sees Caruana Join So At Top; Lee Sole Leader In Women's",
+      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-4",
+      "source": "Chess.com",
+      "date": "2026-10-13T08:04:00.000Z",
+      "summary": "It was a day of endgames in round four of the 2026 U.S. Chess Championship, with GM Fabiano Caruana scoring a long grinding win over GM Ray Robson to join GM Wesley So in the lead on three points. In other games, GMs Jeffery Xiong, Grigoriy Oparin..."
+    },
+    {
+      "title": "Titled Arenas Announcement — October to December 2026",
+      "link": "https://lichess.org/@/Lichess/blog/titled-arenas-announcement-october-to-december-2026/WuJIesah",
+      "source": "Lichess",
+      "date": "2026-10-13T05:51:46.672Z",
+      "summary": "Announcing our schedule for upcoming Titled Arenas!"
+    },
     {
       "title": "Yu Yangyi beats Ding Liren in final match, wins Shenzhen Masters",
       "link": "https://en.chessbase.com/post/shenzhen-nanshan-mastes-2026-report",
@@ -212,13 +240,6 @@
       "summary": "The International Chess Federation (FIDE) and the Egyptian Chess Federation are pleased to invite all the member federations to the 2026 FIDE World U7-U17 Rapid and Blitz Championships. The event will take place in Cairo, Egypt, from December 8 (arrival) to…"
     },
     {
-      "title": "FIDE Announces Open Call for Commission Nominations",
-      "link": "https://www.fide.com/fide-announces-open-call-for-commission-nominations/",
-      "source": "FIDE",
-      "date": "2026-10-05T14:33:59.000Z",
-      "summary": "Following the election of the new FIDE leadership, we are entering a new chapter of our work – building on what has been achieved, continuing the projects that have proven successful, and developing new initiatives that can make FIDE and chess even more eff…"
-    },
-    {
       "title": "Lichess Game of the Month: August '26",
       "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-august-26/ekVdAfDN",
       "source": "Lichess",
@@ -343,13 +364,6 @@
       "source": "Chess.com",
       "date": "2026-09-29T16:00:00.000Z",
       "summary": "The smartest chessboard on the market, ChessUp, is back with a new addition to its smart chessboard lineup. With a dedicated button that starts a Chess.com game on your favorite time control, the new ChessUp Lite is the fastest way to play online ..."
-    },
-    {
-      "title": "New Feature: Add Your Chess.com Stats To LinkedIn",
-      "link": "https://www.chess.com/news/view/chess-com-stats-linkedin-profile-integration",
-      "source": "Chess.com",
-      "date": "2026-09-29T13:00:00.000Z",
-      "summary": "Your LinkedIn profile tells the story of your professional life. Now, it can also tell people that you&rsquo;re a chess player. Every rating point you&rsquo;ve earned, every puzzle you&rsquo;ve solved, and every game you&rsquo;ve played is part o..."
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 10–11: Uzbekistan, China Win Open, Women’s",
@@ -483,13 +497,6 @@
       "source": "The Week in Chess",
       "date": "2026-08-29T18:17:00.000Z",
       "summary": "The Grand Chess Tour Finals took place in Saint Louis 22nd to 27th August 2026. This was the final event of the tour and a total prize fund of $450,000, was distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,00…"
-    },
-    {
-      "title": "Fridrik Olafsson Memorial",
-      "link": "https://en.chessbase.com/post/fridrik-olafsson-memorial",
-      "source": "ChessBase",
-      "date": "2026-08-29T11:00:00.000Z",
-      "summary": "Chess players, mark your calendars. The Icelandic Chess Federation, Goðinn Chess Club, and Reykjavík Chess Club are joining forces to present \"Town and Country\" – two spectacular tournaments that together offer 15 rounds of high-level chess in just 11 days,…"
     }
   ]
 }
