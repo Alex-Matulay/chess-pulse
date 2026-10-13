@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T13:25:24.669Z",
+  "updated": "2026-10-13T20:01:19.036Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Caruana Wins Titled Tuesday On Day Off In U.S. Championship",
+      "link": "https://www.chess.com/news/view/caruana-wins-titled-tuesday-october-13-2026",
+      "source": "Chess.com",
+      "date": "2026-10-13T18:44:54.000Z",
+      "summary": "GM Fabiano Caruana won Titled Tuesday on October 13 during an off day in the 2026 U.S. Championship&mdash;where he currently shares the tournament lead&mdash;defeating GM Nihal Sarin in a key 10th-round matchup. Caruana then only made a draw in th..."
+    },
+    {
+      "title": "Bodhana in the Bundesliga",
+      "link": "https://en.chessbase.com/post/bodhabna-in-the-bundesliga",
+      "source": "ChessBase",
+      "date": "2026-10-13T17:49:30.000Z",
+      "summary": "Bodhana Sivanandan made her debut in the Second Bundesliga this weekend, playing for the Hamburger SK's men's team. She is the youngest youngest player ever to play in the German Bundesliga, and the youngest WGM in history. Her score in the two games she pl…"
+    },
     {
       "title": "A dispute in the Bundesliga",
       "link": "https://en.chessbase.com/post/a-dispute-in-the-bundesliga",
@@ -42,13 +56,6 @@
       "source": "ChessBase",
       "date": "2026-10-13T02:45:00.000Z",
       "summary": "At the Shenzhen Masters, China's leading players faced young talents. The matches were contested in a knockout format, with four rapid games per encounter. In the event of a draw, blitz tiebreaks decided the matches. Defending champion Ding Liren faced Yu Y…"
-    },
-    {
-      "title": "US Championships - Live!",
-      "link": "https://en.chessbase.com/post/us-championships-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-12T19:00:00.000Z",
-      "summary": "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, whi…"
     },
     {
       "title": "Fagernes: Jumabayev takes title, Gloeckler secures second GM norm",
@@ -359,13 +366,6 @@
       "summary": "The Collegiate Chess League, the leading online chess competition for college students, started with two tight matches and one blowout in the top division's opening round. Texas Tech defeated three-time league champions the University of Missouri ..."
     },
     {
-      "title": "Meet Screen-Free Chess.com With New ChessUp Lite Smart Board",
-      "link": "https://www.chess.com/news/view/announcing-chessup-lite",
-      "source": "Chess.com",
-      "date": "2026-09-29T16:00:00.000Z",
-      "summary": "The smartest chessboard on the market, ChessUp, is back with a new addition to its smart chessboard lineup. With a dedicated button that starts a Chess.com game on your favorite time control, the new ChessUp Lite is the fastest way to play online ..."
-    },
-    {
       "title": "2026 Samarkand Olympiad Rounds 10–11: Uzbekistan, China Win Open, Women’s",
       "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-10-11-uzbekistan-china-win-open-womens/W0x2a9bz",
       "source": "Lichess",
@@ -490,13 +490,6 @@
       "source": "The Week in Chess",
       "date": "2026-08-30T16:05:00.000Z",
       "summary": "The Sofia Cup, also known as the Balkan Rapid and Blitz Championships took place 29th to 30th August 2026. Players: Alireza Firouzja Rauf Mamedov, Eduardo Iturrizaga Bonelli, Vojtech Plat, Leon Livaic, Sanan Sjugirov, Ediz Gurel, Ivan Cheparinov etc. Rauf M…"
-    },
-    {
-      "title": "Grand Chess Tour Finals 2026 - Games and results",
-      "link": "https://theweekinchess.com/chessnews/events/grand-chess-tour-finals-2026",
-      "source": "The Week in Chess",
-      "date": "2026-08-29T18:17:00.000Z",
-      "summary": "The Grand Chess Tour Finals took place in Saint Louis 22nd to 27th August 2026. This was the final event of the tour and a total prize fund of $450,000, was distributed as follows: $200,000 for first place, $125,000 for second, $75,000 for third, and $50,00…"
     }
   ]
 }
