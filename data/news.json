@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T05:44:02.433Z",
+  "updated": "2026-10-14T11:03:09.020Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Ticket sales for the Salesforce FIDE World Championship are now open",
+      "link": "https://www.fide.com/ticket-sales-for-the-salesforce-fide-world-championship-are-now-open/",
+      "source": "FIDE",
+      "date": "2026-10-14T07:38:51.000Z",
+      "summary": "The most anticipated chess event of the year, the match for the world crown, opens on 22 November in Geneva, Switzerland, with the first game scheduled for 24 November. Two 20-year-old prodigies, World Champion Gukesh D of India and Challenger Javokhir Sind…"
+    },
     {
       "title": "FIDE General Assembly adopts resolution on shorter time controls",
       "link": "https://en.chessbase.com/post/shorter-time-controls-fide-general-assembly",
@@ -100,14 +107,14 @@
       "summary": "The FIDE General Assembly has formally supported a resolution based on a proposal by the Icelandic Chess Federation concerning shorter time controls in classical chess. However, the adoption of the resolution does not mean that the regulations change immedi…"
     },
     {
-      "title": "FIDE General Assembly 2026: List of decisions",
+      "title": "2026 FIDE General Assembly: List of decisions",
       "link": "https://www.fide.com/fide-general-assembly-2026-list-of-decisions/",
       "source": "FIDE",
       "date": "2026-10-12T12:16:36.000Z",
       "summary": "FIDE General Assembly September 26-27, 2026 Samarkand, Uzbekistan List of decisions GA-2026/01 To approve the Electoral Commission’s report. GA-2026/02 To elect three Scrutineers: Ms. Nina Rob (SLO), Mr. Francisco J Cruz Arce (PUR), Mr. Sidi Mohammed Tajedi…"
     },
     {
-      "title": "3rd FIDE Council Meeting 2026: List of decisions",
+      "title": "2026 3rd FIDE Council Meeting: List of decisions",
       "link": "https://www.fide.com/3rd-fide-council-meeting-2026-list-of-decisions/",
       "source": "FIDE",
       "date": "2026-10-12T12:06:42.000Z",
@@ -252,13 +259,6 @@
       "source": "Chess.com",
       "date": "2026-10-06T20:53:06.000Z",
       "summary": "A day after becoming the first 3500-rated Chess.com Blitz player in site history, GM Hikaru Nakamura upped his record to 3503 while streaming Titled Tuesday live from Sithonia, Greece, on October 6. Unfortunately for Nakamura, he did not ultimatel..."
-    },
-    {
-      "title": "FIDE World Senior Team Championships 2027: Registration opens",
-      "link": "https://www.fide.com/fide-world-senior-team-championships-2027-registration-opens/",
-      "source": "FIDE",
-      "date": "2026-10-06T11:40:56.000Z",
-      "summary": "FIDE, the German Chess Federation (DSB) and LandesSchachverband Sachsen-Anhalt e. V. invite all FIDE member federations and eligible teams to participate in the World Senior Team Chess Championships taking place in Magdeburg, Germany from March 31 (arrival)…"
     },
     {
       "title": "Lichess Game of the Month: August '26",
