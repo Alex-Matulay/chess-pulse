@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T00:05:09.335Z",
+  "updated": "2026-10-14T05:44:02.433Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,25 @@
   ],
   "items": [
     {
+      "title": "FIDE General Assembly adopts resolution on shorter time controls",
+      "link": "https://en.chessbase.com/post/shorter-time-controls-fide-general-assembly",
+      "source": "ChessBase",
+      "date": "2026-10-14T06:10:00.000Z",
+      "summary": "FIDE is preparing changes to the regulations governing shorter classical time controls following a General Assembly resolution based on a proposal from the Icelandic Chess Federation. The FIDE Council plans to make 60+30 a standard classical control without…"
+    },
+    {
       "title": "6th Intercontinental Online Chess Championship for Prisoners kicks off with record 140 teams",
       "link": "https://www.fide.com/6th-intercontinental-online-chess-championship-for-prisoners-kicks-off-with-record-140-teams/",
       "source": "FIDE",
       "date": "2026-10-13T21:47:47.000Z",
       "summary": "The 6th Intercontinental Online Chess Championship for Prisoners kicked off on October 13, bringing together incarcerated players from around the world for three days of international online competition. This year’s championship established a new participat…"
+    },
+    {
+      "title": "US Championships: Caruana climbs to the shared lead in the open, Lee takes the sole lead in the women's",
+      "link": "https://en.chessbase.com/post/us-championships-2026-4",
+      "source": "ChessBase",
+      "date": "2026-10-13T19:45:00.000Z",
+      "summary": "Fabiano Caruana defeated Ray Robson in round four of the US Championship to join Wesley So in the lead on 3/4. Awonder Liang suffered his first defeat against Jeffery Xiong, while Hans Niemann also collected a full point. In the women's tournament, Alice Le…"
     },
     {
       "title": "Caruana Wins Titled Tuesday On Day Off In U.S. Championship",
