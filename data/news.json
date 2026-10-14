@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T20:01:19.036Z",
+  "updated": "2026-10-14T00:05:09.335Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "6th Intercontinental Online Chess Championship for Prisoners kicks off with record 140 teams",
+      "link": "https://www.fide.com/6th-intercontinental-online-chess-championship-for-prisoners-kicks-off-with-record-140-teams/",
+      "source": "FIDE",
+      "date": "2026-10-13T21:47:47.000Z",
+      "summary": "The 6th Intercontinental Online Chess Championship for Prisoners kicked off on October 13, bringing together incarcerated players from around the world for three days of international online competition. This year’s championship established a new participat…"
+    },
     {
       "title": "Caruana Wins Titled Tuesday On Day Off In U.S. Championship",
       "link": "https://www.chess.com/news/view/caruana-wins-titled-tuesday-october-13-2026",
@@ -238,13 +245,6 @@
       "source": "FIDE",
       "date": "2026-10-06T11:40:56.000Z",
       "summary": "FIDE, the German Chess Federation (DSB) and LandesSchachverband Sachsen-Anhalt e. V. invite all FIDE member federations and eligible teams to participate in the World Senior Team Chess Championships taking place in Magdeburg, Germany from March 31 (arrival)…"
-    },
-    {
-      "title": "FIDE World U7-U17 Rapid and Blitz Championships 2026 Egypt: Registration continues",
-      "link": "https://www.fide.com/fide-world-u7-u17-rapid-and-blitz-championships-2026-egypt-registration-continues/",
-      "source": "FIDE",
-      "date": "2026-10-05T23:07:41.000Z",
-      "summary": "The International Chess Federation (FIDE) and the Egyptian Chess Federation are pleased to invite all the member federations to the 2026 FIDE World U7-U17 Rapid and Blitz Championships. The event will take place in Cairo, Egypt, from December 8 (arrival) to…"
     },
     {
       "title": "Lichess Game of the Month: August '26",
