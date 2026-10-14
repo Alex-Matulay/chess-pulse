@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T16:23:32.818Z",
+  "updated": "2026-10-14T20:24:11.604Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Roman Shogdzhiev, 11, Closes In On Mishra's Youngest GM Record",
+      "link": "https://www.chess.com/news/view/roman-shogdzhiev-second-gm-norm-youngest-grandmaster-record",
+      "source": "Chess.com",
+      "date": "2026-10-14T19:00:54.000Z",
+      "summary": "IM Roman Shogdzhiev took a major step toward becoming the youngest grandmaster in chess history on Monday, scoring his second GM norm in the Serbian Super League. The 11-year-old is now one norm and 29 rating points away from breaking GM Abhimanyu..."
+    },
+    {
+      "title": "US Championships - Live!",
+      "link": "https://en.chessbase.com/post/us-championships-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-14T19:00:00.000Z",
+      "summary": "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, whi…"
+    },
     {
       "title": "Young British prodigies",
       "link": "https://en.chessbase.com/post/young-british-prodigies",
@@ -378,13 +392,6 @@
       "source": "Chess.com",
       "date": "2026-09-29T17:39:00.000Z",
       "summary": "Uzbekistan's victory in the Chennai Olympiad of 2022 was sweet, but regaining the title on home soil in the 46th Chess Olympiad 2026 is even sweeter. We look back on that triumph in Samarkand, which earned each player on the team $200,000. We also..."
-    },
-    {
-      "title": "Texas Tech Defeats 3-Time Champion Mizzou As Fall CCL Season Begins",
-      "link": "https://www.chess.com/news/view/2026-ccl-fall-week-one-update",
-      "source": "Chess.com",
-      "date": "2026-09-29T17:34:00.000Z",
-      "summary": "The Collegiate Chess League, the leading online chess competition for college students, started with two tight matches and one blowout in the top division's opening round. Texas Tech defeated three-time league champions the University of Missouri ..."
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 10–11: Uzbekistan, China Win Open, Women’s",
