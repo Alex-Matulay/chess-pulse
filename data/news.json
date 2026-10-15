@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T23:36:54.696Z",
+  "updated": "2026-10-15T02:55:45.747Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Woodward Topples Caruana; Lee On 4.5/5 After Bloodiest Day Yet",
+      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-5",
+      "source": "Chess.com",
+      "date": "2026-10-15T01:57:07.000Z",
+      "summary": "Eight out of 12 games were decisive on Wednesday, making it the bloodiest round across both tournaments in this year's 2026 U.S. Chess Championships. GM Andy Woodward took down defending champion GM Fabiano Caruana to join GM Wesley So in the lead..."
+    },
     {
       "title": "World Championships U7–U17 2026: Young talents make their mark in Spain",
       "link": "https://www.fide.com/world-championships-u7-u17-2026-young-talents-make-their-mark-in-spain/",
@@ -385,13 +392,6 @@
       "source": "Chess.com",
       "date": "2026-09-30T06:03:34.000Z",
       "summary": "GM Wesley So won Titled Tuesday on September 29, starting 7/7 on his way to a 9.5-point total. That score was enough for an outright victory after the top three boards in the final round, including his own, all ended in draws. One of the key figur..."
-    },
-    {
-      "title": "Dream Olympiad For Uzbekistan: 13 Samarkand 2026 Conclusions",
-      "link": "https://www.chess.com/news/view/uzbekistan-2026-samarkand-chess-olympiad-11-conclusions",
-      "source": "Chess.com",
-      "date": "2026-09-29T17:39:00.000Z",
-      "summary": "Uzbekistan's victory in the Chennai Olympiad of 2022 was sweet, but regaining the title on home soil in the 46th Chess Olympiad 2026 is even sweeter. We look back on that triumph in Samarkand, which earned each player on the team $200,000. We also..."
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 10–11: Uzbekistan, China Win Open, Women’s",
