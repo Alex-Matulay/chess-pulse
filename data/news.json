@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T07:58:24.189Z",
+  "updated": "2026-10-15T13:11:43.071Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chess in Schools Worldwide: Reach, Structure and Evidence in 100 countries",
+      "link": "https://www.fide.com/chess-in-schools-worldwide-reach-structure-and-evidence-in-100-countries/",
+      "source": "FIDE",
+      "date": "2026-10-15T08:20:31.000Z",
+      "summary": "By George Chitiyo, Ph.D.Tennessee Technological University Chess has a long history in schools, yet the field has lacked a global account of how school chess programs are organized, supported and evaluated. The 2026 FIDE Global Chess in Schools Survey, cond…"
+    },
+    {
+      "title": "Finals set at the 6th Intercontinental Online Chess Championship for Prisoners",
+      "link": "https://www.fide.com/finals-set-at-the-6th-intercontinental-online-chess-championship-for-prisoners/",
+      "source": "FIDE",
+      "date": "2026-10-15T07:58:20.000Z",
+      "summary": "Armenia – Mexico 1(men’s section), India 1 – Mexico (women’s section) and India 1 – Serbia (youth section) are set to clash in the finals for the titles. The 6th Intercontinental Online Chess Championship for Prisoners continued on 14 October with an exciti…"
+    },
     {
       "title": "Atyrau Masters: Top two seeds defeated in opening rounds",
       "link": "https://en.chessbase.com/post/atyrau-masters-2026-r3",
@@ -170,13 +184,6 @@
       "summary": "3rd FIDE Council Meeting September 21, 2026 List of decisions CM3-2026/01 To note Interim President’s report. CM3-2026/02 To approve Treasurer’s report. CM3-2026/03 To note the Global Strategy Commission’ Report. CM3-2026/04 To note the Arbiters’ Commission…"
     },
     {
-      "title": "Media accreditation for the Salesforce FIDE World Championship is now open",
-      "link": "https://www.fide.com/media-accreditation-for-the-salesforce-fide-world-championship-is-now-open/",
-      "source": "FIDE",
-      "date": "2026-10-12T08:55:03.000Z",
-      "summary": "The Salesforce FIDE World Chess Championship begins on November 22, 2026, in Geneva, Switzerland. The first of 14 games between World Champion Gukesh D of India and Challenger Javokhir Sindarov of Uzbekistan will be played on November 24. Two 20-year-old pr…"
-    },
-    {
       "title": "Woodward, Shankland Strike; Alice Lee Joins Women's Leaders",
       "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-3",
       "source": "Chess.com",
@@ -231,13 +238,6 @@
       "source": "ChessBase",
       "date": "2026-10-10T17:40:00.000Z",
       "summary": "Besides the spectacular Chess Olympiad, Uzbekistan and the city of Samarkand had much more to offer, including friendly people and 2,500 years of culture. Axel Eger attended the Olympiad and took the opportunity to explore the country and get to know its pe…"
-    },
-    {
-      "title": "Record field set for 6th Intercontinental Chess Championship for Prisoners",
-      "link": "https://www.fide.com/record-field-set-for-6th-intercontinental-chess-championship-for-prisoners/",
-      "source": "FIDE",
-      "date": "2026-10-10T16:10:38.000Z",
-      "summary": "The 6th Intercontinental Online Chess Championship for Prisoners will take place on October 13–15, 2026, bringing together incarcerated players from around the world for three days of international online competition. This year’s championship is set to esta…"
     },
     {
       "title": "Maghsoodloo Wins Star-Studded Freestyle Friday",
@@ -511,13 +511,6 @@
       "source": "The Week in Chess",
       "date": "2026-09-03T18:43:00.000Z",
       "summary": "The Spanish CECLUB 1st Div took place Thu 27th August to Wed 2nd September 2026. Club Ajedrez Solvay headed by Vasyl Ivanchuk won the title. Final Standings: 1st Club Ajedrez Solvay, 14.0 points. 2nd Andreu Paterna, 9.0. 3rd Platja Daro Club Escacs, 8.0. 4t…"
-    },
-    {
-      "title": "Green Hills Resort Masters 2026 - Games and results",
-      "link": "https://theweekinchess.com/chessnews/events/green-hills-resort-masters-2026",
-      "source": "The Week in Chess",
-      "date": "2026-08-31T11:00:00.000Z",
-      "summary": "The Green Hills Resort Masters took place 30th-31st August in the Bostanlyk district which is 75km from Tashkent. The event was one day of rapid and one of blitz, the rapid games counted double. Nodirbek Yakubboev was something of a surprise winner, in the…"
     }
   ]
 }
