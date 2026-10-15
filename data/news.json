@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T13:11:43.071Z",
+  "updated": "2026-10-15T17:58:13.505Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "US Championships - Live!",
+      "link": "https://en.chessbase.com/post/us-championships-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-15T19:00:00.000Z",
+      "summary": "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, whi…"
+    },
+    {
+      "title": "US Championships: Woodward takes down Caruana, Lee widens the gap",
+      "link": "https://en.chessbase.com/post/us-championships-2026-5",
+      "source": "ChessBase",
+      "date": "2026-10-15T17:20:00.000Z",
+      "summary": "Sixteen-year-old Andy Woodward defeated defending champion Fabiano Caruana in round five of the US Championship to join Wesley So in the lead on 3½/5. Jeffery Xiong, Ray Robson and Abhimanyu Mishra also scored victories. In the women's tournament, Alice Lee…"
+    },
+    {
+      "title": "Three Chess Houses open simultaneously in Shymkent, Kazakhstan",
+      "link": "https://www.fide.com/three-chess-houses-open-simultaneously-in-shymkent-kazakhstan/",
+      "source": "FIDE",
+      "date": "2026-10-15T15:05:38.000Z",
+      "summary": "On October 15, the grand opening of three Chess Houses took place in Shymkent, the third largest city in Kazakhstan by population. The new spaces were established in Abay Park, Metallurgists Park, and the pedestrian alley in the 17th microdistrict. Here, ci…"
+    },
     {
       "title": "Chess in Schools Worldwide: Reach, Structure and Evidence in 100 countries",
       "link": "https://www.fide.com/chess-in-schools-worldwide-reach-structure-and-evidence-in-100-countries/",
@@ -51,13 +72,6 @@
       "summary": "IM Roman Shogdzhiev took a major step toward becoming the youngest grandmaster in chess history on Monday, scoring his second GM norm in the Serbian Super League. The 11-year-old is now one norm and 29 rating points away from breaking GM Abhimanyu..."
     },
     {
-      "title": "US Championships - Live!",
-      "link": "https://en.chessbase.com/post/us-championships-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-14T19:00:00.000Z",
-      "summary": "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, whi…"
-    },
-    {
       "title": "Young British prodigies",
       "link": "https://en.chessbase.com/post/young-british-prodigies",
       "source": "ChessBase",
@@ -91,13 +105,6 @@
       "source": "ChessBase",
       "date": "2026-10-14T06:10:00.000Z",
       "summary": "FIDE is preparing changes to the regulations governing shorter classical time controls following a General Assembly resolution based on a proposal from the Icelandic Chess Federation. The FIDE Council plans to make 60+30 a standard classical control without…"
-    },
-    {
-      "title": "US Championships: Caruana climbs to the shared lead in the open, Lee takes the sole lead in the women's",
-      "link": "https://en.chessbase.com/post/us-championships-2026-4",
-      "source": "ChessBase",
-      "date": "2026-10-13T19:45:00.000Z",
-      "summary": "Fabiano Caruana defeated Ray Robson in round four of the US Championship to join Wesley So in the lead on 3/4. Awonder Liang suffered his first defeat against Jeffery Xiong, while Hans Niemann also collected a full point. In the women's tournament, Alice Le…"
     },
     {
       "title": "Caruana Wins Titled Tuesday On Day Off In U.S. Championship",
@@ -142,27 +149,6 @@
       "summary": "Announcing our schedule for upcoming Titled Arenas!"
     },
     {
-      "title": "Yu Yangyi beats Ding Liren in final match, wins Shenzhen Masters",
-      "link": "https://en.chessbase.com/post/shenzhen-nanshan-mastes-2026-report",
-      "source": "ChessBase",
-      "date": "2026-10-13T02:45:00.000Z",
-      "summary": "At the Shenzhen Masters, China's leading players faced young talents. The matches were contested in a knockout format, with four rapid games per encounter. In the event of a draw, blitz tiebreaks decided the matches. Defending champion Ding Liren faced Yu Y…"
-    },
-    {
-      "title": "Fagernes: Jumabayev takes title, Gloeckler secures second GM norm",
-      "link": "https://en.chessbase.com/post/fagernes-autumn-2026-r10",
-      "source": "ChessBase",
-      "date": "2026-10-12T18:40:00.000Z",
-      "summary": "Fourteen-year-old Christian Gloeckler secured his second grandmaster norm at the International Autumn Tournament in Fagernes, Norway. Although the German youngster lost his final two games, this did not affect the norm he had already secured. Rinat Jumabaye…"
-    },
-    {
-      "title": "US Championships: Shankland and Woodward score",
-      "link": "https://en.chessbase.com/post/us-championships-2026-3",
-      "source": "ChessBase",
-      "date": "2026-10-12T17:20:00.000Z",
-      "summary": "Wesley So and Awonder Liang drew their direct encounter in round three of the US Championship, remaining tied for first place on 2½/3. Andy Woodward and Sam Shankland (pictured) scored victories, with Woodward joining Fabiano Caruana half a point behind the…"
-    },
-    {
       "title": "FIDE General Assembly adopts resolution on shorter time controls: What it means",
       "link": "https://www.fide.com/fide-general-assembly-adopts-resolution-on-shorter-time-controls-what-it-means/",
       "source": "FIDE",
@@ -177,39 +163,11 @@
       "summary": "FIDE General Assembly September 26-27, 2026 Samarkand, Uzbekistan List of decisions GA-2026/01 To approve the Electoral Commission’s report. GA-2026/02 To elect three Scrutineers: Ms. Nina Rob (SLO), Mr. Francisco J Cruz Arce (PUR), Mr. Sidi Mohammed Tajedi…"
     },
     {
-      "title": "2026 3rd FIDE Council Meeting: List of decisions",
-      "link": "https://www.fide.com/3rd-fide-council-meeting-2026-list-of-decisions/",
-      "source": "FIDE",
-      "date": "2026-10-12T12:06:42.000Z",
-      "summary": "3rd FIDE Council Meeting September 21, 2026 List of decisions CM3-2026/01 To note Interim President’s report. CM3-2026/02 To approve Treasurer’s report. CM3-2026/03 To note the Global Strategy Commission’ Report. CM3-2026/04 To note the Arbiters’ Commission…"
-    },
-    {
       "title": "Woodward, Shankland Strike; Alice Lee Joins Women's Leaders",
       "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-3",
       "source": "Chess.com",
       "date": "2026-10-12T07:40:22.000Z",
       "summary": "GMs Wesley So and Awonder Liang continued as joint leaders with 2.5 points after their mutual encounter ended in a draw in the third round of the 2026 U.S. Chess Championship. GM Andy Woodward was rewarded with a win for his dynamic play against G..."
-    },
-    {
-      "title": "Bundesliga: Viernheim and Baden-Baden set the early pace",
-      "link": "https://en.chessbase.com/post/bundesliga-2026-27-r3",
-      "source": "ChessBase",
-      "date": "2026-10-12T07:25:00.000Z",
-      "summary": "Defending champions SC Viernheim and perennial favourites OSG Baden-Baden are the only teams to have won all three matches in the opening weekend of the 2026/27 Chess Bundesliga. Viernheim lead on board points, while Bayern Munich sit third with 5/6 match p…"
-    },
-    {
-      "title": "The Chess Olympiad that wasn't: Munich 1936",
-      "link": "https://en.chessbase.com/post/chess-olympiad-that-was-not-munich-1936",
-      "source": "ChessBase",
-      "date": "2026-10-11T13:00:00.000Z",
-      "summary": "Among all the Chess Olympiads held throughout history, the 1936 tournament in Munich occupies a special place. FIDE did not officially recognise the event as a Chess Olympiad. Nevertheless, the competition between national teams met all the requirements. Li…"
-    },
-    {
-      "title": "US Championships: So and Liang remain perfect, Paragua beats Yip",
-      "link": "https://en.chessbase.com/post/us-championships-2026-2",
-      "source": "ChessBase",
-      "date": "2026-10-11T04:45:00.000Z",
-      "summary": "Wesley So and Awonder Liang remain the only players with perfect scores in the open section of the US Championship after two rounds. Fabiano Caruana stands alone in third place, half a point behind. In the women's tournament, the two lowest-rated participan…"
     },
     {
       "title": "Wesley So, Awonder Liang Lead Open; Paragua, Cervantes Lead Women With Perfect Scores",
@@ -219,25 +177,11 @@
       "summary": "GMs Wesley So and Awonder Liang won again in round two of the 2026 U.S. Chess Championship to lead with 2/2 perfect scores. So was much worse against GM Jeffery Xiong but turned it around, while Liang converted an endgame to give GM Sam Sevian his..."
     },
     {
-      "title": "The strange comforts of superstition in chess",
-      "link": "https://en.chessbase.com/post/strange-comforts-superstition-chess",
-      "source": "ChessBase",
-      "date": "2026-10-11T02:00:00.000Z",
-      "summary": "Chess sells itself as a contest of calculation, where chance has been removed. Yet some elite players keep lucky pens, repeat outfits and meals, or give a cat a place in their pre-game routine. The interesting question is not whether a lucky charm can chang…"
-    },
-    {
       "title": "Nakamura Makes History With Record 5th Straight Bullet Brawl Victory",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-10-2026",
       "source": "Chess.com",
       "date": "2026-10-11T00:14:00.000Z",
       "summary": "History was made in the Bullet Brawl arena on Saturday as GM Hikaru Nakamura acquired his fifth straight title, eclipsing a record set and shared by the late GM Daniel Naroditsky and himself back in 2023. Nakamura made his biggest move in the sec..."
-    },
-    {
-      "title": "Between the Silk Road and the chessboard - eight days in Uzbekistan",
-      "link": "https://en.chessbase.com/post/eight-days-uzbekistan-axel-eger",
-      "source": "ChessBase",
-      "date": "2026-10-10T17:40:00.000Z",
-      "summary": "Besides the spectacular Chess Olympiad, Uzbekistan and the city of Samarkand had much more to offer, including friendly people and 2,500 years of culture. Axel Eger attended the Olympiad and took the opportunity to explore the country and get to know its pe…"
     },
     {
       "title": "Maghsoodloo Wins Star-Studded Freestyle Friday",
@@ -254,13 +198,6 @@
       "summary": "Three-time national champion GM Wesley So celebrated his 33rd birthday with a win over GM Sam Shankland in the first round of the 2026 U.S. Chess Championship, which started in St. Louis on Friday. GMs Jeffery Xiong and Awonder Liang also started ..."
     },
     {
-      "title": "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 2)",
-      "link": "https://en.chessbase.com/post/review-robert-ris-fritztrainers-on-openings-calculation-and-strategic-thinking-part-2",
-      "source": "ChessBase",
-      "date": "2026-10-10T07:00:00.000Z",
-      "summary": "In recent years, Robert Ris has made a name for himself as a creator of opening courses. He also hosts a regular ChessBase show on opening trends, in which he examines the latest developments. Lukas Köpl has taken a closer look at Ris's opening courses and…"
-    },
-    {
       "title": "Duda Scores 10/11 In 3 0 Thursday, Narrowly Misses 1st Perfect Score",
       "link": "https://www.chess.com/news/view/duda-bortnyk-le-3-0-thursday-10-8-2026",
       "source": "Chess.com",
@@ -273,13 +210,6 @@
       "source": "Chess.com",
       "date": "2026-10-09T15:30:22.000Z",
       "summary": "Josh Smith, an amateur player with a US Chess rating in the 1800s, is set to play GM Daniil Dubov in a 100-game bullet match with up to $20,000 on the line. But there is a catch: Dubov must win every single game to collect the full amount. The 49..."
-    },
-    {
-      "title": "Fabiano Caruana targets fifth consecutive US title",
-      "link": "https://en.chessbase.com/post/us-championships-2026-caruana-titles",
-      "source": "ChessBase",
-      "date": "2026-10-09T11:50:00.000Z",
-      "summary": "Fabiano Caruana has won the US Championship five times, including four consecutive titles from 2022 to 2025. His first victory came on his debut in 2016, shortly after returning to the US federation. At the 2026 edition in Saint Louis, Caruana can equal Sam…"
     },
     {
       "title": "GothamChess European Tour Kicks Off On October 25 With Special Guests And Activities",
