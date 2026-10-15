@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T02:55:45.747Z",
+  "updated": "2026-10-15T07:58:24.189Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,10 +9,17 @@
   ],
   "items": [
     {
+      "title": "Atyrau Masters: Top two seeds defeated in opening rounds",
+      "link": "https://en.chessbase.com/post/atyrau-masters-2026-r3",
+      "source": "ChessBase",
+      "date": "2026-10-15T04:45:00.000Z",
+      "summary": "The Atyrau Masters in Kazakhstan has attracted a strong international field, with Shamsiddin Vokhidov and Leon Luke Mendonca heading the starting list. Both top seeds suffered unexpected defeats in the opening two rounds, losing to significantly lower-rated…"
+    },
+    {
       "title": "Woodward Topples Caruana; Lee On 4.5/5 After Bloodiest Day Yet",
       "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-5",
       "source": "Chess.com",
-      "date": "2026-10-15T01:57:07.000Z",
+      "date": "2026-10-15T01:57:00.000Z",
       "summary": "Eight out of 12 games were decisive on Wednesday, making it the bloodiest round across both tournaments in this year's 2026 U.S. Chess Championships. GM Andy Woodward took down defending champion GM Fabiano Caruana to join GM Wesley So in the lead..."
     },
     {
