@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T00:01:41.454Z",
+  "updated": "2026-10-16T05:21:59.193Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Rachael Li Ousts Alice Lee In Women's; Caruana, Liang Join 4-Way Lead",
+      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-6",
+      "source": "Chess.com",
+      "date": "2026-10-16T01:08:15.000Z",
+      "summary": "Both tournaments are wide open after six decisive games on Thursday. Four players lead the 2026 U.S. Chess Championship: GM Wesley So, GM Andy Woodward, GM Fabiano Caruana, and GM Awonder Liang. Caruana scored a bounce-back win against GM Sam Shan..."
+    },
     {
       "title": "FIDE World Junior U20 Rapid and Blitz Championships: Registration deadline extended",
       "link": "https://www.fide.com/fide-world-junior-u20-rapid-and-blitz-championships-registration-deadline-extended/",
@@ -329,13 +336,6 @@
       "source": "Chess.com",
       "date": "2026-09-30T12:47:00.000Z",
       "summary": "The 12th edition of GM Judit Polgar's traditional annual Global Chess Festival was staged on September 26 in the Hungarian National Gallery, Budapest. Judit took on five different communities in a simultaneous display, scoring 3.5-1.5, with three ..."
-    },
-    {
-      "title": "Wesley Sews Up First Titled Tuesday Of 2026",
-      "link": "https://www.chess.com/news/view/so-wins-titled-tuesday-september-29-2026",
-      "source": "Chess.com",
-      "date": "2026-09-30T06:03:34.000Z",
-      "summary": "GM Wesley So won Titled Tuesday on September 29, starting 7/7 on his way to a 9.5-point total. That score was enough for an outright victory after the top three boards in the final round, including his own, all ended in draws. One of the key figur..."
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 10–11: Uzbekistan, China Win Open, Women’s",
