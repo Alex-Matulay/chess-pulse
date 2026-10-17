@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T05:26:20.795Z",
+  "updated": "2026-10-17T10:03:24.865Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "My 70th Memorable Game",
+      "link": "https://en.chessbase.com/post/my-70th-memorable-game",
+      "source": "ChessBase",
+      "date": "2026-10-17T11:55:27.000Z",
+      "summary": "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. A game that literally took the chess world by storm – and exactly 70 years on, that stunning sacrificial onslaug…"
+    },
+    {
+      "title": "So Sole Leader After Turnaround Win; Li And Lee Lead Women's",
+      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-7",
+      "source": "Chess.com",
+      "date": "2026-10-17T08:00:00.000Z",
+      "summary": "GM Wesley So remained the only unbeaten player and sole leader of the 2026 U.S. Chess Championship with five points when he fought back from a worse position to defeat GM Ray Robson in round seven. Among the joint leaders from the previous round, ..."
+    },
     {
       "title": "Review: The Modern Benko Gambit - A Full Repertoire Against 1.d4 by GM Sipke Ernst",
       "link": "https://en.chessbase.com/post/review-the-modern-benko-gambit-a-full-repertoire-against-1-d4-by-gm-sipke-ernst",
@@ -343,13 +357,6 @@
       "source": "Chess.com",
       "date": "2026-10-01T15:56:00.000Z",
       "summary": "GMs Nodirbek Abdusattorov and Yagiz Kaan Erdogmus are the stars on an October FIDE rating list dominated by the 46th Chess Olympiad in Samarkand. Abdusattorov climbed two spots to world number-five after picking up 18 rating points and individual ..."
-    },
-    {
-      "title": "Man Charged With Stalking Hannah Sayce, Accused Of Making False Drug Report",
-      "link": "https://www.chess.com/news/view/man-charged-with-stalking-hannah-sayce-false-drug-reports",
-      "source": "Chess.com",
-      "date": "2026-10-01T15:40:00.000Z",
-      "summary": "A man from Melbourne has been charged over an alleged stalking campaign against Australian chess streamer and content creator WCM Hannah Sayce, which reportedly included making false drug allegations and led to her detention in Qatar. Shumsheer S..."
     },
     {
       "title": "2026 Samarkand Olympiad Rounds 10–11: Uzbekistan, China Win Open, Women’s",
