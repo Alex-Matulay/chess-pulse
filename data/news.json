@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T00:59:05.816Z",
+  "updated": "2026-10-17T05:26:20.795Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Review: The Modern Benko Gambit - A Full Repertoire Against 1.d4 by GM Sipke Ernst",
+      "link": "https://en.chessbase.com/post/review-the-modern-benko-gambit-a-full-repertoire-against-1-d4-by-gm-sipke-ernst",
+      "source": "ChessBase",
+      "date": "2026-10-17T07:00:00.000Z",
+      "summary": "In his latest ChessBase course, Grandmaster Sipke Ernst thoroughly dispels the Benko Gambit's poor reputation. His modern approach, featuring an early 5...e6!, revolutionises the gambit, breathes new life into it and elegantly sidesteps White's traditional…"
+    },
     {
       "title": "Carlsen, So, Niemann Take Center Stage As 'Grandmasters' Hits U.S. Theaters",
       "link": "https://www.chess.com/news/view/grandmasters-reaches-92-amc-theaters-expands-after-sold-out-new-york-premiere",
