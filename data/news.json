@@ -1,11 +1,19 @@
 {
-  "updated": "2026-10-18T17:44:52.395Z",
+  "updated": "2026-10-18T19:59:30.870Z",
   "sources": [
     "Chess.com",
     "ChessBase",
+    "FIDE",
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "US Championships: So wins again, now a full point ahead",
+      "link": "https://en.chessbase.com/post/us-championships-2026-8",
+      "source": "ChessBase",
+      "date": "2026-10-18T20:00:00.000Z",
+      "summary": "Wesley So defeated Andy Woodward in round eight of the US Championship to extend his lead to a full point over Fabiano Caruana, who drew against Sam Sevian. The two will meet in Monday's ninth round. In the women's tournament, Alice Lee and Rachael Li remai…"
+    },
     {
       "title": "European Club Cup - Live!",
       "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
@@ -56,13 +64,6 @@
       "summary": "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. It was a game that literally took the chess world by storm. It contains a stunning sacrificial onslaught and is…"
     },
     {
-      "title": "US Championships - Live!",
-      "link": "https://en.chessbase.com/post/us-championships-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-17T19:00:00.000Z",
-      "summary": "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, whi…"
-    },
-    {
       "title": "US Championships: So comes from behind to beat Robson, becomes sole leader",
       "link": "https://en.chessbase.com/post/us-championships-2026-7",
       "source": "ChessBase",
@@ -105,6 +106,13 @@
       "summary": "GM Sina Movahed won Freestyle Friday on October 16, riding a 7/7 start to sole first place on nine points. GM Haowen Xue finished second with 8.5/11, surpassing GM Ian Nepomniachtchi on tiebreaks. The win was Movahed's sixth in Freestyle Friday, t..."
     },
     {
+      "title": "One move can change everything in the World Championships U7-U17",
+      "link": "https://www.fide.com/one-move-can-change-everything-in-the-world-championships-u7-u17/",
+      "source": "FIDE",
+      "date": "2026-10-16T20:18:58.000Z",
+      "summary": "With six rounds completed and five to go, every half-point counts as the race for the world titles intensifies in Roquetas de Mar, Spain. As the 2026 World U7-U17 Chess Championships reaches the halfway point, the tension is mounting across all age categori…"
+    },
+    {
       "title": "Maghsoodloo Takes Two 3 0 Thursdays, Caruana Wins 3rd",
       "link": "https://www.chess.com/news/view/maghsoodloo-maghsoodloo-caruana-3-0-thursday-10-15-2026",
       "source": "Chess.com",
@@ -119,6 +127,13 @@
       "summary": "In 2027, the 54th International Dortmund Chess Days will mark a special chapter in their history spanning more than 50 years: from 8 to 15 August 2027, the Sparkassen Chess Trophy will be held for the first time in the “Salzlager” at the Hansa Coking Plant.…"
     },
     {
+      "title": "Olympiad qualification spots for 2027 World Cup and Women’s World Cup announced",
+      "link": "https://www.fide.com/olympiad-qualification-spots-for-2027-world-cup-and-womens-world-cup-announced/",
+      "source": "FIDE",
+      "date": "2026-10-16T13:15:51.000Z",
+      "summary": "FIDE announces the allocation of qualification spots for the 2027 FIDE World Cup and Women’s World Cup, based on the results of the Chess Olympiad held in Samarkand, Uzbekistan. FIDE is pleased to announce the allocation of qualification spots for the 2027…"
+    },
+    {
       "title": "Rachael Li Catches Alice Lee In Women's Lead; Caruana, Liang Join 4-Way Lead",
       "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-6",
       "source": "Chess.com",
@@ -126,11 +141,25 @@
       "summary": "Both tournaments are wide open after six decisive games on Thursday. Four players lead the 2026 U.S. Chess Championship: GMs Wesley So, Andy Woodward, Fabiano Caruana, and Awonder Liang. Caruana scored a bounce-back win against GM Sam Shankland an..."
     },
     {
+      "title": "FIDE World Junior U20 Rapid and Blitz Championships: Registration deadline extended",
+      "link": "https://www.fide.com/fide-world-junior-u20-rapid-and-blitz-championships-registration-deadline-extended/",
+      "source": "FIDE",
+      "date": "2026-10-15T22:21:58.000Z",
+      "summary": "FIDE, in cooperation with the United Arab Emirates Chess Federation and Al Ain Chess & Mind Games Club, invites all FIDE member federations to participate in the World Junior U20 Rapid and Blitz Championships 2026. Each federation can register an unlimited…"
+    },
+    {
       "title": "Rafael Vaganian turns 75: Decades among the chess elite",
       "link": "https://en.chessbase.com/post/rafael-vaganian-75th-birthday",
       "source": "ChessBase",
       "date": "2026-10-15T21:45:00.000Z",
       "summary": "Today, Rafael Vaganian celebrates his 75th birthday. In 1971, he became the first Armenian chess player after Tigran Petrosian to be awarded the grandmaster title by FIDE. He won numerous medals in team competitions representing the Soviet Union and Armenia…"
+    },
+    {
+      "title": "6th Intercontinental Online Chess Championship for Prisoners: India wins double gold, Mexico triumphs in men’s section",
+      "link": "https://www.fide.com/6th-intercontinental-online-chess-championship-for-prisoners-india-wins-double-gold-mexico-triumphs-in-mens-section/",
+      "source": "FIDE",
+      "date": "2026-10-15T20:36:48.000Z",
+      "summary": "Mexico claimed title in the men’s category, while India earned double gold, winning women’s and youth sections. The 6th Intercontinental Online Chess Championship for Prisoners concluded on October 15 with tightly contested finals in all three categories. E…"
     },
     {
       "title": "SLU, UTD, Texas Tech Still Perfect In Collegiate Chess League",
@@ -147,6 +176,27 @@
       "summary": "Sixteen-year-old Andy Woodward defeated defending champion Fabiano Caruana in round five of the US Championship to join Wesley So in the lead on 3½/5. Jeffery Xiong, Ray Robson and Abhimanyu Mishra also scored victories. In the women's tournament, Alice Lee…"
     },
     {
+      "title": "Three Chess Houses open simultaneously in Shymkent, Kazakhstan",
+      "link": "https://www.fide.com/three-chess-houses-open-simultaneously-in-shymkent-kazakhstan/",
+      "source": "FIDE",
+      "date": "2026-10-15T15:05:38.000Z",
+      "summary": "On October 15, the grand opening of three Chess Houses took place in Shymkent, the third largest city in Kazakhstan by population. The new spaces were established in Abay Park, Metallurgists Park, and the pedestrian alley in the 17th microdistrict. Here, ci…"
+    },
+    {
+      "title": "Chess in Schools Worldwide: Reach, Structure and Evidence in 100 countries",
+      "link": "https://www.fide.com/chess-in-schools-worldwide-reach-structure-and-evidence-in-100-countries/",
+      "source": "FIDE",
+      "date": "2026-10-15T08:20:31.000Z",
+      "summary": "By George Chitiyo, Ph.D.Tennessee Technological University Chess has a long history in schools, yet the field has lacked a global account of how school chess programs are organized, supported and evaluated. The 2026 FIDE Global Chess in Schools Survey, cond…"
+    },
+    {
+      "title": "Finals set at the 6th Intercontinental Online Chess Championship for Prisoners",
+      "link": "https://www.fide.com/finals-set-at-the-6th-intercontinental-online-chess-championship-for-prisoners/",
+      "source": "FIDE",
+      "date": "2026-10-15T07:58:20.000Z",
+      "summary": "Armenia – Mexico 1(men’s section), India 1 – Mexico (women’s section) and India 1 – Serbia (youth section) are set to clash in the finals for the titles. The 6th Intercontinental Online Chess Championship for Prisoners continued on 14 October with an exciti…"
+    },
+    {
       "title": "Atyrau Masters: Top two seeds defeated in opening rounds",
       "link": "https://en.chessbase.com/post/atyrau-masters-2026-r3",
       "source": "ChessBase",
@@ -159,6 +209,13 @@
       "source": "Chess.com",
       "date": "2026-10-15T01:57:00.000Z",
       "summary": "Eight out of 12 games were decisive on Wednesday, making it the bloodiest round across both tournaments in this year's 2026 U.S. Chess Championships. GM Andy Woodward took down defending champion GM Fabiano Caruana to join GM Wesley So in the lead..."
+    },
+    {
+      "title": "World Championships U7–U17 2026: Young talents make their mark in Spain",
+      "link": "https://www.fide.com/world-championships-u7-u17-2026-young-talents-make-their-mark-in-spain/",
+      "source": "FIDE",
+      "date": "2026-10-14T20:47:54.000Z",
+      "summary": "Surprises and perfect scores shape the opening rounds of the 2026 World Championships U7–U17 With an outstanding turnout of 721 players representing 82 countries, the 2026 FIDE World Championships U7–U17 got underway on October 13 in the coastal town of Roq…"
     },
     {
       "title": "Roman Shogdzhiev, 11, Closes In On Mishra's Youngest GM Record",
@@ -180,6 +237,20 @@
       "source": "ChessBase",
       "date": "2026-10-14T13:45:00.000Z",
       "summary": "The 6th Intercontinental Online Chess Championship for Prisoners began on 13 October with a record 140 teams from 56 countries competing across men's, women's and youth sections. Organised by FIDE and the Cook County Sheriff's Office, the three-day event co…"
+    },
+    {
+      "title": "FIDE World Junior U20 Championship in Venezuela: Registration deadline extended",
+      "link": "https://www.fide.com/fide-world-junior-u20-championship-in-venezuela-registration-deadline-extended/",
+      "source": "FIDE",
+      "date": "2026-10-14T12:39:44.000Z",
+      "summary": "FIDE and the Venezuelan Chess Federation, in cooperation with the Ministry of People’s Power for Sport, invite all FIDE Member Federations to participate in the FIDE World Junior U20 Championship to be held in Caracas 17 to 28 November 2026. Each National F…"
+    },
+    {
+      "title": "Ticket sales for the Salesforce FIDE World Championship are now open",
+      "link": "https://www.fide.com/ticket-sales-for-the-salesforce-fide-world-championship-are-now-open/",
+      "source": "FIDE",
+      "date": "2026-10-14T07:38:51.000Z",
+      "summary": "The most anticipated chess event of the year, the match for the world crown, opens on 22 November in Geneva, Switzerland, with the first game scheduled for 24 November. Two 20-year-old prodigies, World Champion Gukesh D of India and Challenger Javokhir Sind…"
     },
     {
       "title": "FIDE General Assembly adopts resolution on shorter time controls",
@@ -369,13 +440,6 @@
       "source": "The Week in Chess",
       "date": "2026-09-04T12:55:00.000Z",
       "summary": "The 2026 Tech Mahindra Global Chess League runs Sat 5th-13th Sept in Bengaluru, India. It uses a rapid time control of 20 minutes plus 2 seconds a move. Magnus Carlsen, Alireza Firouzja and Viswanathan Anand star. League: 6 teams 10 matches, the top two fin…"
-    },
-    {
-      "title": "TCh-ESP 1st Div 2026 - Games and results",
-      "link": "https://theweekinchess.com/chessnews/events/tch-esp-1st-div-2026",
-      "source": "The Week in Chess",
-      "date": "2026-09-03T18:43:00.000Z",
-      "summary": "The Spanish CECLUB 1st Div took place Thu 27th August to Wed 2nd September 2026. Club Ajedrez Solvay headed by Vasyl Ivanchuk won the title. Final Standings: 1st Club Ajedrez Solvay, 14.0 points. 2nd Andreu Paterna, 9.0. 3rd Platja Daro Club Escacs, 8.0. 4t…"
     }
   ]
 }
