@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T05:21:08.870Z",
+  "updated": "2026-10-18T10:16:37.882Z",
   "sources": [
     "Chess.com",
     "ChessBase",
@@ -8,10 +8,24 @@
   ],
   "items": [
     {
+      "title": "European Club Cup: Comfortable wins for the favourites",
+      "link": "https://en.chessbase.com/post/european-club-cup-2026-1",
+      "source": "ChessBase",
+      "date": "2026-10-18T09:25:00.000Z",
+      "summary": "The European Club Cup began on Saturday in Budva, Montenegro, with 108 teams competing in the open section and 22 in the women's tournament. The leading clubs secured comfortable victories, although there were a couple of individual upsets. Defending champi…"
+    },
+    {
+      "title": "Wesley So Extends Lead; Status Quo In Women's",
+      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-8",
+      "source": "Chess.com",
+      "date": "2026-10-18T09:02:18.000Z",
+      "summary": "After his three wins in the 2026 U.S. Chess Championship so far in different endgames, GM Wesley So defeated one of his nearest pursuers, GM Andy Woodward, in a pawn endgame in the eighth round. He is now on six points and extends his sole lead to..."
+    },
+    {
       "title": "Nakamura Declares Bullet Brawl A \"Marathon, Not A Sprint\" After 71st Victory",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-17-2026",
       "source": "Chess.com",
-      "date": "2026-10-18T04:02:07.000Z",
+      "date": "2026-10-18T04:02:00.000Z",
       "summary": "GM Hikaru Nakamura extended the most dominant run in Bullet Brawl history on Saturday, cruising to a resounding 46-point victory with a score of 190 points. The American secured his sixth consecutive first-place finish and netted the $400 first pr..."
     },
     {
@@ -41,13 +55,6 @@
       "source": "ChessBase",
       "date": "2026-10-17T16:30:00.000Z",
       "summary": "Wesley So defeated Ray Robson in round seven of the US Championship to take the sole lead on 5/7, half a point ahead of Fabiano Caruana and Andy Woodward. Awonder Liang suffered his second defeat, as he lost to Grigoriy Oparin. In the women's tournament, Al…"
-    },
-    {
-      "title": "European Club Cup - Live!",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-17T14:00:00.000Z",
-      "summary": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov,…"
     },
     {
       "title": "The European Club Cup kicks off in Budva",
@@ -356,13 +363,6 @@
       "source": "Chess.com",
       "date": "2026-10-03T01:51:34.000Z",
       "summary": "GM Parham Maghsoodloo scored in the top four in three different 3 0 Thursday Tournaments on October 1. His nine points in the first tournament weren't quite enough to win, as he took second on tiebreaks behind IM Quoc Hy Nguyen. Maghsoodloo domina..."
-    },
-    {
-      "title": "Bluebaum Takes First Freestyle Friday Of New Season",
-      "link": "https://www.chess.com/news/view/bluebaum-wins-freestyle-friday-october-2-2026",
-      "source": "Chess.com",
-      "date": "2026-10-03T01:23:25.000Z",
-      "summary": "GM Matthias Bluebaum won the return tournament of Freestyle Friday on October 2 with nine points, taking the tournament outright ahead of GMs Oleksandr Bortnyk, Pranav Venkatesh, and SL Narayanan on 8.5/11. Pranav clinched an appearance in next ye..."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
