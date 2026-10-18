@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T00:34:34.131Z",
+  "updated": "2026-10-18T05:21:08.870Z",
   "sources": [
     "Chess.com",
     "ChessBase",
@@ -8,11 +8,25 @@
   ],
   "items": [
     {
+      "title": "Nakamura Declares Bullet Brawl A \"Marathon, Not A Sprint\" After 71st Victory",
+      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-17-2026",
+      "source": "Chess.com",
+      "date": "2026-10-18T04:02:07.000Z",
+      "summary": "GM Hikaru Nakamura extended the most dominant run in Bullet Brawl history on Saturday, cruising to a resounding 46-point victory with a score of 190 points. The American secured his sixth consecutive first-place finish and netted the $400 first pr..."
+    },
+    {
       "title": "Bodhana & Co. Test Favorites As European Club Cup Begins In Budva",
       "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-1",
       "source": "Chess.com",
       "date": "2026-10-17T22:12:00.000Z",
       "summary": "The top teams could rest the likes of GMs Nodirbek Abdusattorov, Anish Giri, and Yagiz Kaan Erdogmus while still scoring 6-0 clean sweeps in round one of the 41st European Chess Club Cup in Budva, Montenegro. GM Nils Grandelius was one of the few ..."
+    },
+    {
+      "title": "My 70th Memorable Game",
+      "link": "https://en.chessbase.com/post/my-70th-memorable-game",
+      "source": "ChessBase",
+      "date": "2026-10-17T22:00:00.000Z",
+      "summary": "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. It was a game that literally took the chess world by storm. It contains a stunning sacrificial onslaught and is…"
     },
     {
       "title": "US Championships - Live!",
@@ -41,13 +55,6 @@
       "source": "ChessBase",
       "date": "2026-10-17T13:45:00.000Z",
       "summary": "From 17 to 23 October, Budva in Montenegro will host the European Club Cup. With over 100 teams competing in the open section and 22 teams in the women's competition, it is a large-scale event. The favourites, in each of the sections, are teams from Türkiye…"
-    },
-    {
-      "title": "My 70th Memorable Game",
-      "link": "https://en.chessbase.com/post/my-70th-memorable-game",
-      "source": "ChessBase",
-      "date": "2026-10-17T11:55:27.000Z",
-      "summary": "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. It was a game that literally took the chess world by storm. It contains a stunning sacrificial onslaught and is…"
     },
     {
       "title": "So Sole Leader After Turnaround Win; Li And Lee Lead Women's",
@@ -356,13 +363,6 @@
       "source": "Chess.com",
       "date": "2026-10-03T01:23:25.000Z",
       "summary": "GM Matthias Bluebaum won the return tournament of Freestyle Friday on October 2 with nine points, taking the tournament outright ahead of GMs Oleksandr Bortnyk, Pranav Venkatesh, and SL Narayanan on 8.5/11. Pranav clinched an appearance in next ye..."
-    },
-    {
-      "title": "Freestyle Friday Returns With World Championship Spots On The Line",
-      "link": "https://www.chess.com/news/view/freestyle-friday-returns-october-2-with-world-championship-spots-on-the-line",
-      "source": "Chess.com",
-      "date": "2026-10-02T15:00:00.000Z",
-      "summary": "Freestyle Friday returns to Chess.com this Friday, October 2, resuming the race for places in the 2027 FIDE Freestyle Chess World Championships. Ten weekly tournaments remain before December's knockout finals, which will award one qualification sp..."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
