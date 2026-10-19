@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T18:21:38.052Z",
+  "updated": "2026-10-19T22:46:12.013Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "15-Year-Old Erdogmus Climbs To World No. 15",
+      "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-3",
+      "source": "Chess.com",
+      "date": "2026-10-19T22:23:00.000Z",
+      "summary": "GM Yagiz Kaan Erdogmus, the highest-rated 15-year-old of all time, is now world number-15 on the live rating list after winning a time-trouble battle on his 2026 European Chess Club Cup debut. GMs Nodirbek Abdusattorov and Anish Giri also won thei..."
+    },
     {
       "title": "US Championships - Live!",
       "link": "https://en.chessbase.com/post/us-championships-2026-live",
@@ -37,13 +44,6 @@
       "summary": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov,…"
     },
     {
-      "title": "European Club Cup: Crowded at the top",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-2",
-      "source": "ChessBase",
-      "date": "2026-10-19T12:40:00.000Z",
-      "summary": "A total of 108 teams are competing in the European Club Cup in Budva in the open section, with 22 in the women's competition. On paper, the favourites in the open are Bayegan Pendik Chess Sports Club from Turkey, with an average Elo rating of 2715. Bayegan…"
-    },
-    {
       "title": "From quitting chess to becoming a Grandmaster - Interview with Arturs Neiksans",
       "link": "https://en.chessbase.com/post/from-quitting-chess-to-becoming-a-grandmaster-interview-with-arturs-neiksans-3",
       "source": "ChessBase",
@@ -56,6 +56,13 @@
       "source": "FIDE",
       "date": "2026-10-19T11:17:14.000Z",
       "summary": "Dear Chess Friends, FIDE’s Chess in Education Commission continues to expand its training for Lecturers and Teachers of Educational Chess, offering a series of high-level online and in-person opportunities in autumn and winter 2026. The Preparation of Lectu…"
+    },
+    {
+      "title": "European Club Cup: Crowded at the top",
+      "link": "https://en.chessbase.com/post/european-club-cup-2026-2",
+      "source": "ChessBase",
+      "date": "2026-10-19T08:05:00.000Z",
+      "summary": "A total of 108 teams are competing in the European Club Cup in Budva in the open section, with 22 in the women's competition. On paper, the favourites in the open are Bayegan Pendik Chess Sports Club from Turkey, with an average Elo rating of 2715. Bayegan…"
     },
     {
       "title": "Total Chess proposes unified rating system",
@@ -331,13 +338,6 @@
       "summary": "In a week when GM Hikaru Nakamura pushed Chess.com's blitz record to new heights, it is fitting that he also broke the record for the most Bullet Brawl victories in a single year, albeit with three months to spare. A dominant run in the second hal..."
     },
     {
-      "title": "Awonder Liang Invincible At Seirawan Chess, The Complex Variant",
-      "link": "https://www.chess.com/news/view/2026-seirawan-chess-championship-liang-wins",
-      "source": "Chess.com",
-      "date": "2026-10-03T15:21:01.000Z",
-      "summary": "GM Awonder Liang blanked his opposition with 3-0 victories in all the matches to convincingly win the 2026 Seirawan Chess Championship, an event he won in 2024 too. It was a brisk evening for the 23-year-old American GM, who was hardly in any trou..."
-    },
-    {
       "title": "Retrospective: 2025 Toronto Lichess Meetup",
       "link": "https://lichess.org/@/Lichess/blog/retrospective-2025-toronto-lichess-meetup/3ReyIZOk",
       "source": "Lichess",
@@ -434,13 +434,6 @@
       "source": "ChessBase",
       "date": "2026-09-06T07:00:00.000Z",
       "summary": "ChessBase´26 is amazingly versatile and often surprisingly user-friendly — as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the “Folders” window, which lets you quickly locate anything y…"
-    },
-    {
-      "title": "European Senior Team Championship 2026 - Games and results",
-      "link": "https://theweekinchess.com/chessnews/events/european-senior-team-championship-2026",
-      "source": "The Week in Chess",
-      "date": "2026-09-04T19:21:00.000Z",
-      "summary": "The European Senior Team Championship 2026 took place Thu 27th August to Fri 4th September 2026. In the +50 event final Standings: 1st England 1, 17pts. 2nd Italy, 16pts. 3rd-4th Netherlands were just ahead of Slovakia on tie-break after they both scored 13…"
     }
   ]
 }
