@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T00:43:35.678Z",
+  "updated": "2026-10-19T05:38:24.669Z",
   "sources": [
     "Chess.com",
     "ChessBase",
@@ -7,6 +7,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Total Chess proposes unified rating system",
+      "link": "https://en.chessbase.com/post/total-chess-unified-rating-system",
+      "source": "ChessBase",
+      "date": "2026-10-19T02:45:00.000Z",
+      "summary": "Total Chess has proposed a new rating system that combines players' classical, rapid and blitz ratings into a single figure. Developed by researcher Mehmet Mars Seven in collaboration with Norway Chess, the formula uses existing FIDE ratings to assess overa…"
+    },
     {
       "title": "Wei Yi, Arjun, Rapport Win Again In Round 2 Of European Club Cup",
       "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-2",
