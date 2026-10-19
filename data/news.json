@@ -1,12 +1,41 @@
 {
-  "updated": "2026-10-19T11:56:26.671Z",
+  "updated": "2026-10-19T18:21:38.052Z",
   "sources": [
     "Chess.com",
+    "Lichess",
     "ChessBase",
     "FIDE",
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "US Championships - Live!",
+      "link": "https://en.chessbase.com/post/us-championships-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-19T19:00:00.000Z",
+      "summary": "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, whi…"
+    },
+    {
+      "title": "Vahap Şanal and Team Türkiye Trimph at 36th NATO Chess Championship",
+      "link": "https://www.fide.com/vahap-sanal-and-team-turkiye-trimph-at-36th-nato-chess-championship/",
+      "source": "FIDE",
+      "date": "2026-10-19T17:57:53.000Z",
+      "summary": "GM Vahap Şanal and Team Türkiye emerged victorious at the 2026 edition of the NATO Chess Championship. The seven-round Swiss tournament, held at the Baltic Beach Hotel & SPA in Jūrmala, Latvia, from 11 to 17 October, brought together 148 military chess play…"
+    },
+    {
+      "title": "FIDE President Timur Turlov meets Cyprus President Nikos Christodoulides in Nicosia",
+      "link": "https://www.fide.com/fide-president-timur-turlov-meets-cyprus-president-nikos-christodoulides-in-nicosia/",
+      "source": "FIDE",
+      "date": "2026-10-19T14:06:19.000Z",
+      "summary": "FIDE President Timur Turlov met with the President of the Republic of Cyprus, Nikos Christodoulides, at the Presidential Palace in Nicosia on 19 October. The meeting focused on the rapid development of chess in Cyprus, future plans, and how the country’s ex…"
+    },
+    {
+      "title": "European Club Cup - Live!",
+      "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-19T14:00:00.000Z",
+      "summary": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov,…"
+    },
     {
       "title": "European Club Cup: Crowded at the top",
       "link": "https://en.chessbase.com/post/european-club-cup-2026-2",
@@ -34,6 +63,13 @@
       "source": "ChessBase",
       "date": "2026-10-19T02:45:00.000Z",
       "summary": "Total Chess has proposed a new rating system that combines players' classical, rapid and blitz ratings into a single figure. Developed by researcher Mehmet Mars Seven in collaboration with Norway Chess, the formula uses existing FIDE ratings to assess overa…"
+    },
+    {
+      "title": "2026 Lichess Meetup in Prague",
+      "link": "https://lichess.org/@/Lichess/blog/2026-lichess-meetup-in-prague/7DKS0WPk",
+      "source": "Lichess",
+      "date": "2026-10-19T00:56:42.275Z",
+      "summary": "A weekend of team working, chess, and meeting the public for more chess"
     },
     {
       "title": "Wei Yi, Arjun, Rapport Win Again In Round 2 Of European Club Cup",
@@ -92,32 +128,11 @@
       "summary": "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. It was a game that literally took the chess world by storm. It contains a stunning sacrificial onslaught and is…"
     },
     {
-      "title": "US Championships: So comes from behind to beat Robson, becomes sole leader",
-      "link": "https://en.chessbase.com/post/us-championships-2026-7",
-      "source": "ChessBase",
-      "date": "2026-10-17T16:30:00.000Z",
-      "summary": "Wesley So defeated Ray Robson in round seven of the US Championship to take the sole lead on 5/7, half a point ahead of Fabiano Caruana and Andy Woodward. Awonder Liang suffered his second defeat, as he lost to Grigoriy Oparin. In the women's tournament, Al…"
-    },
-    {
-      "title": "The European Club Cup kicks off in Budva",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-preview",
-      "source": "ChessBase",
-      "date": "2026-10-17T13:45:00.000Z",
-      "summary": "From 17 to 23 October, Budva in Montenegro will host the European Club Cup. With over 100 teams competing in the open section and 22 teams in the women's competition, it is a large-scale event. The favourites, in each of the sections, are teams from Türkiye…"
-    },
-    {
       "title": "So Sole Leader After Turnaround Win; Li And Lee Lead Women's",
       "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-7",
       "source": "Chess.com",
       "date": "2026-10-17T08:00:00.000Z",
       "summary": "GM Wesley So remained the only unbeaten player and sole leader of the 2026 U.S. Chess Championship with five points when he fought back from a worse position to defeat GM Ray Robson in round seven. Among the joint leaders from the previous round, ..."
-    },
-    {
-      "title": "Review: The Modern Benko Gambit - A Full Repertoire Against 1.d4 by GM Sipke Ernst",
-      "link": "https://en.chessbase.com/post/review-the-modern-benko-gambit-a-full-repertoire-against-1-d4-by-gm-sipke-ernst",
-      "source": "ChessBase",
-      "date": "2026-10-17T07:00:00.000Z",
-      "summary": "In his latest ChessBase course, Grandmaster Sipke Ernst thoroughly dispels the Benko Gambit's poor reputation. His modern approach, featuring an early 5...e6!, revolutionises the gambit, breathes new life into it and elegantly sidesteps White's traditional…"
     },
     {
       "title": "Carlsen, So, Niemann Take Center Stage As 'Grandmasters' Hits U.S. Theaters",
@@ -148,13 +163,6 @@
       "summary": "GM Parham Maghsoodloo won the first two 3 0 Thursday tournaments on October 15, the first player to win consecutive events since GM Jose Martinez did it in back-to-back weeks in March and April. Maghsoodloo tried to become the first player to ever..."
     },
     {
-      "title": "Dortmund Sparkassen Trophy 2027",
-      "link": "https://en.chessbase.com/post/dortmund-sparkassen-trophy-2027",
-      "source": "ChessBase",
-      "date": "2026-10-16T17:20:00.000Z",
-      "summary": "In 2027, the 54th International Dortmund Chess Days will mark a special chapter in their history spanning more than 50 years: from 8 to 15 August 2027, the Sparkassen Chess Trophy will be held for the first time in the “Salzlager” at the Hansa Coking Plant.…"
-    },
-    {
       "title": "Olympiad qualification spots for 2027 World Cup and Women’s World Cup announced",
       "link": "https://www.fide.com/olympiad-qualification-spots-for-2027-world-cup-and-womens-world-cup-announced/",
       "source": "FIDE",
@@ -176,13 +184,6 @@
       "summary": "FIDE, in cooperation with the United Arab Emirates Chess Federation and Al Ain Chess & Mind Games Club, invites all FIDE member federations to participate in the World Junior U20 Rapid and Blitz Championships 2026. Each federation can register an unlimited…"
     },
     {
-      "title": "Rafael Vaganian turns 75: Decades among the chess elite",
-      "link": "https://en.chessbase.com/post/rafael-vaganian-75th-birthday",
-      "source": "ChessBase",
-      "date": "2026-10-15T21:45:00.000Z",
-      "summary": "Today, Rafael Vaganian celebrates his 75th birthday. In 1971, he became the first Armenian chess player after Tigran Petrosian to be awarded the grandmaster title by FIDE. He won numerous medals in team competitions representing the Soviet Union and Armenia…"
-    },
-    {
       "title": "6th Intercontinental Online Chess Championship for Prisoners: India wins double gold, Mexico triumphs in men’s section",
       "link": "https://www.fide.com/6th-intercontinental-online-chess-championship-for-prisoners-india-wins-double-gold-mexico-triumphs-in-mens-section/",
       "source": "FIDE",
@@ -195,13 +196,6 @@
       "source": "Chess.com",
       "date": "2026-10-15T19:57:00.000Z",
       "summary": "The last two league champions, Saint Louis University (SLU) and the University of Texas at Dallas (UTD), are the two undefeated teams after two matches each in the 2026 fall season of the Collegiate Chess League. SLU has dominated both matches tha..."
-    },
-    {
-      "title": "US Championships: Woodward takes down Caruana, Lee widens the gap",
-      "link": "https://en.chessbase.com/post/us-championships-2026-5",
-      "source": "ChessBase",
-      "date": "2026-10-15T17:20:00.000Z",
-      "summary": "Sixteen-year-old Andy Woodward defeated defending champion Fabiano Caruana in round five of the US Championship to join Wesley So in the lead on 3½/5. Jeffery Xiong, Ray Robson and Abhimanyu Mishra also scored victories. In the women's tournament, Alice Lee…"
     },
     {
       "title": "Three Chess Houses open simultaneously in Shymkent, Kazakhstan",
@@ -225,25 +219,11 @@
       "summary": "Armenia – Mexico 1(men’s section), India 1 – Mexico (women’s section) and India 1 – Serbia (youth section) are set to clash in the finals for the titles. The 6th Intercontinental Online Chess Championship for Prisoners continued on 14 October with an exciti…"
     },
     {
-      "title": "Atyrau Masters: Top two seeds defeated in opening rounds",
-      "link": "https://en.chessbase.com/post/atyrau-masters-2026-r3",
-      "source": "ChessBase",
-      "date": "2026-10-15T04:45:00.000Z",
-      "summary": "The Atyrau Masters in Kazakhstan has attracted a strong international field, with Shamsiddin Vokhidov and Leon Luke Mendonca heading the starting list. Both top seeds suffered unexpected defeats in the opening two rounds, losing to significantly lower-rated…"
-    },
-    {
       "title": "Woodward Topples Caruana; Lee On 4.5/5 After Bloodiest Day Yet",
       "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-5",
       "source": "Chess.com",
       "date": "2026-10-15T01:57:00.000Z",
       "summary": "Eight out of 12 games were decisive on Wednesday, making it the bloodiest round across both tournaments in this year's 2026 U.S. Chess Championships. GM Andy Woodward took down defending champion GM Fabiano Caruana to join GM Wesley So in the lead..."
-    },
-    {
-      "title": "World Championships U7–U17 2026: Young talents make their mark in Spain",
-      "link": "https://www.fide.com/world-championships-u7-u17-2026-young-talents-make-their-mark-in-spain/",
-      "source": "FIDE",
-      "date": "2026-10-14T20:47:54.000Z",
-      "summary": "Surprises and perfect scores shape the opening rounds of the 2026 World Championships U7–U17 With an outstanding turnout of 721 players representing 82 countries, the 2026 FIDE World Championships U7–U17 got underway on October 13 in the coastal town of Roq…"
     },
     {
       "title": "Roman Shogdzhiev, 11, Closes In On Mishra's Youngest GM Record",
@@ -253,34 +233,6 @@
       "summary": "IM Roman Shogdzhiev took a major step toward becoming the youngest grandmaster in chess history on Monday, scoring his second GM norm in the Serbian Super League. The 11-year-old is now one norm and 29 rating points away from breaking GM Abhimanyu..."
     },
     {
-      "title": "Young British prodigies",
-      "link": "https://en.chessbase.com/post/young-british-prodigies",
-      "source": "ChessBase",
-      "date": "2026-10-14T16:00:00.000Z",
-      "summary": "The English Chess Federation has congratulated 12-year-old chess prodigy Supratit Banerjee after his International Master title was officially approved by FIDE, making him the youngest English player to achieve the prestigious title. This is another milesto…"
-    },
-    {
-      "title": "6th Intercontinental Online Chess Championship for Prisoners kicks off with record 140 teams",
-      "link": "https://en.chessbase.com/post/intercontinental-online-chess-ch-2026-start",
-      "source": "ChessBase",
-      "date": "2026-10-14T13:45:00.000Z",
-      "summary": "The 6th Intercontinental Online Chess Championship for Prisoners began on 13 October with a record 140 teams from 56 countries competing across men's, women's and youth sections. Organised by FIDE and the Cook County Sheriff's Office, the three-day event co…"
-    },
-    {
-      "title": "FIDE World Junior U20 Championship in Venezuela: Registration deadline extended",
-      "link": "https://www.fide.com/fide-world-junior-u20-championship-in-venezuela-registration-deadline-extended/",
-      "source": "FIDE",
-      "date": "2026-10-14T12:39:44.000Z",
-      "summary": "FIDE and the Venezuelan Chess Federation, in cooperation with the Ministry of People’s Power for Sport, invite all FIDE Member Federations to participate in the FIDE World Junior U20 Championship to be held in Caracas 17 to 28 November 2026. Each National F…"
-    },
-    {
-      "title": "FIDE General Assembly adopts resolution on shorter time controls",
-      "link": "https://en.chessbase.com/post/shorter-time-controls-fide-general-assembly",
-      "source": "ChessBase",
-      "date": "2026-10-14T06:10:00.000Z",
-      "summary": "FIDE is preparing changes to the regulations governing shorter classical time controls following a General Assembly resolution based on a proposal from the Icelandic Chess Federation. The FIDE Council plans to make 60+30 a standard classical control without…"
-    },
-    {
       "title": "Caruana Wins Titled Tuesday On Day Off In U.S. Championship",
       "link": "https://www.chess.com/news/view/caruana-wins-titled-tuesday-october-13-2026",
       "source": "Chess.com",
@@ -288,25 +240,18 @@
       "summary": "GM Fabiano Caruana won Titled Tuesday on October 13 during an off day in the 2026 U.S. Championship&mdash;where he currently shares the tournament lead&mdash;defeating GM Nihal Sarin in a key 10th-round matchup. Caruana then only made a draw in th..."
     },
     {
-      "title": "Bodhana in the Bundesliga",
-      "link": "https://en.chessbase.com/post/bodhabna-in-the-bundesliga",
-      "source": "ChessBase",
-      "date": "2026-10-13T17:49:30.000Z",
-      "summary": "Bodhana Sivanandan made her debut in the Second Bundesliga this weekend, playing for the Hamburger SK's men's team. She is the youngest youngest player ever to play in the German Bundesliga, and the youngest WGM in history. Her score in the two games she pl…"
-    },
-    {
-      "title": "A dispute in the Bundesliga",
-      "link": "https://en.chessbase.com/post/a-dispute-in-the-bundesliga",
-      "source": "ChessBase",
-      "date": "2026-10-13T12:33:33.000Z",
-      "summary": "The German Chess Bundesliga is known for its continuity. For decades, it has operated under well-established rules, although players, spectators and arbiters have not always agreed on how to apply them. A particularly curious case arose in the 1986/87 seaso…"
-    },
-    {
       "title": "Day Of Endgames Sees Caruana Join So At Top; Lee Sole Leader In Women's",
       "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-4",
       "source": "Chess.com",
       "date": "2026-10-13T08:04:00.000Z",
       "summary": "It was a day of endgames in round four of the 2026 U.S. Chess Championship, with GM Fabiano Caruana scoring a long grinding win over GM Ray Robson to join GM Wesley So in the lead on three points. In other games, GMs Jeffery Xiong, Grigoriy Oparin..."
+    },
+    {
+      "title": "Titled Arenas Announcement — October to December 2026",
+      "link": "https://lichess.org/@/Lichess/blog/titled-arenas-announcement-october-to-december-2026/WuJIesah",
+      "source": "Lichess",
+      "date": "2026-10-13T05:51:46.672Z",
+      "summary": "Announcing our schedule for upcoming Titled Arenas!"
     },
     {
       "title": "Woodward, Shankland Strike; Alice Lee Joins Women's Leaders",
@@ -372,6 +317,13 @@
       "summary": "A day after becoming the first 3500-rated Chess.com Blitz player in site history, GM Hikaru Nakamura upped his record to 3503 while streaming Titled Tuesday live from Sithonia, Greece, on October 6. Unfortunately for Nakamura, he did not ultimatel..."
     },
     {
+      "title": "Lichess Game of the Month: August '26",
+      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-august-26/ekVdAfDN",
+      "source": "Lichess",
+      "date": "2026-10-05T03:23:59.630Z",
+      "summary": "The long diagonal paves the way to White's king"
+    },
+    {
       "title": "Nakamura Breaks Calendar Record With 4th Consecutive Victory",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-3-2026",
       "source": "Chess.com",
@@ -386,11 +338,39 @@
       "summary": "GM Awonder Liang blanked his opposition with 3-0 victories in all the matches to convincingly win the 2026 Seirawan Chess Championship, an event he won in 2024 too. It was a brisk evening for the 23-year-old American GM, who was hardly in any trou..."
     },
     {
+      "title": "Retrospective: 2025 Toronto Lichess Meetup",
+      "link": "https://lichess.org/@/Lichess/blog/retrospective-2025-toronto-lichess-meetup/3ReyIZOk",
+      "source": "Lichess",
+      "date": "2026-10-03T11:43:37.642Z",
+      "summary": "One year later, we look back at the 2025 Lichess meetup in Toronto, which saw an OTB tournament, work, and, of course, a whole lot of fun!"
+    },
+    {
       "title": "46th World Chess Olympiad 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/46th-world-chess-olympiad-2026",
       "source": "The Week in Chess",
       "date": "2026-10-03T11:02:00.000Z",
       "summary": "The 46th World Chess Olympiad took place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. The hosts Uzbekistan took the gold…"
+    },
+    {
+      "title": "2026 Samarkand Olympiad Rounds 10–11: Uzbekistan, China Win Open, Women’s",
+      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-10-11-uzbekistan-china-win-open-womens/W0x2a9bz",
+      "source": "Lichess",
+      "date": "2026-09-27T13:39:19.439Z",
+      "summary": "Uzbekistan wins the open on 20/22 match points, with India taking the silver and Germany the bronze. In the Women's, China won two points clear of the field on 20 match points, with Kazakhstan in 2nd on 18 and India in third on 17."
+    },
+    {
+      "title": "2026 Samarkand Olympiad Rounds 7–9: Uzbekistan & China Lead Open and Women’s",
+      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-7-9-uzbekistan-china-lead-open-and-womens/MF1Hjp6Z",
+      "source": "Lichess",
+      "date": "2026-09-25T19:09:30.441Z",
+      "summary": "Uzbekistan is in sole first on 16/18 match points, with India, Uzbekistan 2, and Armenia one point behind on 15/18; in the Women's, China is in sole first on 17/18 match points, with its closest rivals on 15/18 being India, Kazakhstan, and Mongolia."
+    },
+    {
+      "title": "2026 Samarkand Olympiad Rounds 4–6: Uzbekistan in Sole Lead, Plays China in R7",
+      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-4-6-uzbekistan-in-sole-lead-plays-china-in-r7/NIRrBw3h",
+      "source": "Lichess",
+      "date": "2026-09-21T21:12:23.399Z",
+      "summary": "After defeating India, Uzbekistan is in the sole lead with 12/12 match points, with China and Armenia on 11/12. In the Women's, China and Kazakhstan are in 1st place on 12/12 match points, with 11 teams in close pursuit on 10/12 match points."
     },
     {
       "title": "ChessBase´26 – Tips for Beginners, part 32: Training with style",
@@ -400,11 +380,25 @@
       "summary": "It’s once again time to think about aesthetics in ChessBase´26 training: Have you ever noticed the “Style” option? If not, in this episode we’ll explain briefly and concisely how you can better adapt your screen display to your own taste."
     },
     {
+      "title": "2026 Samarkand Olympiad Rounds 1–3: the USA, India, Uzbekistan, and China in 1st",
+      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-1-3-the-usa-india-uzbekistan-and-china-in-1st/KVapO7qb",
+      "source": "Lichess",
+      "date": "2026-09-18T21:39:42.099Z",
+      "summary": "The top 10 seeds in both the Open and Women's, except for England in the Open and Georgia, Ukraine, and France in the Women's, remain steady on 6/6 match points."
+    },
+    {
       "title": "3rd FIDE Chess Olympiad for People with Disabilities 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/3rd-fide-chess-olympiad-for-people-with-disabilities-2026",
       "source": "The Week in Chess",
       "date": "2026-09-17T20:10:00.000Z",
       "summary": "The 3rd FIDE Chess Olympiad for People with Disabilities took place Fri 11th to Thu 17th Sep 2026. Poland beat Cuba in Round 5 to take the lead which they retained to the end, Cuba took the Silver medal and Uzbekistan 1 the Bronze."
+    },
+    {
+      "title": "2026 Samarkand Olympiad: Preview",
+      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-preview/anaRyt7r",
+      "source": "Lichess",
+      "date": "2026-09-15T17:21:09.906Z",
+      "summary": "The 2026 Samarkand Olympiad promises to be a very exciting and memorable chess Olympiad."
     },
     {
       "title": "Clutch Chess: The Legends 2026 - Games and results",
@@ -447,13 +441,6 @@
       "source": "The Week in Chess",
       "date": "2026-09-04T19:21:00.000Z",
       "summary": "The European Senior Team Championship 2026 took place Thu 27th August to Fri 4th September 2026. In the +50 event final Standings: 1st England 1, 17pts. 2nd Italy, 16pts. 3rd-4th Netherlands were just ahead of Slovakia on tie-break after they both scored 13…"
-    },
-    {
-      "title": "Season Four of the Tech Mahindra Global Chess League - Start",
-      "link": "https://theweekinchess.com/twic-news-feed/season-four-of-the-tech-mahindra-global-chess-league",
-      "source": "The Week in Chess",
-      "date": "2026-09-04T12:55:00.000Z",
-      "summary": "The 2026 Tech Mahindra Global Chess League runs Sat 5th-13th Sept in Bengaluru, India. It uses a rapid time control of 20 minutes plus 2 seconds a move. Magnus Carlsen, Alireza Firouzja and Viswanathan Anand star. League: 6 teams 10 matches, the top two fin…"
     }
   ]
 }
