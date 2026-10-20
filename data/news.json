@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T13:15:03.990Z",
+  "updated": "2026-10-20T18:16:24.497Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "US Championships - Live!",
+      "link": "https://en.chessbase.com/post/us-championships-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-20T19:00:00.000Z",
+      "summary": "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, whi…"
+    },
     {
       "title": "European Club Cup - Live!",
       "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
@@ -42,13 +49,6 @@
       "source": "Chess.com",
       "date": "2026-10-19T22:23:00.000Z",
       "summary": "GM Yagiz Kaan Erdogmus, the highest-rated 15-year-old of all time, is now world number-15 on the live rating list after winning a time-trouble battle on his 2026 European Chess Club Cup debut. GMs Nodirbek Abdusattorov and Anish Giri also won thei..."
-    },
-    {
-      "title": "US Championships - Live!",
-      "link": "https://en.chessbase.com/post/us-championships-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-19T19:00:00.000Z",
-      "summary": "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, whi…"
     },
     {
       "title": "Vahap Şanal and Team Türkiye Trimph at 36th NATO Chess Championship",
