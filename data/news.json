@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T07:03:41.668Z",
+  "updated": "2026-10-20T13:15:03.990Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "European Club Cup - Live!",
+      "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-20T14:00:00.000Z",
+      "summary": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov,…"
+    },
+    {
+      "title": "Where chess meets its fans: Join side activities of the Salesforce FIDE World Championship Match",
+      "link": "https://www.fide.com/where-chess-meets-its-fans-join-side-activities-of-the-world-championship-match/",
+      "source": "FIDE",
+      "date": "2026-10-20T07:56:51.000Z",
+      "summary": "The Salesforce FIDE World Championship Match 2026, taking place in Geneva from 22 November to 12 December, is the most important chess event of the year. Reigning World Champion Gukesh Dommaraju and challenger Javokhir Sindarov will battle for the crown and…"
+    },
     {
       "title": "European Club Cup: Favourites set for direct encounters",
       "link": "https://en.chessbase.com/post/european-club-cup-2026-3",
@@ -19,7 +33,7 @@
       "title": "Rookie Rachael Li Leads Women By Full Point; Wesley So Parries Fabiano Caruana",
       "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-9",
       "source": "Chess.com",
-      "date": "2026-10-20T01:35:40.000Z",
+      "date": "2026-10-20T01:35:00.000Z",
       "summary": "GM Wesley So held onto his full-point lead in round nine of the 2026 U.S. Chess Championship by fending off defending champion GM Fabiano Caruana. There were five draws and just one decisive game, where GM Grigoriy Oparin defeated GM Sam Shankland..."
     },
     {
@@ -224,13 +238,6 @@
       "source": "FIDE",
       "date": "2026-10-15T08:20:31.000Z",
       "summary": "By George Chitiyo, Ph.D.Tennessee Technological University Chess has a long history in schools, yet the field has lacked a global account of how school chess programs are organized, supported and evaluated. The 2026 FIDE Global Chess in Schools Survey, cond…"
-    },
-    {
-      "title": "Finals set at the 6th Intercontinental Online Chess Championship for Prisoners",
-      "link": "https://www.fide.com/finals-set-at-the-6th-intercontinental-online-chess-championship-for-prisoners/",
-      "source": "FIDE",
-      "date": "2026-10-15T07:58:20.000Z",
-      "summary": "Armenia – Mexico 1(men’s section), India 1 – Mexico (women’s section) and India 1 – Serbia (youth section) are set to clash in the finals for the titles. The 6th Intercontinental Online Chess Championship for Prisoners continued on 14 October with an exciti…"
     },
     {
       "title": "Woodward Topples Caruana; Lee On 4.5/5 After Bloodiest Day Yet",
