@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T01:29:30.656Z",
+  "updated": "2026-10-20T07:03:41.668Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "European Club Cup: Favourites set for direct encounters",
+      "link": "https://en.chessbase.com/post/european-club-cup-2026-3",
+      "source": "ChessBase",
+      "date": "2026-10-20T05:05:00.000Z",
+      "summary": "Eleven teams remain tied for first place in the open section of the European Club Cup after three rounds, with tenth seeds Beer Sheva the only top-twelve team to have dropped a match point. The fourth round will see SuperChess facing Bayegan Pendik, with a…"
+    },
+    {
+      "title": "Rookie Rachael Li Leads Women By Full Point; Wesley So Parries Fabiano Caruana",
+      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-9",
+      "source": "Chess.com",
+      "date": "2026-10-20T01:35:40.000Z",
+      "summary": "GM Wesley So held onto his full-point lead in round nine of the 2026 U.S. Chess Championship by fending off defending champion GM Fabiano Caruana. There were five draws and just one decisive game, where GM Grigoriy Oparin defeated GM Sam Shankland..."
+    },
     {
       "title": "15-Year-Old Erdogmus Climbs To World No. 15",
       "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-3",
@@ -35,13 +49,6 @@
       "source": "FIDE",
       "date": "2026-10-19T14:06:19.000Z",
       "summary": "FIDE President Timur Turlov met with the President of the Republic of Cyprus, Nikos Christodoulides, at the Presidential Palace in Nicosia on 19 October. The meeting focused on the rapid development of chess in Cyprus, future plans, and how the country’s ex…"
-    },
-    {
-      "title": "European Club Cup - Live!",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-19T14:00:00.000Z",
-      "summary": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov,…"
     },
     {
       "title": "From quitting chess to becoming a Grandmaster - Interview with Arturs Neiksans",
@@ -329,13 +336,6 @@
       "source": "Lichess",
       "date": "2026-10-05T03:23:59.630Z",
       "summary": "The long diagonal paves the way to White's king"
-    },
-    {
-      "title": "Nakamura Breaks Calendar Record With 4th Consecutive Victory",
-      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-3-2026",
-      "source": "Chess.com",
-      "date": "2026-10-04T04:30:00.000Z",
-      "summary": "In a week when GM Hikaru Nakamura pushed Chess.com's blitz record to new heights, it is fitting that he also broke the record for the most Bullet Brawl victories in a single year, albeit with three months to spare. A dominant run in the second hal..."
     },
     {
       "title": "Retrospective: 2025 Toronto Lichess Meetup",
