@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:16:24.497Z",
+  "updated": "2026-10-20T22:02:05.344Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "GothamChess Returns To NYT Bestseller List, Holds Amazon’s Top 2 Chess Spots",
+      "link": "https://www.chess.com/news/view/gothamchess-returns-to-new-york-times-bestseller-list-holds-amazons-top-2-chess-spots",
+      "source": "Chess.com",
+      "date": "2026-10-20T21:46:57.000Z",
+      "summary": "IM Levy Rozman has another New York Times bestseller. His new book, How to Win at Chess, Next Level, has reached the prestigious list, while his two How to Win at Chess titles currently rank in the top two spots on Amazon&rsquo;s bestselling chess..."
+    },
+    {
+      "title": "Nakamura Starts 7/7, Wins Titled Tuesday",
+      "link": "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-october-20-2026",
+      "source": "Chess.com",
+      "date": "2026-10-20T19:00:00.000Z",
+      "summary": "GM Hikaru Nakamura won a dramatic Titled Tuesday on October 20, taking down GM Alireza Firouzja in the final round to win the event with 9.5/11. Nakamura also needed tiebreaks to beat out GMs Dmitry Andreikin and Sina Movahed, who finished in seco..."
+    },
     {
       "title": "US Championships - Live!",
       "link": "https://en.chessbase.com/post/us-championships-2026-live",
@@ -322,20 +336,6 @@
       "source": "Chess.com",
       "date": "2026-10-09T15:30:22.000Z",
       "summary": "Josh Smith, an amateur player with a US Chess rating in the 1800s, is set to play GM Daniil Dubov in a 100-game bullet match with up to $20,000 on the line. But there is a catch: Dubov must win every single game to collect the full amount. The 49..."
-    },
-    {
-      "title": "GothamChess European Tour Kicks Off On October 25 With Special Guests And Activities",
-      "link": "https://www.chess.com/news/view/gotham-chess-european-tour-guests-activities-2026",
-      "source": "Chess.com",
-      "date": "2026-10-07T15:00:00.000Z",
-      "summary": "Europe is about to meet the world's biggest chess creator in person again. IM Levy Rozman, better known as GothamChess, is returning to the old continent for his second tour from October 25 to November 10. Fans in six cities can get tickets to see..."
-    },
-    {
-      "title": "Nakamura Sets New Chess.com Rating Record As Artemiev Pulls Off Last-Second Win",
-      "link": "https://www.chess.com/news/view/artemiev-wins-titled-tuesday-october-6-2026",
-      "source": "Chess.com",
-      "date": "2026-10-06T20:53:06.000Z",
-      "summary": "A day after becoming the first 3500-rated Chess.com Blitz player in site history, GM Hikaru Nakamura upped his record to 3503 while streaming Titled Tuesday live from Sithonia, Greece, on October 6. Unfortunately for Nakamura, he did not ultimatel..."
     },
     {
       "title": "Lichess Game of the Month: August '26",
