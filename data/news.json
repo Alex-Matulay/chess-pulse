@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T01:13:05.638Z",
+  "updated": "2026-10-21T06:57:13.683Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Wesley So, Rachael Li Lead By Full Point Ahead Of Final Round",
+      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
+      "source": "Chess.com",
+      "date": "2026-10-21T04:25:39.000Z",
+      "summary": "It's the GM Wesley So show at the 2026 U.S. Chess Championship as the three-time winner coasts to the final round with a full-point lead on GMs Fabiano Caruana and Grigoriy Oparin. He made a quick draw with GM Hans Niemann to maintain that lead, b..."
+    },
+    {
+      "title": "Vahap Sanal and Team Türkiye triumph at NATO Chess Championship",
+      "link": "https://en.chessbase.com/post/nato-chess-championship-2026-report",
+      "source": "ChessBase",
+      "date": "2026-10-21T03:30:00.000Z",
+      "summary": "Vahap Şanal won the 2026 NATO Chess Championship in Jūrmala with a perfect 7/7 score, while Türkiye took first place in the team competition. Slovenia's Laura Unuk finished second overall and was the event's top woman, with Germany's Robert Stein claiming b…"
+    },
     {
       "title": "FIDE President Timur Turlov meets Cyprus President Nikos Christodoulides in Nicosia",
       "link": "https://en.chessbase.com/post/timur-turlov-meets-nikos-christodoulides",
@@ -329,13 +343,6 @@
       "source": "Chess.com",
       "date": "2026-10-10T08:55:00.000Z",
       "summary": "Three-time national champion GM Wesley So celebrated his 33rd birthday with a win over GM Sam Shankland in the first round of the 2026 U.S. Chess Championship, which started in St. Louis on Friday. GMs Jeffery Xiong and Awonder Liang also started ..."
-    },
-    {
-      "title": "Duda Scores 10/11 In 3 0 Thursday, Narrowly Misses 1st Perfect Score",
-      "link": "https://www.chess.com/news/view/duda-bortnyk-le-3-0-thursday-10-8-2026",
-      "source": "Chess.com",
-      "date": "2026-10-10T06:09:00.000Z",
-      "summary": "GMs Jan-Krzysztof Duda, Oleksandr Bortnyk, and Tuan Minh Le fended off prodigies and numerous 3000+ rated opponents to win October 8's 3 0 Thursday&nbsp;tournaments outright. Duda dominated the 215-player-strong first tournament and came close to..."
     },
     {
       "title": "Lichess Game of the Month: August '26",
