@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T12:45:09.845Z",
+  "updated": "2026-10-21T17:51:10.636Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "US Championships - Live!",
+      "link": "https://en.chessbase.com/post/us-championships-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-21T19:00:00.000Z",
+      "summary": "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, whi…"
+    },
+    {
+      "title": "Play Chess Against NBA Star Steven Adams",
+      "link": "https://www.chess.com/news/view/play-chess-against-steven-adams",
+      "source": "Chess.com",
+      "date": "2026-10-21T17:00:17.000Z",
+      "summary": "Think you can dunk on an NBA player at chess? Houston Rockets star Steven Adams is now a bot on Chess.com! Head to the Play Bots page and try your luck against our tallest chess bot ever! With a towering 6'11\" presence and a tough chess rating of..."
+    },
+    {
+      "title": "Ending the Boycott",
+      "link": "https://lichess.org/@/Lichess/blog/ending-the-boycott/Y82ZBf6S",
+      "source": "Lichess",
+      "date": "2026-10-21T16:37:14.559Z",
+      "summary": "Lichess has resumed cooperation with US Chess after positive changes"
+    },
+    {
+      "title": "Kazakhstan dominates World U7–U17 Championships in Roquetas de Mar",
+      "link": "https://www.fide.com/kazakhstan-dominates-world-u7-u17-championships-in-roquetas-de-mar/",
+      "source": "FIDE",
+      "date": "2026-10-21T16:20:16.000Z",
+      "summary": "With an outstanding medal haul across the age categories, Kazakhstan emerged as one of the leading forces at the 2026 World Youth Championships, showcasing the strength of its next generation of chess talent. The 2026 World U7–U17 Chess Championships came t…"
+    },
     {
       "title": "European Club Cup - Live!",
       "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
@@ -56,13 +84,6 @@
       "source": "Chess.com",
       "date": "2026-10-20T19:00:00.000Z",
       "summary": "GM Hikaru Nakamura won a dramatic Titled Tuesday on October 20, taking down GM Alireza Firouzja in the final round to win the event with 9.5/11. Nakamura also needed tiebreaks to beat out GMs Dmitry Andreikin and Sina Movahed, who finished in seco..."
-    },
-    {
-      "title": "US Championships - Live!",
-      "link": "https://en.chessbase.com/post/us-championships-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-20T19:00:00.000Z",
-      "summary": "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, whi…"
     },
     {
       "title": "Where chess meets its fans: Join side activities of the Salesforce FIDE World Championship Match",
@@ -268,13 +289,6 @@
       "summary": "On October 15, the grand opening of three Chess Houses took place in Shymkent, the third largest city in Kazakhstan by population. The new spaces were established in Abay Park, Metallurgists Park, and the pedestrian alley in the 17th microdistrict. Here, ci…"
     },
     {
-      "title": "Chess in Schools Worldwide: Reach, Structure and Evidence in 100 countries",
-      "link": "https://www.fide.com/chess-in-schools-worldwide-reach-structure-and-evidence-in-100-countries/",
-      "source": "FIDE",
-      "date": "2026-10-15T08:20:31.000Z",
-      "summary": "By George Chitiyo, Ph.D.Tennessee Technological University Chess has a long history in schools, yet the field has lacked a global account of how school chess programs are organized, supported and evaluated. The 2026 FIDE Global Chess in Schools Survey, cond…"
-    },
-    {
       "title": "Woodward Topples Caruana; Lee On 4.5/5 After Bloodiest Day Yet",
       "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-5",
       "source": "Chess.com",
@@ -336,13 +350,6 @@
       "source": "Chess.com",
       "date": "2026-10-10T14:47:00.000Z",
       "summary": "GM Parham Maghsoodloo took a step closer to qualifying for the 2027 FIDE Freestyle Chess World Championship by taking out the latest edition of Freestyle Friday. Maghsoodloo scored 9/11 en route to victory, suffering only a single loss to one of U..."
-    },
-    {
-      "title": "Birthday Boy Wesley So Starts U.S. Championship With Topsy-Turvy Win",
-      "link": "https://www.chess.com/news/view/2026-us-chess-championship-round-1",
-      "source": "Chess.com",
-      "date": "2026-10-10T08:55:00.000Z",
-      "summary": "Three-time national champion GM Wesley So celebrated his 33rd birthday with a win over GM Sam Shankland in the first round of the 2026 U.S. Chess Championship, which started in St. Louis on Friday. GMs Jeffery Xiong and Awonder Liang also started ..."
     },
     {
       "title": "Lichess Game of the Month: August '26",
