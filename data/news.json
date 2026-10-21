@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T06:57:13.683Z",
+  "updated": "2026-10-21T12:45:09.845Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,18 @@
   ],
   "items": [
     {
+      "title": "European Club Cup - Live!",
+      "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-21T14:00:00.000Z",
+      "summary": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov,…"
+    },
+    {
       "title": "Wesley So, Rachael Li Lead By Full Point Ahead Of Final Round",
       "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
       "source": "Chess.com",
-      "date": "2026-10-21T04:25:39.000Z",
-      "summary": "It's the GM Wesley So show at the 2026 U.S. Chess Championship as the three-time winner coasts to the final round with a full-point lead on GMs Fabiano Caruana and Grigoriy Oparin. He made a quick draw with GM Hans Niemann to maintain that lead, b..."
+      "date": "2026-10-21T04:25:00.000Z",
+      "summary": "It's the GM Wesley So show at the 2026 U.S. Chess Championship as the three-time winner coasts to the final round with a full-point lead over GMs Fabiano Caruana and Grigoriy Oparin. He made a quick draw with GM Hans Niemann to maintain that lead,..."
     },
     {
       "title": "Vahap Sanal and Team Türkiye triumph at NATO Chess Championship",
@@ -56,13 +63,6 @@
       "source": "ChessBase",
       "date": "2026-10-20T19:00:00.000Z",
       "summary": "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, whi…"
-    },
-    {
-      "title": "European Club Cup - Live!",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-20T14:00:00.000Z",
-      "summary": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov,…"
     },
     {
       "title": "Where chess meets its fans: Join side activities of the Salesforce FIDE World Championship Match",
@@ -441,13 +441,6 @@
       "source": "ChessBase",
       "date": "2026-09-12T08:00:00.000Z",
       "summary": "\"Yesterday, in one of the most horrifying terrorist atrocities in history, the World Trade Center in New York was destroyed...\" Those were the words with which we launched our brand new database-driven news page, on September 12, 2001. It was the very first…"
-    },
-    {
-      "title": "ChessBase´26 – Tips for Beginners, part 30: Use \"Folders\"",
-      "link": "https://en.chessbase.com/post/chessbase-26-tips-for-beginners-part-30-use-folders",
-      "source": "ChessBase",
-      "date": "2026-09-06T07:00:00.000Z",
-      "summary": "ChessBase´26 is amazingly versatile and often surprisingly user-friendly — as the first 29 parts of this tutorial series have already shown! One particularly important feature in this context is the “Folders” window, which lets you quickly locate anything y…"
     }
   ]
 }
