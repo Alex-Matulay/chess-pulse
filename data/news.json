@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T17:51:10.636Z",
+  "updated": "2026-10-21T21:09:47.918Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Lionel Messi Shares ChatGPT Chess Lesson With 517 Million Instagram Followers",
+      "link": "https://www.chess.com/news/view/lionel-messi-chatgpt-chess-instagram",
+      "source": "Chess.com",
+      "date": "2026-10-21T20:55:53.000Z",
+      "summary": "Argentinian superstar Lionel Messi shared a chess-themed ad for ChatGPT with his 517 million Instagram followers on Wednesday, in a post that is bound to generate massive interest. The world's second-most followed person on Instagram, behind only..."
+    },
     {
       "title": "US Championships - Live!",
       "link": "https://en.chessbase.com/post/us-championships-2026-live",
@@ -121,32 +128,11 @@
       "summary": "GM Vahap Şanal and Team Türkiye emerged victorious at the 2026 edition of the NATO Chess Championship. The seven-round Swiss tournament, held at the Baltic Beach Hotel & SPA in Jūrmala, Latvia, from 11 to 17 October, brought together 148 military chess play…"
     },
     {
-      "title": "From quitting chess to becoming a Grandmaster - Interview with Arturs Neiksans",
-      "link": "https://en.chessbase.com/post/from-quitting-chess-to-becoming-a-grandmaster-interview-with-arturs-neiksans-3",
-      "source": "ChessBase",
-      "date": "2026-10-19T11:37:10.000Z",
-      "summary": "GM Arturs Neiksans looks back on his remarkable chess journey, from growing up in the small Latvian town of Valka and discovering chess at age nine to representing Latvia and eventually becoming a Grandmaster. He explains why he stepped away from competitiv…"
-    },
-    {
       "title": "FIDE Chess in Education Commission (EDU) announces October–December 2026 courses",
       "link": "https://www.fide.com/fide-chess-in-education-commission-edu-announces-october-december-2026-courses/",
       "source": "FIDE",
       "date": "2026-10-19T11:17:14.000Z",
       "summary": "Dear Chess Friends, FIDE’s Chess in Education Commission continues to expand its training for Lecturers and Teachers of Educational Chess, offering a series of high-level online and in-person opportunities in autumn and winter 2026. The Preparation of Lectu…"
-    },
-    {
-      "title": "European Club Cup: Crowded at the top",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-2",
-      "source": "ChessBase",
-      "date": "2026-10-19T08:05:00.000Z",
-      "summary": "A total of 108 teams are competing in the European Club Cup in Budva in the open section, with 22 in the women's competition. On paper, the favourites in the open are Bayegan Pendik Chess Sports Club from Turkey, with an average Elo rating of 2715. Bayegan…"
-    },
-    {
-      "title": "Total Chess proposes unified rating system",
-      "link": "https://en.chessbase.com/post/total-chess-unified-rating-system",
-      "source": "ChessBase",
-      "date": "2026-10-19T02:45:00.000Z",
-      "summary": "Total Chess has proposed a new rating system that combines players' classical, rapid and blitz ratings into a single figure. Developed by researcher Mehmet Mars Seven in collaboration with Norway Chess, the formula uses existing FIDE ratings to assess overa…"
     },
     {
       "title": "2026 Lichess Meetup in Prague",
@@ -161,27 +147,6 @@
       "source": "Chess.com",
       "date": "2026-10-18T23:12:00.000Z",
       "summary": "The favorites continued to cruise in round two of the 2026 European Chess Club Cup, with GMs Wei Yi, Arjun Erigaisi, and Richard Rapport among the stars to move to 2/2. Top seed Bayegan Pendik Chess Sports Club again rested GMs Anish Giri and Yagi..."
-    },
-    {
-      "title": "US Championships: So wins again, now a full point ahead",
-      "link": "https://en.chessbase.com/post/us-championships-2026-8",
-      "source": "ChessBase",
-      "date": "2026-10-18T20:00:00.000Z",
-      "summary": "Wesley So defeated Andy Woodward in round eight of the US Championship to extend his lead to a full point over Fabiano Caruana, who drew against Sam Sevian. The two will meet in Monday's ninth round. In the women's tournament, Alice Lee and Rachael Li remai…"
-    },
-    {
-      "title": "The hour of the seconds",
-      "link": "https://en.chessbase.com/post/world-ch-2026-seconds",
-      "source": "ChessBase",
-      "date": "2026-10-18T12:30:00.000Z",
-      "summary": "The World Championship match between Gukesh Dommaraju and Javokhir Sindarov is approaching. The contest gets underway on 24 November in Cologny, near Geneva. Who will be helping the two contenders this time? Sindarov will be able to count on the assistance…"
-    },
-    {
-      "title": "European Club Cup: Comfortable wins for the favourites",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-1",
-      "source": "ChessBase",
-      "date": "2026-10-18T09:25:00.000Z",
-      "summary": "The European Club Cup began on Saturday in Budva, Montenegro, with 108 teams competing in the open section and 22 in the women's tournament. The leading clubs secured comfortable victories, although there were a couple of individual upsets. Defending champi…"
     },
     {
       "title": "Wesley So Extends Lead; Status Quo In Women's",
@@ -343,13 +308,6 @@
       "source": "Chess.com",
       "date": "2026-10-11T00:14:00.000Z",
       "summary": "History was made in the Bullet Brawl arena on Saturday as GM Hikaru Nakamura acquired his fifth straight title, eclipsing a record set and shared by the late GM Daniel Naroditsky and himself back in 2023. Nakamura made his biggest move in the sec..."
-    },
-    {
-      "title": "Maghsoodloo Wins Star-Studded Freestyle Friday",
-      "link": "https://www.chess.com/news/view/maghsoodloo-wins-freestyle-friday-october-9-2026",
-      "source": "Chess.com",
-      "date": "2026-10-10T14:47:00.000Z",
-      "summary": "GM Parham Maghsoodloo took a step closer to qualifying for the 2027 FIDE Freestyle Chess World Championship by taking out the latest edition of Freestyle Friday. Maghsoodloo scored 9/11 en route to victory, suffering only a single loss to one of U..."
     },
     {
       "title": "Lichess Game of the Month: August '26",
