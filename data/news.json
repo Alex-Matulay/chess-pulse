@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T05:41:51.319Z",
+  "updated": "2026-10-22T11:02:20.837Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "All new releases in September!",
+      "link": "https://en.chessbase.com/post/all-new-releases-in-september",
+      "source": "ChessBase",
+      "date": "2026-10-22T10:12:08.000Z",
+      "summary": "The latest releases offer fresh ideas for opening preparation and regular chess training. In two volumes, Michael Kotyk presents a practical repertoire for Black after 1.e4 e5, while Fabien Libiszewski introduces the dynamic Chigorin Defence against the Que…"
+    },
+    {
+      "title": "Barcelona to host the MOVE Cup",
+      "link": "https://en.chessbase.com/post/barcelona-to-host-the-move-cup",
+      "source": "ChessBase",
+      "date": "2026-10-22T08:00:00.000Z",
+      "summary": "The cosmopolitan capital of Spain’s Catalonia region will host the MOVE Cup, a new elite chess tournament, with Magnus Carlsen first in the line-up. Launched together with the MOVE Foundation and powered by BETBY, the tournament will bring eight of the worl…"
+    },
     {
       "title": "European Club Cup: Novy Bor and SuperChess remain perfect",
       "link": "https://en.chessbase.com/post/european-club-cup-2026-5",
@@ -19,7 +33,7 @@
       "title": "Rookie Rachael Li Wins U.S. Women's Title; Wesley So Loses, Faces Caruana In Playoffs",
       "link": "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
       "source": "Chess.com",
-      "date": "2026-10-21T23:33:59.000Z",
+      "date": "2026-10-21T23:33:00.000Z",
       "summary": "Nobody is happier after 11 rounds of the 2026 U.S. Chess Championship than GM Fabiano Caruana, who has a new chance to win his fifth consecutive title. GM Wesley So entered the final round with a full-point lead, but the most likely result was not..."
     },
     {
@@ -27,7 +41,7 @@
       "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
       "source": "Chess.com",
       "date": "2026-10-21T22:50:00.000Z",
-      "summary": "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid. In the penultimate round, they'll face the only other team ..."
+      "summary": "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid in round four of the 2026 European Chess Club Cup. In the pe..."
     },
     {
       "title": "Emin Ohanyan and Jiang Haochen outperform rating favourites, top final standings at Atyrau Masters",
