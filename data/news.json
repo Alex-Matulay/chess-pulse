@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T20:23:07.132Z",
+  "updated": "2026-10-22T23:50:19.457Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Leaders Caught As 3 Teams Tie For Top Before Euro Club Cup Final Round",
+      "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-6",
+      "source": "Chess.com",
+      "date": "2026-10-22T23:31:00.000Z",
+      "summary": "Leaders SuperChess Romania and Novy Bor Chess Club fought out a thrilling draw in round six of the 2026 European Chess Club Cup, with wins for GMs Nodirbek Abdusattorov and Bogdan-Daniel Deac balanced out by wins for GMs Nihal Sarin and David Nava..."
+    },
+    {
+      "title": "US Chess Championships 2026 - Games and results",
+      "link": "https://theweekinchess.com/chessnews/events/us-chess-championships-2026",
+      "source": "The Week in Chess",
+      "date": "2026-10-22T22:12:00.000Z",
+      "summary": "The US Chess Championships took place in Saint Louis Fri 9th Oct to Wed 21st Oct 2026. Wesley So won his fourth title after a tie-break win against defending champion Fabiano Caruana (winner the last four years 2022-25 champion). So had led by a point from…"
+    },
+    {
+      "title": "Wesley So Wins 4th U.S. Chess Championship",
+      "link": "https://www.chess.com/news/view/wesley-so-wins-2026-us-chess-championship",
+      "source": "Chess.com",
+      "date": "2026-10-22T21:54:00.000Z",
+      "summary": "GM Wesley So won his fourth national title at the 2026 U.S. Chess Championship after beating the defending champion, GM Fabiano Caruana, 1.5-0.5 in rapid tiebreaks. The previous day played out the least likely scenario: So lost to GM Sam Sevian an..."
+    },
     {
       "title": "US Championship 2026: Tiebreak!",
       "link": "https://en.chessbase.com/post/us-meisterschaften-live-7",
@@ -324,25 +345,11 @@
       "summary": "GM Fabiano Caruana won Titled Tuesday on October 13 during an off day in the 2026 U.S. Championship&mdash;where he currently shares the tournament lead&mdash;defeating GM Nihal Sarin in a key 10th-round matchup. Caruana then only made a draw in th..."
     },
     {
-      "title": "Day Of Endgames Sees Caruana Join So At Top; Lee Sole Leader In Women's",
-      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-4",
-      "source": "Chess.com",
-      "date": "2026-10-13T08:04:00.000Z",
-      "summary": "It was a day of endgames in round four of the 2026 U.S. Chess Championship, with GM Fabiano Caruana scoring a long grinding win over GM Ray Robson to join GM Wesley So in the lead on three points. In other games, GMs Jeffery Xiong, Grigoriy Oparin..."
-    },
-    {
       "title": "Titled Arenas Announcement — October to December 2026",
       "link": "https://lichess.org/@/Lichess/blog/titled-arenas-announcement-october-to-december-2026/WuJIesah",
       "source": "Lichess",
       "date": "2026-10-13T05:51:46.672Z",
       "summary": "Announcing our schedule for upcoming Titled Arenas!"
-    },
-    {
-      "title": "Woodward, Shankland Strike; Alice Lee Joins Women's Leaders",
-      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-3",
-      "source": "Chess.com",
-      "date": "2026-10-12T07:40:22.000Z",
-      "summary": "GMs Wesley So and Awonder Liang continued as joint leaders with 2.5 points after their mutual encounter ended in a draw in the third round of the 2026 U.S. Chess Championship. GM Andy Woodward was rewarded with a win for his dynamic play against G..."
     },
     {
       "title": "Lichess Game of the Month: August '26",
