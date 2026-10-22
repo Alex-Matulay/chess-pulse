@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T00:23:02.566Z",
+  "updated": "2026-10-22T05:41:51.319Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,18 @@
   ],
   "items": [
     {
-      "title": "Rookie Rachael Li Wins Women's Title; Wesley So Loses, Faces Caruana In Playoffs",
+      "title": "European Club Cup: Novy Bor and SuperChess remain perfect",
+      "link": "https://en.chessbase.com/post/european-club-cup-2026-5",
+      "source": "ChessBase",
+      "date": "2026-10-22T07:20:00.000Z",
+      "summary": "Novy Bor and SuperChess Romania remain the only teams with perfect scores in the open section of the European Club Cup after five rounds. The co-leaders will face each other in Thursday's penultimate round, with three teams following one match point behind.…"
+    },
+    {
+      "title": "Rookie Rachael Li Wins U.S. Women's Title; Wesley So Loses, Faces Caruana In Playoffs",
       "link": "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
       "source": "Chess.com",
       "date": "2026-10-21T23:33:59.000Z",
-      "summary": "Nobody is happier after 11 rounds of the 2026 U.S. Chess Championship than GM Fabiano Caruana, who has a new chance to win his fifth consecutive title. GM Wesley So entered the final round with a full-point lead, but the most likely result was n..."
+      "summary": "Nobody is happier after 11 rounds of the 2026 U.S. Chess Championship than GM Fabiano Caruana, who has a new chance to win his fifth consecutive title. GM Wesley So entered the final round with a full-point lead, but the most likely result was not..."
     },
     {
       "title": "Anton, Harikrishna Give Novy Bor Crucial Win Over Alkaloid",
@@ -63,13 +70,6 @@
       "source": "FIDE",
       "date": "2026-10-21T16:20:16.000Z",
       "summary": "With an outstanding medal haul across the age categories, Kazakhstan emerged as one of the leading forces at the 2026 World Youth Championships, showcasing the strength of its next generation of chess talent. The 2026 World U7–U17 Chess Championships came t…"
-    },
-    {
-      "title": "European Club Cup - Live!",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-21T14:00:00.000Z",
-      "summary": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov,…"
     },
     {
       "title": "Wesley So, Rachael Li Lead By Full Point Ahead Of Final Round",
