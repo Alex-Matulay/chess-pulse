@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T11:02:20.837Z",
+  "updated": "2026-10-22T16:40:34.145Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "European Club Cup - Live!",
+      "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-22T14:00:00.000Z",
+      "summary": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov,…"
+    },
+    {
+      "title": "Moving forward: The global impact of the Intercontinental Online Chess Championship for Prisoners",
+      "link": "https://www.fide.com/moving-forward-the-global-impact-of-the-intercontinental-online-chess-championship-for-prisoners/",
+      "source": "FIDE",
+      "date": "2026-10-22T11:21:50.000Z",
+      "summary": "The 6th Intercontinental Online Chess Championship for Prisoners took place from October 13 to 15, bringing together incarcerated players from around the world for three days of international online competition. This year’s championship established a new pa…"
+    },
     {
       "title": "All new releases in September!",
       "link": "https://en.chessbase.com/post/all-new-releases-in-september",
@@ -41,7 +55,7 @@
       "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
       "source": "Chess.com",
       "date": "2026-10-21T22:50:00.000Z",
-      "summary": "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid in round four of the 2026 European Chess Club Cup. In the pe..."
+      "summary": "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid in round five of the 2026 European Chess Club Cup. In the pe..."
     },
     {
       "title": "Emin Ohanyan and Jiang Haochen outperform rating favourites, top final standings at Atyrau Masters",
@@ -280,13 +294,6 @@
       "source": "Chess.com",
       "date": "2026-10-15T19:57:00.000Z",
       "summary": "The last two league champions, Saint Louis University (SLU) and the University of Texas at Dallas (UTD), are the two undefeated teams after two matches each in the 2026 fall season of the Collegiate Chess League. SLU has dominated both matches tha..."
-    },
-    {
-      "title": "Three Chess Houses open simultaneously in Shymkent, Kazakhstan",
-      "link": "https://www.fide.com/three-chess-houses-open-simultaneously-in-shymkent-kazakhstan/",
-      "source": "FIDE",
-      "date": "2026-10-15T15:05:38.000Z",
-      "summary": "On October 15, the grand opening of three Chess Houses took place in Shymkent, the third largest city in Kazakhstan by population. The new spaces were established in Abay Park, Metallurgists Park, and the pedestrian alley in the 17th microdistrict. Here, ci…"
     },
     {
       "title": "Woodward Topples Caruana; Lee On 4.5/5 After Bloodiest Day Yet",
