@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T16:40:34.145Z",
+  "updated": "2026-10-22T20:23:07.132Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "US Championship 2026: Tiebreak!",
+      "link": "https://en.chessbase.com/post/us-meisterschaften-live-7",
+      "source": "ChessBase",
+      "date": "2026-10-22T18:45:00.000Z",
+      "summary": "The 2026 U.S. Championship came to a dramatic conclusion: Wesley So lost to last-placed Sam Sevian in the final round, ending his 48-game unbeaten streak at the U.S. Championships. Fabiano Caruana, meanwhile, won on demand against Awonder Liang to catch So…"
+    },
     {
       "title": "European Club Cup - Live!",
       "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
