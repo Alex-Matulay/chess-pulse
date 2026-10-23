@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T03:06:27.964Z",
+  "updated": "2026-10-23T09:01:42.004Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,18 @@
   ],
   "items": [
     {
-      "title": "Leaders Caught As 3 Teams Tie For Top Before Euro Club Cup Final Round",
-      "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-6",
-      "source": "Chess.com",
-      "date": "2026-10-22T23:31:00.000Z",
-      "summary": "Leaders SuperChess Romania and Novy Bor Chess Club fought out a thrilling draw in round six of the 2026 European Chess Club Cup, with wins for GMs Nodirbek Abdusattorov and Bogdan-Daniel Deac balanced out by wins for GMs Nihal Sarin and David Nava..."
+      "title": "European Club Cup: Three co-leaders in both sections going into final round",
+      "link": "https://en.chessbase.com/post/european-club-cup-2026-6",
+      "source": "ChessBase",
+      "date": "2026-10-23T06:40:00.000Z",
+      "summary": "Three teams share the lead in both sections of the European Club Cup ahead of Friday's final round. In the open, SuperChess and Novy Bor drew their direct encounter, allowing Bayegan Pendik to catch up with a narrow victory over Tuxera Aquaprofit Nagykanizs…"
+    },
+    {
+      "title": "Rachel Li wins US Women's Championship on her debut",
+      "link": "https://en.chessbase.com/post/us-championships-2026-13",
+      "source": "ChessBase",
+      "date": "2026-10-23T03:50:00.000Z",
+      "summary": "Going into the final round of the 2026 US Women’s Championship in St Louis, Rachael Li was the sole leader with 8 points from 10 games, one point ahead of Alice Lee. Li therefore needed only a draw against Anna Zatonskih in the final round to win the tourna…"
     },
     {
       "title": "US Chess Championships 2026 - Games and results",
@@ -30,18 +37,18 @@
       "summary": "GM Wesley So won his fourth national title at the 2026 U.S. Chess Championship after beating the defending champion, GM Fabiano Caruana, 1.5-0.5 in rapid tiebreaks. The previous day played out the least likely scenario: So lost to GM Sam Sevian an..."
     },
     {
+      "title": "Leaders Caught As 3 Teams Tie For Top Before Euro Club Cup Final Round",
+      "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-6",
+      "source": "Chess.com",
+      "date": "2026-10-22T21:31:00.000Z",
+      "summary": "Leaders SuperChess Romania and Novy Bor Chess Club fought out a thrilling draw in round six of the 2026 European Chess Club Cup, with wins for GMs Nodirbek Abdusattorov and Bogdan-Daniel Deac balanced out by wins for GMs Nihal Sarin and David Nava..."
+    },
+    {
       "title": "US Championship 2026: Tiebreak!",
       "link": "https://en.chessbase.com/post/us-meisterschaften-live-7",
       "source": "ChessBase",
       "date": "2026-10-22T18:45:00.000Z",
       "summary": "The 2026 U.S. Championship came to a dramatic conclusion: Wesley So lost to last-placed Sam Sevian in the final round, ending his 48-game unbeaten streak at the U.S. Championships. Fabiano Caruana, meanwhile, won on demand against Awonder Liang to catch So…"
-    },
-    {
-      "title": "European Club Cup - Live!",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-22T14:00:00.000Z",
-      "summary": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov,…"
     },
     {
       "title": "Moving forward: The global impact of the Intercontinental Online Chess Championship for Prisoners",
