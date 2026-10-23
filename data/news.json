@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T09:01:42.004Z",
+  "updated": "2026-10-23T14:36:34.349Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Magnus Carlsen Headlines New Barcelona Rapid Event With 1-Second Increment",
+      "link": "https://www.chess.com/news/view/carlsen-move-cup-barcelona-2027",
+      "source": "Chess.com",
+      "date": "2026-10-23T14:11:00.000Z",
+      "summary": "GM Magnus Carlsen wants more events that are exciting to watch. Now he has helped shape one. The world number-one will headline the inaugural MOVE Cup in Barcelona on January 19&ndash;20, 2027, an eight-player rapid tournament with &euro;300,000 i..."
+    },
+    {
+      "title": "European Club Cup - Live!",
+      "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-23T14:00:00.000Z",
+      "summary": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov,…"
+    },
+    {
+      "title": "2026 U.S. Championship: Wesley So and Rachael Li claim titles",
+      "link": "https://www.fide.com/2026-u-s-championship-wesley-so-and-rachael-li-claim-titles/",
+      "source": "FIDE",
+      "date": "2026-10-23T12:10:30.000Z",
+      "summary": "GM Wesley So and WIM Rachael Li are the new U.S. chess champions. So captured his fourth American chess crown, while Li became the youngest player to win the title on her debut. The 2026 U.S. Chess Championship and the 2026 U.S. Women’s Chess Championship w…"
+    },
+    {
+      "title": "FIDE extends fee waiver for Rapid and Blitz through 2027",
+      "link": "https://www.fide.com/fide-extends-fee-waiver-for-rapid-and-blitz-through-2027/",
+      "source": "FIDE",
+      "date": "2026-10-23T10:56:22.000Z",
+      "summary": "The FIDE Council has announced the extension of its rating fee waiver for all Rapid and Blitz tournaments through 2027. The FIDE Council stated that the decision aims to expand player participation and promote chess. These rating fees, covered by federation…"
+    },
     {
       "title": "European Club Cup: Three co-leaders in both sections going into final round",
       "link": "https://en.chessbase.com/post/european-club-cup-2026-6",
@@ -310,20 +338,6 @@
       "summary": "Both tournaments are wide open after six decisive games on Thursday. Four players lead the 2026 U.S. Chess Championship: GMs Wesley So, Andy Woodward, Fabiano Caruana, and Awonder Liang. Caruana scored a bounce-back win against GM Sam Shankland an..."
     },
     {
-      "title": "FIDE World Junior U20 Rapid and Blitz Championships: Registration deadline extended",
-      "link": "https://www.fide.com/fide-world-junior-u20-rapid-and-blitz-championships-registration-deadline-extended/",
-      "source": "FIDE",
-      "date": "2026-10-15T22:21:58.000Z",
-      "summary": "FIDE, in cooperation with the United Arab Emirates Chess Federation and Al Ain Chess & Mind Games Club, invites all FIDE member federations to participate in the World Junior U20 Rapid and Blitz Championships 2026. Each federation can register an unlimited…"
-    },
-    {
-      "title": "6th Intercontinental Online Chess Championship for Prisoners: India wins double gold, Mexico triumphs in men’s section",
-      "link": "https://www.fide.com/6th-intercontinental-online-chess-championship-for-prisoners-india-wins-double-gold-mexico-triumphs-in-mens-section/",
-      "source": "FIDE",
-      "date": "2026-10-15T20:36:48.000Z",
-      "summary": "Mexico claimed title in the men’s category, while India earned double gold, winning women’s and youth sections. The 6th Intercontinental Online Chess Championship for Prisoners concluded on October 15 with tightly contested finals in all three categories. E…"
-    },
-    {
       "title": "SLU, UTD, Texas Tech Still Perfect In Collegiate Chess League",
       "link": "https://www.chess.com/news/view/2026-ccl-fall-week-four-update",
       "source": "Chess.com",
@@ -343,13 +357,6 @@
       "source": "Chess.com",
       "date": "2026-10-14T19:00:54.000Z",
       "summary": "IM Roman Shogdzhiev took a major step toward becoming the youngest grandmaster in chess history on Monday, scoring his second GM norm in the Serbian Super League. The 11-year-old is now one norm and 29 rating points away from breaking GM Abhimanyu..."
-    },
-    {
-      "title": "Caruana Wins Titled Tuesday On Day Off In U.S. Championship",
-      "link": "https://www.chess.com/news/view/caruana-wins-titled-tuesday-october-13-2026",
-      "source": "Chess.com",
-      "date": "2026-10-13T18:44:54.000Z",
-      "summary": "GM Fabiano Caruana won Titled Tuesday on October 13 during an off day in the 2026 U.S. Championship&mdash;where he currently shares the tournament lead&mdash;defeating GM Nihal Sarin in a key 10th-round matchup. Caruana then only made a draw in th..."
     },
     {
       "title": "Titled Arenas Announcement — October to December 2026",
