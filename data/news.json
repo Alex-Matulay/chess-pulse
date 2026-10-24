@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T00:12:31.827Z",
+  "updated": "2026-10-24T05:19:20.287Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Review: My favourite FritzTrainer courses",
+      "link": "https://en.chessbase.com/post/review-my-favourite-fritztrainer-courses",
+      "source": "ChessBase",
+      "date": "2026-10-24T07:00:00.000Z",
+      "summary": "For Jochen Schwarz, club player from Bremen, FritzTrainer courses have become an essential part of his hobby. Over the past ten years, he has studied numerous courses and now shares some of the favourites that have impressed him most."
+    },
+    {
+      "title": "The global impact of the Intercontinental Online Chess Championship for Prisoners",
+      "link": "https://en.chessbase.com/post/global-impact-intercontinental-online-ch-prisoners-2026",
+      "source": "ChessBase",
+      "date": "2026-10-24T03:30:00.000Z",
+      "summary": "The 6th Intercontinental Online Chess Championship for Prisoners brought together a record 140 teams from 56 countries, highlighting the continued growth of FIDE's Chess for Freedom initiative. Beyond the competition itself, programmes in Argentina, Romania…"
+    },
+    {
+      "title": "Giri Beats Abdusattorov As Bayegan Pendik Wins European Club Cup",
+      "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-7",
+      "source": "Chess.com",
+      "date": "2026-10-24T00:51:00.000Z",
+      "summary": "GM Anish Giri scored a crushing win over GM Nodirbek Abdusattorov as top-seed Bayegan Pendik Chess Sports Club beat defending champion SuperChess Romania 3.5-2.5 to win the 2026 European Chess Club Cup. Novy Bor Chess Club missed out on gold on ti..."
+    },
     {
       "title": "Nakamura Wins With 'GOAT Horns'; Caruana, Maghsoodloo Repeat In 3 0 Thursday",
       "link": "https://www.chess.com/news/view/nakamura-caruana-maghsoodloo-3-0-thursday-10-22-2026",
@@ -364,13 +385,6 @@
       "source": "FIDE",
       "date": "2026-10-16T13:15:51.000Z",
       "summary": "FIDE announces the allocation of qualification spots for the 2027 FIDE World Cup and Women’s World Cup, based on the results of the Chess Olympiad held in Samarkand, Uzbekistan. FIDE is pleased to announce the allocation of qualification spots for the 2027…"
-    },
-    {
-      "title": "Rachael Li Catches Alice Lee In Women's Lead; Caruana, Liang Join 4-Way Lead",
-      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-6",
-      "source": "Chess.com",
-      "date": "2026-10-16T01:08:00.000Z",
-      "summary": "Both tournaments are wide open after six decisive games on Thursday. Four players lead the 2026 U.S. Chess Championship: GMs Wesley So, Andy Woodward, Fabiano Caruana, and Awonder Liang. Caruana scored a bounce-back win against GM Sam Shankland an..."
     },
     {
       "title": "Titled Arenas Announcement — October to December 2026",
