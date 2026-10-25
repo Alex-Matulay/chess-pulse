@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T00:45:10.944Z",
+  "updated": "2026-10-25T05:36:23.034Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Another Week, Another Win For Bullet Brawl's GOAT Nakamura",
+      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-24-2026",
+      "source": "Chess.com",
+      "date": "2026-10-25T03:06:00.000Z",
+      "summary": "Like clockwork, GM Hikaru Nakamura won his seventh consecutive Bullet Brawl on Saturday, this time scoring 178 points and finishing ahead of 218 titled players. A 23-game winning streak in the early stages of the arena effectively assured a Nakamu..."
+    },
     {
       "title": "Bodhana: youngest female IM ever",
       "link": "https://en.chessbase.com/post/bodhana-youngest-female-im-ever",
@@ -392,13 +399,6 @@
       "source": "FIDE",
       "date": "2026-10-16T20:18:58.000Z",
       "summary": "With six rounds completed and five to go, every half-point counts as the race for the world titles intensifies in Roquetas de Mar, Spain. As the 2026 World U7-U17 Chess Championships reaches the halfway point, the tension is mounting across all age categori…"
-    },
-    {
-      "title": "Maghsoodloo Takes Two 3 0 Thursdays, Caruana Wins 3rd",
-      "link": "https://www.chess.com/news/view/maghsoodloo-maghsoodloo-caruana-3-0-thursday-10-15-2026",
-      "source": "Chess.com",
-      "date": "2026-10-16T18:32:08.000Z",
-      "summary": "GM Parham Maghsoodloo won the first two 3 0 Thursday tournaments on October 15, the first player to win consecutive events since GM Jose Martinez did it in back-to-back weeks in March and April. Maghsoodloo tried to become the first player to ever..."
     },
     {
       "title": "Titled Arenas Announcement — October to December 2026",
