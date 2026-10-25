@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T14:44:40.804Z",
+  "updated": "2026-10-25T18:03:26.017Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "A farewell triumph: Capablanca wins gold in Buenos Aires 1939",
+      "link": "https://en.chessbase.com/post/capablanca-wins-gold-buenos-aires-1939",
+      "source": "ChessBase",
+      "date": "2026-10-25T15:25:00.000Z",
+      "summary": "Chess Olympiads produce remarkable stories. The 1939 Chess Olympiad in Buenos Aires was particularly dramatic, as Germany invaded Poland on 1 September 1939, while the tournament was still taking place, marking the beginning of the Second World War. Against…"
+    },
     {
       "title": "Another Week, Another Win For Bullet Brawl's GOAT Nakamura",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-24-2026",
