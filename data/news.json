@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T23:44:24.773Z",
+  "updated": "2026-10-26T02:54:50.589Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Clutch Chess: Caruana, Nakamura, Sindarov and Pragg meet in Saint Louis",
+      "link": "https://en.chessbase.com/post/clutch-chess-showdown-2026-preview",
+      "source": "ChessBase",
+      "date": "2026-10-26T01:25:00.000Z",
+      "summary": "The Clutch Chess: Champions Showdown event returns to Saint Louis on 27–29 October, with Fabiano Caruana, Hikaru Nakamura, Praggnanandhaa Rameshbabu and Javokhir Sindarov (pictured) competing in an 18-game rapid tournament. The four elite GMs will play thre…"
+    },
     {
       "title": "A farewell triumph: Capablanca wins gold in Buenos Aires 1939",
       "link": "https://en.chessbase.com/post/capablanca-wins-gold-buenos-aires-1939",
