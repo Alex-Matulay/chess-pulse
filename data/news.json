@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T15:46:30.437Z",
+  "updated": "2026-10-26T20:51:48.595Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,32 @@
   ],
   "items": [
     {
+      "title": "Harvey beats Willow in Armageddon, claims English Rapidplay title",
+      "link": "https://en.chessbase.com/post/english-championship-2026-rapid",
+      "source": "ChessBase",
+      "date": "2026-10-26T18:40:00.000Z",
+      "summary": "IM Marcus Harvey won the English Rapidplay Championship in Peterborough after defeating fellow IM Jonah Willow in a five-game playoff. Both players finished the 11-round tournament on 9 points, half a point ahead of top seed Michael Adams, who was held to a…"
+    },
+    {
+      "title": "Invitation: FIDE Extraordinary General Assembly 2026",
+      "link": "https://www.fide.com/invitation-fide-extraordinary-general-assembly-2026/",
+      "source": "FIDE",
+      "date": "2026-10-26T17:06:31.000Z",
+      "summary": "Dear chess friends, Earlier this year, I publicly committed to holding another FIDE General Assembly before the end of 2026. I believe it is important to honour this commitment and provide our member federations with an opportunity to address the matters th…"
+    },
+    {
       "title": "KCF Academy: Third Season Highlights",
       "link": "https://en.chessbase.com/post/kcf-academy-third-season-highlights",
       "source": "ChessBase",
       "date": "2026-10-26T16:40:46.000Z",
       "summary": "The Kasparov Chess Foundation Academy has wrapped up its third season, marking another important year of growth for the organization, with expanding educational programs, international events, and outstanding achievements by participants in KCF programs. An…"
+    },
+    {
+      "title": "FIDE: The Next Stage of Development",
+      "link": "https://www.fide.com/fide-the-next-stage-of-development/",
+      "source": "FIDE",
+      "date": "2026-10-26T15:59:07.000Z",
+      "summary": "Timur Turlov, President of the International Chess Federation When I announced my candidacy for FIDE President, I spoke about the need to take our organization to a new level. Today, I would like to present one of the first important steps in that direction…"
     },
     {
       "title": "Clutch Chess: Caruana, Nakamura, Sindarov and Pragg meet in Saint Louis",
@@ -121,13 +142,6 @@
       "summary": "GM Magnus Carlsen wants more events that are exciting to watch. Now he has helped shape one. The world number-one will headline the inaugural MOVE Cup in Barcelona on January 19&ndash;20, 2027, an eight-player rapid tournament with &euro;300,000 i..."
     },
     {
-      "title": "European Club Cup - Live!",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-23T14:00:00.000Z",
-      "summary": "The European Club Cup is taking place on 17-23 October in Budva, Montenegro, bringing together 108 teams in the open section and 22 teams in the women's competition. The seven-round event features a number of elite players, including Nodirbek Abdusattorov,…"
-    },
-    {
       "title": "2026 U.S. Championship: Wesley So and Rachael Li claim titles",
       "link": "https://www.fide.com/2026-u-s-championship-wesley-so-and-rachael-li-claim-titles/",
       "source": "FIDE",
@@ -140,20 +154,6 @@
       "source": "FIDE",
       "date": "2026-10-23T10:56:22.000Z",
       "summary": "The FIDE Council has announced the extension of its rating fee waiver for all Rapid and Blitz tournaments through 2027. The FIDE Council stated that the decision aims to expand player participation and promote chess. These rating fees, covered by federation…"
-    },
-    {
-      "title": "European Club Cup: Three co-leaders in both sections going into final round",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-6",
-      "source": "ChessBase",
-      "date": "2026-10-23T06:40:00.000Z",
-      "summary": "Three teams share the lead in both sections of the European Club Cup ahead of Friday's final round. In the open, SuperChess and Novy Bor drew their direct encounter, allowing Bayegan Pendik to catch up with a narrow victory over Tuxera Aquaprofit Nagykanizs…"
-    },
-    {
-      "title": "Rachel Li wins US Women's Championship on her debut",
-      "link": "https://en.chessbase.com/post/us-championships-2026-13",
-      "source": "ChessBase",
-      "date": "2026-10-23T03:50:00.000Z",
-      "summary": "Going into the final round of the 2026 US Women’s Championship in St Louis, Rachael Li was the sole leader with 8 points from 10 games, one point ahead of Alice Lee. Li therefore needed only a draw against Anna Zatonskih in the final round to win the tourna…"
     },
     {
       "title": "US Chess Championships 2026 - Games and results",
@@ -177,39 +177,11 @@
       "summary": "Leaders SuperChess Romania and Novy Bor Chess Club fought out a thrilling draw in round six of the 2026 European Chess Club Cup, with wins for GMs Nodirbek Abdusattorov and Bogdan-Daniel Deac balanced out by wins for GMs Nihal Sarin and David Nava..."
     },
     {
-      "title": "US Championship 2026: Tiebreak!",
-      "link": "https://en.chessbase.com/post/us-meisterschaften-live-7",
-      "source": "ChessBase",
-      "date": "2026-10-22T18:45:00.000Z",
-      "summary": "The 2026 U.S. Championship came to a dramatic conclusion: Wesley So lost to last-placed Sam Sevian in the final round, ending his 48-game unbeaten streak at the U.S. Championships. Fabiano Caruana, meanwhile, won on demand against Awonder Liang to catch So…"
-    },
-    {
       "title": "Moving forward: The global impact of the Intercontinental Online Chess Championship for Prisoners",
       "link": "https://www.fide.com/moving-forward-the-global-impact-of-the-intercontinental-online-chess-championship-for-prisoners/",
       "source": "FIDE",
       "date": "2026-10-22T11:21:50.000Z",
       "summary": "The 6th Intercontinental Online Chess Championship for Prisoners took place from October 13 to 15, bringing together incarcerated players from around the world for three days of international online competition. This year’s championship established a new pa…"
-    },
-    {
-      "title": "All new releases in September!",
-      "link": "https://en.chessbase.com/post/all-new-releases-in-september",
-      "source": "ChessBase",
-      "date": "2026-10-22T10:12:08.000Z",
-      "summary": "The latest releases offer fresh ideas for opening preparation and regular chess training. In two volumes, Michael Kotyk presents a practical repertoire for Black after 1.e4 e5, while Fabien Libiszewski introduces the dynamic Chigorin Defence against the Que…"
-    },
-    {
-      "title": "Barcelona to host the MOVE Cup",
-      "link": "https://en.chessbase.com/post/barcelona-to-host-the-move-cup",
-      "source": "ChessBase",
-      "date": "2026-10-22T08:00:00.000Z",
-      "summary": "The cosmopolitan capital of Spain’s Catalonia region will host the MOVE Cup, a new elite chess tournament, with Magnus Carlsen first in the line-up. Launched together with the MOVE Foundation and powered by BETBY, the tournament will bring eight of the worl…"
-    },
-    {
-      "title": "European Club Cup: Novy Bor and SuperChess remain perfect",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-5",
-      "source": "ChessBase",
-      "date": "2026-10-22T07:20:00.000Z",
-      "summary": "Novy Bor and SuperChess Romania remain the only teams with perfect scores in the open section of the European Club Cup after five rounds. The co-leaders will face each other in Thursday's penultimate round, with three teams following one match point behind.…"
     },
     {
       "title": "Rookie Rachael Li Wins U.S. Women's Title; Wesley So Loses, Faces Caruana In Playoffs",
@@ -226,25 +198,11 @@
       "summary": "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid in round five of the 2026 European Chess Club Cup. In the pe..."
     },
     {
-      "title": "Emin Ohanyan and Jiang Haochen outperform rating favourites, top final standings at Atyrau Masters",
-      "link": "https://en.chessbase.com/post/atyrau-masters-2026-r9",
-      "source": "ChessBase",
-      "date": "2026-10-21T21:40:00.000Z",
-      "summary": "Armenian GM Emin Ohanyan won the Atyrau Masters in Kazakhstan after finishing tied for first place with Chinese IM Jiang Haochen on 7/9. The 20-year-old Ohanyan, seeded 20th, claimed the title thanks to a superior tiebreak score, while 15-year-old Jiang, se…"
-    },
-    {
       "title": "Lionel Messi Shares ChatGPT Chess Lesson With 517 Million Instagram Followers",
       "link": "https://www.chess.com/news/view/lionel-messi-chatgpt-chess-instagram",
       "source": "Chess.com",
       "date": "2026-10-21T20:55:00.000Z",
       "summary": "Argentinian superstar Lionel Messi shared a chess-themed ad for ChatGPT with his 517 million Instagram followers on Wednesday, in a post that is bound to generate massive interest. The world's second-most followed person on Instagram, behind only..."
-    },
-    {
-      "title": "US Championships - Live!",
-      "link": "https://en.chessbase.com/post/us-championships-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-21T19:00:00.000Z",
-      "summary": "The US Championships are taking place on 9-21 October at the Saint Louis Chess Club. Each tournament is a 12-player single round-robin with a classical time control. Fabiano Caruana, Wesley So and Levon Aronian are the highest-rated players in the open, whi…"
     },
     {
       "title": "Play Chess Against NBA Star Steven Adams",
@@ -275,20 +233,6 @@
       "summary": "It's the GM Wesley So show at the 2026 U.S. Chess Championship as the three-time winner coasts to the final round with a full-point lead over GMs Fabiano Caruana and Grigoriy Oparin. He made a quick draw with GM Hans Niemann to maintain that lead,..."
     },
     {
-      "title": "Vahap Sanal and Team Türkiye triumph at NATO Chess Championship",
-      "link": "https://en.chessbase.com/post/nato-chess-championship-2026-report",
-      "source": "ChessBase",
-      "date": "2026-10-21T03:30:00.000Z",
-      "summary": "Vahap Şanal won the 2026 NATO Chess Championship in Jūrmala with a perfect 7/7 score, while Türkiye took first place in the team competition. Slovenia's Laura Unuk finished second overall and was the event's top woman, with Germany's Robert Stein claiming b…"
-    },
-    {
-      "title": "FIDE President Timur Turlov meets Cyprus President Nikos Christodoulides in Nicosia",
-      "link": "https://en.chessbase.com/post/timur-turlov-meets-nikos-christodoulides",
-      "source": "ChessBase",
-      "date": "2026-10-21T01:15:00.000Z",
-      "summary": "FIDE President Timur Turlov met Cypriot President Nikos Christodoulides in Nicosia to discuss the country's growing chess infrastructure and future cooperation with FIDE. Cyprus has hosted several major international events in recent years while also expand…"
-    },
-    {
       "title": "Abdusattorov, Giri, Erdogmus All Beaten In European Club Cup Round 4",
       "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-4",
       "source": "Chess.com",
@@ -317,13 +261,6 @@
       "summary": "The Salesforce FIDE World Championship Match 2026, taking place in Geneva from 22 November to 12 December, is the most important chess event of the year. Reigning World Champion Gukesh Dommaraju and challenger Javokhir Sindarov will battle for the crown and…"
     },
     {
-      "title": "European Club Cup: Favourites set for direct encounters",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-3",
-      "source": "ChessBase",
-      "date": "2026-10-20T05:05:00.000Z",
-      "summary": "Eleven teams remain tied for first place in the open section of the European Club Cup after three rounds, with tenth seeds Beer Sheva the only top-twelve team to have dropped a match point. The fourth round will see SuperChess facing Bayegan Pendik, with a…"
-    },
-    {
       "title": "Rookie Rachael Li Leads Women By Full Point; Wesley So Parries Fabiano Caruana",
       "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-9",
       "source": "Chess.com",
@@ -345,11 +282,11 @@
       "summary": "GM Vahap Şanal and Team Türkiye emerged victorious at the 2026 edition of the NATO Chess Championship. The seven-round Swiss tournament, held at the Baltic Beach Hotel & SPA in Jūrmala, Latvia, from 11 to 17 October, brought together 148 military chess play…"
     },
     {
-      "title": "FIDE Chess in Education Commission (EDU) announces October–December 2026 courses",
-      "link": "https://www.fide.com/fide-chess-in-education-commission-edu-announces-october-december-2026-courses/",
+      "title": "FIDE President Timur Turlov meets Cyprus President Nikos Christodoulides in Nicosia",
+      "link": "https://www.fide.com/fide-president-timur-turlov-meets-cyprus-president-nikos-christodoulides-in-nicosia/",
       "source": "FIDE",
-      "date": "2026-10-19T11:17:14.000Z",
-      "summary": "Dear Chess Friends, FIDE’s Chess in Education Commission continues to expand its training for Lecturers and Teachers of Educational Chess, offering a series of high-level online and in-person opportunities in autumn and winter 2026. The Preparation of Lectu…"
+      "date": "2026-10-19T14:06:19.000Z",
+      "summary": "FIDE President Timur Turlov met with the President of the Republic of Cyprus, Nikos Christodoulides, at the Presidential Palace in Nicosia on 19 October. The meeting focused on the rapid development of chess in Cyprus, future plans, and how the country’s ex…"
     },
     {
       "title": "2026 Lichess Meetup in Prague",
@@ -413,13 +350,6 @@
       "source": "Chess.com",
       "date": "2026-10-16T20:25:18.000Z",
       "summary": "GM Sina Movahed won Freestyle Friday on October 16, riding a 7/7 start to sole first place on nine points. GM Haowen Xue finished second with 8.5/11, surpassing GM Ian Nepomniachtchi on tiebreaks. The win was Movahed's sixth in Freestyle Friday, t..."
-    },
-    {
-      "title": "One move can change everything in the World Championships U7-U17",
-      "link": "https://www.fide.com/one-move-can-change-everything-in-the-world-championships-u7-u17/",
-      "source": "FIDE",
-      "date": "2026-10-16T20:18:58.000Z",
-      "summary": "With six rounds completed and five to go, every half-point counts as the race for the world titles intensifies in Roquetas de Mar, Spain. As the 2026 World U7-U17 Chess Championships reaches the halfway point, the tension is mounting across all age categori…"
     },
     {
       "title": "Titled Arenas Announcement — October to December 2026",
