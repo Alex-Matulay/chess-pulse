@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T17:20:00.921Z",
+  "updated": "2026-10-27T21:44:45.452Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "'W' Is For Woodward Wins Titled Tuesday",
+      "link": "https://www.chess.com/news/view/woodward-wins-titled-tuesday-october-27-2026",
+      "source": "Chess.com",
+      "date": "2026-10-27T19:50:43.000Z",
+      "summary": "GM Andy Woodward added his name to the list of Titled Tuesday winners on October 27, scraping by on tiebreaks ahead of GM Arjun Erigaisi despite losing in the first round. GM Maxime Vachier-Lagrave came back from a second-round loss to finish thir..."
+    },
     {
       "title": "Clutch Chess: Champions Showdown - Live!",
       "link": "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
@@ -322,13 +329,6 @@
       "source": "Chess.com",
       "date": "2026-10-17T08:00:00.000Z",
       "summary": "GM Wesley So remained the only unbeaten player and sole leader of the 2026 U.S. Chess Championship with five points when he fought back from a worse position to defeat GM Ray Robson in round seven. Among the joint leaders from the previous round, ..."
-    },
-    {
-      "title": "Carlsen, So, Niemann Take Center Stage As 'Grandmasters' Hits U.S. Theaters",
-      "link": "https://www.chess.com/news/view/grandmasters-reaches-92-amc-theaters-expands-after-sold-out-new-york-premiere",
-      "source": "Chess.com",
-      "date": "2026-10-16T21:14:59.000Z",
-      "summary": "Grandmasters, the documentary offering an inside look at GMs Magnus Carlsen, Wesley So, Hans Niemann, and the struggle over chess's future, has reached movie theaters across the United States. The film screened at 92 AMC locations on October 11 an..."
     },
     {
       "title": "Titled Arenas Announcement — October to December 2026",
