@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T05:55:31.596Z",
+  "updated": "2026-10-27T11:32:13.131Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "KazChess Masters Almaty 2026 - Live!",
+      "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-27T11:00:00.000Z",
+      "summary": "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Mu…"
+    },
+    {
+      "title": "Svitlana's Smart Moves - King’s Indian Attack at the Olympiad",
+      "link": "https://en.chessbase.com/post/svitlana-s-smart-moves-king-s-indian-at-the-olympiad",
+      "source": "ChessBase",
+      "date": "2026-10-27T08:00:00.000Z",
+      "summary": "In this special Olympiad episode of Svitlana’s Smart Moves, Svitlana looks back at her final round game for Canada against Singapore. She explains how she handled a familiar setup in the King's Indian Attack, why she chose a safer practical route instead of…"
+    },
+    {
+      "title": "Timur Turlov outlines plans to restructure FIDE",
+      "link": "https://en.chessbase.com/post/timur-turlov-outlines-plans-to-restructure-fide",
+      "source": "ChessBase",
+      "date": "2026-10-27T07:35:17.000Z",
+      "summary": "FIDE President Timur Turlov has presented plans for a new organizational structure aimed at clarifying responsibilities, improving governance and strengthening the federation's international activities. The proposed changes include a stronger role for the F…"
+    },
     {
       "title": "European Club Cup: Amateurs rub shoulders with the pros",
       "link": "https://en.chessbase.com/post/european-club-cup-2026-mandelbaum",
@@ -455,13 +476,6 @@
       "source": "The Week in Chess",
       "date": "2026-09-13T17:20:00.000Z",
       "summary": "The second Legends and Prodigies tournament took place in Madrid Mon 7th to Sat 12th Sep 2026. David Anton Guijarro was a convincing winner with a score of 7.5/10 a point and a half clear of Jose Eduardo Martinez Alcantara, prodogy Faustino Oro finished on…"
-    },
-    {
-      "title": "25 years ago – ChessBase news",
-      "link": "https://en.chessbase.com/post/25-years-ago-chessbase-news",
-      "source": "ChessBase",
-      "date": "2026-09-12T08:00:00.000Z",
-      "summary": "\"Yesterday, in one of the most horrifying terrorist atrocities in history, the World Trade Center in New York was destroyed...\" Those were the words with which we launched our brand new database-driven news page, on September 12, 2001. It was the very first…"
     }
   ]
 }
