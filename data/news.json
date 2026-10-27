@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T20:51:48.595Z",
+  "updated": "2026-10-27T00:11:53.524Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "European Club Cup: Amateurs rub shoulders with the pros",
+      "link": "https://en.chessbase.com/post/european-club-cup-2026-mandelbaum",
+      "source": "ChessBase",
+      "date": "2026-10-26T23:30:00.000Z",
+      "summary": "While looking through the standings of the European Club Cup which concluded last week, René Mandelbaum focused on the teams at the bottom of the table. To his surprise, he discovered that many of their players were rated between 1800 and 2000. These are go…"
+    },
     {
       "title": "Harvey beats Willow in Armageddon, claims English Rapidplay title",
       "link": "https://en.chessbase.com/post/english-championship-2026-rapid",
