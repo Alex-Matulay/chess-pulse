@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:32:13.131Z",
+  "updated": "2026-10-27T17:20:00.921Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,18 +9,39 @@
   ],
   "items": [
     {
+      "title": "Clutch Chess: Champions Showdown - Live!",
+      "link": "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-27T17:45:00.000Z",
+      "summary": "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggna…"
+    },
+    {
+      "title": "Chess.com Crazyhouse Championship 2026 Starts November 5",
+      "link": "https://www.chess.com/news/view/announcing-chesscom-crazyhouse-chess-championship-2026",
+      "source": "Chess.com",
+      "date": "2026-10-27T15:00:00.000Z",
+      "summary": "Get ready to go wild with your attacks. The Chess.com Crazyhouse Championship is the next event of the Chess.com Community Championships. The event starts on November 5 and features a $2,500 prize fund. Crazyhouse is a chess variant in which play..."
+    },
+    {
+      "title": "Second GM norm puts 11-year-old Shogdzhiev on course for historic achievement",
+      "link": "https://en.chessbase.com/post/roman-shogdzhiev-second-gm-norm",
+      "source": "ChessBase",
+      "date": "2026-10-27T14:00:00.000Z",
+      "summary": "Eleven-year-old Roman Shogdzhiev has earned his second grandmaster norm after scoring 6/9 at the Serbian Super League, where he represented Partizan Belgrade. The Russian youngster gained 26 rating points and now needs one more norm to secure the GM title.…"
+    },
+    {
+      "title": "International conference “Chess in Education” to b­­e held in Almaty",
+      "link": "https://www.fide.com/international-conference-chess-in-education-to-be-held-in-almaty/",
+      "source": "FIDE",
+      "date": "2026-10-27T12:05:28.000Z",
+      "summary": "On November 12–13, Almaty will host the 4th International Scientific and Practical Conference “Chess in Education” at Narxoz University. The event is a part of the Comprehensive Plan for the Development of Chess in the Republic of Kazakhstan for 2023–2027,…"
+    },
+    {
       "title": "KazChess Masters Almaty 2026 - Live!",
       "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
       "source": "ChessBase",
       "date": "2026-10-27T11:00:00.000Z",
       "summary": "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Mu…"
-    },
-    {
-      "title": "Svitlana's Smart Moves - King’s Indian Attack at the Olympiad",
-      "link": "https://en.chessbase.com/post/svitlana-s-smart-moves-king-s-indian-at-the-olympiad",
-      "source": "ChessBase",
-      "date": "2026-10-27T08:00:00.000Z",
-      "summary": "In this special Olympiad episode of Svitlana’s Smart Moves, Svitlana looks back at her final round game for Canada against Singapore. She explains how she handled a familiar setup in the King's Indian Attack, why she chose a safer practical route instead of…"
     },
     {
       "title": "Timur Turlov outlines plans to restructure FIDE",
@@ -30,32 +51,11 @@
       "summary": "FIDE President Timur Turlov has presented plans for a new organizational structure aimed at clarifying responsibilities, improving governance and strengthening the federation's international activities. The proposed changes include a stronger role for the F…"
     },
     {
-      "title": "European Club Cup: Amateurs rub shoulders with the pros",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-mandelbaum",
-      "source": "ChessBase",
-      "date": "2026-10-26T23:30:00.000Z",
-      "summary": "While looking through the standings of the European Club Cup which concluded last week, René Mandelbaum focused on the teams at the bottom of the table. To his surprise, he discovered that many of their players were rated between 1800 and 2000. These are go…"
-    },
-    {
-      "title": "Harvey beats Willow in Armageddon, claims English Rapidplay title",
-      "link": "https://en.chessbase.com/post/english-championship-2026-rapid",
-      "source": "ChessBase",
-      "date": "2026-10-26T18:40:00.000Z",
-      "summary": "IM Marcus Harvey won the English Rapidplay Championship in Peterborough after defeating fellow IM Jonah Willow in a five-game playoff. Both players finished the 11-round tournament on 9 points, half a point ahead of top seed Michael Adams, who was held to a…"
-    },
-    {
       "title": "Invitation: FIDE Extraordinary General Assembly 2026",
       "link": "https://www.fide.com/invitation-fide-extraordinary-general-assembly-2026/",
       "source": "FIDE",
       "date": "2026-10-26T17:06:31.000Z",
       "summary": "Dear chess friends, Earlier this year, I publicly committed to holding another FIDE General Assembly before the end of 2026. I believe it is important to honour this commitment and provide our member federations with an opportunity to address the matters th…"
-    },
-    {
-      "title": "KCF Academy: Third Season Highlights",
-      "link": "https://en.chessbase.com/post/kcf-academy-third-season-highlights",
-      "source": "ChessBase",
-      "date": "2026-10-26T16:40:46.000Z",
-      "summary": "The Kasparov Chess Foundation Academy has wrapped up its third season, marking another important year of growth for the organization, with expanding educational programs, international events, and outstanding achievements by participants in KCF programs. An…"
     },
     {
       "title": "FIDE: The Next Stage of Development",
@@ -65,32 +65,11 @@
       "summary": "Timur Turlov, President of the International Chess Federation When I announced my candidacy for FIDE President, I spoke about the need to take our organization to a new level. Today, I would like to present one of the first important steps in that direction…"
     },
     {
-      "title": "Clutch Chess: Caruana, Nakamura, Sindarov and Pragg meet in Saint Louis",
-      "link": "https://en.chessbase.com/post/clutch-chess-showdown-2026-preview",
-      "source": "ChessBase",
-      "date": "2026-10-26T01:25:00.000Z",
-      "summary": "The Clutch Chess: Champions Showdown event returns to Saint Louis on 27–29 October, with Fabiano Caruana, Hikaru Nakamura, Praggnanandhaa Rameshbabu and Javokhir Sindarov (pictured) competing in an 18-game rapid tournament. The four elite GMs will play thre…"
-    },
-    {
-      "title": "A farewell triumph: Capablanca wins gold in Buenos Aires 1939",
-      "link": "https://en.chessbase.com/post/capablanca-wins-gold-buenos-aires-1939",
-      "source": "ChessBase",
-      "date": "2026-10-25T15:25:00.000Z",
-      "summary": "Chess Olympiads produce remarkable stories. The 1939 Chess Olympiad in Buenos Aires was particularly dramatic, as Germany invaded Poland on 1 September 1939, while the tournament was still taking place, marking the beginning of the Second World War. Against…"
-    },
-    {
       "title": "Another Week, Another Win For Bullet Brawl's GOAT Nakamura",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-24-2026",
       "source": "Chess.com",
       "date": "2026-10-25T03:06:00.000Z",
       "summary": "Like clockwork, GM Hikaru Nakamura won his seventh consecutive Bullet Brawl on Saturday, this time scoring 178 points and finishing ahead of 218 titled players. A 23-game winning streak in the early stages of the arena effectively assured a Nakamu..."
-    },
-    {
-      "title": "Bodhana: youngest female IM ever",
-      "link": "https://en.chessbase.com/post/bodhana-youngest-female-im-ever",
-      "source": "ChessBase",
-      "date": "2026-10-24T17:42:54.000Z",
-      "summary": "The English Chess Federation hailed her as a ‘generational talent.’ Bodhana Sivanandan, 11, shattered yet another world record, this time becoming the youngest female player in history to qualify for the International Master title. In doing so, she eclipsed…"
     },
     {
       "title": "Bayegan Pendik and Monte-Carlo are 2026 European Club Cup champions",
@@ -112,13 +91,6 @@
       "source": "ChessBase",
       "date": "2026-10-24T07:00:00.000Z",
       "summary": "For Jochen Schwarz, club player from Bremen, FritzTrainer courses have become an essential part of his hobby. Over the past ten years, he has studied numerous courses and now shares some of the favourites that have impressed him most."
-    },
-    {
-      "title": "The global impact of the Intercontinental Online Chess Championship for Prisoners",
-      "link": "https://en.chessbase.com/post/global-impact-intercontinental-online-ch-prisoners-2026",
-      "source": "ChessBase",
-      "date": "2026-10-24T03:30:00.000Z",
-      "summary": "The 6th Intercontinental Online Chess Championship for Prisoners brought together a record 140 teams from 56 countries, highlighting the continued growth of FIDE's Chess for Freedom initiative. Beyond the competition itself, programmes in Argentina, Romania…"
     },
     {
       "title": "Giri Beats Abdusattorov As Bayegan Pendik Wins European Club Cup",
@@ -154,13 +126,6 @@
       "source": "The Week in Chess",
       "date": "2026-10-23T19:33:00.000Z",
       "summary": "The 41st European Club Cup took place in Budva, Montenegro Sat 17th Oct to Fri 23rd Oct 2026. In the Open top seeds Bayegan Pendik Chess Sports Club (Giri, Erdogmus, Tabatabaei, Rapport, Mamedyarov) just edged out Novy Bor Chess Club (Yakubboev, Sarin, Hari…"
-    },
-    {
-      "title": "Wesley So beats Fabiano Caruana in tiebreaks, wins fourth US Chess Championship title",
-      "link": "https://en.chessbase.com/post/us-championships-2026-14",
-      "source": "ChessBase",
-      "date": "2026-10-23T16:05:00.000Z",
-      "summary": "In the end, Wesley So did it! Following his bitter defeat to Sam Sevian in the final round of the 2026 US Championship - which ended his 48-game unbeaten run at the event - he defeated Fabiano Caruana 1½–½ in the rapid playoff for the title. It was a thrill…"
     },
     {
       "title": "Magnus Carlsen Headlines New Barcelona Rapid Event With 1-Second Increment",
@@ -310,13 +275,6 @@
       "summary": "GM Vahap Şanal and Team Türkiye emerged victorious at the 2026 edition of the NATO Chess Championship. The seven-round Swiss tournament, held at the Baltic Beach Hotel & SPA in Jūrmala, Latvia, from 11 to 17 October, brought together 148 military chess play…"
     },
     {
-      "title": "FIDE President Timur Turlov meets Cyprus President Nikos Christodoulides in Nicosia",
-      "link": "https://www.fide.com/fide-president-timur-turlov-meets-cyprus-president-nikos-christodoulides-in-nicosia/",
-      "source": "FIDE",
-      "date": "2026-10-19T14:06:19.000Z",
-      "summary": "FIDE President Timur Turlov met with the President of the Republic of Cyprus, Nikos Christodoulides, at the Presidential Palace in Nicosia on 19 October. The meeting focused on the rapid development of chess in Cyprus, future plans, and how the country’s ex…"
-    },
-    {
       "title": "2026 Lichess Meetup in Prague",
       "link": "https://lichess.org/@/Lichess/blog/2026-lichess-meetup-in-prague/7DKS0WPk",
       "source": "Lichess",
@@ -371,13 +329,6 @@
       "source": "Chess.com",
       "date": "2026-10-16T21:14:59.000Z",
       "summary": "Grandmasters, the documentary offering an inside look at GMs Magnus Carlsen, Wesley So, Hans Niemann, and the struggle over chess's future, has reached movie theaters across the United States. The film screened at 92 AMC locations on October 11 an..."
-    },
-    {
-      "title": "Movahed Returns To Familiar Freestyle Friday First Position",
-      "link": "https://www.chess.com/news/view/movahed-wins-freestyle-friday-october-16-2026",
-      "source": "Chess.com",
-      "date": "2026-10-16T20:25:18.000Z",
-      "summary": "GM Sina Movahed won Freestyle Friday on October 16, riding a 7/7 start to sole first place on nine points. GM Haowen Xue finished second with 8.5/11, surpassing GM Ian Nepomniachtchi on tiebreaks. The win was Movahed's sixth in Freestyle Friday, t..."
     },
     {
       "title": "Titled Arenas Announcement — October to December 2026",
