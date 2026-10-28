@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T00:55:26.848Z",
+  "updated": "2026-10-28T06:35:11.645Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,18 +9,25 @@
   ],
   "items": [
     {
+      "title": "Clutch Chess: Nakamura leads after lively first day of action",
+      "link": "https://en.chessbase.com/post/clutch-chess-showdown-2026-1",
+      "source": "ChessBase",
+      "date": "2026-10-28T07:00:00.000Z",
+      "summary": "Hikaru Nakamura took the early lead at the Clutch Chess: Champions Showdown tournament in Saint Louis, scoring two wins and four draws to finish day one on 4/6 points. Javokhir Sindarov follows half a point behind, while Fabiano Caruana and Praggnanandhaa R…"
+    },
+    {
+      "title": "Nakamura Leads After Wins Vs. Caruana & Praggnanandhaa",
+      "link": "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-1",
+      "source": "Chess.com",
+      "date": "2026-10-28T04:16:27.000Z",
+      "summary": "GM Hikaru Nakamura leads by half a point after day one of Clutch Chess: Champions Showdown 2026. He scored two wins in six games with no losses to reach 4/6. GM Javokhir Sindarov, who scored one win and no losses on 3.5 points, is in sole second, ..."
+    },
+    {
       "title": "'W' Is For Woodward Wins Titled Tuesday",
       "link": "https://www.chess.com/news/view/woodward-wins-titled-tuesday-october-27-2026",
       "source": "Chess.com",
       "date": "2026-10-27T19:50:43.000Z",
       "summary": "GM Andy Woodward added his name to the list of Titled Tuesday winners on October 27, scraping by on tiebreaks ahead of GM Arjun Erigaisi despite losing in the first round. GM Maxime Vachier-Lagrave came back from a second-round loss to finish thir..."
-    },
-    {
-      "title": "Clutch Chess: Champions Showdown - Live!",
-      "link": "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-27T17:45:00.000Z",
-      "summary": "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggna…"
     },
     {
       "title": "Chess.com Crazyhouse Championship 2026 Starts November 5",
@@ -322,13 +329,6 @@
       "source": "ChessBase",
       "date": "2026-10-17T22:00:00.000Z",
       "summary": "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. It was a game that literally took the chess world by storm. It contains a stunning sacrificial onslaught and is…"
-    },
-    {
-      "title": "So Sole Leader After Turnaround Win; Li And Lee Lead Women's",
-      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-7",
-      "source": "Chess.com",
-      "date": "2026-10-17T08:00:00.000Z",
-      "summary": "GM Wesley So remained the only unbeaten player and sole leader of the 2026 U.S. Chess Championship with five points when he fought back from a worse position to defeat GM Ray Robson in round seven. Among the joint leaders from the previous round, ..."
     },
     {
       "title": "Titled Arenas Announcement — October to December 2026",
