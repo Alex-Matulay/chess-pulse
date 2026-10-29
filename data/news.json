@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:14:59.213Z",
+  "updated": "2026-10-29T17:56:52.985Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Clutch Chess: Champions Showdown - Live!",
+      "link": "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-29T17:45:00.000Z",
+      "summary": "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggna…"
+    },
+    {
+      "title": "Istanbul to host FIDE World Rapid and Blitz Championships 2026",
+      "link": "https://www.fide.com/istanbul-to-host-fide-world-rapid-and-blitz-championships-2026/",
+      "source": "FIDE",
+      "date": "2026-10-29T17:06:29.000Z",
+      "summary": "Istanbul, Türkiye, will welcome the world’s elite chess players this December as the host city of the 2026 FIDE World Rapid and Blitz Championships, one of the most anticipated events on the international chess calendar. Freedom Holding Corp., FIDE’s strate…"
+    },
+    {
+      "title": "Clutch Chess: Pragg scores four wins, climbs to clear first place",
+      "link": "https://en.chessbase.com/post/clutch-chess-showdown-2026-2",
+      "source": "ChessBase",
+      "date": "2026-10-29T17:05:00.000Z",
+      "summary": "The Clutch Chess tournament in Saint Louis did not get off to a good start for Praggnanandhaa Rameshbabu, currently ranked seventh in the world and the lowest seed in the four-player field, behind Hikaru Nakamura, Fabiano Caruana and Javokhir Sindarov. On t…"
+    },
+    {
+      "title": "⚽ GothamChess Plays Chess With Ballon d’Or Winner Harry Kane, Michael Olise",
+      "link": "https://www.chess.com/news/view/gothamchess-harry-kane-michael-olise-bayern-munich",
+      "source": "Chess.com",
+      "date": "2026-10-29T14:46:00.000Z",
+      "summary": "IM Levy Rozman, better known as GothamChess, had a memorable visit to Bayern Munich to play chess with soccer stars Harry Kane and Michael Olise. The meeting came just two days after Kane won the prestigious Ballon d&rsquo;Or in London. On Thursd..."
+    },
     {
       "title": "KazChess Masters Almaty 2026 - Live!",
       "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
@@ -49,13 +77,6 @@
       "source": "Chess.com",
       "date": "2026-10-28T21:33:00.000Z",
       "summary": "For the second month in a row, 9z Globant won the Chess Club Showdown on October 28, once again defeating Team Liquid in the finals. They were the two highest-scoring teams after a two-hour arena of five-minute blitz games. In the finals, 50 playe..."
-    },
-    {
-      "title": "Clutch Chess: Champions Showdown - Live!",
-      "link": "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-28T17:45:00.000Z",
-      "summary": "Clutch Chess: Champions Showdown is a high-profile rapid tournament gathering four elite competitors. Javokhir Sindarov, who is set to challenge Gukesh Dommaraju for the World Championship title next month, joins Fabiano Caruana, Hikaru Nakamura and Praggna…"
     },
     {
       "title": "Dragons of the Olympiad 2026 - The Monthly Dragon",
@@ -289,13 +310,6 @@
       "summary": "GM Hikaru Nakamura won a dramatic Titled Tuesday on October 20, taking down GM Alireza Firouzja in the final round to win the event with 9.5/11. Nakamura also needed tiebreaks to beat out GMs Dmitry Andreikin and Sina Movahed, who finished in seco..."
     },
     {
-      "title": "Where chess meets its fans: Join side activities of the Salesforce FIDE World Championship Match",
-      "link": "https://www.fide.com/where-chess-meets-its-fans-join-side-activities-of-the-world-championship-match/",
-      "source": "FIDE",
-      "date": "2026-10-20T07:56:51.000Z",
-      "summary": "The Salesforce FIDE World Championship Match 2026, taking place in Geneva from 22 November to 12 December, is the most important chess event of the year. Reigning World Champion Gukesh Dommaraju and challenger Javokhir Sindarov will battle for the crown and…"
-    },
-    {
       "title": "Rookie Rachael Li Leads Women By Full Point; Wesley So Parries Fabiano Caruana",
       "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-9",
       "source": "Chess.com",
@@ -322,13 +336,6 @@
       "source": "Chess.com",
       "date": "2026-10-18T23:12:00.000Z",
       "summary": "The favorites continued to cruise in round two of the 2026 European Chess Club Cup, with GMs Wei Yi, Arjun Erigaisi, and Richard Rapport among the stars to move to 2/2. Top seed Bayegan Pendik Chess Sports Club again rested GMs Anish Giri and Yagi..."
-    },
-    {
-      "title": "Wesley So Extends Lead; Status Quo In Women's",
-      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-8",
-      "source": "Chess.com",
-      "date": "2026-10-18T09:02:18.000Z",
-      "summary": "After his three wins in the 2026 U.S. Chess Championship so far in different endgames, GM Wesley So defeated one of his nearest pursuers, GM Andy Woodward, in a pawn endgame in the eighth round. He is now on six points and extends his sole lead to..."
     },
     {
       "title": "My 70th Memorable Game",
