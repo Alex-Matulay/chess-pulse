@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T23:50:14.123Z",
+  "updated": "2026-10-29T04:04:49.554Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Praggnanandhaa Jumps From Last To 1st With Hat Trick",
+      "link": "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-2",
+      "source": "Chess.com",
+      "date": "2026-10-29T01:01:27.000Z",
+      "summary": "GM Praggnanandhaa Rameshbabu started at the bottom, but now he's at the top of Clutch Chess: Champions Showdown 2026 with a 1.5-point lead after day two. He pulled a hat trick with two wins against GM Hikaru Nakamura and one against GM Fabiano Car..."
+    },
     {
       "title": "KazChess Masters: Mamedov and Makhnev set the pace in Almaty",
       "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r3",
@@ -65,25 +72,11 @@
       "summary": "Get ready to go wild with your attacks. The Chess.com Crazyhouse Championship is the next event of the Chess.com Community Championships. The event starts on November 5 and features a $2,500 prize fund. Crazyhouse is a chess variant in which play..."
     },
     {
-      "title": "Second GM norm puts 11-year-old Shogdzhiev on course for historic achievement",
-      "link": "https://en.chessbase.com/post/roman-shogdzhiev-second-gm-norm",
-      "source": "ChessBase",
-      "date": "2026-10-27T14:00:00.000Z",
-      "summary": "Eleven-year-old Roman Shogdzhiev has earned his second grandmaster norm after scoring 6/9 at the Serbian Super League, where he represented Partizan Belgrade. The Russian youngster gained 26 rating points and now needs one more norm to secure the GM title.…"
-    },
-    {
       "title": "International conference “Chess in Education” to b­­e held in Almaty",
       "link": "https://www.fide.com/international-conference-chess-in-education-to-be-held-in-almaty/",
       "source": "FIDE",
       "date": "2026-10-27T12:05:28.000Z",
       "summary": "On November 12–13, Almaty will host the 4th International Scientific and Practical Conference “Chess in Education” at Narxoz University. The event is a part of the Comprehensive Plan for the Development of Chess in the Republic of Kazakhstan for 2023–2027,…"
-    },
-    {
-      "title": "Timur Turlov outlines plans to restructure FIDE",
-      "link": "https://en.chessbase.com/post/timur-turlov-outlines-plans-to-restructure-fide",
-      "source": "ChessBase",
-      "date": "2026-10-27T07:35:17.000Z",
-      "summary": "FIDE President Timur Turlov has presented plans for a new organizational structure aimed at clarifying responsibilities, improving governance and strengthening the federation's international activities. The proposed changes include a stronger role for the F…"
     },
     {
       "title": "Invitation: FIDE Extraordinary General Assembly 2026",
@@ -105,13 +98,6 @@
       "source": "Chess.com",
       "date": "2026-10-25T03:06:00.000Z",
       "summary": "Like clockwork, GM Hikaru Nakamura won his seventh consecutive Bullet Brawl on Saturday, this time scoring 178 points and finishing ahead of 218 titled players. A 23-game winning streak in the early stages of the arena effectively assured a Nakamu..."
-    },
-    {
-      "title": "Bayegan Pendik and Monte-Carlo are 2026 European Club Cup champions",
-      "link": "https://en.chessbase.com/post/european-club-cup-2026-7",
-      "source": "ChessBase",
-      "date": "2026-10-24T15:40:00.000Z",
-      "summary": "Bayegan Pendik and Cercle d'Echecs de Monte-Carlo won the European Club Cup titles in Budva, both finishing level on match points with their closest rivals and prevailing on tiebreaks. Novy Bor took silver in the open section, while Gambit Bonnevoie finishe…"
     },
     {
       "title": "European Chess Club Cup winners crowned in Budva, Montenegro",
@@ -329,13 +315,6 @@
       "source": "Chess.com",
       "date": "2026-10-18T09:02:18.000Z",
       "summary": "After his three wins in the 2026 U.S. Chess Championship so far in different endgames, GM Wesley So defeated one of his nearest pursuers, GM Andy Woodward, in a pawn endgame in the eighth round. He is now on six points and extends his sole lead to..."
-    },
-    {
-      "title": "Nakamura Declares Bullet Brawl A \"Marathon, Not A Sprint\" After 71st Victory",
-      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-oct-17-2026",
-      "source": "Chess.com",
-      "date": "2026-10-18T04:02:00.000Z",
-      "summary": "GM Hikaru Nakamura extended the most dominant run in Bullet Brawl history on Saturday, cruising to a resounding 46-point victory with a score of 190 points. The American secured his sixth consecutive first-place finish and netted the $400 first pr..."
     },
     {
       "title": "My 70th Memorable Game",
