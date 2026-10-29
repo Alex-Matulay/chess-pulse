@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T04:04:49.554Z",
+  "updated": "2026-10-29T11:14:59.213Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,10 +9,31 @@
   ],
   "items": [
     {
+      "title": "KazChess Masters Almaty 2026 - Live!",
+      "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-29T11:00:00.000Z",
+      "summary": "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Mu…"
+    },
+    {
+      "title": "FIDE announces new appointments to the President’s Office",
+      "link": "https://www.fide.com/fide-announces-new-appointments-to-the-presidents-office/",
+      "source": "FIDE",
+      "date": "2026-10-29T09:45:56.000Z",
+      "summary": "The International Chess Federation (FIDE) announces the appointment of advisers and representatives of the President as part of the Federation’s new organisational structure, presented on 26 October 2026. The FIDE President’s Office, headed by Adil Kozhikho…"
+    },
+    {
+      "title": "Sipke Ernst - Attacking Chess: Know When to Strike",
+      "link": "https://en.chessbase.com/post/sipke-ernst-attacking-chess-know-when-to-strike",
+      "source": "ChessBase",
+      "date": "2026-10-29T07:03:12.000Z",
+      "summary": "GM Sipke Ernst explains how to recognize when an attack is truly justified, focusing on factors such as development, king safety, open lines and central control. Through successful and failed examples, he shows when to strike, when to build pressure, and wh…"
+    },
+    {
       "title": "Praggnanandhaa Jumps From Last To 1st With Hat Trick",
       "link": "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-2",
       "source": "Chess.com",
-      "date": "2026-10-29T01:01:27.000Z",
+      "date": "2026-10-29T01:01:00.000Z",
       "summary": "GM Praggnanandhaa Rameshbabu started at the bottom, but now he's at the top of Clutch Chess: Champions Showdown 2026 with a 1.5-point lead after day two. He pulled a hat trick with two wins against GM Hikaru Nakamura and one against GM Fabiano Car..."
     },
     {
@@ -287,13 +308,6 @@
       "source": "Chess.com",
       "date": "2026-10-19T22:23:00.000Z",
       "summary": "GM Yagiz Kaan Erdogmus, the highest-rated 15-year-old of all time, is now world number-15 on the live rating list after winning a time-trouble battle on his 2026 European Chess Club Cup debut. GMs Nodirbek Abdusattorov and Anish Giri also won thei..."
-    },
-    {
-      "title": "Vahap Şanal and Team Türkiye Trimph at 36th NATO Chess Championship",
-      "link": "https://www.fide.com/vahap-sanal-and-team-turkiye-trimph-at-36th-nato-chess-championship/",
-      "source": "FIDE",
-      "date": "2026-10-19T17:57:53.000Z",
-      "summary": "GM Vahap Şanal and Team Türkiye emerged victorious at the 2026 edition of the NATO Chess Championship. The seven-round Swiss tournament, held at the Baltic Beach Hotel & SPA in Jūrmala, Latvia, from 11 to 17 October, brought together 148 military chess play…"
     },
     {
       "title": "2026 Lichess Meetup in Prague",
