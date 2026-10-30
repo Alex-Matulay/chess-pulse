@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T16:28:56.590Z",
+  "updated": "2026-10-30T21:20:11.682Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "'Two Out Of Three Ain't Bad' In Movahed's Freestyle Friday Victory",
+      "link": "https://www.chess.com/news/view/movahed-wins-freestyle-friday-october-30-2026",
+      "source": "Chess.com",
+      "date": "2026-10-30T20:39:00.000Z",
+      "summary": "GM Sina Movahed won Freestyle Friday for the second time in three weeks (channeling the old Meat Loaf song) on October 30, despite starting on 1.5/3 points. GM Nodirbek Yakubboev led much of the way, but settled for second place after his 10th-rou..."
+    },
+    {
+      "title": "Sarana Wins Early, Arjun Wins Twice In 3 0 Thursday",
+      "link": "https://www.chess.com/news/view/sarana-arjun-3-0-thursday-10-29-2026",
+      "source": "Chess.com",
+      "date": "2026-10-30T19:32:12.000Z",
+      "summary": "GM Alexey Sarana won the first 3 0 Thursday with a dominant 10/11 score. Not to be outdone, GM Arjun Erigaisi proceeded to win both the second and third tournaments. It was the second time this year that Arjun won two 3 0 Thursdays on the same day..."
+    },
+    {
+      "title": "FIDE World U7-U17 Rapid and Blitz Championships 2026 Egypt: Registration deadline extended",
+      "link": "https://www.fide.com/fide-world-u7-u17-rapid-and-blitz-championships-2026-egypt-registration-deadline-extended/",
+      "source": "FIDE",
+      "date": "2026-10-30T18:54:15.000Z",
+      "summary": "The International Chess Federation (FIDE) and the Egyptian Chess Federation are pleased to announce that the registration deadline for the 2026 FIDE World U7–U17 Rapid and Blitz Championships has been extended to 10 November 2026. The event will take place…"
+    },
+    {
+      "title": "A chess revival at Simpson's-in-the-Strand",
+      "link": "https://en.chessbase.com/post/chess-revival-simpsons-in-strand",
+      "source": "ChessBase",
+      "date": "2026-10-30T18:30:00.000Z",
+      "summary": "The London chess café Simpson's-in-the-Strand was, for a time, a meeting place for the world's leading players. Now, thanks to Jeremy King and Jason Kouchak, the historic venue is enjoying a revival not only as a top restaurant but also as a gathering place…"
+    },
     {
       "title": "FIDE introduces the first members of its administrative team",
       "link": "https://www.fide.com/fide-introduces-the-first-members-of-its-administrative-team/",
@@ -30,18 +58,18 @@
       "summary": "Bobby Fischer fans in particular will probably be familiar with the name Lhamsuren Myagmarsuren. At the Interzonal Tournament in Sousse 1967, Fischer defeated him in a brilliant game that is still frequently cited. On 26 October, the multiple Mongolian cham…"
     },
     {
+      "title": "Sindarov takes Clutch Chess title ahead of World Championship match",
+      "link": "https://en.chessbase.com/post/clutch-chess-showdown-2026-3",
+      "source": "ChessBase",
+      "date": "2026-10-30T11:20:00.000Z",
+      "summary": "Javokhir Sindarov won the Clutch Chess: Champions Showdown in Saint Louis after overturning a 2½-point deficit on the final day. The Uzbek grandmaster scored three wins and three draws on Thursday, including a brilliant tactical victory over Hikaru Nakamura…"
+    },
+    {
       "title": "Fujairah to host WFCC Grand Prix Final: World’s best solvers and composers to compete for €30,000",
       "link": "https://www.fide.com/fujairah-to-host-wfcc-grand-prix-final-worlds-best-solvers-and-composers-to-compete-for-e30000/",
       "source": "FIDE",
       "date": "2026-10-30T09:01:52.000Z",
       "summary": "The World Federation for Chess Composition (WFCC) is pleased to announce that the Grand Final of the WFCC Fujairah Grand Prix 2025–2026 will take place from 27 to 30 November 2026 in Fujairah, United Arab Emirates. The world’s leading chess solvers will mee…"
-    },
-    {
-      "title": "Sindarov takes Clutch Chess title ahead of World Championship match",
-      "link": "https://en.chessbase.com/post/clutch-chess-showdown-2026-3",
-      "source": "ChessBase",
-      "date": "2026-10-30T05:20:00.000Z",
-      "summary": "Javokhir Sindarov won the Clutch Chess: Champions Showdown in Saint Louis after overturning a 2½-point deficit on the final day. The Uzbek grandmaster scored three wins and three draws on Thursday, including a brilliant tactical victory over Hikaru Nakamura…"
     },
     {
       "title": "Istanbul to host FIDE World Rapid and Blitz Championships 2026",
@@ -240,13 +268,6 @@
       "summary": "GM Wesley So and WIM Rachael Li are the new U.S. chess champions. So captured his fourth American chess crown, while Li became the youngest player to win the title on her debut. The 2026 U.S. Chess Championship and the 2026 U.S. Women’s Chess Championship w…"
     },
     {
-      "title": "FIDE extends fee waiver for Rapid and Blitz through 2027",
-      "link": "https://www.fide.com/fide-extends-fee-waiver-for-rapid-and-blitz-through-2027/",
-      "source": "FIDE",
-      "date": "2026-10-23T10:56:22.000Z",
-      "summary": "The FIDE Council has announced the extension of its rating fee waiver for all Rapid and Blitz tournaments through 2027. The FIDE Council stated that the decision aims to expand player participation and promote chess. These rating fees, covered by federation…"
-    },
-    {
       "title": "US Chess Championships 2026 - Games and results",
       "link": "https://theweekinchess.com/chessnews/events/us-chess-championships-2026",
       "source": "The Week in Chess",
@@ -324,32 +345,11 @@
       "summary": "IM Levy Rozman has another New York Times bestseller. His new book, How to Win at Chess, Next Level, has reached the prestigious list, while his two How to Win at Chess titles currently rank in the top two spots on Amazon&rsquo;s bestselling chess..."
     },
     {
-      "title": "Nakamura Starts 7/7, Wins Titled Tuesday",
-      "link": "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-october-20-2026",
-      "source": "Chess.com",
-      "date": "2026-10-20T19:00:00.000Z",
-      "summary": "GM Hikaru Nakamura won a dramatic Titled Tuesday on October 20, taking down GM Alireza Firouzja in the final round to win the event with 9.5/11. Nakamura also needed tiebreaks to beat out GMs Dmitry Andreikin and Sina Movahed, who finished in seco..."
-    },
-    {
-      "title": "Rookie Rachael Li Leads Women By Full Point; Wesley So Parries Fabiano Caruana",
-      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-9",
-      "source": "Chess.com",
-      "date": "2026-10-20T01:35:00.000Z",
-      "summary": "GM Wesley So held onto his full-point lead in round nine of the 2026 U.S. Chess Championship by fending off defending champion GM Fabiano Caruana. There were five draws and just one decisive game, where GM Grigoriy Oparin defeated GM Sam Shankland..."
-    },
-    {
       "title": "2026 Lichess Meetup in Prague",
       "link": "https://lichess.org/@/Lichess/blog/2026-lichess-meetup-in-prague/7DKS0WPk",
       "source": "Lichess",
       "date": "2026-10-19T00:56:42.275Z",
       "summary": "A weekend of team working, chess, and meeting the public for more chess"
-    },
-    {
-      "title": "My 70th Memorable Game",
-      "link": "https://en.chessbase.com/post/my-70th-memorable-game",
-      "source": "ChessBase",
-      "date": "2026-10-17T22:00:00.000Z",
-      "summary": "On 17th October 1956, a sensational sacrificial game played in New York City by a 13-year-old chess upstart from Brooklyn shot across the globe. It was a game that literally took the chess world by storm. It contains a stunning sacrificial onslaught and is…"
     },
     {
       "title": "Titled Arenas Announcement — October to December 2026",
@@ -420,13 +420,6 @@
       "source": "The Week in Chess",
       "date": "2026-09-17T20:10:00.000Z",
       "summary": "The 3rd FIDE Chess Olympiad for People with Disabilities took place Fri 11th to Thu 17th Sep 2026. Poland beat Cuba in Round 5 to take the lead which they retained to the end, Cuba took the Silver medal and Uzbekistan 1 the Bronze."
-    },
-    {
-      "title": "2026 Samarkand Olympiad: Preview",
-      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-preview/anaRyt7r",
-      "source": "Lichess",
-      "date": "2026-09-15T17:21:09.906Z",
-      "summary": "The 2026 Samarkand Olympiad promises to be a very exciting and memorable chess Olympiad."
     }
   ]
 }
