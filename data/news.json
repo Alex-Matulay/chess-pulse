@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T09:30:31.393Z",
+  "updated": "2026-10-30T16:28:56.590Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE introduces the first members of its administrative team",
+      "link": "https://www.fide.com/fide-introduces-the-first-members-of-its-administrative-team/",
+      "source": "FIDE",
+      "date": "2026-10-30T14:33:57.000Z",
+      "summary": "After announcing its new organisational structure on 26 October 2026, FIDE has begun assembling the team responsible for the Federation’s daily operations. The administration will be headed by Secretary General Alina Dvoretskaya. Her team will execute FIDE’…"
+    },
+    {
+      "title": "Clutch Chess: Champions Showdown 2026 - Games and results",
+      "link": "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2026",
+      "source": "The Week in Chess",
+      "date": "2026-10-30T13:53:00.000Z",
+      "summary": "The Clutch Chess: Champions Showdown took place Tue 27th Oct 2026 to 29th Oct 2026. The idea of the event is to have increasing scores from day 1 to day 3 so that the scoring is volatile and likely there will be something to play for right to the end. Javok…"
+    },
+    {
+      "title": "Lhamsuren Myagmarsuren (1938-2026)",
+      "link": "https://en.chessbase.com/post/lhamsuren-myagmarsuren-1938-2026",
+      "source": "ChessBase",
+      "date": "2026-10-30T13:00:00.000Z",
+      "summary": "Bobby Fischer fans in particular will probably be familiar with the name Lhamsuren Myagmarsuren. At the Interzonal Tournament in Sousse 1967, Fischer defeated him in a brilliant game that is still frequently cited. On 26 October, the multiple Mongolian cham…"
+    },
     {
       "title": "Fujairah to host WFCC Grand Prix Final: World’s best solvers and composers to compete for €30,000",
       "link": "https://www.fide.com/fujairah-to-host-wfcc-grand-prix-final-worlds-best-solvers-and-composers-to-compete-for-e30000/",
@@ -63,13 +84,6 @@
       "source": "Chess.com",
       "date": "2026-10-29T14:46:00.000Z",
       "summary": "IM Levy Rozman, better known as GothamChess, had a memorable visit to Bayern Munich to play chess with soccer stars Harry Kane and Michael Olise. The meeting came just two days after Kane won the prestigious Ballon d&rsquo;Or in London. On Thursd..."
-    },
-    {
-      "title": "KazChess Masters Almaty 2026 - Live!",
-      "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
-      "source": "ChessBase",
-      "date": "2026-10-29T11:00:00.000Z",
-      "summary": "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Mu…"
     },
     {
       "title": "FIDE announces new appointments to the President’s Office",
@@ -252,13 +266,6 @@
       "source": "Chess.com",
       "date": "2026-10-22T21:31:00.000Z",
       "summary": "Leaders SuperChess Romania and Novy Bor Chess Club fought out a thrilling draw in round six of the 2026 European Chess Club Cup, with wins for GMs Nodirbek Abdusattorov and Bogdan-Daniel Deac balanced out by wins for GMs Nihal Sarin and David Nava..."
-    },
-    {
-      "title": "Moving forward: The global impact of the Intercontinental Online Chess Championship for Prisoners",
-      "link": "https://www.fide.com/moving-forward-the-global-impact-of-the-intercontinental-online-chess-championship-for-prisoners/",
-      "source": "FIDE",
-      "date": "2026-10-22T11:21:50.000Z",
-      "summary": "The 6th Intercontinental Online Chess Championship for Prisoners took place from October 13 to 15, bringing together incarcerated players from around the world for three days of international online competition. This year’s championship established a new pa…"
     },
     {
       "title": "Rookie Rachael Li Wins U.S. Women's Title; Wesley So Loses, Faces Caruana In Playoffs",
