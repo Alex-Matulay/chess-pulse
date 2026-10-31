@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T07:55:44.433Z",
+  "updated": "2026-10-31T14:15:59.238Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Carlsen Trains With Abdusattorov In Spain Ahead Of Total Chess Debut",
+      "link": "https://www.chess.com/news/view/carlsen-trains-with-abdusattorov-in-spain-ahead-of-total-chess-debut",
+      "source": "Chess.com",
+      "date": "2026-10-31T14:10:00.000Z",
+      "summary": "GM Magnus Carlsen and GM Nodirbek Abdusattorov have teamed up for a training camp in Spain ahead of the Total Chess World Championship Tour Pilot. Joining them are GM David Howell and Carlsen's longtime coach, GM Peter Heine Nielsen. Carlsen and ..."
+    },
+    {
+      "title": "KazChess Masters Almaty 2026 - Live!",
+      "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
+      "source": "ChessBase",
+      "date": "2026-10-31T11:00:00.000Z",
+      "summary": "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Mu…"
+    },
     {
       "title": "International conference \"Chess in Education\" to b­­e held in Almaty",
       "link": "https://en.chessbase.com/post/chess-in-education-international-conference-almaty",
@@ -336,13 +350,6 @@
       "source": "Chess.com",
       "date": "2026-10-20T23:20:00.000Z",
       "summary": "GMs Nodirbek Abdusattorov, Anish Giri, and Yagiz Kaan Erdogmus all lost in round four of the 2026 European Chess Club Cup, falling to GMs Aydin Suleymanli, Pranav Venkatesh, and Karthikeyan Murali respectively. While Abdusattorov was rescued by hi..."
-    },
-    {
-      "title": "GothamChess Returns To NYT Bestseller List, Holds Amazon’s Top 2 Chess Spots",
-      "link": "https://www.chess.com/news/view/gothamchess-returns-to-new-york-times-bestseller-list-holds-amazons-top-2-chess-spots",
-      "source": "Chess.com",
-      "date": "2026-10-20T21:46:57.000Z",
-      "summary": "IM Levy Rozman has another New York Times bestseller. His new book, How to Win at Chess, Next Level, has reached the prestigious list, while his two How to Win at Chess titles currently rank in the top two spots on Amazon&rsquo;s bestselling chess..."
     },
     {
       "title": "2026 Lichess Meetup in Prague",
