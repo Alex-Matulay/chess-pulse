@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T14:15:59.238Z",
+  "updated": "2026-10-31T19:01:30.050Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "The amazing story of Peter Giannatos and the Charlotte Chess Center",
+      "link": "https://en.chessbase.com/post/peter-giannatos-interview-2026",
+      "source": "ChessBase",
+      "date": "2026-10-31T17:40:00.000Z",
+      "summary": "Twelve years ago, a college student in Charlotte with an economics degree and no business plan asked his local chess community for $10,000 to open a chess club. They gave him $30,000. Today the Charlotte Chess Center teaches 2,500 children a week, runs more…"
+    },
     {
       "title": "Carlsen Trains With Abdusattorov In Spain Ahead Of Total Chess Debut",
       "link": "https://www.chess.com/news/view/carlsen-trains-with-abdusattorov-in-spain-ahead-of-total-chess-debut",
