@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T16:42:45.422Z",
+  "updated": "2026-11-01T20:56:14.191Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Vasily Panov: An influential theoretician with a dark side",
+      "link": "https://en.chessbase.com/post/vasily-panov-influential-theoretician-dark-side",
+      "source": "ChessBase",
+      "date": "2026-11-01T18:15:00.000Z",
+      "summary": "Born on 1 November 1906, Vasily Panov was not among the leading Soviet chess players of his generation. However, he was a prominent figure as an author and theoretician. Many players know his name as the inventor of the Panov Attack, which was named after h…"
+    },
     {
       "title": "KazChess Masters Almaty 2026 - Live!",
       "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
@@ -448,13 +455,6 @@
       "source": "Lichess",
       "date": "2026-09-18T21:39:42.099Z",
       "summary": "The top 10 seeds in both the Open and Women's, except for England in the Open and Georgia, Ukraine, and France in the Women's, remain steady on 6/6 match points."
-    },
-    {
-      "title": "3rd FIDE Chess Olympiad for People with Disabilities 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/3rd-fide-chess-olympiad-for-people-with-disabilities-2026",
-      "source": "The Week in Chess",
-      "date": "2026-09-17T20:10:00.000Z",
-      "summary": "The 3rd FIDE Chess Olympiad for People with Disabilities took place Fri 11th to Thu 17th Sep 2026. Poland beat Cuba in Round 5 to take the lead which they retained to the end, Cuba took the Silver medal and Uzbekistan 1 the Bronze."
     }
   ]
 }
