@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T09:59:24.594Z",
+  "updated": "2026-11-01T16:42:45.422Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "KazChess Masters Almaty 2026 - Live!",
+      "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
+      "source": "ChessBase",
+      "date": "2026-11-01T11:00:00.000Z",
+      "summary": "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Mu…"
+    },
     {
       "title": "Fujairah to host WFCC Grand Prix Final, with world's best solvers and composers",
       "link": "https://en.chessbase.com/post/wfcc-grand-prix-final-fujairah-announcement",
@@ -19,8 +26,8 @@
       "title": "Firouzja Snaps Nakamura's Streak, Outscores Six Super-GMs",
       "link": "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-oct-31-2026",
       "source": "Chess.com",
-      "date": "2026-11-01T07:20:52.000Z",
-      "summary": "GM Hikaru Nakamura's record-breaking victory streak in the Bullet Brawl arena has finally come to an end after GM Alireza Firouzja storm home to snatch first place in the 232-strong player event on Saturday. Firouzja finished on 170 points, four ..."
+      "date": "2026-11-01T07:20:00.000Z",
+      "summary": "GM Hikaru Nakamura's record-breaking victory streak in the Bullet Brawl arena has finally come to an end after GM Alireza Firouzja stormed home to snatch first place in the 232-strong player event on Saturday. Firouzja finished on 170 points, fou..."
     },
     {
       "title": "Review: Libiszewski's Chigorin Defence – Calculated Risk against 1.d4 d5 2.c4",
