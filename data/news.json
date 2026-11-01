@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T02:03:05.916Z",
+  "updated": "2026-11-01T09:59:24.594Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Fujairah to host WFCC Grand Prix Final, with world's best solvers and composers",
+      "link": "https://en.chessbase.com/post/wfcc-grand-prix-final-fujairah-announcement",
+      "source": "ChessBase",
+      "date": "2026-11-01T08:30:00.000Z",
+      "summary": "The Grand Final of the WFCC Fujairah Grand Prix 2025–2026 will take place from 27 to 30 November in Fujairah, bringing together leading chess solvers for the conclusion of the series’ inaugural cycle. The finalists will compete across six solving rounds for…"
+    },
+    {
+      "title": "Firouzja Snaps Nakamura's Streak, Outscores Six Super-GMs",
+      "link": "https://www.chess.com/news/view/alireza-firouzja-wins-bullet-brawl-oct-31-2026",
+      "source": "Chess.com",
+      "date": "2026-11-01T07:20:52.000Z",
+      "summary": "GM Hikaru Nakamura's record-breaking victory streak in the Bullet Brawl arena has finally come to an end after GM Alireza Firouzja storm home to snatch first place in the 232-strong player event on Saturday. Firouzja finished on 170 points, four ..."
+    },
+    {
+      "title": "Review: Libiszewski's Chigorin Defence – Calculated Risk against 1.d4 d5 2.c4",
+      "link": "https://en.chessbase.com/post/review-libiszewski-s-chigorin-defence-calculated-risk-against-1-d4-d5-2-c4",
+      "source": "ChessBase",
+      "date": "2026-11-01T07:00:00.000Z",
+      "summary": "\"The Chigorin Defence is an opening that brings back romantic chess memories for me. As a teenager, I played it for a few years. More precisely, between 1999 and 2001, as the Mega Database reminds me with unerring accuracy – a quarter of a century ago!\" say…"
+    },
     {
       "title": "KazChess Masters: Dubov moves ahead with consecutive wins",
       "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r6",
@@ -350,13 +371,6 @@
       "source": "Lichess",
       "date": "2026-10-21T16:37:14.559Z",
       "summary": "Lichess has resumed cooperation with US Chess after positive changes"
-    },
-    {
-      "title": "Wesley So, Rachael Li Lead By Full Point Ahead Of Final Round",
-      "link": "https://www.chess.com/news/view/2026-us-chess-championships-round-10",
-      "source": "Chess.com",
-      "date": "2026-10-21T04:25:00.000Z",
-      "summary": "It's the GM Wesley So show at the 2026 U.S. Chess Championship as the three-time winner coasts to the final round with a full-point lead over GMs Fabiano Caruana and Grigoriy Oparin. He made a quick draw with GM Hans Niemann to maintain that lead,..."
     },
     {
       "title": "2026 Lichess Meetup in Prague",
