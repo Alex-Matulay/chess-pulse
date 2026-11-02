@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T00:13:33.514Z",
+  "updated": "2026-11-02T07:07:59.042Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Bavarian Championship: Few surprises in the opening rounds at Tegernsee",
+      "link": "https://en.chessbase.com/post/tegernsee-open-2026-r2",
+      "source": "ChessBase",
+      "date": "2026-11-02T06:30:00.000Z",
+      "summary": "Fifty players remain on perfect scores after two rounds of the Bavarian Chess Championship, which has attracted 548 participants to Gmund am Tegernsee. Most of the leading seeds have made a strong start, though Jaime Santos, Leonardo Costa and Peter Acs - a…"
+    },
     {
       "title": "Vasily Panov: An influential theoretician with a dark side",
       "link": "https://en.chessbase.com/post/vasily-panov-influential-theoretician-dark-side",
