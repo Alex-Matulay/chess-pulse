@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T15:45:23.718Z",
+  "updated": "2026-11-03T21:27:34.987Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Speed Chess Championship Celebrates 10-Year Anniversary With Live Finals In London",
+      "link": "https://www.chess.com/news/view/announcing-speed-chess-championship-2026",
+      "source": "Chess.com",
+      "date": "2026-11-03T20:45:00.000Z",
+      "summary": "After 10 years of nail-biting chess, star rivalries, and dramatic matches, we're excited to announce Speed Chess Championship XI (SCC)! The event starts in November and features a $250,000 prize fund, along with up to 150 Champions Chess Tour Lead..."
+    },
+    {
+      "title": "FIDE President Timur Turlov meets Akaki Iashvili to discuss future events and chess development",
+      "link": "https://www.fide.com/fide-president-timur-turlov-meets-akaki-iashvili-to-discuss-future-events-and-chess-development/",
+      "source": "FIDE",
+      "date": "2026-11-03T17:33:50.000Z",
+      "summary": "FIDE President Timur Turlov held a meeting with Akaki Iashvili, President of the Georgian Chess Federation and Representative of the FIDE President for Special Projects, to discuss a wide range of strategic matters related to the development of internationa…"
+    },
+    {
+      "title": "FIDE World Senior Chess Championship 2026 begins in Vrnjačka Banja, Serbia",
+      "link": "https://www.fide.com/fide-world-senior-chess-championship-2026-begins-in-vrnjacka-banja-serbia/",
+      "source": "FIDE",
+      "date": "2026-11-03T17:04:59.000Z",
+      "summary": "The FIDE World Senior Chess Championship 2026 commenced today in Vrnjačka Banja, the Serbian capital of chess and tourism. The event has brought together 385 players from 65 national federations, including 44 Grandmasters (GMs) and 8 Women Grandmasters (WGM…"
+    },
     {
       "title": "Total Chess unveils star-studded broadcast team and new highlight show for Budapest Pilot",
       "link": "https://www.fide.com/total-chess-unveils-star-studded-broadcast-team-and-new-highlight-show-for-budapest-pilot/",
@@ -219,13 +240,6 @@
       "summary": "IM Levy Rozman, better known as GothamChess, had a memorable visit to Bayern Munich to play chess with soccer stars Harry Kane and Michael Olise. The meeting came just two days after Kane won the prestigious Ballon d&rsquo;Or in London. On Thursd..."
     },
     {
-      "title": "FIDE announces new appointments to the President’s Office",
-      "link": "https://www.fide.com/fide-announces-new-appointments-to-the-presidents-office/",
-      "source": "FIDE",
-      "date": "2026-10-29T09:45:56.000Z",
-      "summary": "The International Chess Federation (FIDE) announces the appointment of advisers and representatives of the President as part of the Federation’s new organisational structure, presented on 26 October 2026. The FIDE President’s Office, headed by Adil Kozhikho…"
-    },
-    {
       "title": "Praggnanandhaa Jumps From Last To 1st With Hat Trick",
       "link": "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-2",
       "source": "Chess.com",
@@ -350,13 +364,6 @@
       "source": "Chess.com",
       "date": "2026-10-21T22:50:00.000Z",
       "summary": "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid in round five of the 2026 European Chess Club Cup. In the pe..."
-    },
-    {
-      "title": "Lionel Messi Shares ChatGPT Chess Lesson With 517 Million Instagram Followers",
-      "link": "https://www.chess.com/news/view/lionel-messi-chatgpt-chess-instagram",
-      "source": "Chess.com",
-      "date": "2026-10-21T20:55:00.000Z",
-      "summary": "Argentinian superstar Lionel Messi shared a chess-themed ad for ChatGPT with his 517 million Instagram followers on Wednesday, in a post that is bound to generate massive interest. The world's second-most followed person on Instagram, behind only..."
     },
     {
       "title": "Ending the Boycott",
