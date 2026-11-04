@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T08:30:37.078Z",
+  "updated": "2026-11-04T16:46:57.892Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Eugenio Torre: Asia's first grandmaster turns 75",
+      "link": "https://en.chessbase.com/post/eugenio-torre-75-years-birthday",
+      "source": "ChessBase",
+      "date": "2026-11-04T16:40:00.000Z",
+      "summary": "In 1974, Eugenio Torre became the first Asian chess player to earn the grandmaster title. At his peak, the Filipino was among the world's elite and capable of beating any of the leading players. Torre also holds the record for the most appearances at Chess…"
+    },
+    {
+      "title": "Play In The Second Special Edition Of Gambit Cup On November 9",
+      "link": "https://www.chess.com/news/view/announcing-gambit-cup-november-2026",
+      "source": "Chess.com",
+      "date": "2026-11-04T16:00:00.000Z",
+      "summary": "The Gambit Cup, Gambit's non-gambling daily poker tournament, returns for another special edition with a live broadcast on November 9. The event starts at 12 p.m. ET / 18:00 CET / 10:30 p.m. IST and is open to all Gambit members. The Gambit Cup i..."
+    },
+    {
+      "title": "Lazavik Continues Climb With KazChess Masters Win; Smirnov Grabs 2nd GM Norm",
+      "link": "https://www.chess.com/news/view/lazavik-wins-kazchess-masters-smirnov-gm-norm",
+      "source": "Chess.com",
+      "date": "2026-11-04T13:28:00.000Z",
+      "summary": "GM Denis Lazavik is approaching 2650 after winning the 2026 KazChess Masters with an unbeaten 6.5/9, half a point ahead of the only other unbeaten player, GM Daniil Dubov. It was also a memorable tournament for 14-year-old IM Mark Smirnov, who bea..."
+    },
+    {
+      "title": "Firouzja Wins Titled Tuesday As Speed Chess Championship Qualifiers Confirmed",
+      "link": "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-november-3-2026",
+      "source": "Chess.com",
+      "date": "2026-11-04T09:31:15.000Z",
+      "summary": "GM Alireza Firouzja won Titled Tuesday on November 3 outright with an undefeated score of 10/11, moving into second place in the 2026-27 CCT Standings. Eight players officially qualified today for the just-announced Speed Chess Championship via th..."
+    },
     {
       "title": "GothamChess to host new Total Chess highlights show in Budapest",
       "link": "https://en.chessbase.com/post/gothamchess-to-host-new-total-chess-highlights-show-in-budapest",
@@ -181,7 +209,7 @@
       "link": "https://theweekinchess.com/chessnews/events/clutch-chess-champions-showdown-2026",
       "source": "The Week in Chess",
       "date": "2026-10-30T13:53:00.000Z",
-      "summary": "The Clutch Chess: Champions Showdown took place Tue 27th Oct 2026 to 29th Oct 2026. The idea of the event is to have increasing scores from day 1 to day 3 so that the scoring is volatile and likely there will be something to play for right to the end. Javok…"
+      "summary": "The Clutch Chess: Champions Showdown took place Tue 27th Oct 2026 to 29th Oct 2026. The idea of the event was to have increasing scores from day 1 to day 3 so that the scoring is volatile and likely there will be something to play for right to the end. Javo…"
     },
     {
       "title": "Fujairah to host WFCC Grand Prix Final: World’s best solvers and composers to compete for €30,000",
@@ -322,27 +350,6 @@
       "source": "Chess.com",
       "date": "2026-10-22T21:54:00.000Z",
       "summary": "GM Wesley So won his fourth national title at the 2026 U.S. Chess Championship after beating the defending champion, GM Fabiano Caruana, 1.5-0.5 in rapid tiebreaks. The previous day played out the least likely scenario: So lost to GM Sam Sevian an..."
-    },
-    {
-      "title": "Leaders Caught As 3 Teams Tie For Top Before Euro Club Cup Final Round",
-      "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-6",
-      "source": "Chess.com",
-      "date": "2026-10-22T21:31:00.000Z",
-      "summary": "Leaders SuperChess Romania and Novy Bor Chess Club fought out a thrilling draw in round six of the 2026 European Chess Club Cup, with wins for GMs Nodirbek Abdusattorov and Bogdan-Daniel Deac balanced out by wins for GMs Nihal Sarin and David Nava..."
-    },
-    {
-      "title": "Rookie Rachael Li Wins U.S. Women's Title; Wesley So Loses, Faces Caruana In Playoffs",
-      "link": "https://www.chess.com/news/view/rachael-li-wins-2026-us-womens-chess-championship",
-      "source": "Chess.com",
-      "date": "2026-10-21T23:33:00.000Z",
-      "summary": "Nobody is happier after 11 rounds of the 2026 U.S. Chess Championship than GM Fabiano Caruana, who has a new chance to win his fifth consecutive title. GM Wesley So entered the final round with a full-point lead, but the most likely result was not..."
-    },
-    {
-      "title": "Anton, Harikrishna Give Novy Bor Crucial Win Over Alkaloid",
-      "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-5",
-      "source": "Chess.com",
-      "date": "2026-10-21T22:50:00.000Z",
-      "summary": "GM Nihal Sarin could afford to take a draw in a won position against GM Wei Yi as GMs David Anton and Pentala Harikrishna gave Novy Bor Chess Club a 4-2 victory over second-seed Alkaloid in round five of the 2026 European Chess Club Cup. In the pe..."
     },
     {
       "title": "Ending the Boycott",
