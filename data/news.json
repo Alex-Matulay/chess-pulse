@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T11:48:31.036Z",
+  "updated": "2026-11-05T19:24:47.357Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Suleymenov on Gukesh, Sindarov and the psychological side of chess",
+      "link": "https://en.chessbase.com/post/alisher-suleymenov-interview-wch",
+      "source": "ChessBase",
+      "date": "2026-11-05T16:34:00.000Z",
+      "summary": "Chennai has given GM Alisher Suleymenov a title and a reason to return. After winning the 1st Chola Chess International GM Round Robin earlier this year, the Kazakh grandmaster is back for the 1st Chola Chess GM 2026. In this interview with Devansh Singh, h…"
+    },
+    {
+      "title": "FIDE strengthens its presidential representation and advisory team",
+      "link": "https://www.fide.com/fide-strengthens-its-presidential-representation-and-advisory-team/",
+      "source": "FIDE",
+      "date": "2026-11-05T13:26:42.000Z",
+      "summary": "FIDE is expanding its system of presidential representatives and advisers as part of the organisational changes announced on 26 October 2026. Together with the previously announced representatives, the new members will contribute to strengthening the politi…"
+    },
     {
       "title": "Bavarian Championship: 15-year-old Hussain Besou joins the leaders",
       "link": "https://en.chessbase.com/post/tegernsee-open-2026-r5",
@@ -245,13 +259,6 @@
       "source": "Chess.com",
       "date": "2026-10-29T20:03:56.000Z",
       "summary": "Istanbul, T&uuml;rkiye, will host the 2026 FIDE World Rapid & Blitz Championships from December 26-30, FIDE announced on Thursday. GMs Magnus Carlsen, Aleksandra Goryachkina, and Bibisara Assaubayeva are the defending champions heading into th..."
-    },
-    {
-      "title": "Istanbul to host FIDE World Rapid and Blitz Championships 2026",
-      "link": "https://www.fide.com/istanbul-to-host-fide-world-rapid-and-blitz-championships-2026/",
-      "source": "FIDE",
-      "date": "2026-10-29T17:06:29.000Z",
-      "summary": "Istanbul, Türkiye, will welcome the world’s elite chess players this December as the host city of the 2026 FIDE World Rapid and Blitz Championships, one of the most anticipated events on the international chess calendar. Freedom Holding Corp., FIDE’s strate…"
     },
     {
       "title": "⚽ GothamChess Plays Chess With Ballon d’Or Winner Harry Kane, Michael Olise",
