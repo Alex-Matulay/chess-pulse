@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:36:51.927Z",
+  "updated": "2026-11-06T21:14:13.193Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Nakamura, Maghsoodloo, Movahed Take 3 0 Thursday Titles",
+      "link": "https://www.chess.com/news/view/nakamura-maghsoodloo-movahed-3-0-thursday-11-5-2026",
+      "source": "Chess.com",
+      "date": "2026-11-06T20:39:30.000Z",
+      "summary": "GMs Hikaru Nakamura and Parham Maghsoodloo both continued their recent 3 0 Thursday successes on November 5, winning the first two tournaments. GM Sina Movahed joined them by winning the third tournament, his first victory since March 19. Meanwhil..."
+    },
     {
       "title": "Chess Returns To Esports World Cup In 2027 As Carlsen Targets Third Title",
       "link": "https://www.chess.com/news/view/chess-returns-esports-world-cup-2027",
@@ -336,13 +343,6 @@
       "source": "Chess.com",
       "date": "2026-10-23T23:08:00.000Z",
       "summary": "GM Hans Niemann won his third Freestyle Friday on October 23, scoring nine points and defeating last week's winner, GM Sina Movahed, on tiebreaks, as well as in their individual encounter in round 10. Like Movahed, the win was Niemann's first in t..."
-    },
-    {
-      "title": "Bodhana, 11, Breaks Judit Polgar’s Record To Become Youngest Female IM In History",
-      "link": "https://www.chess.com/news/view/bodhana-sivanandan-youngest-female-international-master",
-      "source": "Chess.com",
-      "date": "2026-10-23T19:48:00.000Z",
-      "summary": "The extraordinary FM Bodhana Sivanandan has done it again. On Friday, the 11-year-old prodigy achieved yet another record, becoming the youngest girl ever to complete the requirements for the International Master title, securing her third and fina..."
     },
     {
       "title": "41st European Club Cup 2026 - Games and Results",
