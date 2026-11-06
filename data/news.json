@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T00:41:10.445Z",
+  "updated": "2026-11-06T07:36:21.881Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "World Senior Championships underway in Serbia: Cramling, Georgiev and Gaprindashvili among participants",
+      "link": "https://en.chessbase.com/post/world-senior-championship-2026-r3",
+      "source": "ChessBase",
+      "date": "2026-11-06T06:50:00.000Z",
+      "summary": "The 2026 FIDE World Senior Chess Championships are taking place in Vrnjačka Banja, Serbia, from 3 to 14 November. A total of 385 players from 65 federations are competing for four world titles, divided into the open and women's 50+ and 65+ categories. Among…"
+    },
     {
       "title": "Peter Leko and Peter Svidler to commentate on the Gukesh v. Sindarov Geneva match",
       "link": "https://en.chessbase.com/post/world-championship-2026-commentators",
@@ -58,13 +65,6 @@
       "summary": "Ding Liren and Wang Hao were both eliminated in the quarterfinals of the Chinese Rapid Championship, as three of the four rating favourites failed to reach the last four. Ding lost to Xiao Tong in a blitz tiebreaker, while Wang Hao was defeated by Xu Xiangy…"
     },
     {
-      "title": "Eugenio Torre: Asia's first grandmaster turns 75",
-      "link": "https://en.chessbase.com/post/eugenio-torre-75-years-birthday",
-      "source": "ChessBase",
-      "date": "2026-11-04T16:40:00.000Z",
-      "summary": "In 1974, Eugenio Torre became the first Asian chess player to earn the grandmaster title. At his peak, the Filipino was among the world's elite and capable of beating any of the leading players. Torre also holds the record for the most appearances at Chess…"
-    },
-    {
       "title": "Play In The Second Special Edition Of Gambit Cup On November 9",
       "link": "https://www.chess.com/news/view/announcing-gambit-cup-november-2026",
       "source": "Chess.com",
@@ -84,20 +84,6 @@
       "source": "Chess.com",
       "date": "2026-11-04T09:31:15.000Z",
       "summary": "GM Alireza Firouzja won Titled Tuesday on November 3 outright with an undefeated score of 10/11, moving into second place in the 2026-27 CCT Standings. Eight players officially qualified today for the just-announced Speed Chess Championship via th..."
-    },
-    {
-      "title": "GothamChess to host new Total Chess highlights show in Budapest",
-      "link": "https://en.chessbase.com/post/gothamchess-to-host-new-total-chess-highlights-show-in-budapest",
-      "source": "ChessBase",
-      "date": "2026-11-04T08:12:32.000Z",
-      "summary": "From November 10 to 20, Budapest will host the first Total Chess tournament, bringing together 24 top players, including Magnus Carlsen. The new format combines Fast Classic, Rapid and Blitz chess to test players across three time controls. The organisers h…"
-    },
-    {
-      "title": "KazChess Masters: Lazavik takes title, Smirnov earns GM norm",
-      "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-r9-2",
-      "source": "ChessBase",
-      "date": "2026-11-03T23:15:00.000Z",
-      "summary": "Denis Lazavik won the KazChess Masters in Almaty with 6½/9 points, finishing unbeaten after drawing his final-round game against Aram Hakobyan. The 19-year-old Belarusian overtook Daniil Dubov in the penultimate round and eventually finished half a point ah…"
     },
     {
       "title": "Speed Chess Championship Celebrates 10-Year Anniversary With Live Finals In London",
@@ -135,32 +121,11 @@
       "summary": "Al Ain adds a third World Championship milestone to its international chess legacy. The fourth edition of the FIDE World Junior Rapid & Blitz Chess Championships kicked off in Al Ain. Following an intense opening day, five players share the lead in the Open…"
     },
     {
-      "title": "Gawain Maroroa Jones wins English Championship 2026",
-      "link": "https://en.chessbase.com/post/english-championship-2026-main-tournament",
-      "source": "ChessBase",
-      "date": "2026-11-03T09:25:00.000Z",
-      "summary": "The open tournament at this year’s English Championships was dominated by the two top seeds. Gawain Maroroa Jones won convincingly, finishing unbeaten with 7½ points out of 9. In round five, he drew with Michael Adams, who also remained undefeated and secur…"
-    },
-    {
       "title": "KazChess Masters Almaty 2026 - Live!",
       "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
       "source": "ChessBase",
       "date": "2026-11-03T09:00:00.000Z",
       "summary": "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Mu…"
-    },
-    {
-      "title": "FIDE ratings - November 2026",
-      "link": "https://en.chessbase.com/post/fide-ratings-november-2026",
-      "source": "ChessBase",
-      "date": "2026-11-02T23:50:00.000Z",
-      "summary": "The US Chess Championships and the European Club Cup were the most important tournaments of the past month, bringing about a number of changes in the rankings of the world's top players. Magnus Carlsen, Hou Yifan, Yagiz Kaan Erdogmus and Alice Lee top the r…"
-    },
-    {
-      "title": "Jon Speelman: Ya-hoo!",
-      "link": "https://en.chessbase.com/post/speelman-agony-245",
-      "source": "ChessBase",
-      "date": "2026-11-02T18:30:00.000Z",
-      "summary": "With the World Championship match in Geneva just over three weeks away, Jon Speelman considers the prospects of defending champion Gukesh Dommaraju and challenger Javokhir Sindarov. He reflects on the demands of a 14-game match, recent form and the importan…"
     },
     {
       "title": "Challenge the Grand Chess Auto Bots",
@@ -182,20 +147,6 @@
       "source": "The Week in Chess",
       "date": "2026-11-02T13:23:00.000Z",
       "summary": "The English Open Championships 2026 took place Sat 24th October to Sun 1st November 2026. English Open 2026: Gawain Maroroa Jones won with 7½/9 a point clear of Michael Adams, Brandon Gi Clarke and Daniel W Gormally on 6½. English Women's 2026: Elmira Mirzo…"
-    },
-    {
-      "title": "Bavarian Championship: Few surprises in the opening rounds at Tegernsee",
-      "link": "https://en.chessbase.com/post/tegernsee-open-2026-r2",
-      "source": "ChessBase",
-      "date": "2026-11-02T06:30:00.000Z",
-      "summary": "Fifty players remain on perfect scores after two rounds of the Bavarian Chess Championship, which has attracted 548 participants to Gmund am Tegernsee. Most of the leading seeds have made a strong start, though Jaime Santos, Leonardo Costa and Peter Acs - a…"
-    },
-    {
-      "title": "Vasily Panov: An influential theoretician with a dark side",
-      "link": "https://en.chessbase.com/post/vasily-panov-influential-theoretician-dark-side",
-      "source": "ChessBase",
-      "date": "2026-11-01T18:15:00.000Z",
-      "summary": "Born on 1 November 1906, Vasily Panov was not among the leading Soviet chess players of his generation. However, he was a prominent figure as an author and theoretician. Many players know his name as the inventor of the Panov Attack, which was named after h…"
     },
     {
       "title": "Champions crowned at Asian Seniors Chess Championships 2026",
