@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T15:22:21.149Z",
+  "updated": "2026-11-07T19:49:38.441Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Aaron Nimzowitsch: 140 years since the birth of a chess pioneer",
+      "link": "https://en.chessbase.com/post/140-years-aaron-nimzowitsch",
+      "source": "ChessBase",
+      "date": "2026-11-07T20:25:00.000Z",
+      "summary": "Born in Latvia, Aaron Nimzowitsch was one of the most important players and theorists of the first third of the 20th century, influencing generations of chess players with his strategic ideas. His life, however, was far from easy and sadly cut short. Today…"
+    },
+    {
+      "title": "The young king faces his toughest challenge",
+      "link": "https://en.chessbase.com/post/world-championship-2026-gukesh-pelletier",
+      "source": "ChessBase",
+      "date": "2026-11-07T19:20:00.000Z",
+      "summary": "Gukesh Dommaraju will defend his world title against Javokhir Sindarov in Geneva after a remarkable rise that made him the youngest undisputed champion in history. Since his 2024 triumph, however, the Indian grandmaster has endured a more difficult period a…"
+    },
+    {
+      "title": "Sahel Chess Festival: Bringing the world of chess to Africa",
+      "link": "https://www.fide.com/sahel-chess-festival-bringing-the-world-of-chess-to-africa/",
+      "source": "FIDE",
+      "date": "2026-11-07T19:13:44.000Z",
+      "summary": "It would be difficult to decide what was more exciting at the second edition of the Sahel Chess Festival: the late-summer heat and the beach just outside the hotel, the splendid excursions, the friendships formed among players from twenty federations, or th…"
+    },
+    {
+      "title": "Bavarian Championship: Sasikiran joins Gopal in the lead",
+      "link": "https://en.chessbase.com/post/tegernsee-open-2026-r7",
+      "source": "ChessBase",
+      "date": "2026-11-07T15:00:00.000Z",
+      "summary": "With 6 points from 7 rounds, Indian grandmasters Krishnan Sasikiran and G.N. Gopal share the lead at the Bavarian Chess Championship in Tegernsee. Their opponents' average ratings of 2413 (Sasikiran) and 2411 (Gopal) also leave them closely matched on tiebr…"
+    },
     {
       "title": "Janak Awatramani Wins His 2nd Crazyhouse Championship",
       "link": "https://www.chess.com/news/view/2026-crazyhouse-chess-championship-awatramani",
@@ -212,25 +240,11 @@
       "summary": "The Grand Chess Auto Bots are here this November, bringing their shady dealings to the board as they calculate their next big scheme. It&rsquo;s up to you to foil their plans and score exclusive rewards before the end of the month. Think you can ..."
     },
     {
-      "title": "FIDE World Junior U20 Championship 2026: Registration deadline extended",
-      "link": "https://www.fide.com/fide-world-junior-u20-championship-2026-registration-deadline-extended/",
-      "source": "FIDE",
-      "date": "2026-11-02T17:25:15.000Z",
-      "summary": "FIDE and the Venezuelan Chess Federation, in cooperation with the Ministry of People’s Power for Sport, invite all FIDE Member Federations to participate in the FIDE World Junior U20 Championship to be held in Caracas from November 17 to 28, 2026. Each Nati…"
-    },
-    {
       "title": "English Open Championships 2026 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/english-open-championships-2026",
       "source": "The Week in Chess",
       "date": "2026-11-02T13:23:00.000Z",
       "summary": "The English Open Championships 2026 took place Sat 24th October to Sun 1st November 2026. English Open 2026: Gawain Maroroa Jones won with 7½/9 a point clear of Michael Adams, Brandon Gi Clarke and Daniel W Gormally on 6½. English Women's 2026: Elmira Mirzo…"
-    },
-    {
-      "title": "Champions crowned at Asian Seniors Chess Championships 2026",
-      "link": "https://www.fide.com/champions-crowned-at-asian-seniors-chess-championships-2026/",
-      "source": "FIDE",
-      "date": "2026-11-01T18:10:00.000Z",
-      "summary": "The Asian Seniors Chess Championships 2026 held in standard, rapid and blitz chess sections across the 50+ and 65+ age groups concluded in Osh, Kyrgyzstan. The competition wich ran from October 15 to 25, brought together 74 players from 11 countries. Held a…"
     },
     {
       "title": "Firouzja Snaps Nakamura's Streak, Outscores Six Super-GMs",
