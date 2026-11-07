@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T01:33:23.274Z",
+  "updated": "2026-11-07T08:13:45.051Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Review: The Petroff Defence - Fight for More Than Equality by GM Fabien Libiszewski",
+      "link": "https://en.chessbase.com/post/review-the-petroff-defence-fight-for-more-than-equality-by-gm-fabien-libiszewski",
+      "source": "ChessBase",
+      "date": "2026-11-07T07:00:00.000Z",
+      "summary": "For a long time, the Petroff Defence had a reputation for being a purely drawish opening – reliable but dry. Those days are over, however. In a ChessBase video course, Grandmaster Fabien Libiszewski demonstrates how modern players can turn this old reputati…"
+    },
     {
       "title": "Yakubboev Continues Freestyle Friday Championship Push",
       "link": "https://www.chess.com/news/view/yakubboev-wins-freestyle-friday-november-6-2026",
@@ -37,18 +44,18 @@
       "summary": "The Total Chess World Championship series is a new tournament format combining three different time controls: fast classic, rapid and blitz. The winner of the series will be crowned the FIDE World Combined Champion. Both the winner and the runner-up will th…"
     },
     {
-      "title": "Loek van Wely: 10 Chess Principles That Actually Matter",
-      "link": "https://en.chessbase.com/post/loek-van-wely-10-chess-principles-that-actually-matter",
-      "source": "ChessBase",
-      "date": "2026-11-06T10:00:00.000Z",
-      "summary": "In his new course, GM Loek van Wely shares ten practical principles from a career spanning 14 Olympiads, eight Dutch championship titles and decades of games against Karpov, Kasparov, Anand and Carlsen. Instead of opening lines, he focuses on how decisions…"
-    },
-    {
       "title": "Lichess Game of the Month: September '26",
       "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-september-26/abfVpMYX",
       "source": "Lichess",
       "date": "2026-11-06T09:31:13.281Z",
       "summary": "A near miniature with multiple stunning sacrifices"
+    },
+    {
+      "title": "Loek van Wely: 10 Chess Principles That Actually Matter",
+      "link": "https://en.chessbase.com/post/loek-van-wely-10-chess-principles-that-actually-matter",
+      "source": "ChessBase",
+      "date": "2026-11-06T08:55:00.000Z",
+      "summary": "In his new course, GM Loek van Wely shares ten practical principles from a career spanning 14 Olympiads, eight Dutch championship titles and decades of games against Karpov, Kasparov, Anand and Carlsen. Instead of opening lines, he focuses on how decisions…"
     },
     {
       "title": "World Junior Rapid Championship 2026: Khumoyun Begmuratov and Eline Roebers capture titles",
