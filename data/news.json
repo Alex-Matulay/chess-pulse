@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:49:38.441Z",
+  "updated": "2026-11-07T23:22:04.966Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "100-0 Denied: BulletGrandpa Beats Dubov In Game 28",
+      "link": "https://www.chess.com/news/view/bullet-grandpa-wins-2026-100-project-season-1",
+      "source": "Chess.com",
+      "date": "2026-11-07T23:00:01.000Z",
+      "summary": "Arizona businessman and amateur chess player Josh Smith (@BulletGrandpa) won a single game against super-GM Daniil Dubov in the final match of the 100-0 Project Season 1 to prevent a super-adoption. The question was whether a super-grandmaster can..."
+    },
     {
       "title": "Aaron Nimzowitsch: 140 years since the birth of a chess pioneer",
       "link": "https://en.chessbase.com/post/140-years-aaron-nimzowitsch",
@@ -21,13 +28,6 @@
       "source": "ChessBase",
       "date": "2026-11-07T19:20:00.000Z",
       "summary": "Gukesh Dommaraju will defend his world title against Javokhir Sindarov in Geneva after a remarkable rise that made him the youngest undisputed champion in history. Since his 2024 triumph, however, the Indian grandmaster has endured a more difficult period a…"
-    },
-    {
-      "title": "Sahel Chess Festival: Bringing the world of chess to Africa",
-      "link": "https://www.fide.com/sahel-chess-festival-bringing-the-world-of-chess-to-africa/",
-      "source": "FIDE",
-      "date": "2026-11-07T19:13:44.000Z",
-      "summary": "It would be difficult to decide what was more exciting at the second edition of the Sahel Chess Festival: the late-summer heat and the beach just outside the hotel, the splendid excursions, the friendships formed among players from twenty federations, or th…"
     },
     {
       "title": "Bavarian Championship: Sasikiran joins Gopal in the lead",
@@ -63,6 +63,13 @@
       "source": "Chess.com",
       "date": "2026-11-06T20:39:30.000Z",
       "summary": "GMs Hikaru Nakamura and Parham Maghsoodloo both continued their recent 3 0 Thursday successes on November 5, winning the first two tournaments. GM Sina Movahed joined them by winning the third tournament, his first victory since March 19. Meanwhil..."
+    },
+    {
+      "title": "Sahel Chess Festival: Bringing the world of chess to Africa",
+      "link": "https://www.fide.com/sahel-chess-festival-bringing-the-world-of-chess-to-africa/",
+      "source": "FIDE",
+      "date": "2026-11-06T19:13:44.000Z",
+      "summary": "It would be difficult to decide what was more exciting at the second edition of the Sahel Chess Festival: the late-summer heat and the beach just outside the hotel, the splendid excursions, the friendships formed among players from twenty federations, or th…"
     },
     {
       "title": "Chess Returns To Esports World Cup In 2027 As Carlsen Targets Third Title",
@@ -357,13 +364,6 @@
       "source": "ChessBase",
       "date": "2026-10-24T07:00:00.000Z",
       "summary": "For Jochen Schwarz, club player from Bremen, FritzTrainer courses have become an essential part of his hobby. Over the past ten years, he has studied numerous courses and now shares some of the favourites that have impressed him most."
-    },
-    {
-      "title": "Giri Beats Abdusattorov As Bayegan Pendik Wins European Club Cup",
-      "link": "https://www.chess.com/news/view/2026-european-chess-club-cup-round-7",
-      "source": "Chess.com",
-      "date": "2026-10-24T00:51:00.000Z",
-      "summary": "GM Anish Giri scored a crushing win over GM Nodirbek Abdusattorov as top-seed Bayegan Pendik Chess Sports Club beat defending champion SuperChess Romania 3.5-2.5 to win the 2026 European Chess Club Cup. Novy Bor Chess Club missed out on gold on ti..."
     },
     {
       "title": "41st European Club Cup 2026 - Games and Results",
