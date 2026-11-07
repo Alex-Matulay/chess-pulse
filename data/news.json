@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T08:13:45.051Z",
+  "updated": "2026-11-07T15:22:21.149Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Janak Awatramani Wins His 2nd Crazyhouse Championship",
+      "link": "https://www.chess.com/news/view/2026-crazyhouse-chess-championship-awatramani",
+      "source": "Chess.com",
+      "date": "2026-11-07T13:13:00.000Z",
+      "summary": "NM Janak Awatramani beat GM Guillermo Vazquez 3-0 in the Grand Final to win the 2026 Crazyhouse Championship, following up on his victory in 2024. Crazyhouse, as commentator GM Yasser Seirawan mentioned,&nbsp; is often called \"Bughouse for one pla..."
+    },
     {
       "title": "Review: The Petroff Defence - Fight for More Than Equality by GM Fabien Libiszewski",
       "link": "https://en.chessbase.com/post/review-the-petroff-defence-fight-for-more-than-equality-by-gm-fabien-libiszewski",
@@ -343,13 +350,6 @@
       "source": "Chess.com",
       "date": "2026-10-24T00:51:00.000Z",
       "summary": "GM Anish Giri scored a crushing win over GM Nodirbek Abdusattorov as top-seed Bayegan Pendik Chess Sports Club beat defending champion SuperChess Romania 3.5-2.5 to win the 2026 European Chess Club Cup. Novy Bor Chess Club missed out on gold on ti..."
-    },
-    {
-      "title": "Nakamura Wins With 'GOAT Horns'; Caruana, Maghsoodloo Repeat In 3 0 Thursday",
-      "link": "https://www.chess.com/news/view/nakamura-caruana-maghsoodloo-3-0-thursday-10-22-2026",
-      "source": "Chess.com",
-      "date": "2026-10-23T23:18:56.000Z",
-      "summary": "GM Hikaru Nakamura played the GOAT Horns Variation, referencing a recent advertisement featuring soccer star Lionel Messi, on his way to winning the first 3 0 Thursday tournament on October 22. GMs Fabiano Caruana and Parham Maghsoodloo won the se..."
     },
     {
       "title": "41st European Club Cup 2026 - Games and Results",
