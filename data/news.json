@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T11:39:11.074Z",
+  "updated": "2026-11-08T17:31:18.586Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,10 +9,24 @@
   ],
   "items": [
     {
-      "title": "Nakamura Bounces Back To Win 73rd Bullet Brawl Title, Gurel Finishes Second",
+      "title": "Bodhana Sivanandan joins strong field in Salamanca",
+      "link": "https://en.chessbase.com/post/salamanca-festival-2026-preview",
+      "source": "ChessBase",
+      "date": "2026-11-08T17:30:00.000Z",
+      "summary": "The Salamanca Chess Festival will take place from 10 to 14 November, bringing together six players for a rapid round-robin tournament. The field includes 11-year-old Bodhana Sivanandan (pictured), former world top-ten player Loek van Wely and Spanish grandm…"
+    },
+    {
+      "title": "Yu Yangyi retains Chinese Rapid Championship title after Armageddon decider",
+      "link": "https://en.chessbase.com/post/chinese-rapid-championship-2026-final",
+      "source": "ChessBase",
+      "date": "2026-11-08T13:40:00.000Z",
+      "summary": "Yu Yangyi successfully defended his Chinese Rapid Championship title in Shaoxing, defeating 18-year-old Xiao Tong in an Armageddon decider after six games had failed to separate the finalists. Xiao had previously eliminated Ding Liren and Lu Shanglei in bli…"
+    },
+    {
+      "title": "Nakamura Bounces Back To Win 73rd Bullet Brawl Title, Gurel Finishes 2nd",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-7-2026",
       "source": "Chess.com",
-      "date": "2026-11-08T10:41:43.000Z",
+      "date": "2026-11-08T10:41:00.000Z",
       "summary": "GM Hikaru Nakamura wasted little time reclaiming his place at the top of the Bullet Brawl standings, capturing his 73rd title after finishing ahead of GM Ediz Gurel and GM Parham Maghsoodloo in Saturday's 225-player arena.&nbsp; Nakamura scored 1..."
     },
     {
