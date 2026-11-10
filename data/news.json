@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T18:26:25.076Z",
+  "updated": "2026-11-10T23:52:34.711Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Unbeaten Carlsen wins opening blitz as Total Chess Pilot gets underway in Budapest",
+      "link": "https://www.fide.com/unbeaten-carlsen-wins-opening-blitz-as-total-chess-pilot-gets-underway-in-budapest/",
+      "source": "FIDE",
+      "date": "2026-11-10T23:23:05.000Z",
+      "summary": "The world’s best opened the pilot with nine rounds of 3+2 blitz, the first of the three disciplines that will decide the most complete player in Budapest. World No. 1 Magnus Carlsen won the nine-round Blitz Swiss that opened the Total Chess World Championsh…"
+    },
+    {
+      "title": "Carlsen Wins Blitz Tiebreaker On Day 1 Of Total Chess Pilot",
+      "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-1",
+      "source": "Chess.com",
+      "date": "2026-11-10T20:22:00.000Z",
+      "summary": "GM Magnus Carlsen is off to a promising start in the Total Chess World Championship Tour Pilot 2026 after winning the Blitz Tiebreaker with 7/9. GM Maxime Vachier-Lagrave finished second (6.5 points) and GM Levon Aronian third (6 points). The tour..."
+    },
+    {
+      "title": "Movahed Stays Strong Ahead of Speed Chess Championship",
+      "link": "https://www.chess.com/news/view/movahed-wins-titled-tuesday-november-10-2026",
+      "source": "Chess.com",
+      "date": "2026-11-10T20:00:00.000Z",
+      "summary": "Titled Tuesday (TT) on November 10 came down to tiebreaks between GMs Denis Lazavik and Sina Movahed, two players who also figure to feature prominently in the upcoming Speed Chess Championship (SCC), and it was ultimately Movahed who grabbed firs..."
+    },
+    {
+      "title": "Abdusattorov, Sindarov Top Tata Steel Chess 2027 Field",
+      "link": "https://www.chess.com/news/view/abdusattorov-sindarov-top-tata-steel-chess-2027-field",
+      "source": "Chess.com",
+      "date": "2026-11-10T19:40:00.000Z",
+      "summary": "Defending Champion GM Nodirbek Abdusattorov and GM Javokhir Sindarov, potentially the new world champion after the 2026 FIDE World Championship, top the field for Tata Steel Chess 2027. The fields have been announced for the Masters and Challenger..."
+    },
     {
       "title": "Hikaru Nakamura Renews With Chess.com",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-renews-with-chess-com",
@@ -233,13 +261,6 @@
       "summary": "Saint Louis University (SLU) and the University of Texas, Dallas (UTD) are locked in a tight race for first place in the Collegiate Chess League as teams approach the end of the regular season and push for playoff seeding. With most teams having j..."
     },
     {
-      "title": "FIDE strengthens its presidential representation and advisory team",
-      "link": "https://www.fide.com/fide-strengthens-its-presidential-representation-and-advisory-team/",
-      "source": "FIDE",
-      "date": "2026-11-05T13:26:42.000Z",
-      "summary": "FIDE is expanding its system of presidential representatives and advisers as part of the organisational changes announced on 26 October 2026. Together with the previously announced representatives, the new members will contribute to strengthening the politi…"
-    },
-    {
       "title": "Play In The Second Special Edition Of Gambit Cup On November 9",
       "link": "https://www.chess.com/news/view/announcing-gambit-cup-november-2026",
       "source": "Chess.com",
@@ -336,27 +357,6 @@
       "source": "Chess.com",
       "date": "2026-10-29T20:59:00.000Z",
       "summary": "GM Javokhir Sindarov won the second edition of Clutch Chess: Champions Showdown 2026 with a final score of 20.5 points after three days. He earned $168,000 (including bonuses) and played the game of the tournament against GM Hikaru Nakamura along ..."
-    },
-    {
-      "title": "Istanbul To Host 2026 World Rapid & Blitz Championships",
-      "link": "https://www.chess.com/news/view/istanbul-to-host-2026-world-rapid-blitz-championships",
-      "source": "Chess.com",
-      "date": "2026-10-29T20:03:56.000Z",
-      "summary": "Istanbul, T&uuml;rkiye, will host the 2026 FIDE World Rapid & Blitz Championships from December 26-30, FIDE announced on Thursday. GMs Magnus Carlsen, Aleksandra Goryachkina, and Bibisara Assaubayeva are the defending champions heading into th..."
-    },
-    {
-      "title": "⚽ GothamChess Plays Chess With Ballon d’Or Winner Harry Kane, Michael Olise",
-      "link": "https://www.chess.com/news/view/gothamchess-harry-kane-michael-olise-bayern-munich",
-      "source": "Chess.com",
-      "date": "2026-10-29T14:46:00.000Z",
-      "summary": "IM Levy Rozman, better known as GothamChess, had a memorable visit to Bayern Munich to play chess with soccer stars Harry Kane and Michael Olise. The meeting came just two days after Kane won the prestigious Ballon d&rsquo;Or in London. On Thursd..."
-    },
-    {
-      "title": "Praggnanandhaa Jumps From Last To 1st With Hat Trick",
-      "link": "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-2",
-      "source": "Chess.com",
-      "date": "2026-10-29T01:01:00.000Z",
-      "summary": "GM Praggnanandhaa Rameshbabu started at the bottom, but now he's at the top of Clutch Chess: Champions Showdown 2026 with a 1.5-point lead after day two. He pulled a hat trick with two wins against GM Hikaru Nakamura and one against GM Fabiano Car..."
     },
     {
       "title": "Review: My favourite FritzTrainer courses",
