@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T19:42:01.067Z",
+  "updated": "2026-11-10T02:30:25.665Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Remembering Mikhail Tal",
+      "link": "https://en.chessbase.com/post/remembering-mikhail-tal",
+      "source": "ChessBase",
+      "date": "2026-11-09T22:50:00.000Z",
+      "summary": "Today marks the 90th anniversary of Mikhail Tal's birth. Tal was one of the great figures in chess history, playing particularly exciting chess in his youth and becoming the youngest world champion in history in 1960. Unfortunately, he suffered from health…"
+    },
+    {
+      "title": "FIDE President Timur Turlov visits World Senior Chess Championship",
+      "link": "https://www.fide.com/fide-president-timur-turlov-visits-world-senior-chess-championship/",
+      "source": "FIDE",
+      "date": "2026-11-09T20:19:13.000Z",
+      "summary": "FIDE President Timur Turlov visited Vrnjačka Banja, Serbia, where the World Senior Chess Championship is currently underway. Turlov met with the President of the Municipality of Vrnjačka Banja, Boban Đurović, in his office. The meeting was also attended by…"
+    },
     {
       "title": "Pranesh wins Chola Chess Open as young talents make their mark",
       "link": "https://en.chessbase.com/post/chola-chess-open-2026-final-report",
@@ -203,13 +217,6 @@
       "source": "FIDE",
       "date": "2026-11-03T17:33:50.000Z",
       "summary": "FIDE President Timur Turlov held a meeting with Akaki Iashvili, President of the Georgian Chess Federation and Representative of the FIDE President for Special Projects, to discuss a wide range of strategic matters related to the development of internationa…"
-    },
-    {
-      "title": "FIDE World Senior Chess Championship 2026 begins in Vrnjačka Banja, Serbia",
-      "link": "https://www.fide.com/fide-world-senior-chess-championship-2026-begins-in-vrnjacka-banja-serbia/",
-      "source": "FIDE",
-      "date": "2026-11-03T17:04:59.000Z",
-      "summary": "The FIDE World Senior Chess Championship 2026 commenced today in Vrnjačka Banja, the Serbian capital of chess and tourism. The event has brought together 385 players from 65 national federations, including 44 Grandmasters (GMs) and 8 Women Grandmasters (WGM…"
     },
     {
       "title": "KazChess Masters Almaty 2026 - Live!",
