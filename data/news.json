@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T02:30:25.665Z",
+  "updated": "2026-11-10T10:42:50.428Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Total Chess – totally complicated",
+      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-format",
+      "source": "ChessBase",
+      "date": "2026-11-10T08:10:00.000Z",
+      "summary": "The 2025 Chess Calendar established that there are 151 official World Chess Championships. Another will be added in 2027 – the Total Chess Championship. The pilot tournament takes place in Budapest from 10 to 20 November. The field is strong, the format is…"
+    },
+    {
+      "title": "Anuj Shrivatri Becomes India's 100th Grandmaster",
+      "link": "https://www.chess.com/news/view/anuj-shrivatri-india-100th-grandmaster",
+      "source": "Chess.com",
+      "date": "2026-11-10T03:15:00.000Z",
+      "summary": "Indian chess reached a milestone on Sunday as IM Anuj Shrivatri became the country's 100th grandmaster by winning the 7th ASEAN+ Open Chess Championship in the Philippines. The 22-year-old recovered from an opening-round defeat to finish alone in ..."
+    },
     {
       "title": "Remembering Mikhail Tal",
       "link": "https://en.chessbase.com/post/remembering-mikhail-tal",
@@ -322,13 +336,6 @@
       "source": "Chess.com",
       "date": "2026-10-28T04:16:00.000Z",
       "summary": "GM Hikaru Nakamura leads by half a point after day one of Clutch Chess: Champions Showdown 2026. He scored two wins in six games with no losses to reach 4/6. GM Javokhir Sindarov, who scored one win and no losses for 3.5 points, is in sole second,..."
-    },
-    {
-      "title": "'W' Is For Woodward Wins Titled Tuesday",
-      "link": "https://www.chess.com/news/view/woodward-wins-titled-tuesday-october-27-2026",
-      "source": "Chess.com",
-      "date": "2026-10-27T19:50:43.000Z",
-      "summary": "GM Andy Woodward added his name to the list of Titled Tuesday winners on October 27, scraping by on tiebreaks ahead of GM Arjun Erigaisi despite losing in the first round. GM Maxime Vachier-Lagrave came back from a second-round loss to finish thir..."
     },
     {
       "title": "Review: My favourite FritzTrainer courses",
