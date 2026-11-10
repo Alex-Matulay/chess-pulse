@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T10:42:50.428Z",
+  "updated": "2026-11-10T18:26:25.076Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,48 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Hikaru Nakamura Renews With Chess.com",
+      "link": "https://www.chess.com/news/view/hikaru-nakamura-renews-with-chess-com",
+      "source": "Chess.com",
+      "date": "2026-11-10T16:02:08.000Z",
+      "summary": "GM Hikaru Nakamura, one of the game's leading players and most influential content creators, has renewed with Chess.com, extending a longstanding partnership. From record-breaking blitz performances to introducing chess to new audiences through s..."
+    },
+    {
+      "title": "Gukesh-Sindarov Predictions: Kasparov, Nakamura, Carlsen & More",
+      "link": "https://www.chess.com/news/view/gukesh-sindarov-predictions-kasparov-nakamura",
+      "source": "Chess.com",
+      "date": "2026-11-10T15:46:00.000Z",
+      "summary": "It's now just two weeks until the Salesforce FIDE World Championship 2026 sees GM Javokhir Sindarov take on World Champion Gukesh Dommaraju for the most important title in chess. On the eve of that showdown in Geneva, we look at some of the predic..."
+    },
+    {
+      "title": "Total Chess Pilot 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/total-chess-pilot-2026",
+      "source": "The Week in Chess",
+      "date": "2026-11-10T15:35:00.000Z",
+      "summary": "The Total Chess Pilot tournament takes place in Budapest Tue 10th Nov to Sat 21st Nov 2026. Three stages. A preliminary blitz, group stages and then a final knockout stage. Games will take place across a multiplicity of time controls and weighted results. (…"
+    },
+    {
+      "title": "89th Tata Steel 2027 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/89th-tata-steel-2027",
+      "source": "The Week in Chess",
+      "date": "2026-11-10T15:28:00.000Z",
+      "summary": "The 89th Tata Steel Chess tournament takes place in Wijk aan Zee Fri 15th Jan to Sun 31st Jan 2027. Masters: Vincent Keymer, Arjun Erigaisi, Anish Giri, Rameshbabu Praggnanandhaa, Dommaraju Gukesh, Nodirbek Abdusattorov, Javokhir Sindarov, Hans Niemann, Vla…"
+    },
+    {
+      "title": "WACC 2026: Aqil reaches 6/6 as Tulegenov regains sole lead in Klang",
+      "link": "https://www.fide.com/wacc-2026-aqil-reaches-6-6-as-tulegenov-regains-sole-lead-in-klang/",
+      "source": "FIDE",
+      "date": "2026-11-10T14:20:21.000Z",
+      "summary": "Klang, Selangor, Malaysia, 10 November 2026 – Malaysia’s Aqil Ainuddin Naufal Akhramsyah Muammar Ubaidah extended his perfect run to six victories in Open Under-2000, while Kazakhstan’s Amir Tulegenov regained the outright lead in Open Under-2300 following…"
+    },
+    {
+      "title": "ChessBase for Mac",
+      "link": "https://en.chessbase.com/post/chessbase-for-mac",
+      "source": "ChessBase",
+      "date": "2026-11-10T12:58:26.000Z",
+      "summary": "Our database program – used by everyone, from the World Champion to lowly club players – is now available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what matters. The cost: just €9.95 per month, or…"
+    },
     {
       "title": "Total Chess – totally complicated",
       "link": "https://en.chessbase.com/post/total-chess-budapest-2026-format",
@@ -226,13 +268,6 @@
       "summary": "After 10 years of nail-biting chess, star rivalries, and dramatic matches, we're excited to announce Speed Chess Championship XI (SCC)! The event starts in November and features a $250,000 prize fund, along with up to 150 Champions Chess Tour Lead..."
     },
     {
-      "title": "FIDE President Timur Turlov meets Akaki Iashvili to discuss future events and chess development",
-      "link": "https://www.fide.com/fide-president-timur-turlov-meets-akaki-iashvili-to-discuss-future-events-and-chess-development/",
-      "source": "FIDE",
-      "date": "2026-11-03T17:33:50.000Z",
-      "summary": "FIDE President Timur Turlov held a meeting with Akaki Iashvili, President of the Georgian Chess Federation and Representative of the FIDE President for Special Projects, to discuss a wide range of strategic matters related to the development of internationa…"
-    },
-    {
       "title": "KazChess Masters Almaty 2026 - Live!",
       "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
       "source": "ChessBase",
@@ -322,20 +357,6 @@
       "source": "Chess.com",
       "date": "2026-10-29T01:01:00.000Z",
       "summary": "GM Praggnanandhaa Rameshbabu started at the bottom, but now he's at the top of Clutch Chess: Champions Showdown 2026 with a 1.5-point lead after day two. He pulled a hat trick with two wins against GM Hikaru Nakamura and one against GM Fabiano Car..."
-    },
-    {
-      "title": "Oro, Taher Lead 9z Globant To Victory In October Chess Club Showdown",
-      "link": "https://www.chess.com/news/view/oro-taher-lead-9z-globant-to-victory-in-october-chess-club-showdown",
-      "source": "Chess.com",
-      "date": "2026-10-28T21:33:00.000Z",
-      "summary": "For the second month in a row, 9z Globant won the Chess Club Showdown on October 28, once again defeating Team Liquid in the finals. They were the two highest-scoring teams after a two-hour arena of five-minute blitz games. In the finals, 50 playe..."
-    },
-    {
-      "title": "Nakamura Leads After Wins Vs. Caruana & Praggnanandhaa",
-      "link": "https://www.chess.com/news/view/2026-clutch-chess-champions-showdown-day-1",
-      "source": "Chess.com",
-      "date": "2026-10-28T04:16:00.000Z",
-      "summary": "GM Hikaru Nakamura leads by half a point after day one of Clutch Chess: Champions Showdown 2026. He scored two wins in six games with no losses to reach 4/6. GM Javokhir Sindarov, who scored one win and no losses for 3.5 points, is in sole second,..."
     },
     {
       "title": "Review: My favourite FritzTrainer courses",
