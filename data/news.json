@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T12:22:47.106Z",
+  "updated": "2026-11-11T19:58:22.885Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chessboxing World Championship Set For Istanbul After '60 Minutes' Spotlight",
+      "link": "https://www.chess.com/news/view/chessboxing-world-championship-2026-istanbul",
+      "source": "Chess.com",
+      "date": "2026-11-11T16:00:00.000Z",
+      "summary": "Chess continues to grow, and now chessboxing is gaining momentum too. More than 200 fighters from at least 25 countries are expected at the eighth Chessboxing World Championship, Presented by Lords Mobile in Istanbul on November 16-21. The event f..."
+    },
+    {
+      "title": "FIDE President Timur Turlov holds meetings in Budapest",
+      "link": "https://www.fide.com/fide-president-timur-turlov-holds-meetings-in-budapest/",
+      "source": "FIDE",
+      "date": "2026-11-11T14:54:23.000Z",
+      "summary": "President of the International Chess Federation Timur Turlov visited Budapest, where he attended the opening ceremony of the Total Chess Pilot 2026 tournament and held a series of meetings. The main focus of the negotiations was on expanding international c…"
+    },
+    {
+      "title": "Total Chess live: The group stage begins – things get serious",
+      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+      "source": "ChessBase",
+      "date": "2026-11-11T14:45:00.000Z",
+      "summary": "Yesterday's Total Chess Tour pilot event featured blitz chess. Today, the serious competition begins: the group stage gets underway, with only the group winners advancing to the knockout final to compete for the tournament title. The 24 participants are div…"
+    },
     {
       "title": "What happens with my databases? - ChessBase on Mac",
       "link": "https://en.chessbase.com/post/what-happens-with-my-databases-chessbase-on-mac",
@@ -261,13 +282,6 @@
       "summary": "The FIDE World Amateur Chess Championship 2026 commenced in Klang, Malaysia on November 5. The event attracted 392 players competing across three rating sections: Under-2300, Under-2000 and Under-1700. Each section features separate Open and Women’s 9-round…"
     },
     {
-      "title": "FIDE appoints Emil Sutovsky CEO of FIDE Enterprises",
-      "link": "https://www.fide.com/fide-appoints-emil-sutovsky-ceo-of-fide-enterprises/",
-      "source": "FIDE",
-      "date": "2026-11-05T20:51:42.000Z",
-      "summary": "The International Chess Federation (FIDE) has appointed Grandmaster Emil Sutovsky as CEO of FIDE Enterprises, a Swiss-based company wholly owned by FIDE. He will combine this role with his current position as Chief Executive Adviser to FIDE President Timur…"
-    },
-    {
       "title": "SLU, UTD Fight For First Place As Collegiate Chess League Heads To Playoffs",
       "link": "https://www.chess.com/news/view/ccl-week-6-2026",
       "source": "Chess.com",
@@ -350,13 +364,6 @@
       "source": "Chess.com",
       "date": "2026-10-30T20:39:00.000Z",
       "summary": "GM Sina Movahed won Freestyle Friday for the second time in three weeks (channeling the old Meat Loaf song) on October 30, despite starting on 1.5/3 points. GM Nodirbek Yakubboev led much of the way, but settled for second place after his 10th-rou..."
-    },
-    {
-      "title": "Sarana Wins Early, Arjun Wins Twice In 3 0 Thursday",
-      "link": "https://www.chess.com/news/view/sarana-arjun-3-0-thursday-10-29-2026",
-      "source": "Chess.com",
-      "date": "2026-10-30T19:32:12.000Z",
-      "summary": "GM Alexey Sarana won the first 3 0 Thursday with a dominant 10/11 score. Not to be outdone, GM Arjun Erigaisi proceeded to win both the second and third tournaments. It was the second time this year that Arjun won two 3 0 Thursdays on the same day..."
     },
     {
       "title": "Clutch Chess: Champions Showdown 2026 - Games and results",
