@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T04:24:45.425Z",
+  "updated": "2026-11-11T12:22:47.106Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "What happens with my databases? - ChessBase on Mac",
+      "link": "https://en.chessbase.com/post/what-happens-with-my-databases-chessbase-on-mac",
+      "source": "ChessBase",
+      "date": "2026-11-11T11:46:54.000Z",
+      "summary": "One of the biggest questions for chess players switching to ChessBase for Mac is what happens to their databases from the Windows version. Can you still use them? Can you transfer databases in the .cbh format, too? And if so, how much work does it take? In…"
+    },
     {
       "title": "Unbeaten Carlsen wins opening blitz as Total Chess Pilot gets underway in Budapest",
       "link": "https://www.fide.com/unbeaten-carlsen-wins-opening-blitz-as-total-chess-pilot-gets-underway-in-budapest/",
@@ -21,6 +28,13 @@
       "source": "Chess.com",
       "date": "2026-11-10T20:22:00.000Z",
       "summary": "GM Magnus Carlsen is off to a promising start in the Total Chess World Championship Tour Pilot 2026 after winning the Blitz Tiebreaker with 7/9. GM Maxime Vachier-Lagrave finished second (6.5 points) and GM Levon Aronian third (6 points). The tour..."
+    },
+    {
+      "title": "AAce_Cracker Stages Comeback In 2nd Gambit Cup",
+      "link": "https://www.chess.com/news/view/aace-cracker-wins-2026-gambit-cup-2",
+      "source": "Chess.com",
+      "date": "2026-11-10T20:15:00.000Z",
+      "summary": "AAce_Cracker, a veteran who has played nearly 60,000 hands of poker on Gambit.com (where he was named Player of the Month in August and September), won the second special edition of the Gambit Cup, held on November 9. He outlasted a field of 1,359..."
     },
     {
       "title": "Movahed Stays Strong Ahead of Speed Chess Championship",
@@ -230,7 +244,7 @@
       "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-september-26/abfVpMYX",
       "source": "Lichess",
       "date": "2026-11-06T09:31:13.281Z",
-      "summary": "A near miniature with multiple stunning sacrifices"
+      "summary": "A near miniature with multiple stunning sacrifices By October 12th, several of your best games of September were shared via our forum post . Our team went on to carefully check all submitted games and found that the game of @Drlnfrxx was outstanding. Congra…"
     },
     {
       "title": "World Junior Rapid Championship 2026: Khumoyun Begmuratov and Eline Roebers capture titles",
@@ -352,13 +366,6 @@
       "summary": "The Clutch Chess: Champions Showdown took place Tue 27th Oct 2026 to 29th Oct 2026. The idea of the event was to have increasing scores from day 1 to day 3 so that the scoring is volatile and likely there will be something to play for right to the end. Javo…"
     },
     {
-      "title": "🏆 Sindarov Plays Game Of Tournament, Wins Final Event Before World Championship",
-      "link": "https://www.chess.com/news/view/sindarov-wins-2026-clutch-chess-champions-showdown",
-      "source": "Chess.com",
-      "date": "2026-10-29T20:59:00.000Z",
-      "summary": "GM Javokhir Sindarov won the second edition of Clutch Chess: Champions Showdown 2026 with a final score of 20.5 points after three days. He earned $168,000 (including bonuses) and played the game of the tournament against GM Hikaru Nakamura along ..."
-    },
-    {
       "title": "Review: My favourite FritzTrainer courses",
       "link": "https://en.chessbase.com/post/review-my-favourite-fritztrainer-courses",
       "source": "ChessBase",
@@ -384,35 +391,28 @@
       "link": "https://lichess.org/@/Lichess/blog/ending-the-boycott/Y82ZBf6S",
       "source": "Lichess",
       "date": "2026-10-21T16:37:14.559Z",
-      "summary": "Lichess has resumed cooperation with US Chess after positive changes"
+      "summary": "Lichess has resumed cooperation with US Chess after positive changes In August 2023, Lichess announced its boycott of both the US Chess Federation and the Saint Louis Chess Club due to serious concerns about their accountability for mishandling of sexual mi…"
     },
     {
       "title": "2026 Lichess Meetup in Prague",
       "link": "https://lichess.org/@/Lichess/blog/2026-lichess-meetup-in-prague/7DKS0WPk",
       "source": "Lichess",
       "date": "2026-10-19T00:56:42.275Z",
-      "summary": "A weekend of team working, chess, and meeting the public for more chess"
+      "summary": "A weekend of team working, chess, and meeting the public for more chess Many thanks to @G-Lorenz for writing this recap! One year after the successful Toronto Meetup , the Lichess team came to Prague for a weekend of work and camaraderie. The dozen team mem…"
     },
     {
       "title": "Titled Arenas Announcement — October to December 2026",
       "link": "https://lichess.org/@/Lichess/blog/titled-arenas-announcement-october-to-december-2026/WuJIesah",
       "source": "Lichess",
       "date": "2026-10-13T05:51:46.672Z",
-      "summary": "Announcing our schedule for upcoming Titled Arenas!"
+      "summary": "Announcing our schedule for upcoming Titled Arenas! We're pleased to announce the schedule for our upcoming Titled Arenas! All events will be preceded by a warm-up arena open to all players with a minimum of 20 rated games in the relevant time control (excl…"
     },
     {
       "title": "Lichess Game of the Month: August '26",
       "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-august-26/ekVdAfDN",
       "source": "Lichess",
       "date": "2026-10-05T03:23:59.630Z",
-      "summary": "The long diagonal paves the way to White's king"
-    },
-    {
-      "title": "Retrospective: 2025 Toronto Lichess Meetup",
-      "link": "https://lichess.org/@/Lichess/blog/retrospective-2025-toronto-lichess-meetup/3ReyIZOk",
-      "source": "Lichess",
-      "date": "2026-10-03T11:43:37.642Z",
-      "summary": "One year later, we look back at the 2025 Lichess meetup in Toronto, which saw an OTB tournament, work, and, of course, a whole lot of fun!"
+      "summary": "The long diagonal paves the way to White's king By September 12th, several of your best games of August were shared via our forum post . Our team went on to carefully check all submitted games and found that the game of @rcstinson was outstanding. Congrats!…"
     },
     {
       "title": "46th World Chess Olympiad 2026 - Games and Results",
@@ -420,13 +420,6 @@
       "source": "The Week in Chess",
       "date": "2026-10-03T11:02:00.000Z",
       "summary": "The 46th World Chess Olympiad took place Wed 16th to Sun 27th Sep 2026 in Samarkand, Uzbekistan. The USA, India and hosts Uzbekistan are the top three seeds, India, Georgia, Kazakhstan and China are the top women's seeds. The hosts Uzbekistan took the gold…"
-    },
-    {
-      "title": "2026 Samarkand Olympiad Rounds 10–11: Uzbekistan, China Win Open, Women’s",
-      "link": "https://lichess.org/@/Lichess/blog/2026-samarkand-olympiad-rounds-10-11-uzbekistan-china-win-open-womens/W0x2a9bz",
-      "source": "Lichess",
-      "date": "2026-09-27T13:39:19.439Z",
-      "summary": "Uzbekistan wins the open on 20/22 match points, with India taking the silver and Germany the bronze. In the Women's, China won two points clear of the field on 20 match points, with Kazakhstan in 2nd on 18 and India in third on 17."
     }
   ]
 }
