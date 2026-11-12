@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T01:50:24.496Z",
+  "updated": "2026-11-12T09:09:56.925Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Total Chess: Top scorers obtain 4/6 points on first day of group stage",
+      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-1",
+      "source": "ChessBase",
+      "date": "2026-11-12T08:00:00.000Z",
+      "summary": "The group stage of the Total Chess Pilot began in Budapest on Wednesday, with players contesting two games at a 45+30 time control. Six players finished the day with 4 points out of a possible 6: Fabiano Caruana, Alireza Firouzja (pictured), Maxime Vachier-…"
+    },
     {
       "title": "Firouzja, Caruana, Nepomniachtchi and Vachier-Lagrave lead after opening Fast Classic day in Budapest",
       "link": "https://www.fide.com/firouzja-caruana-nepomniachtchi-and-vachier-lagrave-lead-after-opening-fast-classic-day-in-budapest/",
@@ -20,14 +27,14 @@
       "link": "https://en.chessbase.com/post/cbm-233-review-nagesh-havanur",
       "source": "ChessBase",
       "date": "2026-11-11T21:30:00.000Z",
-      "summary": "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the current issue, CBM 233. A total of 2911 games from the Biel and Norway tournaments (18 annotated), 10 opening surveys, 3 opening videos, demo lectures…"
+      "summary": "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the recent issue, CBM 233. A total of 2911 games from the Biel and Norway tournaments (18 annotated), 10 opening surveys, 3 opening videos, demo lectures a…"
     },
     {
       "title": "No One Perfect As Van Foreest, Martirosyan Hit Back In Total Chess Fast Classic",
       "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-2",
       "source": "Chess.com",
       "date": "2026-11-11T21:24:00.000Z",
-      "summary": "GMs Jorden van Foreest and Haik Martirosyan hit back from round-one losses to beat GMs Levon Aronian and Shakhriyar Mamedyarov as the Total Chess World Championship Tour Pilot 2026 group stage began. GMs Alireza Firouzja, Fabiano Caruana, Jan-Krzy..."
+      "summary": "GMs Jorden van Foreest and Haik Martirosyan hit back from round-one losses to beat GMs Levon Aronian and Shakhriyar Mamedyarov as the Total Chess World Championship Tour Pilot 2026 Group Stage began. GMs Alireza Firouzja, Fabiano Caruana, Jan-Krzy..."
     },
     {
       "title": "Chessboxing World Championship Set For Istanbul After '60 Minutes' Spotlight",
@@ -42,13 +49,6 @@
       "source": "FIDE",
       "date": "2026-11-11T14:54:23.000Z",
       "summary": "President of the International Chess Federation Timur Turlov visited Budapest, where he attended the opening ceremony of the Total Chess Pilot 2026 tournament and held a series of meetings. The main focus of the negotiations was on expanding international c…"
-    },
-    {
-      "title": "Total Chess live: The group stage begins – things get serious",
-      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-      "source": "ChessBase",
-      "date": "2026-11-11T14:45:00.000Z",
-      "summary": "Yesterday's Total Chess Tour pilot event featured blitz chess. Today, the serious competition begins: the group stage gets underway, with only the group winners advancing to the knockout final to compete for the tournament title. The 24 participants are div…"
     },
     {
       "title": "What happens with my databases? - ChessBase on Mac",
