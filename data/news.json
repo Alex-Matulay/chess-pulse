@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T09:09:56.925Z",
+  "updated": "2026-11-12T17:52:13.797Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Total Chess: Group stage - Live!",
+      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+      "source": "ChessBase",
+      "date": "2026-11-12T14:45:00.000Z",
+      "summary": "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in eac…"
+    },
     {
       "title": "Total Chess: Top scorers obtain 4/6 points on first day of group stage",
       "link": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-1",
@@ -126,13 +133,6 @@
       "source": "FIDE",
       "date": "2026-11-10T14:20:21.000Z",
       "summary": "Klang, Selangor, Malaysia, 10 November 2026 – Malaysia’s Aqil Ainuddin Naufal Akhramsyah Muammar Ubaidah extended his perfect run to six victories in Open Under-2000, while Kazakhstan’s Amir Tulegenov regained the outright lead in Open Under-2300 following…"
-    },
-    {
-      "title": "ChessBase for Mac",
-      "link": "https://en.chessbase.com/post/chessbase-for-mac",
-      "source": "ChessBase",
-      "date": "2026-11-10T12:58:26.000Z",
-      "summary": "Our database program – used by everyone, from the World Champion to lowly club players – is now available for Mac users. The new version has been developed from the ground up: modern, built for fast access to what matters. The cost: just €9.95 per month, or…"
     },
     {
       "title": "Total Chess – totally complicated",
