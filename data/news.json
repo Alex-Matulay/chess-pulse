@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T04:48:17.180Z",
+  "updated": "2026-11-13T12:48:46.731Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Six World Amateur Chess Champions crowned in Klang, Malaysia",
+      "link": "https://www.fide.com/six-world-amateur-chess-champions-crowned-in-klang-malaysia/",
+      "source": "FIDE",
+      "date": "2026-11-13T11:09:07.000Z",
+      "summary": "The FIDE World Amateur Chess Championships 2026 concluded at the KSL Esplanade Hotel with two titles decided on tiebreaks and Mongolia’s Javkhlan Bayarjargal posting the highest score of the event, 8½/9. Malaysia’s Aqil Ainuddin Naufal Akhramsyah Muammar Ub…"
+    },
+    {
+      "title": "Faster 60- and 45-minute time controls now eligible for ratings and norms, federations to review changes",
+      "link": "https://www.fide.com/faster-60-and-45-minute-time-controls-now-eligible-for-ratings-and-norms-federations-to-review-changes/",
+      "source": "FIDE",
+      "date": "2026-11-13T09:56:57.000Z",
+      "summary": "The FIDE Council has issued a Resolution allowing shorter time controls to be eligible for standard ratings and title norms. While the new regulations take effect immediately, the discussion is not over yet. National federations will review the changes ahea…"
+    },
+    {
+      "title": "Total Chess: Double wins for Caruana and Niemann, first 2700+ scalp for Assaubayeva",
+      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-2",
+      "source": "ChessBase",
+      "date": "2026-11-13T08:15:00.000Z",
+      "summary": "Fabiano Caruana and Hans Niemann scored back-to-back wins on Thursday at the Total Chess Pilot in Budapest, defeating Praggnanandhaa and Vaishali Rameshbabu respectively. Caruana now leads Group B with 10 points, while Niemann shares first place in Group D…"
+    },
     {
       "title": "Caruana and Niemann score double wins on Day 2 in Budapest",
       "link": "https://www.fide.com/caruana-and-niemann-score-double-wins-on-day-2-in-budapest/",
@@ -35,13 +56,6 @@
       "source": "Chess.com",
       "date": "2026-11-12T20:17:00.000Z",
       "summary": "The Collegiate Chess League Fall 2026 Season Playoffs are upon us and you can join in on the excitement by predicting who wins!&nbsp; Will UT Dallas defend their championship title, or will SRM IST get their revenge and their first-ever CCL Champ..."
-    },
-    {
-      "title": "Total Chess: Group stage - Live!",
-      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-      "source": "ChessBase",
-      "date": "2026-11-12T14:45:00.000Z",
-      "summary": "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in eac…"
     },
     {
       "title": "Total Chess: Top scorers obtain 4/6 points on first day of group stage",
@@ -294,13 +308,6 @@
       "source": "Chess.com",
       "date": "2026-11-06T20:39:30.000Z",
       "summary": "GMs Hikaru Nakamura and Parham Maghsoodloo both continued their recent 3 0 Thursday successes on November 5, winning the first two tournaments. GM Sina Movahed joined them by winning the third tournament, his first victory since March 19. Meanwhil..."
-    },
-    {
-      "title": "Sahel Chess Festival: Bringing the world of chess to Africa",
-      "link": "https://www.fide.com/sahel-chess-festival-bringing-the-world-of-chess-to-africa/",
-      "source": "FIDE",
-      "date": "2026-11-06T19:13:44.000Z",
-      "summary": "It would be difficult to decide what was more exciting at the second edition of the Sahel Chess Festival: the late-summer heat and the beach just outside the hotel, the splendid excursions, the friendships formed among players from twenty federations, or th…"
     },
     {
       "title": "Chess Returns To Esports World Cup In 2027 As Carlsen Targets Third Title",
