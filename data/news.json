@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T01:13:12.297Z",
+  "updated": "2026-11-14T08:29:37.247Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 3)",
+      "link": "https://en.chessbase.com/post/review-robert-ris-fritztrainers-on-openings-calculation-and-strategic-thinking-part-3",
+      "source": "ChessBase",
+      "date": "2026-11-14T07:00:00.000Z",
+      "summary": "“The third and final part of my author special on Robert Ris rounds off my review of his work by looking at his middlegame courses, which focus primarily on chess strategy,” writes Lukas Köpl in his comprehensive review of Robert Ris’s video courses."
+    },
     {
       "title": "Martirosyan defeats Carlsen on Day 3 in Budapest",
       "link": "https://www.fide.com/martirosyan-defeats-carlsen-on-day-3-in-budapest/",
@@ -19,7 +26,7 @@
       "title": "Caruana Hits 2800, Within 7.2 Points Of Carlsen's World No. 1 Spot",
       "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4",
       "source": "Chess.com",
-      "date": "2026-11-13T21:20:32.000Z",
+      "date": "2026-11-13T21:20:00.000Z",
       "summary": "GM Fabiano Caruana is now rated exactly 2800.0 on the live rating list after beating GM Vincent Keymer, while GM Magnus Carlsen is just 7.2 rating points from losing his 15-year unbroken streak as world number-one after losing to GM Haik Martirosy..."
     },
     {
