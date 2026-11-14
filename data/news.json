@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T20:15:46.113Z",
+  "updated": "2026-11-14T01:13:12.297Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,11 +9,39 @@
   ],
   "items": [
     {
+      "title": "Martirosyan defeats Carlsen on Day 3 in Budapest",
+      "link": "https://www.fide.com/martirosyan-defeats-carlsen-on-day-3-in-budapest/",
+      "source": "FIDE",
+      "date": "2026-11-13T21:51:46.000Z",
+      "summary": "Caruana extends his lead, and Vachier-Lagrave moves into clear first Haik Martirosyan defeated Magnus Carlsen and took the outright lead in Group C on the third day of the Fast Classic group stage at the Total Chess World Championship Tour Pilot in Budapest…"
+    },
+    {
+      "title": "Caruana Hits 2800, Within 7.2 Points Of Carlsen's World No. 1 Spot",
+      "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4",
+      "source": "Chess.com",
+      "date": "2026-11-13T21:20:32.000Z",
+      "summary": "GM Fabiano Caruana is now rated exactly 2800.0 on the live rating list after beating GM Vincent Keymer, while GM Magnus Carlsen is just 7.2 rating points from losing his 15-year unbroken streak as world number-one after losing to GM Haik Martirosy..."
+    },
+    {
+      "title": "Teenage Phenom Wins Freestyle Friday",
+      "link": "https://www.chess.com/news/view/dau-wins-freestyle-friday-november-13-2026",
+      "source": "Chess.com",
+      "date": "2026-11-13T21:10:00.000Z",
+      "summary": "IM Khuong Duy Dau, the 15-year-old international master from Vietnam, won Freestyle Friday on November 13. A regular of both Freestyle Friday and Titled Tuesday, the win was Dau's first in either event, and he did it by 1.5 points ahead of second ..."
+    },
+    {
       "title": "Andreikin Nearly Sweeps 3 0 Thursday Tournaments",
       "link": "https://www.chess.com/news/view/andreikin-nearly-sweeps-3-0-thursday-tournaments",
       "source": "Chess.com",
       "date": "2026-11-13T19:48:56.000Z",
       "summary": "GM Dmitry Andreikin nearly scored a perfect sweep in the three 3 0 Thursday tournaments on November 12. No one has ever won more than two Thursday tournaments in the same week, but Andreikin came within half a point of a hat trick. He won the firs..."
+    },
+    {
+      "title": "Top players and rising stars head to Tata Steel Chess Tournament 2027",
+      "link": "https://en.chessbase.com/post/tata-steel-chess-2027-announcement",
+      "source": "ChessBase",
+      "date": "2026-11-13T15:50:00.000Z",
+      "summary": "The 89th Tata Steel Chess Tournament will take place in Wijk aan Zee from 15 to 31 January 2027, with a Masters field led by Javokhir Sindarov (pictured), Nodirbek Abdusattorov, Vincent Keymer, Alireza Firouzja, Anish Giri and Levon Aronian. The Challengers…"
     },
     {
       "title": "Javokhir Sindarov is writing a new page in chess history",
@@ -247,13 +275,6 @@
       "summary": "Indian grandmaster Krishnan Sasikiran won the Bavarian Chess Championship in Gmund am Tegernsee, finishing on 7½/9 points and taking first place on tiebreaks. German GMs Frederik Svane and Roven Vogel finished second and third, while Indian FM Arun Daakshin…"
     },
     {
-      "title": "FIDE World Senior Championships 2026: Six rounds left, four titles at stake",
-      "link": "https://www.fide.com/fide-world-senior-championships-2026-six-rounds-left-four-titles-at-stake/",
-      "source": "FIDE",
-      "date": "2026-11-08T20:49:20.000Z",
-      "summary": "Five rounds have been played at the FIDE World Senior Chess Championships 2026 in Vrnjačka Banja, Serbia, and the competition is taking shape across all four categories. Some of the pre-tournament favourites are living up to expectations, while others have…"
-    },
-    {
       "title": "Bodhana Sivanandan joins strong field in Salamanca",
       "link": "https://en.chessbase.com/post/salamanca-festival-2026-preview",
       "source": "ChessBase",
@@ -366,25 +387,11 @@
       "summary": "GM Alireza Firouzja won Titled Tuesday on November 3 outright with an undefeated score of 10/11, moving into second place in the 2026-27 CCT Standings. Eight players officially qualified today for the just-announced Speed Chess Championship via th..."
     },
     {
-      "title": "Speed Chess Championship Celebrates 10-Year Anniversary With Live Finals In London",
-      "link": "https://www.chess.com/news/view/announcing-speed-chess-championship-2026",
-      "source": "Chess.com",
-      "date": "2026-11-03T20:45:00.000Z",
-      "summary": "After 10 years of nail-biting chess, star rivalries, and dramatic matches, we're excited to announce Speed Chess Championship XI (SCC)! The event starts in November and features a $250,000 prize fund, along with up to 150 Champions Chess Tour Lead..."
-    },
-    {
       "title": "KazChess Masters Almaty 2026 - Live!",
       "link": "https://en.chessbase.com/post/kazchess-masters-almaty-2026-live",
       "source": "ChessBase",
       "date": "2026-11-03T09:00:00.000Z",
       "summary": "The KazChess Masters Almaty 2026 takes place from 26 October to 3 November in Kazakhstan. The ten-player invitational tournament brings together five international grandmasters and five players from the host country. Among the best-known participants are Mu…"
-    },
-    {
-      "title": "Challenge the Grand Chess Auto Bots",
-      "link": "https://www.chess.com/news/view/challenge-the-grand-chess-auto-bots",
-      "source": "Chess.com",
-      "date": "2026-11-02T18:06:31.000Z",
-      "summary": "The Grand Chess Auto Bots are here this November, bringing their shady dealings to the board as they calculate their next big scheme. It&rsquo;s up to you to foil their plans and score exclusive rewards before the end of the month. Think you can ..."
     },
     {
       "title": "English Open Championships 2026 - Games and Results",
