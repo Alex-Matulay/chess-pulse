@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T07:28:37.616Z",
+  "updated": "2026-11-15T15:14:55.185Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Total Chess: Group stage - Live!",
+      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+      "source": "ChessBase",
+      "date": "2026-11-15T14:45:00.000Z",
+      "summary": "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in eac…"
+    },
     {
       "title": "Review: All new releases in October!",
       "link": "https://en.chessbase.com/post/rueckblick-alle-neuerscheinungen-im-oktober-3",
@@ -49,13 +56,6 @@
       "source": "ChessBase",
       "date": "2026-11-14T21:15:00.000Z",
       "summary": "The World No. 1 is making a rare appearance in a public event. Magnus Carlsen is warming up to defend his World Rapid and Blitz titles at the XTX Markets London Chess Classic Super Rapid, which runs from December 5 to 6. Anyone could face him in Round 1. In…"
-    },
-    {
-      "title": "Total Chess: Group stage - Live!",
-      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-      "source": "ChessBase",
-      "date": "2026-11-14T14:45:00.000Z",
-      "summary": "The group stage of the Total Chess Pilot is underway in Budapest, and only the group winners will advance to the knockout final to compete for the tournament title. The 24 participants are divided into four groups of six, playing a double round-robin in eac…"
     },
     {
       "title": "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 3)",
