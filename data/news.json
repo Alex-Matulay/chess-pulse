@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T00:40:01.027Z",
+  "updated": "2026-11-15T07:28:37.616Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Review: All new releases in October!",
+      "link": "https://en.chessbase.com/post/rueckblick-alle-neuerscheinungen-im-oktober-3",
+      "source": "ChessBase",
+      "date": "2026-11-15T07:00:00.000Z",
+      "summary": "The new ChessBase products released in October offer plenty of practical chess advice, including tips on choosing the right moment to launch an attack, as well as several exciting opening variations that can quickly be put into practice. ChessBase Magazine…"
+    },
     {
       "title": "ChessBase for Mac: people are loving it",
       "link": "https://en.chessbase.com/post/chessbase-for-mac-people-are-loving-it",
