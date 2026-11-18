@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T11:00:00.361Z",
+  "updated": "2026-11-18T19:20:54.280Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Save Up To 25% And Improve Your Vision With Zenni's New Chess-Themed Glasses",
+      "link": "https://www.chess.com/news/view/announcing-chesscom-glasses-by-zenni",
+      "source": "Chess.com",
+      "date": "2026-11-18T16:00:00.000Z",
+      "summary": "These glasses might not improve your calculation, but they'll definitely help your vision. The Zenni and Chess.com collab just dropped with an exclusive chess-inspired collection of glasses to show your passion for the game in style. Coming in two..."
+    },
+    {
+      "title": "Total Chess: Semifinals - Live!",
+      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
+      "source": "ChessBase",
+      "date": "2026-11-18T14:45:00.000Z",
+      "summary": "The knockout stage of the Total Chess Pilot is taking place from Tuesday until Friday. Players compete in separate brackets according to their group-stage positions, with group winners battling for the title. In the semifinals of the top bracket, Maxime Vac…"
+    },
+    {
+      "title": "Pranav Venkatesh Signs With Revenant XSpark As Indian Esports Teams Add Chess Stars",
+      "link": "https://www.chess.com/news/view/pranav-venkatesh-signs-revenant-xspark",
+      "source": "Chess.com",
+      "date": "2026-11-18T13:21:14.000Z",
+      "summary": "GM Pranav Venkatesh has signed with Revenant XSpark as its first chess player, becoming the latest Indian grandmaster to join an esports organization. The contract comes shortly after the 20-year-old was crowned world junior blitz champion, and h..."
+    },
     {
       "title": "Total Chess: Firouzja and Giri win opening sets, Carlsen sparks controversy",
       "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-1",
@@ -56,6 +77,13 @@
       "source": "Chess.com",
       "date": "2026-11-17T20:05:00.000Z",
       "summary": "The University of Texas, Dallas (UTD) earned a return trip to the Collegiate Chess League Finals by earning a first-round bye and then defeating Texas Tech in the Semifinals. They will play the winner of the upcoming semifinal match between the Sa..."
+    },
+    {
+      "title": "FIDE World Rapid & Blitz Championships 2026: Registration now open",
+      "link": "https://www.fide.com/registration-for-the-fide-world-rapid-blitz-championships-2026-now-open/",
+      "source": "FIDE",
+      "date": "2026-11-17T16:21:01.000Z",
+      "summary": "Every December, the chess world comes together for one of its most exciting traditions: crowning four world champions in rapid and blitz chess, in both the open and women’s events. With a world-class lineup, lightning-fast action, and dramatic finishes, the…"
     },
     {
       "title": "Register Today For The 2027 Daily Chess Championship",
@@ -240,13 +268,6 @@
       "summary": "Fabiano Caruana and Hans Niemann scored back-to-back wins on Thursday at the Total Chess Pilot in Budapest, defeating Praggnanandhaa and Vaishali Rameshbabu respectively. Caruana now leads Group B with 10 points, while Niemann shares first place in Group D…"
     },
     {
-      "title": "Caruana and Niemann score double wins on Day 2 in Budapest",
-      "link": "https://www.fide.com/caruana-and-niemann-score-double-wins-on-day-2-in-budapest/",
-      "source": "FIDE",
-      "date": "2026-11-12T22:18:54.000Z",
-      "summary": "Thirteen decisive outcomes mark the second Fast Classic day as Assaubayeva defeats Erigaisi. Fabiano Caruana and Hans Moke Niemann each won both of their games on the second day of the Fast Classic group stage at the Total Chess World Championship Tour Pilo…"
-    },
-    {
       "title": "Tony Miles: 25 years since the sudden death of an English star",
       "link": "https://en.chessbase.com/post/anthony-miles-25-years-death",
       "source": "ChessBase",
@@ -315,20 +336,6 @@
       "source": "Chess.com",
       "date": "2026-11-10T20:15:00.000Z",
       "summary": "AAce_Cracker, a veteran who has played nearly 60,000 hands of poker on Gambit.com (where he was named Player of the Month in August and September), won the second special edition of the Gambit Cup, held on November 9. He outlasted a field of 1,359..."
-    },
-    {
-      "title": "Movahed Stays Strong Ahead of Speed Chess Championship",
-      "link": "https://www.chess.com/news/view/movahed-wins-titled-tuesday-november-10-2026",
-      "source": "Chess.com",
-      "date": "2026-11-10T20:00:00.000Z",
-      "summary": "Titled Tuesday (TT) on November 10 came down to tiebreaks between GMs Denis Lazavik and Sina Movahed, two players who also figure to feature prominently in the upcoming Speed Chess Championship (SCC), and it was ultimately Movahed who grabbed firs..."
-    },
-    {
-      "title": "Abdusattorov, Sindarov Top Tata Steel Chess 2027 Field",
-      "link": "https://www.chess.com/news/view/abdusattorov-sindarov-top-tata-steel-chess-2027-field",
-      "source": "Chess.com",
-      "date": "2026-11-10T19:40:00.000Z",
-      "summary": "Defending Champion GM Nodirbek Abdusattorov and GM Javokhir Sindarov, potentially the new world champion after the 2026 FIDE World Championship, top the field for Tata Steel Chess 2027. The fields have been announced for the Masters and Challenger..."
     },
     {
       "title": "Total Chess Pilot 2026 - Games and Results",
