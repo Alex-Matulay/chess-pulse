@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T02:01:18.809Z",
+  "updated": "2026-11-18T11:00:00.361Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Total Chess: Firouzja and Giri win opening sets, Carlsen sparks controversy",
+      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-1",
+      "source": "ChessBase",
+      "date": "2026-11-18T07:50:00.000Z",
+      "summary": "Alireza Firouzja and Anish Giri (pictured) won the opening sets of their semifinal matches at the Total Chess Pilot in Budapest, defeating Fabiano Caruana and Maxime Vachier-Lagrave respectively. The first day of knockout action also brought controversy, as…"
+    },
     {
       "title": "Giri and Firouzja take first-day leads in Total Chess Semifinals",
       "link": "https://www.fide.com/giri-and-firouzja-take-first-day-leads-in-total-chess-semifinals/",
@@ -100,13 +107,6 @@
       "summary": "Speed Chess Championship XI is almost here. Which of its 16 players will win all four of their matches, earn the biggest share of $250,000, and take home the most Champions Chess Tour (CCT) standings points on their way to the 2027 Esports World C..."
     },
     {
-      "title": "Discount Day",
-      "link": "https://en.chessbase.com/post/discount-day-4",
-      "source": "ChessBase",
-      "date": "2026-11-16T14:01:04.000Z",
-      "summary": "Today is Discount Day, and we are offering you a 25% price reduction on most products: software, services, video courses, – but excluding books, vouchers, Ducats and subscriptions to ChessBase for Mac, CBM and Premium/Starter accounts. The premium offer is…"
-    },
-    {
       "title": "Meet The 7-Year-Old Magnus Carlsen Who Dreams Of Becoming A Grandmaster",
       "link": "https://www.chess.com/news/view/magnus-carlsen-sanico-7-year-old-grandmaster-dream",
       "source": "Chess.com",
@@ -126,13 +126,6 @@
       "source": "Chess.com",
       "date": "2026-11-15T21:28:00.000Z",
       "summary": "It's GM Maxime Vachier-Lagrave vs. GM Anish Giri and GM Fabiano Caruana vs. GM Alireza Firouzja in the Semifinals of the Total Chess World Championship Tour Pilot 2026 after the four players won their groups. Caruana wrapped up victory with a roun..."
-    },
-    {
-      "title": "ChessBase 27: Ready for Launch!",
-      "link": "https://en.chessbase.com/post/chessbase-27-all-new-functions",
-      "source": "ChessBase",
-      "date": "2026-11-15T18:26:30.000Z",
-      "summary": "The most important change in the new ChessBase 27 is that it has moved beyond being a traditional chess database program – it is becoming an integrated environment for opening preparation, chess training, coaching, engine analysis and AI-assisted research.…"
     },
     {
       "title": "Nakamura's Best Bullet Brawl Year Gets Even Better With 74th Title",
