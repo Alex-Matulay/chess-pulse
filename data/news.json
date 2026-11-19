@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T01:38:22.651Z",
+  "updated": "2026-11-19T09:46:54.034Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Chess by the Numbers: Explore a Decade of FIDE Data, powered by Salesforce Agentforce",
+      "link": "https://www.fide.com/chess-by-the-numbers-explore-a-decade-of-fide-data-powered-by-salesforce-agentforce/",
+      "source": "FIDE",
+      "date": "2026-11-19T08:28:49.000Z",
+      "summary": "The Salesforce FIDE World Championship is not only a match between two elite players. It is also an opportunity to explore chess through data. The official website’s Chess by the Numbers section turns more than a decade of FIDE tournament, rating and player…"
+    },
+    {
+      "title": "Total Chess: Giri and Firouzja to battle for tournament title",
+      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-2",
+      "source": "ChessBase",
+      "date": "2026-11-19T07:10:00.000Z",
+      "summary": "Alireza Firouzja and Anish Giri will face each other in the final of the Total Chess Pilot in Budapest. Giri defeated Maxime Vachier-Lagrave in straight sets, while Firouzja needed an Armageddon decider to overcome Fabiano Caruana. Meanwhile, Magnus Carlsen…"
+    },
     {
       "title": "Anish Giri and Alireza Firouzja reach Total Chess Final",
       "link": "https://www.fide.com/anish-giri-and-alireza-firouzja-reach-total-chess-final/",
@@ -35,13 +49,6 @@
       "source": "Chess.com",
       "date": "2026-11-18T16:00:00.000Z",
       "summary": "These glasses might not improve your calculation, but they'll definitely help your vision. The Zenni and Chess.com collab just dropped with an exclusive chess-inspired collection of glasses to show your passion for the game in style. Coming in two..."
-    },
-    {
-      "title": "Total Chess: Semifinals - Live!",
-      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-      "source": "ChessBase",
-      "date": "2026-11-18T14:45:00.000Z",
-      "summary": "The knockout stage of the Total Chess Pilot is taking place from Tuesday until Friday. Players compete in separate brackets according to their group-stage positions, with group winners battling for the title. In the semifinals of the top bracket, Maxime Vac…"
     },
     {
       "title": "Pranav Venkatesh Signs With Revenant XSpark As Indian Esports Teams Add Chess Stars",
@@ -184,20 +191,6 @@
       "summary": "GM Hikaru Nakamura gained his 74th win in the Bullet Brawl arena on Saturday, cruising to 178 points and winning by a commanding 21-point margin, all the while singing along to background music and entertaining viewers on Kick. GM Jeffery Xiong t..."
     },
     {
-      "title": "ChessBase for Mac: people are loving it",
-      "link": "https://en.chessbase.com/post/chessbase-for-mac-people-are-loving-it",
-      "source": "ChessBase",
-      "date": "2026-11-15T08:00:00.000Z",
-      "summary": "Charlize van Zyl is a South African chess player and Woman International Master (WIM) who earned her title in 2013 at the age of 13. She had so far not worked with ChessBase – because she didn't have a Windows computer. Now that we have published the Mac ve…"
-    },
-    {
-      "title": "Review: All new releases in October!",
-      "link": "https://en.chessbase.com/post/rueckblick-alle-neuerscheinungen-im-oktober-3",
-      "source": "ChessBase",
-      "date": "2026-11-15T07:00:00.000Z",
-      "summary": "The new ChessBase products released in October offer plenty of practical chess advice, including tips on choosing the right moment to launch an attack, as well as several exciting opening variations that can quickly be put into practice. ChessBase Magazine…"
-    },
-    {
       "title": "World Senior Chess Champions 2026 crowned in Vrnjačka Banja, Serbia",
       "link": "https://www.fide.com/world-senior-chess-champions-2026-crowned-in-vrnjacka-banja-serbia/",
       "source": "FIDE",
@@ -217,13 +210,6 @@
       "source": "Chess.com",
       "date": "2026-11-14T21:56:00.000Z",
       "summary": "GM Magnus Carlsen can no longer win the Total Chess World Championship Tour Pilot 2026 after two draws against GM Shakhriyar Mamedyarov left him unable to win Group C, where GM Anish Giri leads. Carlsen is still world number-one after GM Fabiano C..."
-    },
-    {
-      "title": "Review: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 3)",
-      "link": "https://en.chessbase.com/post/review-robert-ris-fritztrainers-on-openings-calculation-and-strategic-thinking-part-3",
-      "source": "ChessBase",
-      "date": "2026-11-14T07:00:00.000Z",
-      "summary": "“The third and final part of my author special on Robert Ris rounds off my review of his work by looking at his middlegame courses, which focus primarily on chess strategy,” writes Lukas Köpl in his comprehensive review of Robert Ris’s video courses."
     },
     {
       "title": "Martirosyan defeats Carlsen on Day 3 in Budapest",
@@ -254,39 +240,11 @@
       "summary": "GM Dmitry Andreikin nearly scored a perfect sweep in the three 3 0 Thursday tournaments on November 12. No one has ever won more than two Thursday tournaments in the same week, but Andreikin came within half a point of a hat trick. He won the firs..."
     },
     {
-      "title": "Top players and rising stars head to Tata Steel Chess Tournament 2027",
-      "link": "https://en.chessbase.com/post/tata-steel-chess-2027-announcement",
-      "source": "ChessBase",
-      "date": "2026-11-13T15:50:00.000Z",
-      "summary": "The 89th Tata Steel Chess Tournament will take place in Wijk aan Zee from 15 to 31 January 2027, with a Masters field led by Javokhir Sindarov (pictured), Nodirbek Abdusattorov, Vincent Keymer, Alireza Firouzja, Anish Giri and Levon Aronian. The Challengers…"
-    },
-    {
       "title": "Javokhir Sindarov is writing a new page in chess history",
       "link": "https://www.fide.com/javokhir-sindarov-is-writing-a-new-page-in-chess-history/",
       "source": "FIDE",
       "date": "2026-11-13T15:30:09.000Z",
       "summary": "From wunderkind to World Championship challenger, Javokhir Sindarov has enjoyed a remarkable succession of achievements. As he prepares for the greatest challenge of his young career, many experts regard him as the favourite to dethrone the equally young re…"
-    },
-    {
-      "title": "Six World Amateur Chess Champions crowned in Klang, Malaysia",
-      "link": "https://www.fide.com/six-world-amateur-chess-champions-crowned-in-klang-malaysia/",
-      "source": "FIDE",
-      "date": "2026-11-13T11:09:07.000Z",
-      "summary": "The FIDE World Amateur Chess Championships 2026 concluded at the KSL Esplanade Hotel with two titles decided on tiebreaks and Mongolia’s Javkhlan Bayarjargal posting the highest score of the event, 8½/9. Malaysia’s Aqil Ainuddin Naufal Akhramsyah Muammar Ub…"
-    },
-    {
-      "title": "Total Chess: Double wins for Caruana and Niemann, first 2700+ scalp for Assaubayeva",
-      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-2",
-      "source": "ChessBase",
-      "date": "2026-11-13T08:15:00.000Z",
-      "summary": "Fabiano Caruana and Hans Niemann scored back-to-back wins on Thursday at the Total Chess Pilot in Budapest, defeating Praggnanandhaa and Vaishali Rameshbabu respectively. Caruana now leads Group B with 10 points, while Niemann shares first place in Group D…"
-    },
-    {
-      "title": "Tony Miles: 25 years since the sudden death of an English star",
-      "link": "https://en.chessbase.com/post/anthony-miles-25-years-death",
-      "source": "ChessBase",
-      "date": "2026-11-12T21:30:00.000Z",
-      "summary": "Twenty-five years ago today, on 12 November 2001, English chess lost one of its finest players, Anthony Miles. He was the first English player ever to be awarded the title of international grandmaster by FIDE. Miles was among the world's top ten players for…"
     },
     {
       "title": "Caruana, Niemann Sweep Praggnanandhaa, Vaishali; Assaubayeva Upsets Arjun",
@@ -303,20 +261,6 @@
       "summary": "The Collegiate Chess League Fall 2026 Season Playoffs are upon us and you can join in on the excitement by predicting who wins!&nbsp; Will UT Dallas defend their championship title, or will SRM IST get their revenge and their first-ever CCL Champ..."
     },
     {
-      "title": "Total Chess: Top scorers obtain 4/6 points on first day of group stage",
-      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-groups-1",
-      "source": "ChessBase",
-      "date": "2026-11-12T08:00:00.000Z",
-      "summary": "The group stage of the Total Chess Pilot began in Budapest on Wednesday, with players contesting two games at a 45+30 time control. Six players finished the day with 4 points out of a possible 6: Fabiano Caruana, Alireza Firouzja (pictured), Maxime Vachier-…"
-    },
-    {
-      "title": "CBM 233: Aronian and Pragg shine",
-      "link": "https://en.chessbase.com/post/cbm-233-review-nagesh-havanur",
-      "source": "ChessBase",
-      "date": "2026-11-11T21:30:00.000Z",
-      "summary": "ChessBase Magazine offers a window to the world of professional chess. Nagesh Havanur takes a look at the recent issue, CBM 233. A total of 2911 games from the Biel and Norway tournaments (18 annotated), 10 opening surveys, 3 opening videos, demo lectures a…"
-    },
-    {
       "title": "No One Perfect As Van Foreest, Martirosyan Hit Back In Total Chess Fast Classic",
       "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-2",
       "source": "Chess.com",
@@ -329,13 +273,6 @@
       "source": "Chess.com",
       "date": "2026-11-11T16:00:00.000Z",
       "summary": "Chess continues to grow, and now chessboxing is gaining momentum too. More than 200 fighters from at least 25 countries are expected at the eighth Chessboxing World Championship, Presented by Lords Mobile in Istanbul on November 16-21. The event f..."
-    },
-    {
-      "title": "What happens with my databases? - ChessBase on Mac",
-      "link": "https://en.chessbase.com/post/what-happens-with-my-databases-chessbase-on-mac",
-      "source": "ChessBase",
-      "date": "2026-11-11T11:46:54.000Z",
-      "summary": "One of the biggest questions for chess players switching to ChessBase for Mac is what happens to their databases from the Windows version. Can you still use them? Can you transfer databases in the .cbh format, too? And if so, how much work does it take? In…"
     },
     {
       "title": "Total Chess Pilot 2026 - Games and Results",
