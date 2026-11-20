@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T17:29:03.963Z",
+  "updated": "2026-11-20T23:36:55.892Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,48 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Alireza Firouzja wins Total Chess Budapest Pilot",
+      "link": "https://www.fide.com/alireza-firouzja-wins-total-chess-budapest-pilot/",
+      "source": "FIDE",
+      "date": "2026-11-20T21:42:51.000Z",
+      "summary": "Giri finishes second after Armageddon draw as Caruana secures third place Alireza Firouzja won the Total Chess World Championship Tour Pilot in Budapest on Friday after drawing the Armageddon decider with Black against Anish Giri. Firouzja had forced the ti…"
+    },
+    {
+      "title": "Firouzja Wins Total Chess World Championship Tour Pilot",
+      "link": "https://www.chess.com/news/view/firouzja-wins-2026-total-chess-world-championship-tour-pilot",
+      "source": "Chess.com",
+      "date": "2026-11-20T21:07:00.000Z",
+      "summary": "GM Alireza Firouzja came back from behind to win the Total Chess World Championship on its 10th and final day. He came into Friday down a set against&nbsp;GM Anish Giri, but won the second set 13-8. He went on to win the tournament in an armageddo..."
+    },
+    {
+      "title": "Chess by the Numbers: Explore a decade of FIDE Data, powered by Salesforce Agentforce",
+      "link": "https://en.chessbase.com/post/chess-by-the-numbers-salesforce",
+      "source": "ChessBase",
+      "date": "2026-11-20T21:00:00.000Z",
+      "summary": "The official website of the Salesforce FIDE World Championship now includes an interactive \"Chess by the Numbers\" section, using more than a decade of FIDE data to explore trends across the game. Powered by Salesforce technology, the feature covers player r…"
+    },
+    {
+      "title": "Total Chess Pilot 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/total-chess-pilot-2026",
+      "source": "The Week in Chess",
+      "date": "2026-11-20T20:59:00.000Z",
+      "summary": "The Total Chess Pilot tournament took place in Budapest Tue 10th Nov to Sat 21st Nov 2026. Three stages. A preliminary blitz, group stages and then a final knockout stage. Games took place across a multiplicity of time controls and weighted results. (Blitz:…"
+    },
+    {
+      "title": "Sklokin-Bagiyan, 13, Wins Freestyle Friday",
+      "link": "https://www.chess.com/news/view/sklokin-bagiyan-wins-freestyle-friday-november-20-2026",
+      "source": "Chess.com",
+      "date": "2026-11-20T20:18:31.000Z",
+      "summary": "For the second straight week, a youthful IM won Freestyle Friday on November 20, this time IM Sergey Sklokin-Bagiyan, whose 9.5 points were enough for outright victory. GM Jeffery Xiong finished sole second on nine points, with GMs Alexey Sarana a..."
+    },
+    {
+      "title": "Dau, Movahed, Fedoseev Win 3 0 Thursday",
+      "link": "https://www.chess.com/news/view/duy-dau-movahed-fedoseev-3-0-thursday-11-19-2026",
+      "source": "Chess.com",
+      "date": "2026-11-20T18:52:00.000Z",
+      "summary": "15-year-old IM Khuong Duy Dau won his first-ever 3 0 Thursday title in the first tournament on November 19, just six days after he won his first Freestyle Friday tournament. Later that day, GM Sina Movahed won his fifth title in the second tournam..."
+    },
     {
       "title": "Chess.com Releases Behind-The-Scenes Documentary Of Sindarov (Part 1)",
       "link": "https://www.chess.com/news/view/sindarov-documentary-salesforce-2026-fide-world-championship",
@@ -70,13 +112,6 @@
       "source": "FIDE",
       "date": "2026-11-19T12:15:25.000Z",
       "summary": "The Salesforce FIDE World Championship Match 2026 is set to make history as the youngest encounter for the classical world title. Both contenders are still in their early twenties, brimming with energy and ambition, and with much of their chess careers stil…"
-    },
-    {
-      "title": "Chess by the Numbers: Explore a Decade of FIDE Data, powered by Salesforce Agentforce",
-      "link": "https://www.fide.com/chess-by-the-numbers-explore-a-decade-of-fide-data-powered-by-salesforce-agentforce/",
-      "source": "FIDE",
-      "date": "2026-11-19T08:28:49.000Z",
-      "summary": "The Salesforce FIDE World Championship is not only a match between two elite players. It is also an opportunity to explore chess through data. The official website’s Chess by the Numbers section turns more than a decade of FIDE tournament, rating and player…"
     },
     {
       "title": "Total Chess: Giri and Firouzja to battle for tournament title",
@@ -254,13 +289,6 @@
       "summary": "GM Hikaru Nakamura gained his 74th win in the Bullet Brawl arena on Saturday, cruising to 178 points and winning by a commanding 21-point margin, all the while singing along to background music and entertaining viewers on Kick. GM Jeffery Xiong t..."
     },
     {
-      "title": "World Senior Chess Champions 2026 crowned in Vrnjačka Banja, Serbia",
-      "link": "https://www.fide.com/world-senior-chess-champions-2026-crowned-in-vrnjacka-banja-serbia/",
-      "source": "FIDE",
-      "date": "2026-11-15T00:15:36.000Z",
-      "summary": "The FIDE World Senior Chess Championship was concluded on November 14 in Vrnjačka Banja, the Serbian capital of tourism and chess. The competition brought togeterh 385 players from 65 national competing across four categories: Open 50+, Open 65+, Women 50+…"
-    },
-    {
       "title": "Firouzja, Caruana, Giri, MVL Lead Before Final Day; Carlsen Out Of Contention",
       "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-5",
       "source": "Chess.com",
@@ -273,34 +301,6 @@
       "source": "Chess.com",
       "date": "2026-11-13T21:20:00.000Z",
       "summary": "GM Fabiano Caruana is now rated exactly 2800.0 on the live rating list after beating GM Vincent Keymer, while GM Magnus Carlsen is just 7.2 rating points from losing his 15-year unbroken streak as world number-one after losing to GM Haik Martirosy..."
-    },
-    {
-      "title": "Teenage Phenom Wins Freestyle Friday",
-      "link": "https://www.chess.com/news/view/dau-wins-freestyle-friday-november-13-2026",
-      "source": "Chess.com",
-      "date": "2026-11-13T21:10:00.000Z",
-      "summary": "IM Khuong Duy Dau, the 15-year-old international master from Vietnam, won Freestyle Friday on November 13. A regular of both Freestyle Friday and Titled Tuesday, the win was Dau's first in either event, and he did it by 1.5 points ahead of second ..."
-    },
-    {
-      "title": "Andreikin Nearly Sweeps 3 0 Thursday Tournaments",
-      "link": "https://www.chess.com/news/view/andreikin-nearly-sweeps-3-0-thursday-tournaments",
-      "source": "Chess.com",
-      "date": "2026-11-13T19:48:56.000Z",
-      "summary": "GM Dmitry Andreikin nearly scored a perfect sweep in the three 3 0 Thursday tournaments on November 12. No one has ever won more than two Thursday tournaments in the same week, but Andreikin came within half a point of a hat trick. He won the firs..."
-    },
-    {
-      "title": "Caruana, Niemann Sweep Praggnanandhaa, Vaishali; Assaubayeva Upsets Arjun",
-      "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-3",
-      "source": "Chess.com",
-      "date": "2026-11-12T20:54:00.000Z",
-      "summary": "GMs Fabiano Caruana and Hans Niemann are the two players to score six points (or two wins) on day three of the Total Chess World Championship Tour Pilot 2026. Caruana leads Group B with 10 points and a 3077 performance after sweeping GM Praggnanan..."
-    },
-    {
-      "title": "Total Chess Pilot 2026 - Games and Results",
-      "link": "https://theweekinchess.com/chessnews/events/total-chess-pilot-2026",
-      "source": "The Week in Chess",
-      "date": "2026-11-10T15:35:00.000Z",
-      "summary": "The Total Chess Pilot tournament takes place in Budapest Tue 10th Nov to Sat 21st Nov 2026. Three stages. A preliminary blitz, group stages and then a final knockout stage. Games will take place across a multiplicity of time controls and weighted results. (…"
     },
     {
       "title": "89th Tata Steel 2027 - Games and Results",
