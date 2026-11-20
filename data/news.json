@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T18:47:44.623Z",
+  "updated": "2026-11-20T00:59:24.256Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Giri takes the lead in Total Chess Final",
+      "link": "https://www.fide.com/giri-takes-the-lead-in-total-chess-final/",
+      "source": "FIDE",
+      "date": "2026-11-19T21:47:54.000Z",
+      "summary": "Caruana leads the match for third place as Carlsen turns his day around in Fast Classic Anish Giri won the opening day of the final of the Total Chess World Championship Tour Pilot in Budapest on Thursday, defeating Alireza Firouzja by 11 points to 9. Giri’…"
+    },
+    {
+      "title": "Giri Leads Firouzja In Final After Heroic Defense, Carlsen Stays Above 2800",
+      "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-9",
+      "source": "Chess.com",
+      "date": "2026-11-19T21:14:00.000Z",
+      "summary": "GM Anish Giri leads the Final against GM Alireza Firouzja after winning the first set 11-9 in the Total Chess World Championship on Thursday. The fast classic game was critical, and he managed to defend a lost (but tricky) position to maintain his..."
+    },
+    {
+      "title": "The difficult road to defending his title: Gukesh Dommaraju",
+      "link": "https://en.chessbase.com/post/the-difficult-road-to-defending-his-title-gukesh-dommaraju",
+      "source": "ChessBase",
+      "date": "2026-11-19T20:00:00.000Z",
+      "summary": "On 24 November, the first game of the eagerly anticipated World Championship match between defending champion Gukesh Dommaraju and challenger Javokhir Sindarov will be played in Geneva. Never before have two such young players competed for the title. In thi…"
+    },
     {
       "title": "Total Chess: Finals - Live!",
       "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
@@ -219,13 +240,6 @@
       "summary": "The FIDE World Senior Chess Championship was concluded on November 14 in Vrnjačka Banja, the Serbian capital of tourism and chess. The competition brought togeterh 385 players from 65 national competing across four categories: Open 50+, Open 65+, Women 50+…"
     },
     {
-      "title": "Giri takes Group C lead as So wins twice on Day 4 in Budapest",
-      "link": "https://www.fide.com/giri-takes-group-c-lead-as-so-wins-twice-on-day-4-in-budapest/",
-      "source": "FIDE",
-      "date": "2026-11-14T22:15:03.000Z",
-      "summary": "Three players share the Group D lead with two Fast Classic games remaining Wesley So won both games against Vaishali Rameshbabu and Anish Giri took the sole lead in Group C on the fourth day of the Fast Classic group stage at the Total Chess World Champions…"
-    },
-    {
       "title": "Firouzja, Caruana, Giri, MVL Lead Before Final Day; Carlsen Out Of Contention",
       "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-5",
       "source": "Chess.com",
@@ -273,13 +287,6 @@
       "source": "Chess.com",
       "date": "2026-11-11T21:24:00.000Z",
       "summary": "GMs Jorden van Foreest and Haik Martirosyan hit back from round-one losses to beat GMs Levon Aronian and Shakhriyar Mamedyarov as the Total Chess World Championship Tour Pilot 2026 Group Stage began. GMs Alireza Firouzja, Fabiano Caruana, Jan-Krzy..."
-    },
-    {
-      "title": "Chessboxing World Championship Set For Istanbul After '60 Minutes' Spotlight",
-      "link": "https://www.chess.com/news/view/chessboxing-world-championship-2026-istanbul",
-      "source": "Chess.com",
-      "date": "2026-11-11T16:00:00.000Z",
-      "summary": "Chess continues to grow, and now chessboxing is gaining momentum too. More than 200 fighters from at least 25 countries are expected at the eighth Chessboxing World Championship, Presented by Lords Mobile in Istanbul on November 16-21. The event f..."
     },
     {
       "title": "Total Chess Pilot 2026 - Games and Results",
