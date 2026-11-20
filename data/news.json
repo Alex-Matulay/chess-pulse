@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T00:59:24.256Z",
+  "updated": "2026-11-20T08:17:40.154Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Total Chess: Giri takes early lead over Firouzja, Carlsen forfeits rapid games",
+      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-3",
+      "source": "ChessBase",
+      "date": "2026-11-20T07:10:00.000Z",
+      "summary": "Anish Giri won the opening set of the Total Chess Pilot final against Alireza Firouzja in Budapest, while Fabiano Caruana did likewise against Maxime Vachier-Lagrave in the match for third place - both sets finished 11–9. Meanwhile, Magnus Carlsen sparked f…"
+    },
     {
       "title": "Giri takes the lead in Total Chess Final",
       "link": "https://www.fide.com/giri-takes-the-lead-in-total-chess-final/",
@@ -28,13 +35,6 @@
       "source": "ChessBase",
       "date": "2026-11-19T20:00:00.000Z",
       "summary": "On 24 November, the first game of the eagerly anticipated World Championship match between defending champion Gukesh Dommaraju and challenger Javokhir Sindarov will be played in Geneva. Never before have two such young players competed for the title. In thi…"
-    },
-    {
-      "title": "Total Chess: Finals - Live!",
-      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-      "source": "ChessBase",
-      "date": "2026-11-19T14:45:00.000Z",
-      "summary": "The finals of the Total Chess Pilot knockout are taking place on Thursday and Friday. All 24 players are in action, with their final positions still to be decided. In the match for the title, Anish Giri faces Alireza Firouzja. Each match takes place over tw…"
     },
     {
       "title": "World Junior U20 Chess Championship 2026 begins in Caracas, Venezuela",
