@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T14:04:51.694Z",
+  "updated": "2026-11-21T20:44:14.398Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE Calls Carlsen's Forfeits 'Unacceptable,' Refers His Conduct To Ethics Commission",
+      "link": "https://www.chess.com/news/view/fide-carlsen-total-chess-forfeits-ethics-commission",
+      "source": "Chess.com",
+      "date": "2026-11-21T19:13:00.000Z",
+      "summary": "FIDE will refer GM Magnus Carlsen's conduct at the Total Chess World Championship Tour Pilot to its Ethics and Disciplinary Commission (EDC), describing his forfeits as \"unacceptable.&rdquo; The tournament&rsquo;s arbiters will also face a separat..."
+    },
+    {
+      "title": "Asian Amateur Championships 2026: Bekbol and Borisova claim blitz titles in Bangkok",
+      "link": "https://www.fide.com/asian-amateur-chess-championships-2026-bekbol-and-borisova-claim-blitz-titles-in-bangkok/",
+      "source": "FIDE",
+      "date": "2026-11-21T18:54:36.000Z",
+      "summary": "Kazakhstan’s Ibrahim Bekbol and Russia’s FM Ekaterina Borisova won the first titles of the Asian Amateur Chess Championships 2026 at the Bazaar Hotel in Bangkok. Hosted by the Thailand Chess Federation the competition runs from November 21 to 29. Both blitz…"
+    },
+    {
+      "title": "Firouzja beats Giri in Armageddon to claim Total Chess Pilot title",
+      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-4",
+      "source": "ChessBase",
+      "date": "2026-11-21T18:40:00.000Z",
+      "summary": "Alireza Firouzja won the Total Chess Pilot in Budapest on Friday, defeating Anish Giri in Armageddon after the finalists had exchanged set victories. Fabiano Caruana secured third place with a straight-sets win over Maxime Vachier-Lagrave, while Hans Nieman…"
+    },
+    {
+      "title": "New Classic Games App In Beta, Play And Learn 10 Incredible Games!",
+      "link": "https://www.chess.com/news/view/announcing-classic-games-beta",
+      "source": "Chess.com",
+      "date": "2026-11-21T14:34:49.000Z",
+      "summary": "We're excited to announce the open Beta of Classic, our new online platform featuring some of the world's most traditional and beloved games. You can now play and learn 10 games, including sudoku, mahjong, Go, solitaire, checkers, and more, all in..."
+    },
     {
       "title": "FIDE Statement on the Conclusion of the Total Chess World Championship Tour Pilot 2026",
       "link": "https://www.fide.com/fide-statement-on-the-conclusion-of-the-total-chess-world-championship-tour-pilot-2026/",
@@ -233,13 +261,6 @@
       "summary": "The University of Texas, Dallas (UTD) earned a return trip to the Collegiate Chess League Finals by earning a first-round bye and then defeating Texas Tech in the Semifinals. They will play the winner of the upcoming semifinal match between the Sa..."
     },
     {
-      "title": "FIDE World Rapid & Blitz Championships 2026: Registration now open",
-      "link": "https://www.fide.com/registration-for-the-fide-world-rapid-blitz-championships-2026-now-open/",
-      "source": "FIDE",
-      "date": "2026-11-17T16:21:01.000Z",
-      "summary": "Every December, the chess world comes together for one of its most exciting traditions: crowning four world champions in rapid and blitz chess, in both the open and women’s events. With a world-class lineup, lightning-fast action, and dramatic finishes, the…"
-    },
-    {
       "title": "Register Today For The 2027 Daily Chess Championship",
       "link": "https://www.chess.com/news/view/daily-chess-championship-2027",
       "source": "Chess.com",
@@ -301,20 +322,6 @@
       "source": "Chess.com",
       "date": "2026-11-15T21:28:00.000Z",
       "summary": "It's GM Maxime Vachier-Lagrave vs. GM Anish Giri and GM Fabiano Caruana vs. GM Alireza Firouzja in the Semifinals of the Total Chess World Championship Tour Pilot 2026 after the four players won their groups. Caruana wrapped up victory with a roun..."
-    },
-    {
-      "title": "Nakamura's Best Bullet Brawl Year Gets Even Better With 74th Title",
-      "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-14-2026",
-      "source": "Chess.com",
-      "date": "2026-11-15T16:13:00.000Z",
-      "summary": "GM Hikaru Nakamura gained his 74th win in the Bullet Brawl arena on Saturday, cruising to 178 points and winning by a commanding 21-point margin, all the while singing along to background music and entertaining viewers on Kick. GM Jeffery Xiong t..."
-    },
-    {
-      "title": "Firouzja, Caruana, Giri, MVL Lead Before Final Day; Carlsen Out Of Contention",
-      "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-5",
-      "source": "Chess.com",
-      "date": "2026-11-14T21:56:00.000Z",
-      "summary": "GM Magnus Carlsen can no longer win the Total Chess World Championship Tour Pilot 2026 after two draws against GM Shakhriyar Mamedyarov left him unable to win Group C, where GM Anish Giri leads. Carlsen is still world number-one after GM Fabiano C..."
     },
     {
       "title": "89th Tata Steel 2027 - Games and Results",
