@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T23:36:55.892Z",
+  "updated": "2026-11-21T05:22:17.990Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Lazavik Cruises Into Speed Chess Quarterfinals With 12-8 Win Over Andreikin",
+      "link": "https://www.chess.com/news/view/2026-speed-chess-championship-r16-lazavik-andreikin",
+      "source": "Chess.com",
+      "date": "2026-11-21T00:15:00.000Z",
+      "summary": "GM Denis Lazavik is through to face either GM Wesley So or GM Praggnanandhaa Rameshbabu in the Quarterfinals of the Speed Chess Championship XI after defeating GM Dmitry Andreikin 12-8 in the Round of 16. Lazavik won the first game before drawing ..."
+    },
     {
       "title": "Alireza Firouzja wins Total Chess Budapest Pilot",
       "link": "https://www.fide.com/alireza-firouzja-wins-total-chess-budapest-pilot/",
@@ -20,7 +27,7 @@
       "link": "https://www.chess.com/news/view/firouzja-wins-2026-total-chess-world-championship-tour-pilot",
       "source": "Chess.com",
       "date": "2026-11-20T21:07:00.000Z",
-      "summary": "GM Alireza Firouzja came back from behind to win the Total Chess World Championship on its 10th and final day. He came into Friday down a set against&nbsp;GM Anish Giri, but won the second set 13-8. He went on to win the tournament in an armageddo..."
+      "summary": "GM Alireza Firouzja came back from behind to win the Total Chess World Championship on its 10th and final day. He came into Friday down a set against&nbsp;GM Anish Giri, but won the second set 13-8. He went on to win the tournament and $80,000 in ..."
     },
     {
       "title": "Chess by the Numbers: Explore a decade of FIDE Data, powered by Salesforce Agentforce",
@@ -56,13 +63,6 @@
       "source": "Chess.com",
       "date": "2026-11-20T16:00:00.000Z",
       "summary": "\"I will give my all and try to bring the crown to Uzbekistan,\" says 20-year-old World Championship Challenger Javokhir Sindarov in Chess.com's documentary, which will be released on November 20, days before the 2026 Salesforce FIDE World Champions..."
-    },
-    {
-      "title": "Total Chess: Finals - Live!",
-      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-live",
-      "source": "ChessBase",
-      "date": "2026-11-20T14:45:00.000Z",
-      "summary": "The finals of the Total Chess Pilot knockout are taking place on Thursday and Friday. All 24 players are in action, with their final positions still to be decided. In the match for the title, Anish Giri faces Alireza Firouzja. Each match takes place over tw…"
     },
     {
       "title": "Docuseries Featuring Gukesh, Other Top Indian GMs Begins November 22",
@@ -294,13 +294,6 @@
       "source": "Chess.com",
       "date": "2026-11-14T21:56:00.000Z",
       "summary": "GM Magnus Carlsen can no longer win the Total Chess World Championship Tour Pilot 2026 after two draws against GM Shakhriyar Mamedyarov left him unable to win Group C, where GM Anish Giri leads. Carlsen is still world number-one after GM Fabiano C..."
-    },
-    {
-      "title": "Caruana Hits 2800, Within 7.2 Points Of Carlsen's World No. 1 Spot",
-      "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-4",
-      "source": "Chess.com",
-      "date": "2026-11-13T21:20:00.000Z",
-      "summary": "GM Fabiano Caruana is now rated exactly 2800.0 on the live rating list after beating GM Vincent Keymer, while GM Magnus Carlsen is just 7.2 rating points from losing his 15-year unbroken streak as world number-one after losing to GM Haik Martirosy..."
     },
     {
       "title": "89th Tata Steel 2027 - Games and Results",
