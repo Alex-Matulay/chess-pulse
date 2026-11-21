@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T05:22:17.990Z",
+  "updated": "2026-11-21T14:04:51.694Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "FIDE Statement on the Conclusion of the Total Chess World Championship Tour Pilot 2026",
+      "link": "https://www.fide.com/fide-statement-on-the-conclusion-of-the-total-chess-world-championship-tour-pilot-2026/",
+      "source": "FIDE",
+      "date": "2026-11-21T13:28:50.000Z",
+      "summary": "Following the conclusion of the Total Chess World Championship Tour Pilot 2026 in Budapest, the International Chess Federation (FIDE) congratulates the medalists, GMs Alireza Firouzja, Anish Giri, and Fabiano Caruana. FIDE also extends its thanks to Kjell M…"
+    },
+    {
+      "title": "Javokhir Sindarov – the next World Champion?",
+      "link": "https://en.chessbase.com/post/javokhir-sindarov-the-next-world-champion",
+      "source": "ChessBase",
+      "date": "2026-11-21T08:58:32.000Z",
+      "summary": "In a few days, Javokhir Sindarov will face Gukesh in Geneva for the World Championship title. Sindarov is currently fourth in the world rankings, but by the numbers, he is already the best player in the world. Over the twelve months leading up to the World…"
+    },
+    {
+      "title": "Review: The English Opening – An overview",
+      "link": "https://en.chessbase.com/post/review-the-english-opening-an-overview",
+      "source": "ChessBase",
+      "date": "2026-11-21T07:00:00.000Z",
+      "summary": "Jochen Schwarz is a club player from Bremen who enjoys playing the English Opening (1.c4), historically also known as the “Bremen Opening”. He has taken a look at the most important video courses in the ChessBase range and put together an overview. Some cou…"
+    },
+    {
+      "title": "Total Chess 2026: Firouzja’s triumph overshadowed by Carlsen controversy",
+      "link": "https://lichess.org/@/Lichess/blog/total-chess-2026-firouzjas-triumph-overshadowed-by-carlsen-controversy/73LHTdRM",
+      "source": "Lichess",
+      "date": "2026-11-21T06:37:59.580Z",
+      "summary": "Alireza Firouzja’s triumph over Anish Giri to win the inaugural Total Chess event is overshadowed by a series of controversial forfeits by Magnus Carlsen. The Total Chess World Championship Tour Pilot has come to its conclusion, with GM Alireza Firouzja ove…"
+    },
     {
       "title": "Lazavik Cruises Into Speed Chess Quarterfinals With 12-8 Win Over Andreikin",
       "link": "https://www.chess.com/news/view/2026-speed-chess-championship-r16-lazavik-andreikin",
@@ -233,8 +261,8 @@
       "summary": "World Champion Gukesh Dommaraju says he has struggled to handle the pressure and expectations of the world title, and is finding ways to deal with the criticism ahead of his match against GM Javokhir Sindarov. &ldquo;I think clearly so far I've n..."
     },
     {
-      "title": "Total Chess Pilot 2026: Halfway Through, Carlsen Crashes to Historic Low",
-      "link": "https://lichess.org/@/Lichess/blog/total-chess-pilot-2026-halfway-through-carlsen-crashes-to-historic-low/qmTzD0cn",
+      "title": "Total Chess 2026: Halfway Through, Carlsen Crashes to Historic Low",
+      "link": "https://lichess.org/@/Lichess/blog/total-chess-2026-halfway-through-carlsen-crashes-to-historic-low/qmTzD0cn",
       "source": "Lichess",
       "date": "2026-11-17T00:27:01.332Z",
       "summary": "Magnus Carlsen, the world number 1, has dropped to a 15-year low in his live rating during this rare over-the-board appearance, as Vachier-Lagrave vs. Giri and Firouzja vs. Caruana fight for contention. The Total Chess World Championship Tour Pilot (Novembe…"
@@ -266,13 +294,6 @@
       "source": "Chess.com",
       "date": "2026-11-16T13:25:04.000Z",
       "summary": "When Bernard Sanico&rsquo;s son was born in 2019, he knew exactly what to call him. A fan of the world champion since he was 12, he named the boy Magnus Carlsen Sanico. Seven years later, the younger Magnus is a rising player in the Philippines dr..."
-    },
-    {
-      "title": "Firouzja, Caruana, Giri and Vachier-Lagrave win groups in Budapest",
-      "link": "https://www.fide.com/firouzja-caruana-giri-and-vachier-lagrave-win-groups-in-budapest/",
-      "source": "FIDE",
-      "date": "2026-11-15T22:37:05.000Z",
-      "summary": "Vaishali defeats Erigaisi as Artemiev ends Caruana’s unbeaten Fast Classic run Alireza Firouzja, Fabiano Caruana, Anish Giri and Maxime Vachier-Lagrave secured the four places in the championship knockout bracket as the Fast Classic group stage of the Total…"
     },
     {
       "title": "Firouzja, Caruana, Giri, MVL Win Groups; Carlsen's No. 1 Status Boosted By Caruana Loss",
@@ -357,13 +378,6 @@
       "source": "Lichess",
       "date": "2026-10-21T16:37:14.559Z",
       "summary": "Lichess has resumed cooperation with US Chess after positive changes In August 2023, Lichess announced its boycott of both the US Chess Federation and the Saint Louis Chess Club due to serious concerns about their accountability for mishandling of sexual mi…"
-    },
-    {
-      "title": "2026 Lichess Meetup in Prague",
-      "link": "https://lichess.org/@/Lichess/blog/2026-lichess-meetup-in-prague/7DKS0WPk",
-      "source": "Lichess",
-      "date": "2026-10-19T00:56:42.275Z",
-      "summary": "A weekend of team working, chess, and meeting the public for more chess Many thanks to @G-Lorenz for writing this recap! One year after the successful Toronto Meetup , the Lichess team came to Prague for a weekend of work and camaraderie. The dozen team mem…"
     },
     {
       "title": "Titled Arenas Announcement — October to December 2026",
