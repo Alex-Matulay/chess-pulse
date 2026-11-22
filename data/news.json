@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T07:42:22.971Z",
+  "updated": "2026-11-22T15:51:57.993Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,10 +9,17 @@
   ],
   "items": [
     {
+      "title": "LIVE: The World Championship kicks off – press conference and opening ceremony today",
+      "link": "https://en.chessbase.com/post/live-the-world-championship-kicks-off-press-conference-and-opening-ceremony-today",
+      "source": "ChessBase",
+      "date": "2026-11-22T15:00:00.000Z",
+      "summary": "Gukesh Dommaraju faces Javokhir Sindarov in the 2026 Salesforce FIDE World Championship in Geneva. The first move will be played on Tuesday, 24 November, at 15:00 CET. Today, the players will meet the press at 15:30, followed by the opening ceremony at 17:0…"
+    },
+    {
       "title": "Indomitable Nakamura Captures 75th Bullet Brawl Title",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-21-2026",
       "source": "Chess.com",
-      "date": "2026-11-22T05:10:02.000Z",
+      "date": "2026-11-22T05:10:00.000Z",
       "summary": "GM Hikaru Nakamura's dynasty of dominance has been extended after he won his 75th career Bullet Brawl title on Saturday. With a score of 183, Nakamura was the convincing winner of $400 first prize. GM Arjun Erigaisi, who was Nakamura's most dange..."
     },
     {
