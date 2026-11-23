@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T21:28:09.544Z",
+  "updated": "2026-11-23T02:09:36.992Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "World Championship Match 2026 opens in Geneva at a historic venue",
+      "link": "https://www.fide.com/world-championship-match-2026-opens-in-geneva-at-a-historic-venue/",
+      "source": "FIDE",
+      "date": "2026-11-22T22:45:42.000Z",
+      "summary": "The Salesforce FIDE World Championship Match 2026 officially got underway this afternoon with an opening ceremony at the Palais des Nations in Geneva. It would be difficult to imagine a more fitting or prestigious setting for such an occasion. As H.E. Erzha…"
+    },
+    {
+      "title": "Muzychuk Wins Blitz Portion Of WR Women's Chess Tour Grand Final",
+      "link": "https://www.chess.com/news/view/2026-wr-womens-chess-tour-grand-final-day-1",
+      "source": "Chess.com",
+      "date": "2026-11-22T21:59:48.000Z",
+      "summary": "GM Anna Muzychuk won the blitz portion of the WR Women's Chess Tour - Grand Final 2026 after defeating GM Kateryna Lagno 2.5-1.5 in the Final. Muzychuk leads the event, but there is a full rapid knockout tournament to go. The second and final day..."
+    },
+    {
+      "title": "The two World Championship contenders open up to the media",
+      "link": "https://www.fide.com/the-two-world-championship-contenders-open-up-to-the-media/",
+      "source": "FIDE",
+      "date": "2026-11-22T21:40:19.000Z",
+      "summary": "November 22 marked the official commencement of the Salesforce FIDE World Championship Match 2026. The assembled journalists were in for a treat, as Gukesh Dommaraju and Javokhir Sindarov took part in two separate media sessions, offering insights into thei…"
+    },
     {
       "title": "Sindarov Gets White As Gukesh Vows To Win World Championship 'All Over Again'",
       "link": "https://www.chess.com/news/view/2026-fide-chess-world-championship-opening-ceremony",
@@ -254,20 +275,6 @@
       "summary": "Alireza Firouzja and Anish Giri (pictured) won the opening sets of their semifinal matches at the Total Chess Pilot in Budapest, defeating Fabiano Caruana and Maxime Vachier-Lagrave respectively. The first day of knockout action also brought controversy, as…"
     },
     {
-      "title": "Giri and Firouzja take first-day leads in Total Chess Semifinals",
-      "link": "https://www.fide.com/giri-and-firouzja-take-first-day-leads-in-total-chess-semifinals/",
-      "source": "FIDE",
-      "date": "2026-11-17T22:50:49.000Z",
-      "summary": "The knockout stage brought Blitz, Rapid and Fast Classic together on the same day for the first time, with all 24 players back in action across six brackets Anish Giri and Alireza Firouzja won the first day of their semifinals as the Total Chess World Champ…"
-    },
-    {
-      "title": "FIDE Council approves FIDE Athletes Commission composition for the 2026–2028 term",
-      "link": "https://www.fide.com/fide-council-approves-fide-athletes-commission-composition-for-the-2026-2028-term/",
-      "source": "FIDE",
-      "date": "2026-11-17T21:52:08.000Z",
-      "summary": "Pursuant to the official call for candidates published on September 9, 2026, the FIDE Council has approved the following members of the FIDE Athletes’ Commission for the 2026–2028 term: GM Levon Aronian (USA) – FIDE ID: 13300474 GM Hans Moke Niemann (USA) –…"
-    },
-    {
       "title": "Firouzja, Giri Lead Total Chess Semifinals; Carlsen Forfeits Final Game",
       "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-7",
       "source": "Chess.com",
@@ -336,13 +343,6 @@
       "source": "Chess.com",
       "date": "2026-11-16T19:00:09.000Z",
       "summary": "JP Morgan Chase won the 14th season of the North American Corporate Chess League in an exciting final match against PWC, taking the title 3-2. It was the banking company's first championship. The company fielded a strong team led by IM Edward Song..."
-    },
-    {
-      "title": "Here Comes The SCC: Who's Playing, Who Will Win In Round 1",
-      "link": "https://www.chess.com/news/view/speed-chess-championship-first-round-preview",
-      "source": "Chess.com",
-      "date": "2026-11-16T16:17:17.000Z",
-      "summary": "Speed Chess Championship XI is almost here. Which of its 16 players will win all four of their matches, earn the biggest share of $250,000, and take home the most Champions Chess Tour (CCT) standings points on their way to the 2027 Esports World C..."
     },
     {
       "title": "89th Tata Steel 2027 - Games and Results",
