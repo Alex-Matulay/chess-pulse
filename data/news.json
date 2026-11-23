@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T11:41:37.976Z",
+  "updated": "2026-11-23T23:17:29.871Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,48 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "World Chess Championship 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/world-chess-championship-2026",
+      "source": "The Week in Chess",
+      "date": "2026-11-23T22:54:00.000Z",
+      "summary": "The World Chess Championship 2026 takes place Tue 24th November to Sat 12th December 2026 in Geneva, Switzerland. Defending Champion Gukesh Dommaraju from India faces challenger Javokhir Sindarov. I will have live moves. Sindarov has the white pieces in gam…"
+    },
+    {
+      "title": "World Championship matches: Highlights from 140 years of history",
+      "link": "https://en.chessbase.com/post/wch-matches-highlights-140-years",
+      "source": "ChessBase",
+      "date": "2026-11-23T20:40:00.000Z",
+      "summary": "World Championship matches make chess history. Some games are remembered for their beauty, others for dramatic twists, spectacular blunders or their historical significance. As the duel between world champion Gukesh Dommaraju and challenger Javokhir Sindaro…"
+    },
+    {
+      "title": "🏆 Lagno Clinches WR Women's Chess Tour Grand Final, Yip Wins Rapid Portion",
+      "link": "https://www.chess.com/news/view/lagno-wins-2026-wr-womens-chess-tour-grand-final",
+      "source": "Chess.com",
+      "date": "2026-11-23T20:29:00.000Z",
+      "summary": "GM Kateryna Lagno won the WR Women's Chess Tour - Grand Final 2026 on Monday after finishing second in both the rapid and blitz portions, clinching the inaugural title in the Semifinals. GM Anna Muzychuk won the blitz portion on Sunday, while IM C..."
+    },
+    {
+      "title": "How To Watch FIDE World Championship 2026 Game 1",
+      "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1",
+      "source": "Chess.com",
+      "date": "2026-11-23T19:20:00.000Z",
+      "summary": "The 2026 Salesforce FIDE World Championship between defending World Champion Gukesh Dommaraju and Challenger Javokhir Sindarov begins on Tuesday, November 24, at 9 a.m. ET / 15:00 CET (local time in Geneva) /&nbsp; 7:30 p.m. IST. Sindarov will ha..."
+    },
+    {
+      "title": "Watch The Salesforce FIDE World Chess Championship On Twitch To Earn Exclusive Flairs",
+      "link": "https://www.chess.com/news/view/fide-world-championship-2026-twitch-drops",
+      "source": "Chess.com",
+      "date": "2026-11-23T17:00:00.000Z",
+      "summary": "The much-anticipated Salesforce FIDE World Championship is about to start. This Tuesday, two stars from two of the world's strongest chess powerhouses will clash for the highest title in chess. On one side, Indian GM Gukesh Dommaraju will fight to..."
+    },
+    {
+      "title": "AI Powered Opening Preparation",
+      "link": "https://en.chessbase.com/post/ai-powered-opening-preparation-3",
+      "source": "ChessBase",
+      "date": "2026-11-23T15:42:08.000Z",
+      "summary": "Working with the ChessBase ’27: what is a session with the new program like. In an example we show you what it looks like when a top player prepares against an opponent, what information the AI can derive, within seconds, from giant databases of millions of…"
+    },
     {
       "title": "Vishy Anand's Gukesh-Sindarov World Championship Predictions",
       "link": "https://www.chess.com/news/view/vishy-anand-gukesh-sindarov-world-championship-predictions",
@@ -23,11 +65,18 @@
       "summary": "FIDE is pleased to announce the opening of media accreditation for the FIDE World Rapid & Blitz Championships 2026, one of the most exciting events on the international chess calendar. Held annually in both the Open and Women’s sections, the championships c…"
     },
     {
-      "title": "The Two World Championship Contenders Open Up to the Media",
+      "title": "The two World Championship contenders open up to the media",
       "link": "https://en.chessbase.com/post/the-two-world-championship-contenders-open-up-to-the-media",
       "source": "ChessBase",
       "date": "2026-11-23T06:03:11.000Z",
       "summary": "November 22 marked the official kick-off of the Salesforce FIDE World Championship 2026. The assembled journalists were in for a treat, as Gukesh Dommaraju and Javokhir Sindarov took part in two separate media sessions, offering insights into their preparat…"
+    },
+    {
+      "title": "2026 World Chess Championship Preview: GM Gukesh D vs. GM Javokhir Sindarov",
+      "link": "https://lichess.org/@/Lichess/blog/2026-world-chess-championship-preview-gm-gukesh-d-vs-gm-javokhir-sindarov/FMsYNhys",
+      "source": "Lichess",
+      "date": "2026-11-22T23:00:02.149Z",
+      "summary": "GM Gukesh D is defending his title against challenger GM Javokhir Sindarov in Switzerland starting on Tuesday, November 24. Lichess will show all the games on our tournament broadcast page, provide daily world championship articles , featuring annotations b…"
     },
     {
       "title": "World Championship Match 2026 opens in Geneva at a historic venue",
@@ -40,7 +89,7 @@
       "title": "Muzychuk Wins Blitz Portion Of WR Women's Chess Tour Grand Final",
       "link": "https://www.chess.com/news/view/2026-wr-womens-chess-tour-grand-final-day-1",
       "source": "Chess.com",
-      "date": "2026-11-22T21:59:48.000Z",
+      "date": "2026-11-22T21:59:00.000Z",
       "summary": "GM Anna Muzychuk won the blitz portion of the WR Women's Chess Tour - Grand Final 2026 after defeating GM Kateryna Lagno 2.5-1.5 in the Final. Muzychuk leads the event, but there is a full rapid knockout tournament to go. The second and final day..."
     },
     {
@@ -317,20 +366,6 @@
       "summary": "One of Chess.com's biggest annual traditions is coming back in 2027: Registration is now open for the 2027 Daily Chess Championship (DCC). The Daily Chess Championship is one of the biggest tournaments in the world, and you can be a part of it! Re..."
     },
     {
-      "title": "How To Play With Carlsen, Caruana, And Your Favorite Stars In The Chess Club Shodown",
-      "link": "https://www.chess.com/news/view/announcing-chess-club-showdown-2026",
-      "source": "Chess.com",
-      "date": "2026-11-17T15:30:00.000Z",
-      "summary": "You can now help your favorite esports organization fight for the top spot in our new monthly event, the Chess Club Showdown. Play alongside your chess heroes, outscore other clubs, and bring home the title. With a $15,000 monthly prize fund up fo..."
-    },
-    {
-      "title": "Gukesh Opens Up About Pressure, Criticism Ahead Of Sindarov Match",
-      "link": "https://www.chess.com/news/view/gukesh-pressure-sindarov-world-championship",
-      "source": "Chess.com",
-      "date": "2026-11-17T15:23:14.000Z",
-      "summary": "World Champion Gukesh Dommaraju says he has struggled to handle the pressure and expectations of the world title, and is finding ways to deal with the criticism ahead of his match against GM Javokhir Sindarov. &ldquo;I think clearly so far I've n..."
-    },
-    {
       "title": "Total Chess 2026: Halfway Through, Carlsen Crashes to Historic Low",
       "link": "https://lichess.org/@/Lichess/blog/total-chess-2026-halfway-through-carlsen-crashes-to-historic-low/qmTzD0cn",
       "source": "Lichess",
@@ -338,25 +373,11 @@
       "summary": "Magnus Carlsen, the world number 1, has dropped to a 15-year low in his live rating during this rare over-the-board appearance, as Vachier-Lagrave vs. Giri and Firouzja vs. Caruana fight for contention. The Total Chess World Championship Tour Pilot (Novembe…"
     },
     {
-      "title": "Nakamura Beats Erdogmus En Route To London Live Finals",
-      "link": "https://www.chess.com/news/view/2026-speed-chess-championship-r16-nakamura-erdogmus",
-      "source": "Chess.com",
-      "date": "2026-11-16T22:01:00.000Z",
-      "summary": "GM Hikaru Nakamura of Team Falcons won the first Round of 16 match in the Speed Chess Championship XI with a 12-8 score against 15-year-old GM Yagiz Erdogmus. Erdogmus won the bullet segment, which is normally Nakamura's specialty, but it wasn't e..."
-    },
-    {
       "title": "89th Tata Steel 2027 - Games and Results",
       "link": "https://theweekinchess.com/chessnews/events/89th-tata-steel-2027",
       "source": "The Week in Chess",
       "date": "2026-11-10T15:28:00.000Z",
       "summary": "The 89th Tata Steel Chess tournament takes place in Wijk aan Zee Fri 15th Jan to Sun 31st Jan 2027. Masters: Vincent Keymer, Arjun Erigaisi, Anish Giri, Rameshbabu Praggnanandhaa, Dommaraju Gukesh, Nodirbek Abdusattorov, Javokhir Sindarov, Hans Niemann, Vla…"
-    },
-    {
-      "title": "Lichess Game of the Month: September '26",
-      "link": "https://lichess.org/@/Lichess/blog/lichess-game-of-the-month-september-26/abfVpMYX",
-      "source": "Lichess",
-      "date": "2026-11-06T09:31:13.281Z",
-      "summary": "A near miniature with multiple stunning sacrifices By October 12th, several of your best games of September were shared via our forum post . Our team went on to carefully check all submitted games and found that the game of @Drlnfrxx was outstanding. Congra…"
     },
     {
       "title": "KazChess Masters Almaty 2026 - Live!",
