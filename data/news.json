@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T13:50:06.960Z",
+  "updated": "2026-11-25T22:54:29.048Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,18 +9,60 @@
   ],
   "items": [
     {
-      "title": "World Championship: Gukesh v. Sindarov - Game 2 Live!",
-      "link": "https://en.chessbase.com/post/world-championship-2026-live",
-      "source": "ChessBase",
-      "date": "2026-11-25T14:45:00.000Z",
-      "summary": "The 2026 World Chess Championship match in Switzerland is seeing India's Gukesh Dommaraju defending the title he won in Singapore two years ago against Uzbekistan's Javokhir Sindarov. Both players are 20 years old, making it the youngest World Championship…"
+      "title": "Abdusattorov, Woodward Start With Wins In London Chess Classic",
+      "link": "https://www.chess.com/news/view/2026-london-chess-classic-round-1",
+      "source": "Chess.com",
+      "date": "2026-11-25T22:38:00.000Z",
+      "summary": "GMs Nodirbek Abdusattorov and Andy Woodward started with wins in round one of the XTX Markets London Chess Classic 2026 on Wednesday. Defending Champion Abdusattorov (with White) defeated GM Shreyas Royal in a Benoni pawn structure with reversed c..."
     },
     {
-      "title": "How To Watch FIDE World Championship 2026 Game 2",
+      "title": "World Championship Game 2: A London in Geneva",
+      "link": "https://en.chessbase.com/post/world-championship-2026-2",
+      "source": "ChessBase",
+      "date": "2026-11-25T22:35:00.000Z",
+      "summary": "Gukesh Dommaraju and Javokhir Sindarov drew the second game of their World Championship match in Geneva on Wednesday. Playing white for the first time, Gukesh opted for the London System, but found his opponent well-prepared to deal with the relatively caut…"
+    },
+    {
+      "title": "WCC 2026 Round 2: A Speedy London Draw",
+      "link": "https://lichess.org/@/Lichess/blog/wcc-2026-round-2-a-speedy-london-draw/tIcbLj1J",
+      "source": "Lichess",
+      "date": "2026-11-25T19:21:57.892Z",
+      "summary": "GM Gukesh D and GM Javokhir Sindarov played one of the shortest draws in recent world championship history, drawing their London System game in just 20 moves. Lichess will show all the games on our tournament broadcast page, provide daily world championship…"
+    },
+    {
+      "title": "Gukesh's London System doesn't surprise Sindarov - 2",
+      "link": "https://theweekinchess.com/twic-news-feed/gukeshs-london-system-doesnt-surprise-sindarov",
+      "source": "The Week in Chess",
+      "date": "2026-11-25T19:12:00.000Z",
+      "summary": "Salesforce FIDE World Chess Championship Match Game 2. Gukesh had his first game with the white pieces and chose the London System, because, why not? \"It's a cool opening.\" As it turned out Sindarov came prepared and after just 15 moves he was very comforta…"
+    },
+    {
+      "title": "Salesforce FIDE World Championship Match: Gukesh and Sindarov size each other up",
+      "link": "https://www.fide.com/salesforce-fide-world-championship-match-gukesh-and-sindarov-size-each-other-up/",
+      "source": "FIDE",
+      "date": "2026-11-25T18:39:08.000Z",
+      "summary": "Game two of the Salesforce FIDE World Championship Match 2026 in Geneva ended in a draw after just 2 hours and 20 moves. Both contenders eventually concluded that there was little the position could offer to upset the balance. Today, the ceremonial first mo…"
+    },
+    {
+      "title": "16th XTX Markets London Chess Classic 2026 - Games and Results",
+      "link": "https://theweekinchess.com/chessnews/events/16th-xtx-markets-london-chess-classic-2026",
+      "source": "The Week in Chess",
+      "date": "2026-11-25T17:21:00.000Z",
+      "summary": "The 16th XTX Markets London Chess Classic takes place Tue 24th Nov to Mon 7th Dec 2026. Masters: Vasyl Ivanchuk, Gawain Maroroa Jones, Nodirbek Abdusattorov, Levon Aronian, Ihor Samunenkov, Andy Woodward, Luke J McShane, Shreyas Royal, Michael Adams, Sarin…"
+    },
+    {
+      "title": "2026 FIDE General Assembly: Minutes",
+      "link": "https://www.fide.com/2025-fide-online-general-assembly-minutes-copy/",
+      "source": "FIDE",
+      "date": "2026-11-25T17:03:21.000Z",
+      "summary": "FIDE publishes the Minutes of FIDE General Assembly Meeting which was held on 26-27 September 2026 in Samarkand, Uzbekistan. FIDE General Assembly Minutes 2026 (pdf)"
+    },
+    {
+      "title": "Gukesh-Sindarov Game 2 Ends Abruptly In 20-Move London System Draw",
       "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-2",
       "source": "Chess.com",
-      "date": "2026-11-25T07:56:09.000Z",
-      "summary": "The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov continues on Wednesday, November 25, at 9 a.m. ET / 15:00 CET (local time in Geneva) /&nbsp; 7:30 p.m. IST. After de..."
+      "date": "2026-11-25T07:56:00.000Z",
+      "summary": "World Champion Gukesh Dommaraju played the London System in game two of the Salesforce FIDE World Championship 2026, but Challenger GM Javokhir Sindarov was ready. Once again, Gukesh fell behind on the clock, but just when Sindarov had gone for a ..."
     },
     {
       "title": "WCC 2026 Round 1: A Tense Berlin Draw Sets the Pace",
@@ -261,13 +303,6 @@
       "summary": "Jochen Schwarz is a club player from Bremen who enjoys playing the English Opening (1.c4), historically also known as the “Bremen Opening”. He has taken a look at the most important video courses in the ChessBase range and put together an overview. Some cou…"
     },
     {
-      "title": "Total Chess 2026: Firouzja’s triumph overshadowed by Carlsen controversy",
-      "link": "https://lichess.org/@/Lichess/blog/total-chess-2026-firouzjas-triumph-overshadowed-by-carlsen-controversy/73LHTdRM",
-      "source": "Lichess",
-      "date": "2026-11-21T06:37:59.580Z",
-      "summary": "Alireza Firouzja’s triumph over Anish Giri to win the inaugural Total Chess event is overshadowed by a series of controversial forfeits by Magnus Carlsen. The Total Chess World Championship Tour Pilot has come to its conclusion, with GM Alireza Firouzja ove…"
-    },
-    {
       "title": "Lazavik Cruises Into Speed Chess Quarterfinals With 12-8 Win Over Andreikin",
       "link": "https://www.chess.com/news/view/2026-speed-chess-championship-r16-lazavik-andreikin",
       "source": "Chess.com",
@@ -338,13 +373,6 @@
       "summary": "Anish Giri won the opening set of the Total Chess Pilot final against Alireza Firouzja in Budapest, while Fabiano Caruana did likewise against Maxime Vachier-Lagrave in the match for third place - both sets finished 11–9. Meanwhile, Magnus Carlsen sparked f…"
     },
     {
-      "title": "Giri takes the lead in Total Chess Final",
-      "link": "https://www.fide.com/giri-takes-the-lead-in-total-chess-final/",
-      "source": "FIDE",
-      "date": "2026-11-19T21:47:54.000Z",
-      "summary": "Caruana leads the match for third place as Carlsen turns his day around in Fast Classic Anish Giri won the opening day of the final of the Total Chess World Championship Tour Pilot in Budapest on Thursday, defeating Alireza Firouzja by 11 points to 9. Giri’…"
-    },
-    {
       "title": "Giri Leads Firouzja In Final After Heroic Defense, Carlsen Stays Above 2800",
       "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-9",
       "source": "Chess.com",
@@ -357,13 +385,6 @@
       "source": "ChessBase",
       "date": "2026-11-19T20:00:00.000Z",
       "summary": "On 24 November, the first game of the eagerly anticipated World Championship match between defending champion Gukesh Dommaraju and challenger Javokhir Sindarov will be played in Geneva. Never before have two such young players competed for the title. In thi…"
-    },
-    {
-      "title": "World Junior U20 Chess Championship 2026 begins in Caracas, Venezuela",
-      "link": "https://www.fide.com/world-junior-u20-chess-championship-2026-begins-in-caracas-venezuela/",
-      "source": "FIDE",
-      "date": "2026-11-19T13:37:23.000Z",
-      "summary": "Caracas, Venezuela – November 18, 2026. The President of the Bolivarian Republic of Venezuela, Delcy Rodríguez, and the President of the National Assembly, Jorge Rodríguez, made the ceremonial first move to officially launch the 2026 World Junior Chess Cham…"
     },
     {
       "title": "Total Chess: Giri and Firouzja to battle for tournament title",
@@ -413,13 +434,6 @@
       "source": "Chess.com",
       "date": "2026-11-17T21:39:00.000Z",
       "summary": "GM Alireza Firouzja started with a 4-0 blitz victory against GM Fabiano Caruana, lost that lead in a single rapid game, but ultimately won the day 12-8 as the grueling Semifinals of the Total Chess World Championship Tour Pilot 2026 began. The oth..."
-    },
-    {
-      "title": "Tabatabaei Win Streak Earns Second Titled Tuesday",
-      "link": "https://www.chess.com/news/view/tabatabaei-wins-titled-tuesday-november-17-2026",
-      "source": "Chess.com",
-      "date": "2026-11-17T21:30:00.000Z",
-      "summary": "GM Amin Tabatabaei came from behind to win Titled Tuesday (TT) on tiebreaks on November 17, winning his last six games to finish with 9.5 points. GM Hikaru Nakamura was held to draws in two of his last three games and his own 9.5-point performance..."
     },
     {
       "title": "89th Tata Steel 2027 - Games and Results",
