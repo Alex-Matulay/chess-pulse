@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T03:19:11.004Z",
+  "updated": "2026-11-25T13:50:06.960Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "World Championship: Gukesh v. Sindarov - Game 2 Live!",
+      "link": "https://en.chessbase.com/post/world-championship-2026-live",
+      "source": "ChessBase",
+      "date": "2026-11-25T14:45:00.000Z",
+      "summary": "The 2026 World Chess Championship match in Switzerland is seeing India's Gukesh Dommaraju defending the title he won in Singapore two years ago against Uzbekistan's Javokhir Sindarov. Both players are 20 years old, making it the youngest World Championship…"
+    },
+    {
+      "title": "How To Watch FIDE World Championship 2026 Game 2",
+      "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-2",
+      "source": "Chess.com",
+      "date": "2026-11-25T07:56:09.000Z",
+      "summary": "The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov continues on Wednesday, November 25, at 9 a.m. ET / 15:00 CET (local time in Geneva) /&nbsp; 7:30 p.m. IST. After de..."
+    },
     {
       "title": "WCC 2026 Round 1: A Tense Berlin Draw Sets the Pace",
       "link": "https://lichess.org/@/Lichess/blog/wcc-2026-round-1-a-tense-berlin-draw-sets-the-pace/4vQ20VuS",
@@ -21,6 +35,13 @@
       "source": "The Week in Chess",
       "date": "2026-11-25T00:36:00.000Z",
       "summary": "Game one of the FIDE World Chess Championship in Geneva was a Berlin Defence drawn by repetition in 38 moves. Javokhir Sindarov opened with 1.e4 and found an older variation that tested his opponent. Gukesh fell behind on the clock but continued to find goo…"
+    },
+    {
+      "title": "Daniel King analyses: How Gukesh saved the draw",
+      "link": "https://en.chessbase.com/post/world-championship-2026-analysis",
+      "source": "ChessBase",
+      "date": "2026-11-24T22:46:47.000Z",
+      "summary": "The first game of the World Championship match between defending champion Gukesh and challenger Javokhir Sindarov got off to a promising start. Sindarov opened with 1.e4, and Gukesh opted for the Berlin Defence. The variation has a reputation for being draw…"
     },
     {
       "title": "World Championship Game 1: A draw in the Berlin, not without tension",
@@ -399,13 +420,6 @@
       "source": "Chess.com",
       "date": "2026-11-17T21:30:00.000Z",
       "summary": "GM Amin Tabatabaei came from behind to win Titled Tuesday (TT) on tiebreaks on November 17, winning his last six games to finish with 9.5 points. GM Hikaru Nakamura was held to draws in two of his last three games and his own 9.5-point performance..."
-    },
-    {
-      "title": "Streaks Are Freezing From November 19 To 23 So You Can Enjoy GTA VI's Launch Stress-Free",
-      "link": "https://www.chess.com/news/view/gta-vi-streak-freeze",
-      "source": "Chess.com",
-      "date": "2026-11-17T21:00:00.000Z",
-      "summary": "One of the most anticipated moments in gaming history is coming&mdash;and we don't want you to stress about losing your Chess.com streak. From November 19 to 23, we're freezing everyone's streak so you can disappear into GTA VI on launch weekend w..."
     },
     {
       "title": "89th Tata Steel 2027 - Games and Results",
