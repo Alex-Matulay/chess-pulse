@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T19:53:14.954Z",
+  "updated": "2026-11-25T03:19:11.004Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,18 +9,53 @@
   ],
   "items": [
     {
+      "title": "WCC 2026 Round 1: A Tense Berlin Draw Sets the Pace",
+      "link": "https://lichess.org/@/Lichess/blog/wcc-2026-round-1-a-tense-berlin-draw-sets-the-pace/4vQ20VuS",
+      "source": "Lichess",
+      "date": "2026-11-25T01:57:46.694Z",
+      "summary": "In a tense Berlin endgame, GM Gukesh D and GM Javokhir Sindarov drew their first game of the match after 38 moves. Lichess will show all the games on our tournament broadcast page, provide daily world championship articles , featuring annotations by GM Davi…"
+    },
+    {
+      "title": "World Chess Championship off to a promising start - 1",
+      "link": "https://theweekinchess.com/twic-news-feed/world-chess-championship-off-to-a-promising-start",
+      "source": "The Week in Chess",
+      "date": "2026-11-25T00:36:00.000Z",
+      "summary": "Game one of the FIDE World Chess Championship in Geneva was a Berlin Defence drawn by repetition in 38 moves. Javokhir Sindarov opened with 1.e4 and found an older variation that tested his opponent. Gukesh fell behind on the clock but continued to find goo…"
+    },
+    {
+      "title": "World Championship Game 1: A draw in the Berlin, not without tension",
+      "link": "https://en.chessbase.com/post/world-championship-2026-1",
+      "source": "ChessBase",
+      "date": "2026-11-24T21:35:00.000Z",
+      "summary": "The World Chess Championship match between Gukesh Dommaraju and Javokhir Sindarov got under way on Tuesday in Geneva, with the two 20-year-old contenders signing a draw in a tense 38-move encounter. Playing white, Sindarov obtained a considerable advantage…"
+    },
+    {
+      "title": "Gukesh Survives Pressure To Hold Sindarov To Draw In World Championship Game 1",
+      "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1",
+      "source": "Chess.com",
+      "date": "2026-11-24T21:20:00.000Z",
+      "summary": "GM Javokhir Sindarov seemed to get the better of a tense opening battle in game one of the Salesforce FIDE World Championship 2026, but World Champion Gukesh Dommaraju survived pressure on the board and clock to make a draw. Sindarov, who faced th..."
+    },
+    {
+      "title": "Nakamura Widens Lead In Esports World Cup Qualification Standings",
+      "link": "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-november-24-2026",
+      "source": "Chess.com",
+      "date": "2026-11-24T20:16:14.000Z",
+      "summary": "The 2026 Salesforce FIDE World Championship also began on November 24, but Titled Tuesday continued apace, with its ongoing role in qualification for one of next year's biggest chess competitions, the 2027 Esports World Cup (EWC). GM Hikaru Nakamu..."
+    },
+    {
+      "title": "Salesforce FIDE World Championship Match: A draw in the opening game",
+      "link": "https://www.fide.com/salesforce-fide-world-championship-match-a-draw-in-the-opening-game/",
+      "source": "FIDE",
+      "date": "2026-11-24T20:02:13.000Z",
+      "summary": "Javokhir Sindarov and Gukesh Dommaraju drew their first encounter in the Salesforce FIDE World Championship Match 2026 in Geneva. Both players produced a highly accurate performance in a complex game, with neither managing to tilt the balance decisively in…"
+    },
+    {
       "title": "World Junior Championship U20 Championship 2026 at midpoint: India tops the standings in both sections",
       "link": "https://www.fide.com/world-junior-championship-u20-championship-2026-at-midpoint-india-tops-the-standings-in-both-sections/",
       "source": "FIDE",
       "date": "2026-11-24T17:49:10.000Z",
       "summary": "Following the sixth round of the 2026 World Junior U20 Championship in Caracas, top-seeded Indian IM Ethan Vaz (pictured below) leads the Open tournament with a perfect score of six wins from six games. IMs Santiago López (COL) and Khagan Ahmad (AZE) are ti…"
-    },
-    {
-      "title": "World Championship Match: Sindarov v. Gukesh - Game 1 Live!",
-      "link": "https://en.chessbase.com/post/world-championship-2026-live",
-      "source": "ChessBase",
-      "date": "2026-11-24T14:45:00.000Z",
-      "summary": "The 2026 World Chess Championship match takes place at the Fondation Martin Bodmer in Cologny, near Geneva, Switzerland. India's Gukesh Dommaraju is defending the title he won in Singapore two years ago against Uzbekistan's Javokhir Sindarov, the winner of…"
     },
     {
       "title": "World Chess Championship: A look at the international press",
@@ -42,13 +77,6 @@
       "source": "The Week in Chess",
       "date": "2026-11-23T22:54:00.000Z",
       "summary": "The World Chess Championship 2026 takes place Tue 24th November to Sat 12th December 2026 in Geneva, Switzerland. Defending Champion Gukesh Dommaraju from India faces challenger Javokhir Sindarov. I will have live moves. Sindarov has the white pieces in gam…"
-    },
-    {
-      "title": "Gukesh Survives Pressure To Hold Sindarov To Draw In World Championship Game 1",
-      "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-1",
-      "source": "Chess.com",
-      "date": "2026-11-23T21:20:00.000Z",
-      "summary": "GM Javokhir Sindarov seemed to be on the better side of a tense opening battle in game one of the Salesforce FIDE World Championship 2026, but World Champion Gukesh Dommaraju survived pressure on the board and clock in the Berlin Endgame to make a..."
     },
     {
       "title": "Mizzou Defeats UTD In Tiebreaks To Win Collegiate Chess League",
@@ -317,13 +345,6 @@
       "summary": "Caracas, Venezuela – November 18, 2026. The President of the Bolivarian Republic of Venezuela, Delcy Rodríguez, and the President of the National Assembly, Jorge Rodríguez, made the ceremonial first move to officially launch the 2026 World Junior Chess Cham…"
     },
     {
-      "title": "Gukesh and Sindarov set for World Championship showdown",
-      "link": "https://www.fide.com/gukesh-and-sindarov-set-for-world-championship-showdown/",
-      "source": "FIDE",
-      "date": "2026-11-19T12:15:25.000Z",
-      "summary": "The Salesforce FIDE World Championship Match 2026 is set to make history as the youngest encounter for the classical world title. Both contenders are still in their early twenties, brimming with energy and ambition, and with much of their chess careers stil…"
-    },
-    {
       "title": "Total Chess: Giri and Firouzja to battle for tournament title",
       "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-2",
       "source": "ChessBase",
@@ -385,20 +406,6 @@
       "source": "Chess.com",
       "date": "2026-11-17T21:00:00.000Z",
       "summary": "One of the most anticipated moments in gaming history is coming&mdash;and we don't want you to stress about losing your Chess.com streak. From November 19 to 23, we're freezing everyone's streak so you can disappear into GTA VI on launch weekend w..."
-    },
-    {
-      "title": "UTD Advances To Defend CCL Title",
-      "link": "https://www.chess.com/news/view/ccl-quarterfinals-fall-2026",
-      "source": "Chess.com",
-      "date": "2026-11-17T20:05:00.000Z",
-      "summary": "The University of Texas, Dallas (UTD) earned a return trip to the Collegiate Chess League Finals by earning a first-round bye and then defeating Texas Tech in the Semifinals. They will play the winner of the upcoming semifinal match between the Sa..."
-    },
-    {
-      "title": "Total Chess 2026: Halfway Through, Carlsen Crashes to Historic Low",
-      "link": "https://lichess.org/@/Lichess/blog/total-chess-2026-halfway-through-carlsen-crashes-to-historic-low/qmTzD0cn",
-      "source": "Lichess",
-      "date": "2026-11-17T00:27:01.332Z",
-      "summary": "Magnus Carlsen, the world number 1, has dropped to a 15-year low in his live rating during this rare over-the-board appearance, as Vachier-Lagrave vs. Giri and Firouzja vs. Caruana fight for contention. The Total Chess World Championship Tour Pilot (Novembe…"
     },
     {
       "title": "89th Tata Steel 2027 - Games and Results",
