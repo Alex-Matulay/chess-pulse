@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T22:54:29.048Z",
+  "updated": "2026-11-26T04:39:56.526Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,13 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Daniel King analyses: London System in Game 2",
+      "link": "https://en.chessbase.com/post/world-championship-2026-analysis-daniel-king2",
+      "source": "ChessBase",
+      "date": "2026-11-26T02:31:25.000Z",
+      "summary": "The second game of the World Championship match between defending champion Gukesh and challenger Javokhir Sindarov saw a London System on the board. Daniel King shows the key moments of Game 2 in his video analysis."
+    },
     {
       "title": "Abdusattorov, Woodward Start With Wins In London Chess Classic",
       "link": "https://www.chess.com/news/view/2026-london-chess-classic-round-1",
@@ -170,13 +177,6 @@
       "summary": "The much-anticipated Salesforce FIDE World Championship is about to start. This Tuesday, two stars from two of the world's strongest chess powerhouses will clash for the highest title in chess. On one side, Indian GM Gukesh Dommaraju will fight to..."
     },
     {
-      "title": "AI Powered Opening Preparation",
-      "link": "https://en.chessbase.com/post/ai-powered-opening-preparation-3",
-      "source": "ChessBase",
-      "date": "2026-11-23T15:42:08.000Z",
-      "summary": "Working with the ChessBase ’27: what is a session with the new program like. In an example we show you what it looks like when a top player prepares against an opponent, what information the AI can derive, within seconds, from giant databases of millions of…"
-    },
-    {
       "title": "Vishy Anand's Gukesh-Sindarov World Championship Predictions",
       "link": "https://www.chess.com/news/view/vishy-anand-gukesh-sindarov-world-championship-predictions",
       "source": "Chess.com",
@@ -189,13 +189,6 @@
       "source": "FIDE",
       "date": "2026-11-23T06:20:00.000Z",
       "summary": "FIDE is pleased to announce the opening of media accreditation for the FIDE World Rapid & Blitz Championships 2026, one of the most exciting events on the international chess calendar. Held annually in both the Open and Women’s sections, the championships c…"
-    },
-    {
-      "title": "The two World Championship contenders open up to the media",
-      "link": "https://en.chessbase.com/post/the-two-world-championship-contenders-open-up-to-the-media",
-      "source": "ChessBase",
-      "date": "2026-11-23T06:03:11.000Z",
-      "summary": "November 22 marked the official kick-off of the Salesforce FIDE World Championship 2026. The assembled journalists were in for a treat, as Gukesh Dommaraju and Javokhir Sindarov took part in two separate media sessions, offering insights into their preparat…"
     },
     {
       "title": "2026 World Chess Championship Preview: GM Gukesh D vs. GM Javokhir Sindarov",
@@ -219,6 +212,13 @@
       "summary": "GM Anna Muzychuk won the blitz portion of the WR Women's Chess Tour - Grand Final 2026 after defeating GM Kateryna Lagno 2.5-1.5 in the Final. Muzychuk leads the event, but there is a full rapid knockout tournament to go. The second and final day..."
     },
     {
+      "title": "The two World Championship contenders open up to the media",
+      "link": "https://www.fide.com/the-two-world-championship-contenders-open-up-to-the-media/",
+      "source": "FIDE",
+      "date": "2026-11-22T21:40:19.000Z",
+      "summary": "November 22 marked the official commencement of the Salesforce FIDE World Championship Match 2026. The assembled journalists were in for a treat, as Gukesh Dommaraju and Javokhir Sindarov took part in two separate media sessions, offering insights into thei…"
+    },
+    {
       "title": "Sindarov Gets White As Gukesh Vows To Win World Championship 'All Over Again'",
       "link": "https://www.chess.com/news/view/2026-fide-chess-world-championship-opening-ceremony",
       "source": "Chess.com",
@@ -226,32 +226,11 @@
       "summary": "GM Javokhir Sindarov will start the 2026 Salesforce FIDE World Championship with the white pieces in Geneva on Tuesday after World Champion Gukesh Dommaraju selected a clock containing a black knight at the opening ceremony. Earlier, at the press ..."
     },
     {
-      "title": "Total mess in Budapest",
-      "link": "https://en.chessbase.com/post/total-mess-in-budapest",
-      "source": "ChessBase",
-      "date": "2026-11-22T19:50:00.000Z",
-      "summary": "After Magnus Carlsen, the strongest player in the world, once again took liberties in his match against Vladislav Artemiev - this time playing the blitz games and the fast classic game, but skipping the rapid games - one has to conclude that the \"pilot\" for…"
-    },
-    {
-      "title": "LIVE: The World Championship kicks off – press conference and opening ceremony today",
-      "link": "https://en.chessbase.com/post/live-the-world-championship-kicks-off-press-conference-and-opening-ceremony-today",
-      "source": "ChessBase",
-      "date": "2026-11-22T15:00:00.000Z",
-      "summary": "Gukesh Dommaraju faces Javokhir Sindarov in the 2026 Salesforce FIDE World Championship in Geneva. The first move will be played on Tuesday, 24 November, at 15:00 CET. Today, the players will meet the press at 15:30, followed by the opening ceremony at 17:0…"
-    },
-    {
       "title": "Indomitable Nakamura Captures 75th Bullet Brawl Title",
       "link": "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-nov-21-2026",
       "source": "Chess.com",
       "date": "2026-11-22T05:10:00.000Z",
       "summary": "GM Hikaru Nakamura's dynasty of dominance has been extended after he won his 75th career Bullet Brawl title on Saturday. With a score of 183, Nakamura was the convincing winner of $400 first prize. GM Arjun Erigaisi, who was Nakamura's most dange..."
-    },
-    {
-      "title": "Casablanca and Oromana take early lead at Spanish Team Championship",
-      "link": "https://en.chessbase.com/post/spanish-team-ch-2026-r2",
-      "source": "ChessBase",
-      "date": "2026-11-22T02:35:00.000Z",
-      "summary": "MyInvestor Casablanca and Oromana Cen Solutions are the only teams to have won both their matches after two rounds of the Spanish Team Championship in Marbella. Casablanca lead the standings on tiebreaks following a convincing 5–1 victory over Silla Bosch S…"
     },
     {
       "title": "FIDE Calls Carlsen's Forfeits 'Unacceptable,' Refers His Conduct To Ethics Commission",
@@ -268,13 +247,6 @@
       "summary": "Kazakhstan’s Ibrahim Bekbol and Russia’s FM Ekaterina Borisova won the first titles of the Asian Amateur Chess Championships 2026 at the Bazaar Hotel in Bangkok. Hosted by the Thailand Chess Federation the competition runs from November 21 to 29. Both blitz…"
     },
     {
-      "title": "Firouzja beats Giri in Armageddon to claim Total Chess Pilot title",
-      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-4",
-      "source": "ChessBase",
-      "date": "2026-11-21T18:40:00.000Z",
-      "summary": "Alireza Firouzja won the Total Chess Pilot in Budapest on Friday, defeating Anish Giri in Armageddon after the finalists had exchanged set victories. Fabiano Caruana secured third place with a straight-sets win over Maxime Vachier-Lagrave, while Hans Nieman…"
-    },
-    {
       "title": "New Classic Games App In Beta, Play And Learn 10 Incredible Games!",
       "link": "https://www.chess.com/news/view/announcing-classic-games-beta",
       "source": "Chess.com",
@@ -287,20 +259,6 @@
       "source": "FIDE",
       "date": "2026-11-21T13:28:50.000Z",
       "summary": "Following the conclusion of the Total Chess World Championship Tour Pilot 2026 in Budapest, the International Chess Federation (FIDE) congratulates the medalists, GMs Alireza Firouzja, Anish Giri, and Fabiano Caruana. FIDE also extends its thanks to Kjell M…"
-    },
-    {
-      "title": "Javokhir Sindarov – the next World Champion?",
-      "link": "https://en.chessbase.com/post/javokhir-sindarov-the-next-world-champion",
-      "source": "ChessBase",
-      "date": "2026-11-21T08:58:32.000Z",
-      "summary": "In a few days, Javokhir Sindarov will face Gukesh in Geneva for the World Championship title. Sindarov is currently fourth in the world rankings, but by the numbers, he is already the best player in the world. Over the twelve months leading up to the World…"
-    },
-    {
-      "title": "Review: The English Opening – An overview",
-      "link": "https://en.chessbase.com/post/review-the-english-opening-an-overview",
-      "source": "ChessBase",
-      "date": "2026-11-21T07:00:00.000Z",
-      "summary": "Jochen Schwarz is a club player from Bremen who enjoys playing the English Opening (1.c4), historically also known as the “Bremen Opening”. He has taken a look at the most important video courses in the ChessBase range and put together an overview. Some cou…"
     },
     {
       "title": "Lazavik Cruises Into Speed Chess Quarterfinals With 12-8 Win Over Andreikin",
@@ -322,13 +280,6 @@
       "source": "Chess.com",
       "date": "2026-11-20T21:07:00.000Z",
       "summary": "GM Alireza Firouzja came back from behind to win the Total Chess World Championship on its 10th and final day. He came into Friday down a set against&nbsp;GM Anish Giri, but won the second set 13-8. He went on to win the tournament and $80,000 in ..."
-    },
-    {
-      "title": "Chess by the Numbers: Explore a decade of FIDE Data, powered by Salesforce Agentforce",
-      "link": "https://en.chessbase.com/post/chess-by-the-numbers-salesforce",
-      "source": "ChessBase",
-      "date": "2026-11-20T21:00:00.000Z",
-      "summary": "The official website of the Salesforce FIDE World Championship now includes an interactive \"Chess by the Numbers\" section, using more than a decade of FIDE data to explore trends across the game. Powered by Salesforce technology, the feature covers player r…"
     },
     {
       "title": "Total Chess Pilot 2026 - Games and Results",
@@ -366,32 +317,11 @@
       "summary": "A six-part documentary series titled Candidates: India's Chess Story will be releasing on YouTube, with the first episode airing on November 22. Viewership is free. The series follows the five Indian players at the 2024 Candidates Tournaments&mdas..."
     },
     {
-      "title": "Total Chess: Giri takes early lead over Firouzja, Carlsen forfeits rapid games",
-      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-3",
-      "source": "ChessBase",
-      "date": "2026-11-20T07:10:00.000Z",
-      "summary": "Anish Giri won the opening set of the Total Chess Pilot final against Alireza Firouzja in Budapest, while Fabiano Caruana did likewise against Maxime Vachier-Lagrave in the match for third place - both sets finished 11–9. Meanwhile, Magnus Carlsen sparked f…"
-    },
-    {
       "title": "Giri Leads Firouzja In Final After Heroic Defense, Carlsen Stays Above 2800",
       "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-9",
       "source": "Chess.com",
       "date": "2026-11-19T21:14:00.000Z",
       "summary": "GM Anish Giri leads the Final against GM Alireza Firouzja after winning the first set 11-9 in the Total Chess World Championship on Thursday. The fast classic game was critical, and he managed to defend a lost (but tricky) position to maintain his..."
-    },
-    {
-      "title": "The difficult road to defending his title: Gukesh Dommaraju",
-      "link": "https://en.chessbase.com/post/the-difficult-road-to-defending-his-title-gukesh-dommaraju",
-      "source": "ChessBase",
-      "date": "2026-11-19T20:00:00.000Z",
-      "summary": "On 24 November, the first game of the eagerly anticipated World Championship match between defending champion Gukesh Dommaraju and challenger Javokhir Sindarov will be played in Geneva. Never before have two such young players competed for the title. In thi…"
-    },
-    {
-      "title": "Total Chess: Giri and Firouzja to battle for tournament title",
-      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-2",
-      "source": "ChessBase",
-      "date": "2026-11-19T07:10:00.000Z",
-      "summary": "Alireza Firouzja and Anish Giri will face each other in the final of the Total Chess Pilot in Budapest. Giri defeated Maxime Vachier-Lagrave in straight sets, while Firouzja needed an Armageddon decider to overcome Fabiano Caruana. Meanwhile, Magnus Carlsen…"
     },
     {
       "title": "Giri, Firouzja Advance To Final Match",
@@ -420,13 +350,6 @@
       "source": "Chess.com",
       "date": "2026-11-18T13:21:14.000Z",
       "summary": "GM Pranav Venkatesh has signed with Revenant XSpark as its first chess player, becoming the latest Indian grandmaster to join an esports organization. The contract comes shortly after the 20-year-old was crowned world junior blitz champion, and h..."
-    },
-    {
-      "title": "Total Chess: Firouzja and Giri win opening sets, Carlsen sparks controversy",
-      "link": "https://en.chessbase.com/post/total-chess-budapest-2026-ko-1",
-      "source": "ChessBase",
-      "date": "2026-11-18T07:50:00.000Z",
-      "summary": "Alireza Firouzja and Anish Giri (pictured) won the opening sets of their semifinal matches at the Total Chess Pilot in Budapest, defeating Fabiano Caruana and Maxime Vachier-Lagrave respectively. The first day of knockout action also brought controversy, as…"
     },
     {
       "title": "Firouzja, Giri Lead Total Chess Semifinals; Carlsen Forfeits Final Game",
