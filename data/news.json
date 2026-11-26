@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T04:39:56.526Z",
+  "updated": "2026-11-26T14:40:17.870Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,34 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "World Championship: Sindarov v. Gukesh - Game 3 Live!",
+      "link": "https://en.chessbase.com/post/world-championship-2026-live",
+      "source": "ChessBase",
+      "date": "2026-11-26T14:45:00.000Z",
+      "summary": "The 2026 World Chess Championship match in Switzerland is seeing India's Gukesh Dommaraju defending the title he won in Singapore two years ago against Uzbekistan's Javokhir Sindarov. Both players are 20 years old, making it the youngest World Championship…"
+    },
+    {
+      "title": "When Chess Starts to Sing",
+      "link": "https://en.chessbase.com/post/when-chess-starts-to-sing",
+      "source": "ChessBase",
+      "date": "2026-11-26T10:00:00.000Z",
+      "summary": "How ChessBase 27 turns the World Championship into a musical experience. It all started with Ask ChessBase, a fascinating new concept in ChessBase 27 - an AI assistant that has access to the functionality of the chess program it lives in. You can ask it alm…"
+    },
+    {
+      "title": "How To Watch FIDE World Championship 2026 Game 3",
+      "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-3",
+      "source": "Chess.com",
+      "date": "2026-11-26T07:10:00.000Z",
+      "summary": "The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov continues with game three on Thursday, November 26, at 9 a.m. ET / 15:00 CET /&nbsp; 7:30 p.m. IST. After two draws,..."
+    },
+    {
+      "title": "World-сlass commentary meets cutting-edge technology at the Salesforce FIDE World Championship Match 2026",
+      "link": "https://www.fide.com/world-%d1%81lass-commentary-meets-cutting-edge-technology-at-the-salesforce-fide-world-championship-match-2026/",
+      "source": "FIDE",
+      "date": "2026-11-26T07:00:00.000Z",
+      "summary": "The Salesforce FIDE World Championship 2026 will be a match to remember. While the players are bringing novelties to the chessboard, the official broadcast on the FIDE YouTube channel is introducing innovations of its own. Viewers can follow every move with…"
+    },
     {
       "title": "Daniel King analyses: London System in Game 2",
       "link": "https://en.chessbase.com/post/world-championship-2026-analysis-daniel-king2",
@@ -268,13 +296,6 @@
       "summary": "GM Denis Lazavik is through to face either GM Wesley So or GM Praggnanandhaa Rameshbabu in the Quarterfinals of the Speed Chess Championship XI after defeating GM Dmitry Andreikin 12-8 in the Round of 16. Lazavik won the first game before drawing ..."
     },
     {
-      "title": "Alireza Firouzja wins Total Chess Budapest Pilot",
-      "link": "https://www.fide.com/alireza-firouzja-wins-total-chess-budapest-pilot/",
-      "source": "FIDE",
-      "date": "2026-11-20T21:42:51.000Z",
-      "summary": "Giri finishes second after Armageddon draw as Caruana secures third place Alireza Firouzja won the Total Chess World Championship Tour Pilot in Budapest on Friday after drawing the Armageddon decider with Black against Anish Giri. Firouzja had forced the ti…"
-    },
-    {
       "title": "Firouzja Wins Total Chess World Championship Tour Pilot",
       "link": "https://www.chess.com/news/view/firouzja-wins-2026-total-chess-world-championship-tour-pilot",
       "source": "Chess.com",
@@ -350,13 +371,6 @@
       "source": "Chess.com",
       "date": "2026-11-18T13:21:14.000Z",
       "summary": "GM Pranav Venkatesh has signed with Revenant XSpark as its first chess player, becoming the latest Indian grandmaster to join an esports organization. The contract comes shortly after the 20-year-old was crowned world junior blitz champion, and h..."
-    },
-    {
-      "title": "Firouzja, Giri Lead Total Chess Semifinals; Carlsen Forfeits Final Game",
-      "link": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-7",
-      "source": "Chess.com",
-      "date": "2026-11-17T21:39:00.000Z",
-      "summary": "GM Alireza Firouzja started with a 4-0 blitz victory against GM Fabiano Caruana, lost that lead in a single rapid game, but ultimately won the day 12-8 as the grueling Semifinals of the Total Chess World Championship Tour Pilot 2026 began. The oth..."
     },
     {
       "title": "89th Tata Steel 2027 - Games and Results",
