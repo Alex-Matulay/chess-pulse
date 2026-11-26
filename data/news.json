@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T14:40:17.870Z",
+  "updated": "2026-11-26T23:26:58.952Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,25 +9,32 @@
   ],
   "items": [
     {
-      "title": "World Championship: Sindarov v. Gukesh - Game 3 Live!",
+      "title": "Salesforce FIDE World Championship, Game 3: A tense fight ends in a draw",
+      "link": "https://www.fide.com/salesforce-fide-world-championship-game-3-a-tense-fight-ends-in-a-draw/",
+      "source": "FIDE",
+      "date": "2026-11-26T21:18:21.000Z",
+      "summary": "The third game of the Salesforce FIDE World Championship Match 2026 in Geneva ended in a draw after a 60-move battle. The match is tied at 1½–1½ heading into the rest day. The ceremonial first move was made by Mike Klein, Chess.com Senior Journalist and Con…"
+    },
+    {
+      "title": "World Championship: Game 3 ends in 60-move draw",
       "link": "https://en.chessbase.com/post/world-championship-2026-live",
       "source": "ChessBase",
       "date": "2026-11-26T14:45:00.000Z",
       "summary": "The 2026 World Chess Championship match in Switzerland is seeing India's Gukesh Dommaraju defending the title he won in Singapore two years ago against Uzbekistan's Javokhir Sindarov. Both players are 20 years old, making it the youngest World Championship…"
     },
     {
-      "title": "When Chess Starts to Sing",
+      "title": "When chess starts to sing",
       "link": "https://en.chessbase.com/post/when-chess-starts-to-sing",
       "source": "ChessBase",
       "date": "2026-11-26T10:00:00.000Z",
       "summary": "How ChessBase 27 turns the World Championship into a musical experience. It all started with Ask ChessBase, a fascinating new concept in ChessBase 27 - an AI assistant that has access to the functionality of the chess program it lives in. You can ask it alm…"
     },
     {
-      "title": "How To Watch FIDE World Championship 2026 Game 3",
+      "title": "Gukesh, Sindarov Both Push For Win As Game 3 Ends In Thrilling Draw",
       "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-3",
       "source": "Chess.com",
       "date": "2026-11-26T07:10:00.000Z",
-      "summary": "The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov continues with game three on Thursday, November 26, at 9 a.m. ET / 15:00 CET /&nbsp; 7:30 p.m. IST. After two draws,..."
+      "summary": "World Champion Gukesh Dommaraju's early surprise of playing the Rio de Janeiro Variation of the Berlin gave him a 50-minute lead on the clock, with GM Javokhir Sindarov ultimately reaching move 40 with just six seconds to spare. The game was a thr..."
     },
     {
       "title": "World-сlass commentary meets cutting-edge technology at the Salesforce FIDE World Championship Match 2026",
@@ -280,13 +287,6 @@
       "source": "Chess.com",
       "date": "2026-11-21T14:34:49.000Z",
       "summary": "We're excited to announce the open Beta of Classic, our new online platform featuring some of the world's most traditional and beloved games. You can now play and learn 10 games, including sudoku, mahjong, Go, solitaire, checkers, and more, all in..."
-    },
-    {
-      "title": "FIDE Statement on the Conclusion of the Total Chess World Championship Tour Pilot 2026",
-      "link": "https://www.fide.com/fide-statement-on-the-conclusion-of-the-total-chess-world-championship-tour-pilot-2026/",
-      "source": "FIDE",
-      "date": "2026-11-21T13:28:50.000Z",
-      "summary": "Following the conclusion of the Total Chess World Championship Tour Pilot 2026 in Budapest, the International Chess Federation (FIDE) congratulates the medalists, GMs Alireza Firouzja, Anish Giri, and Fabiano Caruana. FIDE also extends its thanks to Kjell M…"
     },
     {
       "title": "Lazavik Cruises Into Speed Chess Quarterfinals With 12-8 Win Over Andreikin",
