@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T06:25:16.089Z",
+  "updated": "2026-11-27T17:09:35.109Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "London Chess Classic - Round 3 live",
+      "link": "https://en.chessbase.com/post/london-chess-classic-abdusattorov-aronian-ivanchuk-and-the-next-generation",
+      "source": "ChessBase",
+      "date": "2026-11-27T16:50:00.000Z",
+      "summary": "While Gukesh and Sindarov are battling for the world championship title in Geneva, the 16th London Chess Classic, featuring a Masters and a Challengers section, is taking place from 25 November to 4 December. Defending champion Nodirbek Abdusattorov faces a…"
+    },
+    {
+      "title": "How To Watch FIDE World Championship 2026 Game 4",
+      "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-4",
+      "source": "Chess.com",
+      "date": "2026-11-27T13:44:00.000Z",
+      "summary": "The Salesforce FIDE World Championship 2026 between defending World Champion Gukesh Dommaraju and Challenger GM Javokhir Sindarov resumes after the rest day with game four on Saturday, November 28, at 9 a.m. ET / 15:00 CET /&nbsp; 7:30 p.m. IST. ..."
+    },
     {
       "title": "WCC 2026 Round 3: A Hard-Fought, Rare Berlin Defense",
       "link": "https://lichess.org/@/Lichess/blog/wcc-2026-round-3-a-hard-fought-rare-berlin-defense/AilRgfs7",
@@ -37,6 +51,13 @@
       "summary": "World Chess Championship Game 3. Javokhir Sindarov and Gukesh played another high quality game where both sides showed ambition in a level position. Gukesh had equalised with Black by reviving an old Berlin variation."
     },
     {
+      "title": "Gukesh, Sindarov Both Push For Win As Game 3 Ends In Thrilling Draw",
+      "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-3",
+      "source": "Chess.com",
+      "date": "2026-11-26T21:30:00.000Z",
+      "summary": "World Champion Gukesh Dommaraju's early surprise of playing the Rio de Janeiro Variation of the Berlin gave him a 50-minute lead on the clock, with GM Javokhir Sindarov ultimately reaching move 40 with just six seconds to spare. The game was a thr..."
+    },
+    {
       "title": "Salesforce FIDE World Championship, Game 3: A tense fight ends in a draw",
       "link": "https://www.fide.com/salesforce-fide-world-championship-game-3-a-tense-fight-ends-in-a-draw/",
       "source": "FIDE",
@@ -44,18 +65,18 @@
       "summary": "The third game of the Salesforce FIDE World Championship Match 2026 in Geneva ended in a draw after a 60-move battle. The match is tied at 1½–1½ heading into the rest day. The ceremonial first move was made by Mike Klein, Chess.com Senior Journalist and Con…"
     },
     {
+      "title": "Scandinavian Stars Bjerre, Haug Join Martinez In 3 0 Thursday Triumph",
+      "link": "https://www.chess.com/news/view/bjerre-haug-martinez-3-0-thursday-11-26-2026",
+      "source": "Chess.com",
+      "date": "2026-11-26T21:00:00.000Z",
+      "summary": "GM Jonas Buhl Bjerre, IM Havard Haug, and GM Jose Martinez were all outright victors of the November 26 3 0 Thursday events, each winning with commanding scores of 10/11. Bjerre's win was particularly special as it was his first title, and the fi..."
+    },
+    {
       "title": "When chess starts to sing",
       "link": "https://en.chessbase.com/post/when-chess-starts-to-sing",
       "source": "ChessBase",
       "date": "2026-11-26T10:00:00.000Z",
       "summary": "How ChessBase 27 turns the World Championship into a musical experience. It all started with Ask ChessBase, a fascinating new concept in ChessBase 27 - an AI assistant that has access to the functionality of the chess program it lives in. You can ask it alm…"
-    },
-    {
-      "title": "Gukesh, Sindarov Both Push For Win As Game 3 Ends In Thrilling Draw",
-      "link": "https://www.chess.com/news/view/2026-fide-world-chess-championship-game-3",
-      "source": "Chess.com",
-      "date": "2026-11-26T07:10:00.000Z",
-      "summary": "World Champion Gukesh Dommaraju's early surprise of playing the Rio de Janeiro Variation of the Berlin gave him a 50-minute lead on the clock, with GM Javokhir Sindarov ultimately reaching move 40 with just six seconds to spare. The game was a thr..."
     },
     {
       "title": "World-сlass commentary meets cutting-edge technology at the Salesforce FIDE World Championship Match 2026",
@@ -371,20 +392,6 @@
       "source": "Chess.com",
       "date": "2026-11-18T20:34:00.000Z",
       "summary": "GM Jose Martinez and the world's youngest GM, Faustino Oro, led the 9z Globant Chess Club to victory in the Chess Club Showdown on November 18. The 72-28 final score marked the team's third straight victory. 9z Globant has now won every showdown s..."
-    },
-    {
-      "title": "Save Up To 25% And Improve Your Vision With Zenni's New Chess-Themed Glasses",
-      "link": "https://www.chess.com/news/view/announcing-chesscom-glasses-by-zenni",
-      "source": "Chess.com",
-      "date": "2026-11-18T16:00:00.000Z",
-      "summary": "These glasses might not improve your calculation, but they'll definitely help your vision. The Zenni and Chess.com collab just dropped with an exclusive chess-inspired collection of glasses to show your passion for the game in style. Coming in two..."
-    },
-    {
-      "title": "Pranav Venkatesh Signs With Revenant XSpark As Indian Esports Teams Add Chess Stars",
-      "link": "https://www.chess.com/news/view/pranav-venkatesh-signs-revenant-xspark",
-      "source": "Chess.com",
-      "date": "2026-11-18T13:21:14.000Z",
-      "summary": "GM Pranav Venkatesh has signed with Revenant XSpark as its first chess player, becoming the latest Indian grandmaster to join an esports organization. The contract comes shortly after the 20-year-old was crowned world junior blitz champion, and h..."
     },
     {
       "title": "89th Tata Steel 2027 - Games and Results",
