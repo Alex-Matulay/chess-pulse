@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T23:26:58.952Z",
+  "updated": "2026-11-27T06:25:16.089Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -9,18 +9,39 @@
   ],
   "items": [
     {
+      "title": "WCC 2026 Round 3: A Hard-Fought, Rare Berlin Defense",
+      "link": "https://lichess.org/@/Lichess/blog/wcc-2026-round-3-a-hard-fought-rare-berlin-defense/AilRgfs7",
+      "source": "Lichess",
+      "date": "2026-11-27T04:50:37.888Z",
+      "summary": "GM Gukesh D and GM Javokhir Sindarov drew once again in the Berlin Defense in a game with back-and-forth ideas and time trouble for Sindarov. Lichess will show all the games on our tournament broadcast page, provide daily world championship articles , featu…"
+    },
+    {
+      "title": "World Championship Game 3: A lively draw ahead of the first rest day",
+      "link": "https://en.chessbase.com/post/world-championship-2026-3",
+      "source": "ChessBase",
+      "date": "2026-11-27T04:50:00.000Z",
+      "summary": "A third consecutive draw was seen at the World Chess Championship in Geneva on Thursday, though game three was the longest and the most engaging encounter of the match so far. Gukesh Dommaraju demonstrated the depth of his preparation in a different line of…"
+    },
+    {
+      "title": "Daniel King analyses: A fighting draw in Game 3",
+      "link": "https://en.chessbase.com/post/world-championship-2026-analysis-daniel-king-3",
+      "source": "ChessBase",
+      "date": "2026-11-27T02:23:53.000Z",
+      "summary": "The third game of the World Championship match between defending champion Gukesh and challenger Javokhir Sindarov started off with a Ruy Lopez. Not a Berlin Endgame this time. Daniel King shows the key moments of Game 3 in his video analysis."
+    },
+    {
+      "title": "Gukesh revives an old line of the Berlin in a 60 move draw - 3",
+      "link": "https://theweekinchess.com/twic-news-feed/gukesh-revives-an-old-line-of-the-berlin-in-a-60-move-draw",
+      "source": "The Week in Chess",
+      "date": "2026-11-26T23:40:00.000Z",
+      "summary": "World Chess Championship Game 3. Javokhir Sindarov and Gukesh played another high quality game where both sides showed ambition in a level position. Gukesh had equalised with Black by reviving an old Berlin variation."
+    },
+    {
       "title": "Salesforce FIDE World Championship, Game 3: A tense fight ends in a draw",
       "link": "https://www.fide.com/salesforce-fide-world-championship-game-3-a-tense-fight-ends-in-a-draw/",
       "source": "FIDE",
       "date": "2026-11-26T21:18:21.000Z",
       "summary": "The third game of the Salesforce FIDE World Championship Match 2026 in Geneva ended in a draw after a 60-move battle. The match is tied at 1½–1½ heading into the rest day. The ceremonial first move was made by Mike Klein, Chess.com Senior Journalist and Con…"
-    },
-    {
-      "title": "World Championship: Game 3 ends in 60-move draw",
-      "link": "https://en.chessbase.com/post/world-championship-2026-live",
-      "source": "ChessBase",
-      "date": "2026-11-26T14:45:00.000Z",
-      "summary": "The 2026 World Chess Championship match in Switzerland is seeing India's Gukesh Dommaraju defending the title he won in Singapore two years ago against Uzbekistan's Javokhir Sindarov. Both players are 20 years old, making it the youngest World Championship…"
     },
     {
       "title": "When chess starts to sing",
@@ -105,13 +126,6 @@
       "source": "Chess.com",
       "date": "2026-11-25T07:56:00.000Z",
       "summary": "World Champion Gukesh Dommaraju played the London System in game two of the Salesforce FIDE World Championship 2026, but Challenger GM Javokhir Sindarov was ready. Once again, Gukesh fell behind on the clock, but just when Sindarov had gone for a ..."
-    },
-    {
-      "title": "WCC 2026 Round 1: A Tense Berlin Draw Sets the Pace",
-      "link": "https://lichess.org/@/Lichess/blog/wcc-2026-round-1-a-tense-berlin-draw-sets-the-pace/4vQ20VuS",
-      "source": "Lichess",
-      "date": "2026-11-25T01:57:46.694Z",
-      "summary": "In a tense Berlin endgame, GM Gukesh D and GM Javokhir Sindarov drew their first game of the match after 38 moves. Lichess will show all the games on our tournament broadcast page, provide daily world championship articles , featuring annotations by GM Davi…"
     },
     {
       "title": "World Chess Championship off to a promising start - 1",
@@ -427,13 +441,6 @@
       "source": "Lichess",
       "date": "2026-10-21T16:37:14.559Z",
       "summary": "Lichess has resumed cooperation with US Chess after positive changes In August 2023, Lichess announced its boycott of both the US Chess Federation and the Saint Louis Chess Club due to serious concerns about their accountability for mishandling of sexual mi…"
-    },
-    {
-      "title": "Titled Arenas Announcement — October to December 2026",
-      "link": "https://lichess.org/@/Lichess/blog/titled-arenas-announcement-october-to-december-2026/WuJIesah",
-      "source": "Lichess",
-      "date": "2026-10-13T05:51:46.672Z",
-      "summary": "Announcing our schedule for upcoming Titled Arenas! We're pleased to announce the schedule for our upcoming Titled Arenas! All events will be preceded by a warm-up arena open to all players with a minimum of 20 rated games in the relevant time control (excl…"
     }
   ]
 }
