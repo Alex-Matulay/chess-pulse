@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T17:09:35.109Z",
+  "updated": "2026-11-28T00:59:20.350Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,27 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "World-сlass commentary meets cutting-edge technology at Salesforce FIDE World Championship Match",
+      "link": "https://en.chessbase.com/post/world-championship-2026-commentary-technology",
+      "source": "ChessBase",
+      "date": "2026-11-27T23:40:00.000Z",
+      "summary": "The official FIDE broadcast of the 2026 World Championship in Geneva combines commentary from Peter Svidler, Peter Leko and Maurice Ashley with live reporting from Charlize van Zyl and several new analytical tools. Developed with major input from Vidit Gujr…"
+    },
+    {
+      "title": "Agenda for FIDE Extraordinary General Assembly",
+      "link": "https://www.fide.com/agenda-for-fide-extraordinary-general-assembly-december-27-2026/",
+      "source": "FIDE",
+      "date": "2026-11-27T19:01:20.000Z",
+      "summary": "Date: December 27, 2026 AGENDA A. Report of the FIDE President B. Report of the Chair of the Constitutional Commission C. Roll Call Section 1 – Financial matters 1.1 Report of the FIDE Treasurer 1.2 FIDE Budget for 2027 and provisional FIDE budget for the y…"
+    },
+    {
+      "title": "4th FIDE Council meeting 24 November, 2026: List of decisions",
+      "link": "https://www.fide.com/4th-fide-council-meeting-24-november-2026-list-of-decisions/",
+      "source": "FIDE",
+      "date": "2026-11-27T17:07:48.000Z",
+      "summary": "4th FIDE Council meeting 24 November 2026 List of decisions CM4-2026/01 To note President’s report. CM4-2026/02 To approve Treasurer’s report. CM4-2026/03 To preliminarily approve the FIDE budget for the year 2027 and the provisional FIDE budget for the yea…"
+    },
     {
       "title": "London Chess Classic - Round 3 live",
       "link": "https://en.chessbase.com/post/london-chess-classic-abdusattorov-aronian-ivanchuk-and-the-next-generation",
@@ -282,13 +303,6 @@
       "summary": "GM Anna Muzychuk won the blitz portion of the WR Women's Chess Tour - Grand Final 2026 after defeating GM Kateryna Lagno 2.5-1.5 in the Final. Muzychuk leads the event, but there is a full rapid knockout tournament to go. The second and final day..."
     },
     {
-      "title": "The two World Championship contenders open up to the media",
-      "link": "https://www.fide.com/the-two-world-championship-contenders-open-up-to-the-media/",
-      "source": "FIDE",
-      "date": "2026-11-22T21:40:19.000Z",
-      "summary": "November 22 marked the official commencement of the Salesforce FIDE World Championship Match 2026. The assembled journalists were in for a treat, as Gukesh Dommaraju and Javokhir Sindarov took part in two separate media sessions, offering insights into thei…"
-    },
-    {
       "title": "Sindarov Gets White As Gukesh Vows To Win World Championship 'All Over Again'",
       "link": "https://www.chess.com/news/view/2026-fide-chess-world-championship-opening-ceremony",
       "source": "Chess.com",
@@ -308,13 +322,6 @@
       "source": "Chess.com",
       "date": "2026-11-21T19:13:00.000Z",
       "summary": "FIDE will refer GM Magnus Carlsen's conduct at the Total Chess World Championship Tour Pilot to its Ethics and Disciplinary Commission (EDC), describing his forfeits as \"unacceptable.&rdquo; The tournament&rsquo;s arbiters will also face a separat..."
-    },
-    {
-      "title": "Asian Amateur Championships 2026: Bekbol and Borisova claim blitz titles in Bangkok",
-      "link": "https://www.fide.com/asian-amateur-chess-championships-2026-bekbol-and-borisova-claim-blitz-titles-in-bangkok/",
-      "source": "FIDE",
-      "date": "2026-11-21T18:54:36.000Z",
-      "summary": "Kazakhstan’s Ibrahim Bekbol and Russia’s FM Ekaterina Borisova won the first titles of the Asian Amateur Chess Championships 2026 at the Bazaar Hotel in Bangkok. Hosted by the Thailand Chess Federation the competition runs from November 21 to 29. Both blitz…"
     },
     {
       "title": "New Classic Games App In Beta, Play And Learn 10 Incredible Games!",
