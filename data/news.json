@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T00:59:20.350Z",
+  "updated": "2026-11-28T08:47:02.221Z",
   "sources": [
     "Chess.com",
     "Lichess",
@@ -8,6 +8,20 @@
     "The Week in Chess"
   ],
   "items": [
+    {
+      "title": "Switzerland's rich chess tournament history",
+      "link": "https://en.chessbase.com/post/switzerland-rich-chess-tournament-history",
+      "source": "ChessBase",
+      "date": "2026-11-28T02:00:00.000Z",
+      "summary": "The 2026 World Chess Championship is taking place in Switzerland, a country with a rich chess tradition. A chess festival has been attracting amateurs and professionals for many decades, while the Alpine nation has also hosted a World Chess Championship and…"
+    },
+    {
+      "title": "Firouzja Demolishes Artemiev in 5-Minute Chess, Then Sets Unusual Bullet Record",
+      "link": "https://www.chess.com/news/view/2026-speed-chess-championship-r16-firouzja-artemiev",
+      "source": "Chess.com",
+      "date": "2026-11-28T01:00:00.000Z",
+      "summary": "GM Alireza Firouzja powered to a 6-1 lead in his Speed Chess Championship XI match against GM Vladislav Artemiev and then eased to an 11-7 victory to book a spot in the Quarterfinals against GM Javokhir Sindarov or GM Fabiano Caruana. The match se..."
+    },
     {
       "title": "World-сlass commentary meets cutting-edge technology at Salesforce FIDE World Championship Match",
       "link": "https://en.chessbase.com/post/world-championship-2026-commentary-technology",
@@ -392,13 +406,6 @@
       "source": "Chess.com",
       "date": "2026-11-18T21:01:00.000Z",
       "summary": "GMs Alireza Firouzja and Anish Giri won their matches to advance to the Knockout 1 Final in the Total Chess World Championship Tour Pilot 2026. GM Fabiano Caruana won the second set against Firouzja (including a fast classical win), but the French..."
-    },
-    {
-      "title": "Martinez, Oro Lead 9z Globant to 3rd Straight Chess Club Showdown Win",
-      "link": "https://www.chess.com/news/view/9z-wins-3rd-straight-chess-club-showdown",
-      "source": "Chess.com",
-      "date": "2026-11-18T20:34:00.000Z",
-      "summary": "GM Jose Martinez and the world's youngest GM, Faustino Oro, led the 9z Globant Chess Club to victory in the Chess Club Showdown on November 18. The 72-28 final score marked the team's third straight victory. 9z Globant has now won every showdown s..."
     },
     {
       "title": "89th Tata Steel 2027 - Games and Results",
